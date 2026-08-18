@@ -1,8 +1,3 @@
-# notes
-Ghi chú cá nhân
-
----
-
 # Project Name
 
 > One-line description of what this project does and who it is for.
