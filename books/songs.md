@@ -5,7 +5,7 @@
 # A
 
 <details><summary>Ai chung tình được mãi</summary><blockquote>
-
+<hr/>
 <p>Bình minh ơi dậy chưa, café sáng với tôi được không? </p>
 <p>Chơi vơi qua ngày đông, sao thấy cô đơn và lạc lõng </p>
 <p>Đêm ơi đã ngủ chưa, ngồi đây uống với tôi vài ly. </p>
@@ -27,7 +27,7 @@
 <p>Chỉ là vì chẳng muốn yêu ai, </p>
 <p>khi mình anh với những đêm dài </p>
 <p>Nghĩ đi em, đâu ai chung tình được mãi </p>
-
+<hr/>
 </blockquote></details>
 <details><summary>Ai mang cô đơn đi</summary><blockquote><code>
 
