@@ -4,7 +4,7 @@
 
 # A
 
-<details><summary>Ai chung tình được mãi</summary><blockquote>
+<details><summary>Ai chung tình được mãi</summary><blockquote><kbd>
 
                 Bình minh ơi dậy chưa, café sáng với tôi được không? 
                 Chơi vơi qua ngày đông, sao thấy cô đơn và lạc lõng 
@@ -28,8 +28,8 @@
                 khi mình anh với những đêm dài 
                 Nghĩ đi em, đâu ai chung tình được mãi
 
-</blockquote></details>
-<details><summary>Ai mang cô đơn đi</summary><blockquote>
+</kbd></blockquote></details>
+<details><summary>Ai mang cô đơn đi</summary><blockquote><code>
 
                 Ánh trăng lạc lối gieo phù hoa duyên hóa thành tro 
                 Mặt hồ rung lên mang hạt mưa xuyên nát lòng ta 
@@ -65,7 +65,7 @@
                 Ha a, hà a ha á Hà a ha, à a há à 
                 Hà a ha, à a ha á Hà a ha, hà a à hà à a.
 
-</blockquote></details>
+</code></blockquote></details>
 <details><summary>Anh khác hay em khác</summary><blockquote>
 
                 Có phải em hết yêu anh rồi 
