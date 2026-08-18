@@ -11,7 +11,7 @@ date: 2026-07-15
 
 ## Đại đường song long
 
-<details><summary>▶️</summary><blockquote><div markdowm="1">
+<details><summary>▶️</summary><blockquote><div markdown="1">
 
 - Phép dụng binh, là lấy mưu làm chính! Đó là dùng mưu lược trận, trước tiên phải mưu đoạt địa lợi; muốn dùng mưu thắng địch, trước tiên phải dùng mưu đặt bản thân vào thế bất bại.
 - Dũng cảm hay nhát gan là tại phương pháp, thành hay bại là tại trí. Nghĩa là dũng cảm hay nhát gan nằm ở mưu, mạnh hay yếu nằm ở thế. Mưu đạt, việc thành thì làm người dũng, mưu hỏng, thế mất thì làm người nhát gan giả dũng cảm.
@@ -31,7 +31,7 @@ date: 2026-07-15
 
 ## Thông thiên đại thánh
 
-<details><summary>▶️</summary><blockquote><div markdowm="1">
+<details><summary>▶️</summary><blockquote><div markdown="1">
 
 - Sống trên đời này, chính là một biển khổ, chúng ta đều là người sinh sống trong biển khổ, nhưng điểm khác nhau là, có ít người ở trên thuyền, mà có ít người, thì phiêu dạt khắp nơi, cái thuyền này, chính là thế lực, thế lực có lớn có nhỏ, còn con thuyền, cũng có lớn có nhỏ, như hoàng tộc Đại Tấn hiện giờ, đang ở trên con thuyền lớn nhất biển khổ, còn Thiên Long Đạo, Minh Nghĩa Kinh Viện các loại, còn có những thế gia ngàn năm, đây đều là những con thuyền lớn, còn Ô gia chúng ta, cũng là một chiếc thuyền, chúng ta, đều ở trên chiếc thuyền này, tạm thời thoát ly biển khổ, nhưng nếu vạn nhất thì sao, vạn nhất có một ngày nào đó con thuyền bị chìm, hoặc là nói, ngươi cần phải rời khỏi con thuyền này, đi làm chuyện của chính ngươi thì sao? Khi đó, ngươi cần một điểm dừng chân, nếu không, chỉ có thể lưu lạc giang hồ, nước chảy bèo trôi, thích ứng mọi tình cảnh, như vậy không tốt, phong hiểm quá lớn, trừ phi, thực lực của ngươi đạt tới tiêu chuẩn của hắc bào nhân, dịch cân giới, đến thực lực đó, không nói thoát ly biển khổ, ít nhất ngươi có vốn liếng du lịch biển khổ, nhưng mà, trên đời này có bao nhiêu người đạt tới dịch cân giới chứ, Tiểu Báo Tử, nghe lời ta, nhân lúc ngươi còn trẻ, lại có chút vốn liếng, ngươi phải làm ra một con thuyền, không cần quá lớn, nhưng đủ để chứa ngươi là được.
 - Chu Báo vốn muốn cười, nhưng chợt tưởng tượng, liền sao cũng không cười nổi nữa, không sai, thiên tâm nhất từ, lời này nói một chút cũng không sai, sinh linh trong thiên địa, đều ỷ lại vào thiên, ỷ lại vào địa, không có Thiên địa sẽ không còn không gian sinh tồn, Thiên địa cung cấp vô tận nguyên khí, vô tận lương thực, vô tận trụ sở, lại không cận bất luận hồi báo nào cả, việc nó muốn duy nhất chính là không nên đòi lấy quá nhiều, coi như người có đòi lấy nhiều hơn, khiến thiên không thể nhịn được nữa, cầm lôi đến bổ ngươi, còn có thể chừa lại cho ngươi một đường sinh cơ, cho ngươi đạt được một ít chỗ tốt, đây không phải nhất từ, vậy thì ai là nhất từ đây?
@@ -50,7 +50,7 @@ date: 2026-07-15
 
 ## Tạp đồ
 
-<details><summary>▶️</summary><blockquote><div markdowm="1">
+<details><summary>▶️</summary><blockquote><div markdown="1">
 
 - Tìm kiếm quy luật từ trong thất bại.
 - Lấy áp lực để kích thích, lấy nước làm môi giới, dùng hô hấp đặc biệt để phụ trợ, đây chính là nòng cốt của phương pháp.
@@ -79,7 +79,7 @@ date: 2026-07-15
 
 ## Phi thiên
 
-<details><summary>▶️</summary><blockquote><div markdowm="1">
+<details><summary>▶️</summary><blockquote><div markdown="1">
 
 - Nhật nguyệt tinh hoa: Mặt trời và mặt trăng, bao gồm mặt đất dưới chân ngươi đứng chẳng qua là ba tinh thể nhỏ bé mà thôi, vô số tinh thể nhỏ bé như vậy hợp thành những ngôi sao trên bầu trời đêm mênh mông. Cho nên, cái gọi là nhật nguyệt tinh hoa thật ra chính là tinh thần lực, hiểu được hấp thu thiên địa linh khí chính là hiểu được hấp thu tinh thần lực. Tinh thần lực không phải là vô hình, ngươi nhìn thấy nước thủy triều lên xuống, vạn vật sinh ra rồi chết đi, hết thảy đều bị nhật nguyệt tinh thần ảnh hưởng, cũng chính là bị tinh thần lực ảnh hưởng. 
 - Có thể thấy được uy lực của tinh thần lực, hấp thu thiên địa linh khí chính là lấy tinh thần lực có thể thay đổi thay đổi vạn vật làm của riêng. Đợi đến khi nó trở thành lực lượng của ngươi, ngươi có thể điều khiển nó, chẳng những có thể lợi dụng nó giúp cho mình trở nên hùng mạnh, còn có thể lợi dụng nó ảnh hưởng tới người khác, đó chính là pháp lực, dụng tâm cảm ngộ đi! 
@@ -103,7 +103,7 @@ date: 2026-07-15
 
 ## Thần điển
 
-<details><summary>▶️</summary><blockquote><div markdowm="1">
+<details><summary>▶️</summary><blockquote><div markdown="1">
 
 - Không nên buông tha hy vọng khi đang mệt mỏi, lực lượng đến từ chính khát vọng.
 - Tức giận là độc dược của cường giả, ngoại trừ tặng ưu thế cho địch nhân ra thì không có tác dung nào khác.
@@ -117,7 +117,7 @@ date: 2026-07-15
 
 ## Nhân đạo đại thánh
 
-<details><summary>▶️</summary><blockquote><div markdowm="1">
+<details><summary>▶️</summary><blockquote><div markdown="1">
 
 - Nước có nạn tất sinh anh hùng, trời sắp sập tất có yêu nghiệt. Khi thiên địa gặp nguy, chắc chắn sẽ có những người gánh vác khí vận thiên địa mà sinh ra.
 - Đi trăm dặm, chín mươi dặm cũng chỉ là nửa đường, mọi việc đều tiến triển thuận lợi, bây giờ đã đến bước cuối cùng, nếu thành công, vậy kế hoạch vá trời đã hoàn thành mỹ mãn, nếu thất bại thì sẽ bị diệt vong.
@@ -136,7 +136,7 @@ date: 2026-07-15
 
 ## Vô thượng sát thần
 
-<details><summary>▶️</summary><blockquote><div markdowm="1">
+<details><summary>▶️</summary><blockquote><div markdown="1">
 
 - Chỉ có cho mình đủ lớn áp lực, mới có thể nghiền ép bản thân tiềm lực. 
 - Trưởng thành trong khổ đau, mới có thể trở thành người trên vạn người. 
@@ -154,7 +154,7 @@ date: 2026-07-15
 
 ## Ngũ hành thiên
 
-<details><summary>▶️</summary><blockquote><div markdowm="1">
+<details><summary>▶️</summary><blockquote><div markdown="1">
 
 - Sống trọng yếu hơn bất cứ cái gì, sống sót chính là may mắn lớn nhất.
 - Tỷ như, vị trí ngồi hắn lựa chọn. Chỗ hắn ngồi ở bên cạnh cửa sổ, quan sát không sót một thứ gì ngoài cửa sổ, có thể đề phòng bị tập kích từ ngoài cửa sổ. Nếu tập kích đến từ bên trong trường học, hắn có thể nhảy qua cửa sổ để tránh né đầu tiên.
@@ -184,7 +184,7 @@ date: 2026-07-15
 
 ## Đạo quân
 
-<details><summary>▶️</summary><blockquote><div markdowm="1">
+<details><summary>▶️</summary><blockquote><div markdown="1">
 
 - Thiên địa rộng lớn chừng nào, động hay không động, được hay không được cần phải tự lĩnh ngộ, sai một ly đi ngàn dặm. 
 - Người gặp nước thì bị ngăn cản, cá gặp nước thì lui tới tự nhiên. Phải làm sao hóa lực cản thành môi trường sống mới chính là điểm ảo diệu. 
@@ -196,7 +196,7 @@ date: 2026-07-15
 
 ## La phù
 
-<details><summary>▶️</summary><blockquote><div markdowm="1">
+<details><summary>▶️</summary><blockquote><div markdown="1">
 
 - Lực lượng thuần túy, chỉ là con dao hai lưỡi, không thể nắm trong tay hoàn toàn thì bị thương đầu tiên là chính mình.
 - Nếu không dám khiêu chiến với giới hạn sinh tử, thì làm sao có thể ngộ được đạo một cách thực sự, có thể nắm được lực lượng một cách chân chính?
@@ -209,7 +209,7 @@ date: 2026-07-15
 
 ## Hành trình về phương Đông
 
-<details><summary>▶️</summary><blockquote><div markdowm="1">
+<details><summary>▶️</summary><blockquote><div markdown="1">
 
 - Thay vì tìm một chân lý tuyệt đối, hãy tìm sự tuyệt đối nơi mình vì chân lý để sống chứ không phải để dạy.
 - Thầy nào, trò nấy. Một tu sĩ chân chính không có đệ tử bất hảo, và một đệ tử thông minh không tìm thầy bất lương. Một tu sĩ hiểu biết phải lo làm chủ chính mình để cầu giải thoát.
