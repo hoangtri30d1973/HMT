@@ -4,31 +4,49 @@
 
 # A
 
-<details><summary>Ai chung tình được mãi</summary><blockquote><kbd>
+<details><summary>Ai chung tình được mãi</summary><blockquote><div markdown="1">
 
-                Bình minh ơi dậy chưa, café sáng với tôi được không? 
-                Chơi vơi qua ngày đông, sao thấy cô đơn và lạc lõng 
-                Đêm ơi đã ngủ chưa, ngồi đây uống với tôi vài ly. 
-                Say thì cứ say, yêu thì bỏ đi 
-                
-                Đôi khi ta gặp nhau, để dạy nhau cách sống trong khổ đau 
-                Đôi chân mang lặng thinh, thương một người không hề toan tính 
-                Đôi khi anh dừng lại chẳng hiểu đang khóc đang đau vì ai 
-                Khóc vì, đau vì duyên mình đã sai 
-                
-                Nhiều khi muốn một mình nhưng sợ cô đơn 
-                Sợ cảm giác trống vắng mỗi ngày mỗi lớn 
-                Sợ chạm vào nỗi nhớ vu vơ 
-                Gian gian díu díu mập mờ 
-                Nắm chưa xong đã vội đổ vỡ 
-                
-                Ừ thì anh thích một mình nhưng sợ cô đơn 
-                Dù đã từng nói như thế có lẽ sẽ tốt hơn 
-                Chỉ là vì chẳng muốn yêu ai, 
-                khi mình anh với những đêm dài 
-                Nghĩ đi em, đâu ai chung tình được mãi
+Bình minh ơi dậy chưa, café sáng với tôi được không? 
 
-</kbd></blockquote></details>
+Chơi vơi qua ngày đông, sao thấy cô đơn và lạc lõng 
+
+Đêm ơi đã ngủ chưa, ngồi đây uống với tôi vài ly. 
+
+Say thì cứ say, yêu thì bỏ đi 
+                
+
+Đôi khi ta gặp nhau, để dạy nhau cách sống trong khổ đau 
+
+Đôi chân mang lặng thinh, thương một người không hề toan tính 
+
+Đôi khi anh dừng lại chẳng hiểu đang khóc đang đau vì ai 
+
+Khóc vì, đau vì duyên mình đã sai 
+                
+
+
+Nhiều khi muốn một mình nhưng sợ cô đơn 
+
+Sợ cảm giác trống vắng mỗi ngày mỗi lớn 
+
+Sợ chạm vào nỗi nhớ vu vơ 
+
+Gian gian díu díu mập mờ 
+
+Nắm chưa xong đã vội đổ vỡ 
+                
+
+Ừ thì anh thích một mình nhưng sợ cô đơn 
+
+Dù đã từng nói như thế có lẽ sẽ tốt hơn 
+
+Chỉ là vì chẳng muốn yêu ai, 
+
+khi mình anh với những đêm dài 
+
+Nghĩ đi em, đâu ai chung tình được mãi
+
+</div></blockquote></details>
 <details><summary>Ai mang cô đơn đi</summary><blockquote><code>
 
                 Ánh trăng lạc lối gieo phù hoa duyên hóa thành tro 
