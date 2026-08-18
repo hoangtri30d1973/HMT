@@ -3,6 +3,10 @@ Ghi chú cá nhân
 
 ---
 
+- [Book](books/book.md)
+
+---
+
 # Project Name
 
 > One-line description of what this project does and who it is for.
