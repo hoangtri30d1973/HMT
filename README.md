@@ -3,6 +3,10 @@
 <table><tr><td><div markdown="1">
 
 [Trích dẫn hay trong sách](books/book.md) là các đoạn nội dung làm người đọc cảm thấy có ý nghĩa trong cuộc sống nhân sinh, chép về để suy ngẫm và thư giãn.
+
+</div></td><td><div markdown="1">
+
+[Bài hát yêu thích](books/songs.md) là một số lời bài hát được người hát yêu thích, lưu để ngâm nga những lúc vui hoặc buồn.
   
 </div></td></tr></table>
 
