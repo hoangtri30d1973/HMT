@@ -4,30 +4,34 @@
 
 # A
 
-<details><summary>Ai chung tình được mãi</summary><blockquote>
-<hr/>
-<p>Bình minh ơi dậy chưa, café sáng với tôi được không? </p>
-<p>Chơi vơi qua ngày đông, sao thấy cô đơn và lạc lõng </p>
-<p>Đêm ơi đã ngủ chưa, ngồi đây uống với tôi vài ly. </p>
-<p>Say thì cứ say, yêu thì bỏ đi </p>
-<br/>
-<p align="center">Đôi khi ta gặp nhau, để dạy nhau cách sống trong khổ đau </p>
-<p align="center">Đôi chân mang lặng thinh, thương một người không hề toan tính </p> 
-<p align="center">Đôi khi anh dừng lại chẳng hiểu đang khóc đang đau vì ai </p>
-<p align="center">Khóc vì, đau vì duyên mình đã sai </p>
-<br/>
+### Ai chung tình được mãi
+
+<details><summary>🎼 🎶</summary><blockquote>
+<table><tr><td>────────────────────────────────────────────────────────────────</td></tr>
+<tr><td>
+<p align="left">Bình minh ơi dậy chưa, café sáng với tôi được không? </p>
+<p align="left">Chơi vơi qua ngày đông, sao thấy cô đơn và lạc lõng </p>
+<p align="left">Đêm ơi đã ngủ chưa, ngồi đây uống với tôi vài ly. </p>
+<p align="left">Say thì cứ say, yêu thì bỏ đi </p>
+</td></tr><tr><td>
+<p align="right">Đôi khi ta gặp nhau, để dạy nhau cách sống trong khổ đau </p>
+<p align="right">Đôi chân mang lặng thinh, thương một người không hề toan tính </p> 
+<p align="right">Đôi khi anh dừng lại chẳng hiểu đang khóc đang đau vì ai </p>
+<p align="right">Khóc vì, đau vì duyên mình đã sai </p>
+</td></tr><tr><td>
 <p>Nhiều khi muốn một mình nhưng sợ cô đơn </p>
 <p>Sợ cảm giác trống vắng mỗi ngày mỗi lớn </p>
 <p>Sợ chạm vào nỗi nhớ vu vơ </p>
 <p>Gian gian díu díu mập mờ </p>
 <p>Nắm chưa xong đã vội đổ vỡ </p>
-<br/>
-<p align="center">Ừ thì anh thích một mình nhưng sợ cô đơn </p>
-<p align="center">Dù đã từng nói như thế có lẽ sẽ tốt hơn </p>
-<p align="center">Chỉ là vì chẳng muốn yêu ai, </p>
-<p align="center">khi mình anh với những đêm dài </p>
-<p align="center">Nghĩ đi em, đâu ai chung tình được mãi </p>
-<hr/>
+</td></tr><tr><td>
+<p align="right">Ừ thì anh thích một mình nhưng sợ cô đơn </p>
+<p align="right">Dù đã từng nói như thế có lẽ sẽ tốt hơn </p>
+<p align="right">Chỉ là vì chẳng muốn yêu ai, </p>
+<p align="right">khi mình anh với những đêm dài </p>
+<p align="right">Nghĩ đi em, đâu ai chung tình được mãi </p>
+</td></tr><tr><td>────────────────────────────────────────────────────────────────</td></tr>
+</table>
 </blockquote></details>
 <details><summary>Ai mang cô đơn đi</summary><blockquote><code>
 
