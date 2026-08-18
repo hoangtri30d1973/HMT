@@ -94,3 +94,7 @@ your-command --help
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+- [Book](books/book.md)
