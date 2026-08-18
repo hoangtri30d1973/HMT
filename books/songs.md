@@ -11,10 +11,10 @@
 <p>Đêm ơi đã ngủ chưa, ngồi đây uống với tôi vài ly. </p>
 <p>Say thì cứ say, yêu thì bỏ đi </p>
 <br/>
-<p>Đôi khi ta gặp nhau, để dạy nhau cách sống trong khổ đau </p>
-<p>Đôi chân mang lặng thinh, thương một người không hề toan tính </p> 
-<p>Đôi khi anh dừng lại chẳng hiểu đang khóc đang đau vì ai </p>
-<p>Khóc vì, đau vì duyên mình đã sai </p>
+<p align="center">Đôi khi ta gặp nhau, để dạy nhau cách sống trong khổ đau </p>
+<p align="center">Đôi chân mang lặng thinh, thương một người không hề toan tính </p> 
+<p align="center">Đôi khi anh dừng lại chẳng hiểu đang khóc đang đau vì ai </p>
+<p align="center">Khóc vì, đau vì duyên mình đã sai </p>
 <br/>
 <p>Nhiều khi muốn một mình nhưng sợ cô đơn </p>
 <p>Sợ cảm giác trống vắng mỗi ngày mỗi lớn </p>
@@ -22,11 +22,11 @@
 <p>Gian gian díu díu mập mờ </p>
 <p>Nắm chưa xong đã vội đổ vỡ </p>
 <br/>
-<p>Ừ thì anh thích một mình nhưng sợ cô đơn </p>
-<p>Dù đã từng nói như thế có lẽ sẽ tốt hơn </p>
-<p>Chỉ là vì chẳng muốn yêu ai, </p>
-<p>khi mình anh với những đêm dài </p>
-<p>Nghĩ đi em, đâu ai chung tình được mãi </p>
+<p align="center">Ừ thì anh thích một mình nhưng sợ cô đơn </p>
+<p align="center">Dù đã từng nói như thế có lẽ sẽ tốt hơn </p>
+<p align="center">Chỉ là vì chẳng muốn yêu ai, </p>
+<p align="center">khi mình anh với những đêm dài </p>
+<p align="center">Nghĩ đi em, đâu ai chung tình được mãi </p>
 <hr/>
 </blockquote></details>
 <details><summary>Ai mang cô đơn đi</summary><blockquote><code>
