@@ -4,9 +4,7 @@
 
 # A
 
-<h3 align="center">Ai chung tình được mãi</h3>
-
-<details align="center"><summary><em>Bình minh ơi dậy chưa, café sáng với tôi được không?</em></summary><blockquote>
+<details align="center"><summary><strong>Ai chung tình được mãi</strong><br/><em>Bình minh ơi dậy chưa, café sáng với tôi được không?</em></summary><blockquote>
 
 🎼
 <p>Bình minh ơi dậy chưa, café sáng với tôi được không? <br/>
@@ -33,142 +31,137 @@ khi mình anh với những đêm dài <br/>
 Nghĩ đi em, đâu ai chung tình được mãi </p>
 </blockquote></details>
 
-<h3 align="center">Ai mang cô đơn đi</h3>
-
-<details align="center"><summary><em>Ánh trăng lạc lối gieo phù hoa duyên hóa thành tro</em></summary><blockquote><pre>
+<details align="center"><summary><strong>Ai mang cô đơn đi</strong><br/><em>Ánh trăng lạc lối gieo phù hoa duyên hóa thành tro</em></summary><blockquote>
   
 🎼
-Ánh trăng lạc lối gieo phù hoa duyên hóa thành tro 
-Mặt hồ rung lên mang hạt mưa xuyên nát lòng ta 
-Trái tim rộng lớn thu nhân gian trong đôi mắt sầu lo 
-Bầu trời riêng ta ru lời ca nhắn ai đừng xa 
+<p>Ánh trăng lạc lối gieo phù hoa duyên hóa thành tro <br/>
+Mặt hồ rung lên mang hạt mưa xuyên nát lòng ta <br/>
+Trái tim rộng lớn thu nhân gian trong đôi mắt sầu lo <br/>
+Bầu trời riêng ta ru lời ca nhắn ai đừng xa </p>
 
-Hà a ha à a, nhắn ai đừng xa 
-Nhìn từng chiếc lá úa phai màu rụng rời ngoài hiên 
-Hà a ha à a, mình ta với ta thôi mà 
-Tấm thân này chịu nhiều đớn đau lưu luyến 
+<p>Hà a ha à a, nhắn ai đừng xa <br/>
+Nhìn từng chiếc lá úa phai màu rụng rời ngoài hiên <br/>
+Hà a ha à a, mình ta với ta thôi mà <br/>
+Tấm thân này chịu nhiều đớn đau lưu luyến </p>
 
 🎶
-Gió lung lay bàn tay nâng cánh hoa tình 
-Dẫu trăm năm người thương vẫn cách xa mình 
-Thuyền mãi ra khơi đi về nơi con sóng vô hình 
-Chốn xa xăm trùng dương muôn hướng vạn lý 
+<p>Gió lung lay bàn tay nâng cánh hoa tình <br/>
+Dẫu trăm năm người thương vẫn cách xa mình <br/>
+Thuyền mãi ra khơi đi về nơi con sóng vô hình <br/>
+Chốn xa xăm trùng dương muôn hướng vạn lý </p>
 
-Và đêm tối bên trong tâm hồn từng dòng suy nghĩ ta xa nhau vì? 
-Bình minh giấu đi cô đơn ngày dài ta mong quên đi 
-Ai, ai mang cô đơn đi 
-Ai, ai mang cô đơn đi Ai, ai mang cô đơn đi 
-Và ai, hớ hu hơ hu hờ 
+<p>Và đêm tối bên trong tâm hồn từng dòng suy nghĩ ta xa nhau vì? <br/>
+Bình minh giấu đi cô đơn ngày dài ta mong quên đi <br/>
+Ai, ai mang cô đơn đi <br/>
+Ai, ai mang cô đơn đi Ai, ai mang cô đơn đi <br/>
+Và ai, hớ hu hơ hu hờ </p>
 
-Hờ hu hô, nhắn ai đừng xa 
-Nhìn từng chiếc lá úa phai màu rụng rời ngoài hiên 
-Hà a ha à a, mình ta với ta thôi mà 
-Tấm thân này chịu nhiều đớn đau lưu luyến 
+<p>Hờ hu hô, nhắn ai đừng xa <br/>
+Nhìn từng chiếc lá úa phai màu rụng rời ngoài hiên <br/>
+Hà a ha à a, mình ta với ta thôi mà <br/>
+Tấm thân này chịu nhiều đớn đau lưu luyến </p>
 
-Gió lung lay bàn tay nâng cánh hoa tình (cánh hoa tình) 
-Dẫu trăm năm người thương vẫn cách xa mình (cách xa mình) 
-Thuyền mãi ra khơi đi về nơi con sóng vô hình 
-Chốn xa xăm trùng dương muôn hướng vạn lý 
+<p>Gió lung lay bàn tay nâng cánh hoa tình (cánh hoa tình) <br/>
+Dẫu trăm năm người thương vẫn cách xa mình (cách xa mình) <br/>
+Thuyền mãi ra khơi đi về nơi con sóng vô hình <br/>
+Chốn xa xăm trùng dương muôn hướng vạn lý </p>
 
-Ha a, hà a ha á Hà a ha, à a há à 
-Hà a ha, à a ha á Hà a ha, hà a à hà à a.
+<p>Ha a, hà a ha á Hà a ha, à a há à <br/>
+Hà a ha, à a ha á Hà a ha, hà a à hà à a.</p>
 </pre></blockquote></details>
 
-<h3 align="center">Anh khác hay em khác</h3>
-<details align="center"><summary><em>Có phải em hết yêu anh rồi</em></summary><blockquote><pre>
+<details align="center"><summary><strong>Anh khác hay em khác</strong><br/><em>Có phải em hết yêu anh rồi</em></summary><blockquote>
   
 🎼
-Có phải em hết yêu anh rồi 
-Em hãy nói đi người ơi 
-Anh vô tâm hay là anh đã sai 
-Mà dường như ta dần xa cách 
+<p>Có phải em hết yêu anh rồi <br/>
+Em hãy nói đi người ơi <br/>
+Anh vô tâm hay là anh đã sai <br/>
+Mà dường như ta dần xa cách </p>
 
-Em nói đôi ta không hợp 
-Em nói anh không còn như trước 
-Nhưng tạo sao em ơi, Những lúc ta bên nhau 
-Bàn tay em không muốn ôm anh thật lâu 
+<p>Em nói đôi ta không hợp <br/>
+Em nói anh không còn như trước <br/>
+Nhưng tạo sao em ơi, Những lúc ta bên nhau <br/>
+Bàn tay em không muốn ôm anh thật lâu </p>
 
 🎶
-Và dường như anh hiểu ra một điều Em đã khác xưa nhiều lắm 
-Và dường như anh hiểu ra một điều Em đã hết yêu anh phải không 
-Vậy thì anh sẽ bước ra đi Trả lại em những ngày anh chưa đến 
-Và khi anh ra đi em sẽ nhận ra Không ai yêu em như anh đã từng yêu.
-</pre></blockquote></details>
+<p>Và dường như anh hiểu ra một điều Em đã khác xưa nhiều lắm <br/>
+Và dường như anh hiểu ra một điều Em đã hết yêu anh phải không <br/>
+Vậy thì anh sẽ bước ra đi Trả lại em những ngày anh chưa đến <br/>
+Và khi anh ra đi em sẽ nhận ra Không ai yêu em như anh đã từng yêu.</p>
+</blockquote></details>
 
 # B
 
-<h3 align="center">Bài ca dao đầu đời</h3>
-<details align="center"><summary><em>Em có nhớ bài ca dao đầu đời</em></summary><blockquote><pre>
+<details align="center"><summary><strong>Bài ca dao đầu đời</strong><br/><em>Em có nhớ bài ca dao đầu đời</em></summary><blockquote>
   
 🎼
-Em có nhớ bài ca dao đầu đời 
-Bên chiếc võng mẹ ru ầu ơ hờ 
-Hàng dừa xanh soi mình bên nương dâu 
-Sông dài quê nghèo quấn quýt với nhau 
+<p>Em có nhớ bài ca dao đầu đời <br/>
+Bên chiếc võng mẹ ru ầu ơ hờ <br/>
+Hàng dừa xanh soi mình bên nương dâu <br/>
+Sông dài quê nghèo quấn quýt với nhau </p>
 
-Em đã lớn dần trên quê hương mình 
-Trong chiếc áo bà ba đượm thắm tình 
-Ngọt ngào thơm hương mạ non sáng sớm 
-Xa mấy xa hương hạt gạo thơm 
+<p>Em đã lớn dần trên quê hương mình <br/>
+Trong chiếc áo bà ba đượm thắm tình <br/>
+Ngọt ngào thơm hương mạ non sáng sớm <br/>
+Xa mấy xa hương hạt gạo thơm </p>
 
 🎶
-Bao năm rồi từ lúc em đi 
-Mẹ trông chờ em hoài mà chẳng thấy 
-Mâm cơm chiều bên mái tranh xưa, 
-Con nước lên nghe tiếng bìm bịp kêu chiều 
+<p>Bao năm rồi từ lúc em đi <br/>
+Mẹ trông chờ em hoài mà chẳng thấy <br/>
+Mâm cơm chiều bên mái tranh xưa, <br/>
+Con nước lên nghe tiếng bìm bịp kêu chiều </p>
 🎶
-Thương đôi mái chèo khua đêm trăng mờ 
-Thương ai vẫn từng đêm đêm ngóng chờ 
-Đành đoạn sao quên lời thề năm xưa 
-Nay giòng sông buồn heo hút gió mưa 
+<p>Thương đôi mái chèo khua đêm trăng mờ <br/>
+Thương ai vẫn từng đêm đêm ngóng chờ <br/>
+Đành đoạn sao quên lời thề năm xưa <br/>
+Nay giòng sông buồn heo hút gió mưa </p>
 
-Em có nhớ lời quê hương đậm đà. 
-Trong bao tháng ngày tha phương vắng nhà 
-Kỷ niệm xưa êm đềm tha thiết quá 
-Như giấc mơ ru đẹp đời ta
-</pre></blockquote></details>
+<p>Em có nhớ lời quê hương đậm đà. <br/>
+Trong bao tháng ngày tha phương vắng nhà <br/> 
+Kỷ niệm xưa êm đềm tha thiết quá <br/>
+Như giấc mơ ru đẹp đời ta</p>
+</blockquote></details>
 
-<h3 align="center">Bến sông chờ</h3>
-<details align="center"><summary><em>Tôi trở về thăm em, sau tháng năm miệt mài xứ xa</em></summary><blockquote><pre>
+<details align="center"><summary><strong>Bến sông chờ</strong><br/><em>Tôi trở về thăm em, sau tháng năm miệt mài xứ xa</em></summary><blockquote>
   
 🎼
-Tôi về đây thăm lại người yêu cũ 
-Dòng sông xưa sao vắng lặng chuyến đò đưa 
-Em đâu rồi cô lái đò xinh thắm 
-Lòng bâng khuâng thương nhớ chuyện ngày xưa 
+<p>Tôi về đây thăm lại người yêu cũ <br/>
+Dòng sông xưa sao vắng lặng chuyến đò đưa <br/>
+Em đâu rồi cô lái đò xinh thắm <br/>
+Lòng bâng khuâng thương nhớ chuyện ngày xưa </p>
 
-Tôi trở về thăm em 
-Sau tháng năm miệt mài xứ xa 
-Dòng sông nước xanh năm nào 
-Ghi dấu ngày đôi mình đưa tiễn 
+<p>Tôi trở về thăm em <br/>
+Sau tháng năm miệt mài xứ xa <br/>
+Dòng sông nước xanh năm nào <br/>
+Ghi dấu ngày đôi mình đưa tiễn </p>
 
-Lời hẹn thề ước trao 
-Dẫu xa xăm xin đừng phụ nhau 
-Trăng còn sáng soi dòng sông 
-Em giữ bên lòng cho dù tháng năm dần trôi 
+<p>Lời hẹn thề ước trao <br/>
+Dẫu xa xăm xin đừng phụ nhau <br/>
+Trăng còn sáng soi dòng sông <br/>
+Em giữ bên lòng cho dù tháng năm dần trôi </p>
 
-Nay người tình xưa đâu 
-Hiu hắt ánh trăng buồn soi 
-Sông vắng bóng cô lái đò 
-Để buồn cho ai xót xa đầy vơi 
+<p>Nay người tình xưa đâu <br/>
+Hiu hắt ánh trăng buồn soi <br/>
+Sông vắng bóng cô lái đò <br/>
+Để buồn cho ai xót xa đầy vơi </p>
 
-Tìm hỏi người quen 
-Cô lái đò vừa sang bến tình 
-Về nơi xứ người giàu sang gấm lụa 
+<p>Tìm hỏi người quen <br/>
+Cô lái đò vừa sang bến tình <br/>
+Về nơi xứ người giàu sang gấm lụa </p>
 
 🎶
-Xé nát tâm tư của một người 
-Ngày đêm nhớ thương nhớ thương người hỡi 
-Ước mơ quay về câu đá vàng cùng ai 
-Gió mưa trong lòng 
-Nghe lạnh buồn tim người ơi thấu chăng 
+<p>Xé nát tâm tư của một người <br/>
+Ngày đêm nhớ thương nhớ thương người hỡi <br/>
+Ước mơ quay về câu đá vàng cùng ai <br/>
+Gió mưa trong lòng <br/>
+Nghe lạnh buồn tim người ơi thấu chăng </p>
 
-Hỡi hỡi cô lái đò Sao đành lòng quên 
-Bỏ sông, bỏ đò Bỏ người tình xưa 
-Bước đi theo chồng 
-Để dòng sông não nề lắng trôi 
-Để tình tôi lỡ làng ước mơ 
+<p>Hỡi hỡi cô lái đò Sao đành lòng quên <br/>
+Bỏ sông, bỏ đò Bỏ người tình xưa <br/>
+Bước đi theo chồng <br/>
+Để dòng sông não nề lắng trôi <br/>
+Để tình tôi lỡ làng ước mơ </p>
 
-Để dòng sông não nề lắng trôi 
-Để tình tôi lỡ làng ước mơ.
-</pre></blockquote></details>
+<p>Để dòng sông não nề lắng trôi <br/>
+Để tình tôi lỡ làng ước mơ.</p>
+</blockquote></details>
