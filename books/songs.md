@@ -23,11 +23,11 @@
 
 </div></td><td><div markdown="1">
 
-[M](#m)
+[G](#g)
 
 </div></td><td><div markdown="1">
 
-[G](#g)
+[M](#m)
 
 </div></td></tr></table>
 
