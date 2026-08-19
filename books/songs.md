@@ -7,6 +7,7 @@
 <h3 align="center">Ai chung tình được mãi</h3>
 
 <details align="center"><summary><em>Bình minh ơi dậy chưa, café sáng với tôi được không?</em></summary><blockquote><pre>
+
 🎼
 Bình minh ơi dậy chưa, café sáng với tôi được không? 
 Chơi vơi qua ngày đông, sao thấy cô đơn và lạc lõng 
@@ -35,6 +36,7 @@ Nghĩ đi em, đâu ai chung tình được mãi
 <h3 align="center">Ai mang cô đơn đi</h3>
 
 <details align="center"><summary><em>Ánh trăng lạc lối gieo phù hoa duyên hóa thành tro</em></summary><blockquote><pre>
+  
 🎼
 Ánh trăng lạc lối gieo phù hoa duyên hóa thành tro 
 Mặt hồ rung lên mang hạt mưa xuyên nát lòng ta 
@@ -74,6 +76,7 @@ Hà a ha, à a ha á Hà a ha, hà a à hà à a.
 
 <h3 align="center">Anh khác hay em khác</h3>
 <details align="center"><summary><em>Có phải em hết yêu anh rồi</em></summary><blockquote><pre>
+  
 🎼
 Có phải em hết yêu anh rồi 
 Em hãy nói đi người ơi 
@@ -96,6 +99,7 @@ Và khi anh ra đi em sẽ nhận ra Không ai yêu em như anh đã từng yêu
 
 <h3 align="center">Bài ca dao đầu đời</h3>
 <details align="center"><summary><em>Em có nhớ bài ca dao đầu đời</em></summary><blockquote><pre>
+  
 🎼
 Em có nhớ bài ca dao đầu đời 
 Bên chiếc võng mẹ ru ầu ơ hờ 
@@ -126,12 +130,12 @@ Như giấc mơ ru đẹp đời ta
 
 <h3 align="center">Bến sông chờ</h3>
 <details align="center"><summary><em>Tôi trở về thăm em, sau tháng năm miệt mài xứ xa</em></summary><blockquote><pre>
+  
 🎼
 Tôi về đây thăm lại người yêu cũ 
 Dòng sông xưa sao vắng lặng chuyến đò đưa 
 Em đâu rồi cô lái đò xinh thắm 
 Lòng bâng khuâng thương nhớ chuyện ngày xưa 
-
 
 Tôi trở về thăm em 
 Sau tháng năm miệt mài xứ xa 
