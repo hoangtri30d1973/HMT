@@ -165,3 +165,147 @@ Bước đi theo chồng <br/>
 <p>Để dòng sông não nề lắng trôi <br/>
 Để tình tôi lỡ làng ước mơ.</p>
 </blockquote></details>
+
+<details align="center"><summary><strong>Bạc phận</strong><br/><em>Ai gieo tình này, ai mang tình này để lệ trên khóe mi cay</em></summary><blockquote>
+  
+🎼
+<p>Ai gieo tình này, ai mang tình này để lệ trên khóe mi cay <br/>
+Ai đưa về nhà, ai cho ngọc ngà giờ người xa cách ta </p>
+
+<p>Từng là một thời thiếu nữ trong vùng quê nghèo <br/>
+Hồn nhiên cài hoa mái đầu <br/>
+Dòng người vội vàng em hóa thân đời bẽ bàng <br/>
+Rời xa tình anh năm tháng </p>
+
+<p>Ôi phút giây tương phùng anh nhớ và mong <br/>
+Dòng lưu bút năm xưa in dấu mãi đậm sâu <br/>
+Trong nỗi đau anh mệt nhoài, trong phút giây anh tìm hoài <br/>
+Muốn giữ em ở lại một lần này vì anh mãi thương </p>
+
+<p>Xa cách nhau thật rồi, sương trắng chiều thu <br/>
+Ngày em bước ra đi, nước mắt ấy biệt ly <br/>
+Hoa vẫn rơi bên thềm nhà, lá xác xơ đi nhiều và <br/>
+Anh chúc em yên bình, mối tình mình, hẹn em kiếp sau </p>
+
+<p>Thoáng thoáng, ngày miên man <br/>
+Giờ con nước dài thênh thang <br/>
+Không trách người không thương <br/>
+Mà hương tóc còn vương vương </p>
+
+<p>Gửi tặng em màu son cỏ dại, chút bình yên trên môi bỏ lại <br/>
+Nước mắt nào thấm đẫm cả hai vai <br/>
+Mắt phượng mày ngài, mình phải tìm đến thiên thai <br/>
+À ơi câu hát, em không cần những lời khuyên <br/>
+Em buông thả mình và chẳng màng đến tình duyên <br/>
+Đời em phiêu bạc, đau đớn lắm lúc cũng vì tiền <br/>
+Thương thân em khổ để một lần cùng chí tuyến </p>
+
+<p>Giờ em ở nơi khuê phòng, ngày mai nữa em theo chồng <br/>
+Và tô má em thêm hồng, ôi đớn đau lòng, ôi đớn đau lòng <br/>
+Bình minh dẫn em đi rồi, vòng xoay bánh xe luân hồi <br/>
+Hoàng hôn khuất sau lưng đồi, ôi vỡ tan rồi, ôi vỡ tan rồi </p>
+
+<p>Một ngày buồn mây tím, em về thôn làng <br/>
+Mẹ cha của em vỡ òa <br/>
+Giọt lệ chạnh lòng em khóc, thương người sang đò <br/>
+Hồng nhan bạc phận sóng gió! </p>
+
+<p>Ôi phút giây tương phùng anh nhớ và mong <br/>
+Dòng lưu bút năm xưa in dấu mãi đậm sâu <br/>
+Trong nỗi đau anh mệt nhoài, trong phút giây anh tìm hoài <br/>
+Muốn giữ em ở lại một lần này vì anh mãi thương </p>
+
+<p>Xa cách nhau thật rồi, sương trắng chiều thu <br/>
+Ngày em bước ra đi, nước mắt ấy biệt ly <br/>
+Hoa vẫn rơi bên thềm nhà, lá xát xơ đi nhiều và <br/>
+Anh chúc em yên bình, mối tình mình, hẹn em kiếp sau </p>
+
+<p>Em ở nơi khuê phòng, mai nữa em theo chồng <br/>
+Tô má em thêm hồng, ôi đớn đau lòng, ôi đớn đau lòng <br/>
+Bình minh dẫn em đi rồi, vòng xoay bánh xe luân hồi <br/>
+Hoàng hôn khuất sau lưng đồi, ôi vỡ tan rồi, ôi vỡ tan rồi </p>
+
+<p>Xa cách nhau thật rồi, sương trắng chiều thu <br/>
+Ngày em bước ra đi, nước mắt ấy biệt ly <br/>
+Hoa vẫn rơi bên thềm nhà, lá xát xơ đi nhiều và <br/>
+Anh chúc em yên bình, mối tình mình, hẹn em kiếp sau.</p>
+</blockquote></details>
+
+# C
+
+<details align="center"><summary><strong>Chiều nghe biển khóc</strong><br/><em> Một chiều nào bơ vơ trên cát</em></summary><blockquote>
+  
+🎼
+<p>[Em] Một chiều nào bơ [G] vơ trên cát<br/>
+Nhìn [A] em đang ngây thơ xoã [B] tóc ơ hờ<br/>
+[Em] Ngày lại ngày, tôi [G] hay ra đó<br/>
+Tìm [C] kiếm chỉ có mỗi riêng [B] người.</p>
+
+<p>[C] Những dốc đá em [G] hay đi qua<br/>
+Thì [A] tôi đây đi ra chờ [B] sẵn lâu rồi<br/>
+[C] Bóng dáng đó tôi [G] hay theo sau<br/>
+Chiều [A] nay sao bóng [B] bỏ đi [Em] rồi.</p>
+
+<p>[Em] Giờ một mình lang [G] thang trên cát<br/>
+Lòng [A] tôi như đang nghe biển [B] khóc âm thầm<br/>
+[Em] Rồi từng ngày, như [G] bao cơn sóng<br/>
+Ngày [C] tháng sóng đến khóc bên [B] bờ.</p>
+
+<p>[C] Những phiến đá trăm [G] năm yêu ai<br/>
+Chờ [A] ai cho hôm nay đời [B] đã hao mòn<br/>
+[C] Đến những dấu chân [G] hôm nao em đi<br/>
+Chiều [A] nay [B] dấu đã phai [Em] rồi.</p>
+
+🎶
+<p>[C] Cho tôi xin cơn sóng [G] chỉ xô bờ<br/>
+Đừng [A] quay ra khơi cho tình [B] phải bơ vơ<br/>
+[C] Cho tôi xin cơn gió [G] hãy ru hờ<br/>
+Đại [A] dương trong tim tôi đừng [B] khóc.</p>
+
+<p>[Em] Cho tôi xin em vẫn [G] đứng bên đời<br/>
+Để [A] cho con tim tôi còn [B] mãi chơi vơi<br/>
+[Em] Cho tôi xin em tóc [G] xõa trong chiều<br/>
+Biển [A] xanh muôn đời đẹp [B] mãi.</p>
+</blockquote></details>
+
+<details align="center"><summary><strong>Chiều nghe biển khóc</strong><br/><em> Một chiều nào bơ vơ trên cát</em></summary><blockquote>
+  
+🎼
+<p>Ta đang tìm [F] cách quên người, phải [Dm] cố quên người<br/>
+Dù [Bb] con tim ngu [C7] si vẫn muôn đời [F] nhớ em<br/>
+Từng [Bb] chiều qua buồn tênh<br/>
+Có [Am] khi tim luôn hỏi [Dm] đến em<br/>
+[Gm] Vẫn trông mong mơ ước nay mai sẽ [C7] có em.</p>
+
+<p>Tim ơi mình [F] hãy quên người, phải [Dm] cố quên người<br/>
+Dù [Bb] ta đây bao [C7] đêm vẫn ôm niềm [F] đau<br/>
+Nàng là [Bb] biển xanh trời cao, mắt [Am] môi thiên [Dm] thần<br/>
+Nàng là tất [Gm] cả nguyên [C7] do của niềm [F] đau.</p>
+
+<p>1. [F] Hôm qua con tim hỏi ta làm [Gm] sao thôi buồn<br/>
+[C7] Sao thôi nhớ mong người tình [F] bé nhỏ<br/>
+[Am] Tim ơi ta van xin tim hãy [Dm] cố quên người<br/>
+[Gm] Xin cho nguôi ngoai tháng năm mình [C7] vắng em.</p>
+
+<p>2. [F] Đừng nhớ đến tiếng nói vẫn đang [Gm] còn vang trong đầu<br/>
+[C7] Quên đi đôi môi nhớ xưa môi [F] tìm môi<br/>
+[Am] Quên đi tim ơi hai ta hãy [Dm] cố quên người<br/>
+[Gm] Dẫu suốt cuộc đời này ta [C7] chẳng khi nào quên ohh.</p>
+
+🎶
+<p>Vẫn [Gm] chưa quên được tháng năm vẫn chưa quên được<br/>
+Vẫn [Am] còn đợi chờ hỡi ôi biết đến bao giờ<br/>
+Vẫn [Bb] không sao đành tháng năm vẫn không sao đành<br/>
+Này [C7] hỡi tim ơi mong sao hai ta sẽ quên.</p>
+
+<p>Ta đang tìm [F] cách quên người, phải [Dm] cố quên người<br/>
+Dù [Bb] con tim ngu [C7] si vẫn muôn đời [F] nhớ em<br/>
+Từng [Bb] chiều qua buồn tênh<br/>
+Có [Am] khi tim luôn hỏi [Dm] đến em<br/>
+[Gm] Vẫn trông mong mơ ước nay mai sẽ [C7] có em.</p>
+
+<p>Tim ơi mình [F] hãy quên người, phải [Dm] cố quên người<br/>
+Dù [Bb] ta đây bao [C7] đêm vẫn ôm niềm [F] đau<br/>
+Nàng là [Bb] biển xanh trời cao, mắt [Am] môi thiên [Dm] thần<br/>
+Nàng là tất [Gm] cả nguyên [C7] do của niềm [F] đau.</p>
+</blockquote></details>
