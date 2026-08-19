@@ -17,7 +17,20 @@
 
 [C](#c)
 
+</div></td><td><div markdown="1">
+
+[D](#d)
+
+</div></td><td><div markdown="1">
+
+[G](#g)
+
+</div></td><td><div markdown="1">
+
+[M](#m)
+
 </div></td></tr></table>
+
 
 ---
 
@@ -328,3 +341,127 @@ Dù [Bb] ta đây bao [C7] đêm vẫn ôm niềm [F] đau<br/>
 Nàng là [Bb] biển xanh trời cao, mắt [Am] môi thiên [Dm] thần<br/>
 Nàng là tất [Gm] cả nguyên [C7] do của niềm [F] đau.</p>
 </blockquote></details>
+
+# D
+
+<details align="center"><summary><strong>Đêm đông lao xao</strong><br/><em>Đêm đông lao xao, đêm đông nhớ ai</em></summary><blockquote>
+  
+🎼
+<p>[Gm] Đêm đông lao xao, đêm [Cm] đông nhớ ai<br/>
+[F] Đêm đông cô đơn vắng [Bb] ai<br/>
+[Gm] Cơn mưa lao xao, cơn [Cm] mưa nhớ ai<br/>
+[D7] Ôi, hạt mưa rơi khóc [Gm] thầm.</p>
+
+<p>[Gm] Anh đang nơi đâu, anh [Cm] thương nhớ ai<br/>
+[F] Bao đêm cô đơn vắng [Bb] anh<br/>
+[Gm] Mong cho đôi ta, bên [Cm] nhau mãi thôi<br/>
+[D7] Cho hạt mưa rơi hết [Gm] buồn.</p>
+
+🎶
+<p>Tình yêu như cánh chim trời vụt bay theo gió mãi [Dm7] trôi<br/>
+Để bao thương nhớ âm [Cm] thầm, thiết [F] tha vô [Bb] bờ<br/>
+Đèn khuya có thấu hay [Gm] chăng, lẻ loi tôi đang ngóng [Dm7] trông<br/>
+Thì mây mưa cứ trôi [Cm] hoài, [Dm7] khát khao chờ [Gm] mong.</p>
+
+<p>Chợt nghe như tiếng em cười, cỏ cây như muốn níu [Dm7] chân<br/>
+Nhẹ nâng câu hát ban [Cm] đầu, dấu [F] xưa tuyệt [Bb] vời<br/>
+Một mai anh sẽ quay [Gm] về, bờ môi mang bao thiết [Dm7] tha<br/>
+Bài ca in mãi trong [Cm] lòng, [Dm7] sẽ không nhạt [Gm] phai.</p>
+</blockquote></details>
+
+# M
+
+<details align="center"><summary><strong>Mưa tuyết</strong><br/><em>Trời lại làm đông sang, mưa tuyết tả tơi</em></summary><blockquote>
+  
+🎼
+<p>[G] Trời lại làm đông [Am] sang mưa tuyết [C] tả tơi<br/>
+[G] Giọt lệ nào không [D] hay, chợt đông trên [G] má<br/>
+Giờ tim [Bm] tôi đang băng thành [C] đá<br/>
+Nghe xung [G] quanh mình lệ tuyết vỡ thành [Em] mưa<br/>
+Người nay [Am] đã quên tình xưa<br/>
+[D] Tuyêt rơi chiều mưa<br/>
+Khóc cho tình chúng ta vì bởi đâu [G] người xa</p>
+
+<p>[G] Chuyện tình nào xa [Am] xưa, đưa đón trong [C] ngày mưa<br/>
+[G] Nhìn dòng người lại [D] qua, đời sao băng [G] giá<br/>
+Người nơi [Bm] đây sao vô tình [C] quá<br/>
+Ôi vây [G] quanh mình đời cứ mãi ngược [Em] xuôi<br/>
+Mà thương [Am] nhớ em nào nguôi<br/>
+Vì [D] cớ đâu mình mất nhau lòng [G] đau [D]</p>
+
+🎶
+<p>Từng hạt tuyết rơi đi [G] khóc cho nơi đây anh lẻ loi<br/>
+Giờ thì chắc bên em [Bm] nắng vương lên mắt môi nồng [Em] say<br/>
+Em nhớ ân tình [Am] không , nơi có anh chờ [D] trông<br/>
+Khi có nhau mình nói câu thương nhớ nhau một đời.</p>
+
+<p>Giờ thì xót thương tình [G] vấn vương khi đôi ta biệt ly<br/>
+Giờ người đã đi mình [Bm] nhớ thương cho trái tim cuồng [Em] si<br/>
+Em có quay về [Am] chăng , ta đứng đây chờ [D] mãi cho thân xác ta thành [G] băng.</p>
+</blockquote></details>
+
+# G
+
+<details align="center"><summary><strong>Ga chiều phố nhỏ</strong><br/><em>Em nói chiều nay em về phố nhỏ, hẹn tôi đón em</em></summary><blockquote>
+  
+🎼
+<p>Em nói chiều [C] nay em về phố [F] nhỏ hẹn tôi đón [C] em<br/>
+Em viết trong [F] thư chờ em anh [G7] nhé chuyến tàu cuối [C] ngày<br/>
+Tôi đến sân [Am] ga trời chiều lộng [G7] gió<br/>
+Hun hút đường [C] tàu lất phất mưa [Em] bay<br/>
+Ga vắng [F] thưa chưa người nào [G7] đến chỉ mỗi mình [C] tôi.</p>
+
+<p>Bâng khuâng tôi [Em] mơ phút giây cùng [Dm] sánh vai em chung [F] lối về [G]<br/>
+Gió đến quyến [Dm] luyến áo em quyện [F] lấy bước chân hai [C] chúng mình<br/>
+Rồi vạn niềm [Em] vui lâng [Am] lâng xuyến xao hồn [F] tôi [Dm]<br/>
+Còi ngân tiếng [Am] dài kìa tàu về [D] đến xôn xao người gọi [G7] nhau</p>
+
+🎶
+<p>Từng [C] người từng người [Em] xuống người có [Am] đôi<br/>
+Tôi cố [F] trông mà chẳng thấy em [C] đâu<br/>
+Buồn muốn [Am] khóc trong mưa bay chiều [Em] nay<br/>
+Khi người cuối [G7] cùng cũng không phải là [C] em.</p>
+
+<p>Thơ thẩn mình [C] tôi lê từng bước [F] nhỏ về trên lối [C] xưa<br/>
+Mưa đã thôi [F] bay trời sầm sập [G7] tối như hồn tôi [C] đầy<br/>
+Ngơ ngác chim [Am] bay tìm về tổ [G7] ấm<br/>
+Rưng rức còi [C] tàu chuyển bến sân [Em] ga<br/>
+Lẻ loi trên [Dm] trời vì sao đêm [G7] sớm vun vút trời [C] mây.</p>
+</blockquote></details>
+
+<details align="center"><summary><strong>Gió bấc</strong><br/><em>Gió bấc về xác xơ những bụi chuối sau nhà</em></summary><blockquote>
+  
+🎼
+<p>[Am] Gió bấc về xác [G] xơ những bụi chuối [C] sau nhà [G]<br/>
+[Am] Má nó ngồi mắt [G] đăm chiêu nhìn trời [C] xa [G]<br/>
+Từng cơn [Am] gió lào xào mái [G] hiên<br/>
+Nghe như [C] tiếng cười đùa của [D] em<br/>
+Ôi người con [Em] gái ngày xưa.</p>
+
+<p>[Am] Út lấy chồng má [G] hay ra ngoài ngắm [C] chân trời [G]<br/>
+[Am] Phía cuối trời cánh [G] chim theo ngàn cơn [C] gió [G]<br/>
+Bên kia [Am] xóm vọng về tiếng [G] ca<br/>
+Giọng ai [C] hát điệu buồn xót [D] xa ơ ơ [Em] ơ ơ ơ.</p>
+
+🎶
+<p>Người [C] đi đi xa mà [Em] lòng xót xa<br/>
+Mẹ [D] già đứng bên hiên [Em] nhà<br/>
+Người [C] lên xe hoa lòng [Em] buồn héo hon<br/>
+Mẹ [D] già tiễn [Em] con lệ [Am] rơi.</p>
+
+<p>[Am] Tháng tháng ngày lướt [G] qua theo ngọn gió [C] đông về [G]<br/>
+[Am] Má vẫn ngồi ngóng [G] trông con mịt mù [C] xa [G]<br/>
+Bờ môi [Am] đã chẳng còn thốt [G] ra<br/>
+Và đôi [C] mắt chẳng còn thấy [D] ai<br/>
+Trăng tàn theo [Em] bóng người xa.</p>
+
+<p>[Am] Gió bấc về cánh [G] chim theo ngọn gió [C] quay về [G]<br/>
+[Am] Gió thét gào nhánh [G] cau rơi rụng tả [C] tơi [G]<br/>
+Người con [Am] gái tần ngần trước [G] sân<br/>
+Còn đâu [C] nữa mẹ già của [D] em còn đâu [Em] nữa gió ơi.</p>
+
+🎶
+<p>Người [C] đi đi xa mà [Em] lòng có xa<br/>
+Từng [D] ngày ngóng trông quê [Em] nhà<br/>
+Buồn [C] chi em ơi dòng [Em] đời cứ trôi<br/>
+Lòng [D] người có [Em] bao giờ [Am] vơi.</p>
