@@ -1,11 +1,6 @@
----
-title: Personal relax
-summary: Tổng hợp các trích đoạn hay trong sách
-source: 💫 Books have been read
-authors:
-    - HMT
-date: 2026-07-15
----
+<p align="center">
+  <img src="../svg/my-footer.svg" alt="Project banner" width="100%" />
+</p>
 
 ---
 
