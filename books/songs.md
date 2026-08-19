@@ -68,7 +68,7 @@ Chốn xa xăm trùng dương muôn hướng vạn lý </p>
 
 <p>Ha a, hà a ha á Hà a ha, à a há à <br/>
 Hà a ha, à a ha á Hà a ha, hà a à hà à a.</p>
-</pre></blockquote></details>
+</blockquote></details>
 
 <details align="center"><summary><strong>Anh khác hay em khác</strong><br/><em>Có phải em hết yêu anh rồi</em></summary><blockquote>
   
