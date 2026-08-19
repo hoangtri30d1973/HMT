@@ -71,6 +71,7 @@ Chốn xa xăm trùng dương muôn hướng vạn lý
 Ha a, hà a ha á Hà a ha, à a há à 
 Hà a ha, à a ha á Hà a ha, hà a à hà à a.
 </pre></blockquote></details>
+
 <h3 align="center">Anh khác hay em khác</h3>
 <details align="center"><summary><em>Có phải em hết yêu anh rồi</em></summary><blockquote><pre>
 🎼
@@ -93,73 +94,76 @@ Và khi anh ra đi em sẽ nhận ra Không ai yêu em như anh đã từng yêu
 
 # B
 
-<details><summary>Bài ca dao đầu đời</summary><blockquote>
+<h3 align="center">Bài ca dao đầu đời</h3>
+<details align="center"><summary><em>Em có nhớ bài ca dao đầu đời</em></summary><blockquote><pre>
+🎼
+Em có nhớ bài ca dao đầu đời 
+Bên chiếc võng mẹ ru ầu ơ hờ 
+Hàng dừa xanh soi mình bên nương dâu 
+Sông dài quê nghèo quấn quýt với nhau 
 
-                Em có nhớ bài ca dao đầu đời 
-                Bên chiếc võng mẹ ru ầu ơ hờ 
-                Hàng dừa xanh soi mình bên nương dâu 
-                Sông dài quê nghèo quấn quýt với nhau 
-                
-                Em đã lớn dần trên quê hương mình 
-                Trong chiếc áo bà ba đượm thắm tình 
-                Ngọt ngào thơm hương mạ non sáng sớm 
-                Xa mấy xa hương hạt gạo thơm 
-                
-                Bao năm rồi từ lúc em đi 
-                Mẹ trông chờ em hoài mà chẳng thấy 
-                Mâm cơm chiều bên mái tranh xưa, 
-                Con nước lên nghe tiếng bìm bịp kêu chiều 
-                
-                Thương đôi mái chèo khua đêm trăng mờ 
-                Thương ai vẫn từng đêm đêm ngóng chờ 
-                Đành đoạn sao quên lời thề năm xưa 
-                Nay giòng sông buồn heo hút gió mưa 
-                
-                Em có nhớ lời quê hương đậm đà. 
-                Trong bao tháng ngày tha phương vắng nhà 
-                Kỷ niệm xưa êm đềm tha thiết quá 
-                Như giấc mơ ru đẹp đời ta
+Em đã lớn dần trên quê hương mình 
+Trong chiếc áo bà ba đượm thắm tình 
+Ngọt ngào thơm hương mạ non sáng sớm 
+Xa mấy xa hương hạt gạo thơm 
 
-</blockquote></details>
-<details><summary>Bến sông chờ</summary><blockquote>
+🎶
+Bao năm rồi từ lúc em đi 
+Mẹ trông chờ em hoài mà chẳng thấy 
+Mâm cơm chiều bên mái tranh xưa, 
+Con nước lên nghe tiếng bìm bịp kêu chiều 
+🎶
+Thương đôi mái chèo khua đêm trăng mờ 
+Thương ai vẫn từng đêm đêm ngóng chờ 
+Đành đoạn sao quên lời thề năm xưa 
+Nay giòng sông buồn heo hút gió mưa 
 
-                Tôi về đây thăm lại người yêu cũ 
-                Dòng sông xưa sao vắng lặng chuyến đò đưa 
-                Em đâu rồi cô lái đò xinh thắm 
-                Lòng bâng khuâng thương nhớ chuyện ngày xưa 
-                
-                Tôi trở về thăm em 
-                Sau tháng năm miệt mài xứ xa 
-                Dòng sông nước xanh năm nào 
-                Ghi dấu ngày đôi mình đưa tiễn 
-                
-                Lời hẹn thề ước trao 
-                Dẫu xa xăm xin đừng phụ nhau 
-                Trăng còn sáng soi dòng sông 
-                Em giữ bên lòng cho dù tháng năm dần trôi 
-                
-                Nay người tình xưa đâu 
-                Hiu hắt ánh trăng buồn soi 
-                Sông vắng bóng cô lái đò 
-                Để buồn cho ai xót xa đầy vơi 
-                
-                Tìm hỏi người quen 
-                Cô lái đò vừa sang bến tình 
-                Về nơi xứ người giàu sang gấm lụa 
-                
-                Xé nát tâm tư của một người 
-                Ngày đêm nhớ thương nhớ thương người hỡi 
-                Ước mơ quay về câu đá vàng cùng ai 
-                Gió mưa trong lòng 
-                Nghe lạnh buồn tim người ơi thấu chăng 
-                
-                Hỡi hỡi cô lái đò Sao đành lòng quên 
-                Bỏ sông, bỏ đò Bỏ người tình xưa 
-                Bước đi theo chồng 
-                Để dòng sông não nề lắng trôi 
-                Để tình tôi lỡ làng ước mơ 
-                
-                Để dòng sông não nề lắng trôi 
-                Để tình tôi lỡ làng ước mơ.
+Em có nhớ lời quê hương đậm đà. 
+Trong bao tháng ngày tha phương vắng nhà 
+Kỷ niệm xưa êm đềm tha thiết quá 
+Như giấc mơ ru đẹp đời ta
+</pre></blockquote></details>
 
-</blockquote></details>
+<h3 align="center">Bến sông chờ</h3>
+<details align="center"><summary><em>Tôi trở về thăm em, sau tháng năm miệt mài xứ xa</em></summary><blockquote><pre>
+🎼
+Tôi về đây thăm lại người yêu cũ 
+Dòng sông xưa sao vắng lặng chuyến đò đưa 
+Em đâu rồi cô lái đò xinh thắm 
+Lòng bâng khuâng thương nhớ chuyện ngày xưa 
+
+Tôi trở về thăm em 
+Sau tháng năm miệt mài xứ xa 
+Dòng sông nước xanh năm nào 
+Ghi dấu ngày đôi mình đưa tiễn 
+
+Lời hẹn thề ước trao 
+Dẫu xa xăm xin đừng phụ nhau 
+Trăng còn sáng soi dòng sông 
+Em giữ bên lòng cho dù tháng năm dần trôi 
+
+Nay người tình xưa đâu 
+Hiu hắt ánh trăng buồn soi 
+Sông vắng bóng cô lái đò 
+Để buồn cho ai xót xa đầy vơi 
+
+Tìm hỏi người quen 
+Cô lái đò vừa sang bến tình 
+Về nơi xứ người giàu sang gấm lụa 
+
+🎶
+Xé nát tâm tư của một người 
+Ngày đêm nhớ thương nhớ thương người hỡi 
+Ước mơ quay về câu đá vàng cùng ai 
+Gió mưa trong lòng 
+Nghe lạnh buồn tim người ơi thấu chăng 
+
+Hỡi hỡi cô lái đò Sao đành lòng quên 
+Bỏ sông, bỏ đò Bỏ người tình xưa 
+Bước đi theo chồng 
+Để dòng sông não nề lắng trôi 
+Để tình tôi lỡ làng ước mơ 
+
+Để dòng sông não nề lắng trôi 
+Để tình tôi lỡ làng ước mơ.
+</pre></blockquote></details>
