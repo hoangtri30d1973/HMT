@@ -4,90 +4,92 @@
 
 # A
 
-### Ai chung tình được mãi
+<h3 align="center">Ai chung tình được mãi</h3>
 
-<details><summary>🎼 🎶</summary><blockquote>
-<table>
-<tr><td>
-<p align="left">Bình minh ơi dậy chưa, café sáng với tôi được không? </p>
-<p align="left">Chơi vơi qua ngày đông, sao thấy cô đơn và lạc lõng </p>
-<p align="left">Đêm ơi đã ngủ chưa, ngồi đây uống với tôi vài ly. </p>
-<p align="left">Say thì cứ say, yêu thì bỏ đi </p>
-</td></tr><tr><td>
-<p align="right">Đôi khi ta gặp nhau, để dạy nhau cách sống trong khổ đau </p>
-<p align="right">Đôi chân mang lặng thinh, thương một người không hề toan tính </p> 
-<p align="right">Đôi khi anh dừng lại chẳng hiểu đang khóc đang đau vì ai </p>
-<p align="right">Khóc vì, đau vì duyên mình đã sai </p>
-</td></tr><tr><td>
-<p>Nhiều khi muốn một mình nhưng sợ cô đơn </p>
-<p>Sợ cảm giác trống vắng mỗi ngày mỗi lớn </p>
-<p>Sợ chạm vào nỗi nhớ vu vơ </p>
-<p>Gian gian díu díu mập mờ </p>
-<p>Nắm chưa xong đã vội đổ vỡ </p>
-</td></tr><tr><td>
-<p align="right">Ừ thì anh thích một mình nhưng sợ cô đơn </p>
-<p align="right">Dù đã từng nói như thế có lẽ sẽ tốt hơn </p>
-<p align="right">Chỉ là vì chẳng muốn yêu ai, </p>
-<p align="right">khi mình anh với những đêm dài </p>
-<p align="right">Nghĩ đi em, đâu ai chung tình được mãi </p>
-</td></tr>
-</table>
-</blockquote></details>
-<details><summary>Ai mang cô đơn đi</summary><blockquote><pre>
+<details align="center"><summary><em>Bình minh ơi dậy chưa, café sáng với tôi được không?</em></summary><blockquote><pre>
+🎼
+Bình minh ơi dậy chưa, café sáng với tôi được không? 
+Chơi vơi qua ngày đông, sao thấy cô đơn và lạc lõng 
+Đêm ơi đã ngủ chưa, ngồi đây uống với tôi vài ly. 
+Say thì cứ say, yêu thì bỏ đi 
 
-                Ánh trăng lạc lối gieo phù hoa duyên hóa thành tro 
-                Mặt hồ rung lên mang hạt mưa xuyên nát lòng ta 
-                Trái tim rộng lớn thu nhân gian trong đôi mắt sầu lo 
-                Bầu trời riêng ta ru lời ca nhắn ai đừng xa 
-                
-                Hà a ha à a, nhắn ai đừng xa 
-                Nhìn từng chiếc lá úa phai màu rụng rời ngoài hiên 
-                Hà a ha à a, mình ta với ta thôi mà 
-                Tấm thân này chịu nhiều đớn đau lưu luyến 
-                
-                Gió lung lay bàn tay nâng cánh hoa tình 
-                Dẫu trăm năm người thương vẫn cách xa mình 
-                Thuyền mãi ra khơi đi về nơi con sóng vô hình 
-                Chốn xa xăm trùng dương muôn hướng vạn lý 
-                
-                Và đêm tối bên trong tâm hồn từng dòng suy nghĩ ta xa nhau vì? 
-                Bình minh giấu đi cô đơn ngày dài ta mong quên đi 
-                Ai, ai mang cô đơn đi 
-                Ai, ai mang cô đơn đi Ai, ai mang cô đơn đi 
-                Và ai, hớ hu hơ hu hờ 
-                
-                Hờ hu hô, nhắn ai đừng xa 
-                Nhìn từng chiếc lá úa phai màu rụng rời ngoài hiên 
-                Hà a ha à a, mình ta với ta thôi mà 
-                Tấm thân này chịu nhiều đớn đau lưu luyến 
-                
-                Gió lung lay bàn tay nâng cánh hoa tình (cánh hoa tình) 
-                Dẫu trăm năm người thương vẫn cách xa mình (cách xa mình) 
-                Thuyền mãi ra khơi đi về nơi con sóng vô hình 
-                Chốn xa xăm trùng dương muôn hướng vạn lý 
-                
-                Ha a, hà a ha á Hà a ha, à a há à 
-                Hà a ha, à a ha á Hà a ha, hà a à hà à a.
+Đôi khi ta gặp nhau, để dạy nhau cách sống trong khổ đau 
+Đôi chân mang lặng thinh, thương một người không hề toan tính 
+Đôi khi anh dừng lại chẳng hiểu đang khóc đang đau vì ai 
+Khóc vì, đau vì duyên mình đã sai 
 
+🎶
+Nhiều khi muốn một mình nhưng sợ cô đơn 
+Sợ cảm giác trống vắng mỗi ngày mỗi lớn 
+Sợ chạm vào nỗi nhớ vu vơ 
+Gian gian díu díu mập mờ 
+Nắm chưa xong đã vội đổ vỡ 
+
+Ừ thì anh thích một mình nhưng sợ cô đơn 
+Dù đã từng nói như thế có lẽ sẽ tốt hơn 
+Chỉ là vì chẳng muốn yêu ai, 
+khi mình anh với những đêm dài 
+Nghĩ đi em, đâu ai chung tình được mãi 
 </pre></blockquote></details>
-<details><summary>Anh khác hay em khác</summary><blockquote>
 
-                Có phải em hết yêu anh rồi 
-                Em hãy nói đi người ơi 
-                Anh vô tâm hay là anh đã sai 
-                Mà dường như ta dần xa cách 
-                
-                Em nói đôi ta không hợp 
-                Em nói anh không còn như trước 
-                Nhưng tạo sao em ơi, Những lúc ta bên nhau 
-                Bàn tay em không muốn ôm anh thật lâu 
-                
-                Và dường như anh hiểu ra một điều Em đã khác xưa nhiều lắm 
-                Và dường như anh hiểu ra một điều Em đã hết yêu anh phải không 
-                Vậy thì anh sẽ bước ra đi Trả lại em những ngày anh chưa đến 
-                Và khi anh ra đi em sẽ nhận ra Không ai yêu em như anh đã từng yêu.
+<h3 align="center">Ai mang cô đơn đi</h3>
 
-</blockquote></details>
+<details align="center"><summary><em>Ánh trăng lạc lối gieo phù hoa duyên hóa thành tro</em></summary><blockquote><pre>
+🎼
+Ánh trăng lạc lối gieo phù hoa duyên hóa thành tro 
+Mặt hồ rung lên mang hạt mưa xuyên nát lòng ta 
+Trái tim rộng lớn thu nhân gian trong đôi mắt sầu lo 
+Bầu trời riêng ta ru lời ca nhắn ai đừng xa 
+
+Hà a ha à a, nhắn ai đừng xa 
+Nhìn từng chiếc lá úa phai màu rụng rời ngoài hiên 
+Hà a ha à a, mình ta với ta thôi mà 
+Tấm thân này chịu nhiều đớn đau lưu luyến 
+
+🎶
+Gió lung lay bàn tay nâng cánh hoa tình 
+Dẫu trăm năm người thương vẫn cách xa mình 
+Thuyền mãi ra khơi đi về nơi con sóng vô hình 
+Chốn xa xăm trùng dương muôn hướng vạn lý 
+
+Và đêm tối bên trong tâm hồn từng dòng suy nghĩ ta xa nhau vì? 
+Bình minh giấu đi cô đơn ngày dài ta mong quên đi 
+Ai, ai mang cô đơn đi 
+Ai, ai mang cô đơn đi Ai, ai mang cô đơn đi 
+Và ai, hớ hu hơ hu hờ 
+
+Hờ hu hô, nhắn ai đừng xa 
+Nhìn từng chiếc lá úa phai màu rụng rời ngoài hiên 
+Hà a ha à a, mình ta với ta thôi mà 
+Tấm thân này chịu nhiều đớn đau lưu luyến 
+
+Gió lung lay bàn tay nâng cánh hoa tình (cánh hoa tình) 
+Dẫu trăm năm người thương vẫn cách xa mình (cách xa mình) 
+Thuyền mãi ra khơi đi về nơi con sóng vô hình 
+Chốn xa xăm trùng dương muôn hướng vạn lý 
+
+Ha a, hà a ha á Hà a ha, à a há à 
+Hà a ha, à a ha á Hà a ha, hà a à hà à a.
+</pre></blockquote></details>
+<h3 align="center">Anh khác hay em khác</h3>
+<details align="center"><summary><em>Có phải em hết yêu anh rồi</em></summary><blockquote><pre>
+🎼
+Có phải em hết yêu anh rồi 
+Em hãy nói đi người ơi 
+Anh vô tâm hay là anh đã sai 
+Mà dường như ta dần xa cách 
+
+Em nói đôi ta không hợp 
+Em nói anh không còn như trước 
+Nhưng tạo sao em ơi, Những lúc ta bên nhau 
+Bàn tay em không muốn ôm anh thật lâu 
+
+🎶
+Và dường như anh hiểu ra một điều Em đã khác xưa nhiều lắm 
+Và dường như anh hiểu ra một điều Em đã hết yêu anh phải không 
+Vậy thì anh sẽ bước ra đi Trả lại em những ngày anh chưa đến 
+Và khi anh ra đi em sẽ nhận ra Không ai yêu em như anh đã từng yêu.
+</pre></blockquote></details>
 
 # B
 
