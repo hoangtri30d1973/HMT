@@ -7,7 +7,7 @@
 ### Ai chung tình được mãi
 
 <details><summary>🎼 🎶</summary><blockquote>
-<table><tr><td>────────────────────────────────────────────────────────────────</td></tr>
+<table>
 <tr><td>
 <p align="left">Bình minh ơi dậy chưa, café sáng với tôi được không? </p>
 <p align="left">Chơi vơi qua ngày đông, sao thấy cô đơn và lạc lõng </p>
@@ -30,10 +30,10 @@
 <p align="right">Chỉ là vì chẳng muốn yêu ai, </p>
 <p align="right">khi mình anh với những đêm dài </p>
 <p align="right">Nghĩ đi em, đâu ai chung tình được mãi </p>
-</td></tr><tr><td>────────────────────────────────────────────────────────────────</td></tr>
+</td></tr>
 </table>
 </blockquote></details>
-<details><summary>Ai mang cô đơn đi</summary><blockquote><code>
+<details><summary>Ai mang cô đơn đi</summary><blockquote><pre>
 
                 Ánh trăng lạc lối gieo phù hoa duyên hóa thành tro 
                 Mặt hồ rung lên mang hạt mưa xuyên nát lòng ta 
@@ -69,7 +69,7 @@
                 Ha a, hà a ha á Hà a ha, à a há à 
                 Hà a ha, à a ha á Hà a ha, hà a à hà à a.
 
-</code></blockquote></details>
+</pre></blockquote></details>
 <details><summary>Anh khác hay em khác</summary><blockquote>
 
                 Có phải em hết yêu anh rồi 
