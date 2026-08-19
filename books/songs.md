@@ -2,9 +2,20 @@
 
 ---
 
-| :---: | :---: | :---: |
-| [A](#a) | [B](#b) | [C](#c) |
+<table>
+<tr><td><div markdown="1">
 
+[A](#a)
+
+</div></td><td><div markdown="1">
+  
+[B](#b)
+
+</div></td><td><div markdown="1">
+
+[C](#c)
+
+</div></td></tr></table>
 
 ---
 
