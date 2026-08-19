@@ -23,11 +23,11 @@
 
 </div></td><td><div markdown="1">
 
-[G](#g)
+[M](#m)
 
 </div></td><td><div markdown="1">
 
-[M](#m)
+[G](#g)
 
 </div></td></tr></table>
 
@@ -369,37 +369,6 @@ Một mai anh sẽ quay [Gm] về, bờ môi mang bao thiết [Dm7] tha<br/>
 Bài ca in mãi trong [Cm] lòng, [Dm7] sẽ không nhạt [Gm] phai.</p>
 </blockquote></details>
 
-# M
-
-<details align="center"><summary><strong>Mưa tuyết</strong><br/><em>Trời lại làm đông sang, mưa tuyết tả tơi</em></summary><blockquote>
-  
-🎼
-<p>[G] Trời lại làm đông [Am] sang mưa tuyết [C] tả tơi<br/>
-[G] Giọt lệ nào không [D] hay, chợt đông trên [G] má<br/>
-Giờ tim [Bm] tôi đang băng thành [C] đá<br/>
-Nghe xung [G] quanh mình lệ tuyết vỡ thành [Em] mưa<br/>
-Người nay [Am] đã quên tình xưa<br/>
-[D] Tuyêt rơi chiều mưa<br/>
-Khóc cho tình chúng ta vì bởi đâu [G] người xa</p>
-
-<p>[G] Chuyện tình nào xa [Am] xưa, đưa đón trong [C] ngày mưa<br/>
-[G] Nhìn dòng người lại [D] qua, đời sao băng [G] giá<br/>
-Người nơi [Bm] đây sao vô tình [C] quá<br/>
-Ôi vây [G] quanh mình đời cứ mãi ngược [Em] xuôi<br/>
-Mà thương [Am] nhớ em nào nguôi<br/>
-Vì [D] cớ đâu mình mất nhau lòng [G] đau [D]</p>
-
-🎶
-<p>Từng hạt tuyết rơi đi [G] khóc cho nơi đây anh lẻ loi<br/>
-Giờ thì chắc bên em [Bm] nắng vương lên mắt môi nồng [Em] say<br/>
-Em nhớ ân tình [Am] không , nơi có anh chờ [D] trông<br/>
-Khi có nhau mình nói câu thương nhớ nhau một đời.</p>
-
-<p>Giờ thì xót thương tình [G] vấn vương khi đôi ta biệt ly<br/>
-Giờ người đã đi mình [Bm] nhớ thương cho trái tim cuồng [Em] si<br/>
-Em có quay về [Am] chăng , ta đứng đây chờ [D] mãi cho thân xác ta thành [G] băng.</p>
-</blockquote></details>
-
 # G
 
 <details align="center"><summary><strong>Ga chiều phố nhỏ</strong><br/><em>Em nói chiều nay em về phố nhỏ, hẹn tôi đón em</em></summary><blockquote>
@@ -465,3 +434,35 @@ Còn đâu [C] nữa mẹ già của [D] em còn đâu [Em] nữa gió ơi.</p>
 Từng [D] ngày ngóng trông quê [Em] nhà<br/>
 Buồn [C] chi em ơi dòng [Em] đời cứ trôi<br/>
 Lòng [D] người có [Em] bao giờ [Am] vơi.</p>
+</blockquote></details>
+
+# M
+
+<details align="center"><summary><strong>Mưa tuyết</strong><br/><em>Trời lại làm đông sang, mưa tuyết tả tơi</em></summary><blockquote>
+  
+🎼
+<p>[G] Trời lại làm đông [Am] sang mưa tuyết [C] tả tơi<br/>
+[G] Giọt lệ nào không [D] hay, chợt đông trên [G] má<br/>
+Giờ tim [Bm] tôi đang băng thành [C] đá<br/>
+Nghe xung [G] quanh mình lệ tuyết vỡ thành [Em] mưa<br/>
+Người nay [Am] đã quên tình xưa<br/>
+[D] Tuyêt rơi chiều mưa<br/>
+Khóc cho tình chúng ta vì bởi đâu [G] người xa</p>
+
+<p>[G] Chuyện tình nào xa [Am] xưa, đưa đón trong [C] ngày mưa<br/>
+[G] Nhìn dòng người lại [D] qua, đời sao băng [G] giá<br/>
+Người nơi [Bm] đây sao vô tình [C] quá<br/>
+Ôi vây [G] quanh mình đời cứ mãi ngược [Em] xuôi<br/>
+Mà thương [Am] nhớ em nào nguôi<br/>
+Vì [D] cớ đâu mình mất nhau lòng [G] đau [D]</p>
+
+🎶
+<p>Từng hạt tuyết rơi đi [G] khóc cho nơi đây anh lẻ loi<br/>
+Giờ thì chắc bên em [Bm] nắng vương lên mắt môi nồng [Em] say<br/>
+Em nhớ ân tình [Am] không , nơi có anh chờ [D] trông<br/>
+Khi có nhau mình nói câu thương nhớ nhau một đời.</p>
+
+<p>Giờ thì xót thương tình [G] vấn vương khi đôi ta biệt ly<br/>
+Giờ người đã đi mình [Bm] nhớ thương cho trái tim cuồng [Em] si<br/>
+Em có quay về [Am] chăng , ta đứng đây chờ [D] mãi cho thân xác ta thành [G] băng.</p>
+</blockquote></details>
