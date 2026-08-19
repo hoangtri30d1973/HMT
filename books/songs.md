@@ -27,6 +27,8 @@
 
 </div></td><td><div markdown="1">
 
+l
+
 [M](#m)
 
 </div></td></tr></table>
@@ -434,6 +436,55 @@ Còn đâu [C] nữa mẹ già của [D] em còn đâu [Em] nữa gió ơi.</p>
 Từng [D] ngày ngóng trông quê [Em] nhà<br/>
 Buồn [C] chi em ơi dòng [Em] đời cứ trôi<br/>
 Lòng [D] người có [Em] bao giờ [Am] vơi.</p>
+</blockquote></details>
+
+# K
+
+<details align="center"><summary><strong>Khói thuốc đợi chờ</strong><br/><em>Yêu nhau cho đớn đau và sống cho thật xa</em></summary><blockquote>
+  
+🎼
+<p>Yêu nhau cho đớn đau và sống cho thật xa<br/>
+Có những vết thương để lại đời ta<br/>
+Dày vò theo tháng ngày, ôm ấp cuộc tình<br/>
+Cuộc tình buồn vì ngày đó người đi</p>
+  
+<p>Ôi bao năm tháng yêu gần bên nhau rồi xa<br/>
+Có những lúc anh ngồi một mình đợi em<br/>
+Đợi người đi chẳng về, quên mất câu thề<br/>
+Bỏ lại đây tình ta còn đang dở dang</p>
+
+🎶
+<p>Giữa bóng tối anh ngồi đây buồn khói thuốc, dứt những nỗi đau<br/>
+Còn đang kêu than trong hồn anh cho đời xót xa vì nụ hôn còn thiết tha<br/>
+Khói thuốc trắng ly cà phê càng thêm đắng, thức ngón tay vàng<br/>
+Tim chơi vơi theo thời gian gõ nhịp vắng em giờ thầm chết trong anh</p>
+
+<p>Yêu ai sao khổ đau rồi ta xa lìa nhau<br/>
+Mỗi đứa mỗi phương trời để lại niềm đau<br/>
+Người đã xa khuất rồi, ta vẫn mong chờ<br/>
+Chờ gì đây người ơi chuyện tình đã vỡ tan</p>
+
+<p>Có những chiều anh nhớ em, nhớ em thật nhiều<br/>
+Mong rằng ta còn tìm đến với nhau<br/>
+Khói thuốc tàn trong quán khuya anh vẫn đợi chờ<br/>
+Tìm đâu tình yêu ngày nao giờ đã cách xa</p>
+
+<p>Yêu hay sầu khổ đau rồi ta xa lìa nhau<br/>
+Mỗi đứa mỗi phương trời để lại niềm đau<br/>
+Người đã xa khuất rồi ta vẫn mong chờ<br/>
+Chờ gì đây người ơi chuyện tình ta vỡ tan</p>
+
+🎶
+<p>Giữa bóng tối anh ngồi đây buồn khói thuốc<br/>
+Dẫu những nỗi đau còn, còn đang kêu than trong hồn anh<br/>
+Cho đời xót xa vì nụ hôn còn thiết tha<br/>
+Khói thuốc trắng ly café càng thêm đang thấp ngón tay vàng<br/>
+Tim chơi vơi theo thời gian có nhịp vắng em giờ thầm chết trong anh</p>
+
+<p>Có những chiều anh nhớ em nhớ em thật nhiều<br/>
+Mong rằng ta còn tìm đến với nhau<br/>
+Khói thuốc tan trong quán khuya anh vẫn đợi chờ<br/>
+Tìm đâu tình yêu ngày nào giờ đã cách xa</p>
 </blockquote></details>
 
 # M
