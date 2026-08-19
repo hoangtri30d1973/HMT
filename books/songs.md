@@ -132,6 +132,7 @@ Dòng sông xưa sao vắng lặng chuyến đò đưa
 Em đâu rồi cô lái đò xinh thắm 
 Lòng bâng khuâng thương nhớ chuyện ngày xưa 
 
+
 Tôi trở về thăm em 
 Sau tháng năm miệt mài xứ xa 
 Dòng sông nước xanh năm nào 
