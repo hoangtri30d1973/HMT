@@ -6,32 +6,32 @@
 
 <h3 align="center">Ai chung tình được mãi</h3>
 
-<details align="center"><summary><em>Bình minh ơi dậy chưa, café sáng với tôi được không?</em></summary><blockquote><pre>
+<details align="center"><summary><em>Bình minh ơi dậy chưa, café sáng với tôi được không?</em></summary><blockquote>
 
 🎼
-Bình minh ơi dậy chưa, café sáng với tôi được không? 
-Chơi vơi qua ngày đông, sao thấy cô đơn và lạc lõng 
-Đêm ơi đã ngủ chưa, ngồi đây uống với tôi vài ly. 
-Say thì cứ say, yêu thì bỏ đi 
+<p>Bình minh ơi dậy chưa, café sáng với tôi được không? <br/>
+Chơi vơi qua ngày đông, sao thấy cô đơn và lạc lõng <br/>
+Đêm ơi đã ngủ chưa, ngồi đây uống với tôi vài ly. <br/>
+Say thì cứ say, yêu thì bỏ đi </p>
 
-Đôi khi ta gặp nhau, để dạy nhau cách sống trong khổ đau 
-Đôi chân mang lặng thinh, thương một người không hề toan tính 
-Đôi khi anh dừng lại chẳng hiểu đang khóc đang đau vì ai 
-Khóc vì, đau vì duyên mình đã sai 
+<p>Đôi khi ta gặp nhau, để dạy nhau cách sống trong khổ đau <br/>
+Đôi chân mang lặng thinh, thương một người không hề toan tính <br/>
+Đôi khi anh dừng lại chẳng hiểu đang khóc đang đau vì ai <br/>
+Khóc vì, đau vì duyên mình đã sai </p>
 
 🎶
-Nhiều khi muốn một mình nhưng sợ cô đơn 
-Sợ cảm giác trống vắng mỗi ngày mỗi lớn 
-Sợ chạm vào nỗi nhớ vu vơ 
-Gian gian díu díu mập mờ 
-Nắm chưa xong đã vội đổ vỡ 
+<p>Nhiều khi muốn một mình nhưng sợ cô đơn <br/>
+Sợ cảm giác trống vắng mỗi ngày mỗi lớn <br/>
+Sợ chạm vào nỗi nhớ vu vơ <br/>
+Gian gian díu díu mập mờ <br/>
+Nắm chưa xong đã vội đổ vỡ </p>
 
-Ừ thì anh thích một mình nhưng sợ cô đơn 
-Dù đã từng nói như thế có lẽ sẽ tốt hơn 
-Chỉ là vì chẳng muốn yêu ai, 
-khi mình anh với những đêm dài 
-Nghĩ đi em, đâu ai chung tình được mãi 
-</pre></blockquote></details>
+<p>Ừ thì anh thích một mình nhưng sợ cô đơn <br/>
+Dù đã từng nói như thế có lẽ sẽ tốt hơn <br/>
+Chỉ là vì chẳng muốn yêu ai, <br/>
+khi mình anh với những đêm dài <br/>
+Nghĩ đi em, đâu ai chung tình được mãi </p>
+</blockquote></details>
 
 <h3 align="center">Ai mang cô đơn đi</h3>
 
