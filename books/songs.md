@@ -519,3 +519,35 @@ Khi có nhau mình nói câu thương nhớ nhau một đời.</p>
 Giờ người đã đi mình [Bm] nhớ thương cho trái tim cuồng [Em] si<br/>
 Em có quay về [Am] chăng , ta đứng đây chờ [D] mãi cho thân xác ta thành [G] băng.</p>
 </blockquote></details>
+
+---
+
+                        <th class="has-background-warning">Biệt tri kỷ</th>
+                    </tr>
+                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+Hứa một lời với nhau trước khi từ biệt
+Hẹn thề nhé nếu có kiếp sau vẫn là bạn hiền
+Thời gian kia theo gió cuốn bay thế gian cuồng quay bước chân mỏi mệt
+Nâng chén say đêm nay mong sao ánh trăng mãi không đổi thay
+
+Đã từng một thời có nhau ngỡ không rời xa
+Nhiều bão tố dẫu lắm khó khăn quyết không thở than
+Bạn thân hỡi giữa những dối gian sống cho vẹn nguyên trái tim thật thà
+Mỗi sớm mai đau thương tan trong ánh dương bóng đêm lại qua
+
+ĐK: 
+Còn điều gì chưa nói đến đây nói ra cùng tôi
+Ngày mai chia hai lối dạo chơi khắp bốn phương trời
+Bạn thân hỡi giữa những dối gian sống cho vẹn nguyên trái tim thật thà
+Mỗi sớm mai đau thương tan trong ánh dương bóng đêm lại qua
+
+Bước một mình dưới trăng nhớ những ngày xưa
+Bầu trời năm ấy vẫn mãi mang theo biết bao mộng mơ
+Còn trong đó những ký ức ấu thơ cách xa ngày mai có đâu ai ngờ
+Nâng chén say đêm nay mong sao ánh trăng mãi không đổi thay
+
+ĐK:
+Còn điều gì chưa nói đến đây nói ra cùng tôi
+Ngày mai chia hai lối dạo chơi khắp bốn phương trời
+Còn trong đó những ký ức ấu thơ cách xa ngày mai có đâu ai ngờ
+Nâng chén say đêm nay mong sao ánh trăng mãi không đổi thay
