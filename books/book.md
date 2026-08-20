@@ -294,3 +294,53 @@
 - Một khi có được điểm nhân quả là có thể khởi động Phong Thần bảng, nó có thể hoàn thành nhiệm vụ ngươi yêu cầu…. Không có chuyện một phần hay là đại đa số, chỉ cần có yêu cầu, kể cả ngươi muốn thành thần nó cũng có thể hoàn thành, nhưng sẽ căn cứ theo trị số entropy của vũ trụ để quyết định số điểm nhân quả cần tiêu hao. Như chúng ta đã biết, vũ trụ được sinh ra từ vụ nổ của một chất điểm, sau đó entropy của vũ trụ không ngừng gia tăng, từ nhân đến quả, quả đó lại là khởi đầu của vô số nhân mới. Toàn vũ trụ chỉ có một xu hướng từ có trật tự biến thành vô trật tự, mà Phong Thần bảng thì lại là vũ khí có thể đảo ngược quá trình ấy.
 - Chuyện như ngươi nói, viết tên ai lên người đó sẽ tử vong, ngoài ra căn cứ theo những gì chúng ta biết về Phong Thần bảng trong Phong Thần diễn nghĩa thì người đó còn chết trong tình huống cực kỳ hợp lý, cũng tức là hợp với thiên đạo tự nhiên, việc này có thể coi là… Phong Thần bảng làm đảo ngược giá trị entropy, cả vũ trụ sẽ bài xích món vũ khí này cùng người sử dụng nó. Chủ Thần không gian đã diễn tả kết quả bị vũ trụ bài xích, đó là cực kỳ đen đủi, thậm chí đến lúc cực đoan sẽ biểu hiện bằng cái chết.
                     </pre></td></tr>
+
+
+                    <tr><th class="has-background-warning">Hành trình một linh hồn</th></tr>
+                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+- Đừng bao giờ gạt bỏ một tư tưởng chỉ vì nó xa lạ với anh, mà nên lắng nghe mọi mặt của câu hỏi và tự có kết luận riêng của mình.
+- Nguyên do của dục vọng không phải là cái 'khát nước', mà là sự thèm muốn một khoái cảm có được khi 'uống nước'
+                    </pre></td></tr>
+                    
+                    <tr><th class="has-background-warning">Cửu đỉnh ký</th></tr>
+                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét bút hỏng nào xảy ra.
+                    </pre></td></tr>
+                    <tr><th class="has-background-warning">Hoa sơn tiên môn</th></tr>
+                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+- Kiếm, là phát ra từ trong lòng, không phải do kiếm chiêu ghi nhớ trong đầu phát ra.
+- Trời như họa, đất như kỳ, thân ở trong kỳ, cảm nhận thiên địa.
+                    </pre></td></tr>
+
+
+                    <tr><th class="has-background-warning">Bụt là hình hài, Bụt là tâm thức</th></tr>
+                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+- Thực tập thiền đi chậm một mình, quý vị hãy thử phương pháp này: thở vào và bước một bước, chú tâm hoàn toàn vào gan bàn chân. Nếu quý vị chưa 'về', chưa 'tới' được một trăm phần trăm thì đừng bước thêm bước nào nữa cả. Cứ đợi cho quý vị về tới giây phút hiện tại được một trăm phần trăm rồi thì mới bước đi bước kế tiếp. Quý vị có thể 'xài lớn' thì giờ như vậy. Và khi quý vị thấy mình đã về đã tới được một trăm phần trăm rồi thì hãy mỉm cười và bước thêm một bước khác. Bước đi như vậy, quý vị in xuống đất sự vững chãi và thảnh thơi của quý vị.
+- Tàng thức hoạt động không cần sự có mặt của ý thức. Nó có khả năng làm được nhiều thứ, lập ra nhiều kế hoạch, quyết định được nhiều điều mà không cần biết quyết định đó là gì. Ví dụ như khi đi vào một gian hàng để tìm mua một cái mũ hay một chiếc áo sơ mi, ta có cảm tưởng trong khi nhìn vào những thứ được trưng bày ta có tự do, rằng nếu tài chính cho phép ta sẽ tự do lựa chọn những gì ta muốn. Nếu người bán hàng hỏi ta thích gì, ta có thể chỉ hoặc nói cái mình muốn và ta có cảm giác lúc này ta là người tự do, ta có thể dùng ý thức của mình để lựa chọn những gì mình muốn. Nhưng thực chất, đó là một ảo tưởng. Mọi thứ mà chúng ta lựa chọn đã có sẵn trong tàng thức và chúng ta không còn là người tự do nữa, chúng ta bị nô lệ. Cảm giác đẹp, cảm giác thích hay không thích đã được quyết định rất chắc chắn, rất thận trọng ở tàng thức rồi.
+- Chúng ta tưởng rằng chúng ta có nhiều tự do, đó là một ảo tưởng. Thực ra mức độ tự do của ý thức chúng ta rất nhỏ. Tàng thức ra lệnh cho chúng ta làm nhiều thứ, bởi vì tàng thức tiếp tục nhận vào, ôm ấp, duy trì, làm hiện hành và quyết định mà không cần sự tham dự của ý thức. Tuy nhiên nếu biết thực tập, chúng ta có thể tác động đến tàng thức, chúng ta có thể giúp tàng thức biết cách cất giữ và làm hiện hành những hạt giống tốt, đồng thời có những quyết định hay hơn.
+- Cũng như ý thức và tiền ngũ thức, tàng thức cũng tiêu thụ. Khi xung quanh ta có một nhóm người thì cho dù ta muốn ta là ta, ta cũng tiêu thụ cách thức của nhóm người đó, chúng ta tiêu thụ tàng thức của họ. Thức của chúng ta được nuôi bằng thức của những người khác. Cách chúng ta quyết định, những gì chúng ta thích hay không thích đều phụ thuộc vào cách nhìn của cộng đồng. Có thể ban đầu chúng ta thấy không đẹp lắm, nhưng nếu nhiều người cho là đẹp thì từ từ chúng ta cũng thấy đẹp. Đó là vì tâm thức cá nhân được làm bằng tâm thức cộng đồng.
+                    </pre></td></tr>
+                    <tr><th class="has-background-warning">Ngũ hành thiên</th></tr>
+                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+- Sống trọng yếu hơn bất cứ cái gì, sống sót chính là may mắn lớn nhất.
+- Tỷ như, vị trí ngồi hắn lựa chọn. Chỗ hắn ngồi ở bên cạnh cửa sổ, quan sát không sót một thứ gì ngoài cửa sổ, có thể đề phòng bị tập kích từ ngoài cửa sổ. Nếu tập kích đến từ bên trong trường học, hắn có thể nhảy qua cửa sổ để tránh né đầu tiên.
+- Tỷ như quan sát, hắn âm thầm quan sát tất cả xung quanh, phu tử trên bục giảng, đồng học xung quanh, kết cấu trường học, vị trí bàn ghế, ... Rất nhiều lúc, những chi tiết nhìn như không cần thiết này sẽ quyết định sinh tử của ngươi, đừng bao giờ ngại mình nắm giữ quá nhiều tin tức.
+- Hắn tựa như thợ săn lão luyện, hắn cảm thụ được con mồi của hắn dường như đã phát hiện. Hắn không biết hình dung loại cảm giác mơ hồ này như thế nào, chửang biết suy đoán này căn cứ vào phán đoán gì, nhưng hoang dã không cần có căn cứ, chỉ có thắng lợi hoặc thất bại, sinh tồn hoặc tử vong.
+- Lộ tuyến vận chuyển nguyên lực đều không thoát ly được phạm trù ngũ phủ tám cung. Chẳng qua là trình tự các đường gia tuyến không giống nhau, lộ tuyến khác nhau, hiệu quả tác dụng khác xa, hình thành các loại tâm pháp phong phú, cộgn thêm tám cung có ảo diệu, có nhiều chú ý. Từng nhà sẽ chọn lựa bộ phận trường kỳ nghiên cứu, lâu ngày, tích lũy trầm lắng, từ tù hình thành các bí mật bất truyền của gia tộc.
+- Không có gì tốt hơn so với việc tìm đúng con đường của mình, điều đó làm cho người ta phấn chấn.
+- Nguyên lực chỉ ở trạng thái vận động mới phát huy tác dụng.
+- Con người bình thương thật yếu đuối. Mới có mấy ngày yên bình đã bắt đầu hoài niệm quá khứ rồi.
+- Để treo lên đỉnh cao, có rất nhiều kẻ liều mạng. 
+- Cảm giác kiến thức lắng đọng dần qua từng đời thật là tốt.
+- Cảm giác khai thác tiềm năng con người chắc là thế này rồi, lòng dạ mang hào khí ngút trời nhưng lại sống trong cảnh cô độc. Nghĩ thế, Ngải Huy không khỏi khẽ cười, cảm giác mình là một đại nhân vật quả thực rất sảng khoái.
+- Càng mệt nhọc bao nhiêu, lại càng là thời điểm thuận lợi để tu luyện bấy nhiêu. Chỉ cần có thể gánh chịu được sử mệt mỏi rã rời đến đỉnh điểm, hiệu quả tu luyện sẽ cao khác thường. Trong trạng thái mệt mỏi rã rời đến đỉnh điểm, tinh thần và tư duy con người tản mạn ở mức tối đa, muốn tập trung lại là việc vô cùng gian nan.
+- Vận mệnh chính là một ván bạc, người càng có nhiều thẻ đánh bạc thì càng có thể ung dung, càng có thể nhàn nhã. Đối với bọn họ, có thể nói phạm phải một sai lầm không ảnh hưởng tới toàn thể. Nhưng đối với người thiếu thẻ đánh bạc, lại không có thứ gì đáng giá, vậy thì ngoại trừ mang chính mình ra đặt cược thì không còn cách khác.
+- Khai sáng tuyệt học thuộc về tự mình, chính là phản ánh đỉnh cao của khả năng lý giải nguyên lực. Tuyệt học là trình bày 'Đạo' thuộc về chính mình.
+- Nguyên lục chảy xuôi, ngũ hành sinh sôi liên tục, giống như một thể thống nhất, nên hiệu suất sử dụng nguyên lực cực cao.
+- Mặc kệ đó là loại sức mạnh nào, chỉ cần đủ mạnh, thì uy lực đều kinh người. Loại sức mạnh nào, cũng mê người như nhau.
+- Hắn đã hiểu, điểm quan trọng để trở thành đại sư chính là tìm ra con đường đi cho riêng mình. Thế giới này quá lớn, chủng loại sức mạnh cực kỳ nhiều, mà tinh lực con người thì có hạn. Muốn nắm giữ được chân lý sức mạnh, thì phải lược bỏ, chỉ có tinh chuyên, mới đi được xa.
+- Đại sư chi đạo không cho phép do dự, chần chừ hay đưa đẩy, mà phải tìm ra thứ mình tin tưởng nhất, đặt cả tính mạng của mình vào đó, như vậy mới trở thành được đại sư.
+- Nếu ngươi có khát vọng, ngươi phải tàn nhẫn với bản thân. Những cách làm hiền hòa không thể đủ để hoàn thành khát vọng.
+- Trình độ của con người sẽ được thể hiện ra trong từng chi tiết nhỏ.
+- Muốn có lực lượng càng lớn, cái giá phải trả càng cao.
+                    </pre></td></tr>
