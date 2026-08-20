@@ -304,7 +304,7 @@ Chiều [A] nay [B] dấu đã phai [Em] rồi.</p>
 Biển [A] xanh muôn đời đẹp [B] mãi.</p>
 </blockquote></details>
 
-<details align="center"><summary><strong>Chiều nghe biển khóc</strong><br/><em> Một chiều nào bơ vơ trên cát</em></summary><blockquote>
+<details align="center"><summary><strong>Con tim đang cố quên</strong><br/><em>Ta đang tìm cách quên người, phải cố quên người</em></summary><blockquote>
   
 🎼
 <p>Ta đang tìm [F] cách quên người, phải [Dm] cố quên người<br/>
