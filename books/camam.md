@@ -2,10 +2,6 @@
 
 ---
 
-</blockquote></details>
-
---------------------------------------------------------
-
 ### Cảm âm triệu đóa hoa hồng
 
 <details><summary>🪈</summary><blockquote>
