@@ -97,7 +97,7 @@ La đô2 rê2 đô2 đô2 la…sol#, fa# sol# la</p>
 <p>mi fa mi re do,<br/>
 do re mi sol Do Mi si<br/>
 si Do la, la si sol<br/>
-Do si si la la sol sol<?
+Do si si la la sol sol</p>
 
 Đoạn 2:
 
