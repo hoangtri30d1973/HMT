@@ -4,6 +4,7 @@
 - Mỗi người, trong cuộc sống nhân sinh, luôn có những lúc buồn vui, hoặc những cảm xúc phức tạp / đơn giản khác nhau. [Bài hát yêu thích](books/songs.md) là nơi tổng hợp lời của một số lời bài hát mà tui yêu thích, để dành đây để lâu lâu ngân nga.
 - Dân ca là một nhánh đặc thù của dòng nhạc miền Nam. [Các điệu lý dân ca](books/lydanca.md) được tổng hợp từ một số các điệu lý đơn giản, nhằm những lúc buồn buồn thì có thể hát chơi.
 - [Các đoạn trích cải lương](books/cailuong.md) được tổng hợp từ các tuồng cổ, bài hát cải lương. Hát cho thêm sự phong phú của cuộc đời.
+- [Cảm âm sáo trúc](books/camam.md) dành cho người yêu âm điệu.
 
 ---
 
