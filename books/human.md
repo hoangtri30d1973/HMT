@@ -7,7 +7,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 ### LỜI MỞ ĐẦU
 
-<details><summary>▶️</summary><blockquote><div markdown="1">
+<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
   
 - Tôi xin có vài lời giới thiệu về quyển sách nhỏ này đến quí độc giả. Đây là quyển thứ bảy trong loạt sách nhỏ trình bày đơn giản Minh Triết Thiêng Liêng để đáp ứng nhu cầu công chúng. Một số độc giả phàn nàn sách vở hội Thông Thiên Học quá trừu tượng, quá kỷ thuật và khó hiểu đối với những người bình thường. Chúng tôi hy vọng loạt sách này sẽ đáp ứng được sự mong mỏi  của quần chúng. 
 - Minh Triết Thiêng Liêng không chỉ dành riêng cho các học giả, mà cho mọi người. Có lẽ một số người khi đọc những quyển sách này lần đầu tiên sẽ nhận ra ý nghĩa tổng quát của nó, từ đó muốn tìm hiểu sâu xa hơn về triết lý, khoa học và tôn giáo của  Minh Triết Thiêng Liêng, để có thể đối diện với những vấn đề khó khăn hơn với lòng hăng hái của một sinh viên nhiệt tâm. Đối với những người ấy, sẽ có những tác phẩm lớn, sâu xa hơn dành cho họ. 
@@ -19,7 +19,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 ### LỜI GIỚI THIỆU
 
-<details><summary>▶️</summary><blockquote><div markdown="1">
+<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
 
 - Vấn đề tâm thức và những dẫn thể, con người và những lớp áo, gây nhiều rắc rối cho những học viên minh triết thiêng liêng, do đó cần có những giải thích đơn giản, dễ hiểu hơn. Sự học hỏi của chúng ta phải đến giai đoạn những điều khó hiểu trở nên rõ ràng, những điều mơ hồ trở nên xác thực, những điều mà trước kia chúng ta chấp nhận như lý thuyết trở thành kiến thức trực tiếp. Từ đó chúng ta xếp đặt có hệ thống những sự kiện, để những học viên đã phát triển năng lực quan sát, có thể khảo sát trở đi trở lại và phát biểu một cách khẳng định, như sự phát biểu của một nhà vật lý học khi ông khảo sát và liệt kê những hiện tượng vật chất. 
 - Nhà siêu hình học cũng như nhà vật lý học có thể sai lầm. Khi kiến thức mở rộng hơn, ánh sáng mới chiếu rọi vào những dữ kiện cũ, sự liên quan giữa chúng được thấy rõ ràng hơn, thường là do ánh sáng mới cho thấy sự vật trước kia được xem như toàn thể, nay thật ra chỉ là một phần.
@@ -35,7 +35,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 ### THỂ  XÁC
 
-<details><summary>▶️</summary><blockquote><div markdown="1">
+<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
 
 - Từ ngữ thể xác bao gồm hai nguyên lý thấp của con người, hai nguyên lý này cùng hoạt động ở cõi trần, cùng được tạo nên bởi chất liệu vật chất, cùng sinh hoạt trong thời gian cuộc sống của con người ở cõi trần, và bị vứt bỏ lúc con người ‘‘chết’’, khi con người bước qua cõi trung giới chúng sẽ tan rã dần ở cõi trần.
 - Một nguyên nhân khác để ta xếp loại hai nguyên lý này chung trong thể xác hay ‘‘dẫn thể vật chất’’ là cho đến khi nào ta chưa vượt ra khỏi cõi trần, ta cần phải sử dụng một trong hai, hoặc cả hai lớp áo vật chất này. Vì chất liệu cấu tạo ra chúng, cả hai thể đều thuộc về cõi trần, và không thể đi ra bên ngoài cõi trần. Tâm thức tác động trong chúng bị ràng buộc bên trong những giới hạn vật chất, và phải tuân theo những định luật thông thường của không gian và thời gian. Dù chúng có thể tách riêng một phần nào, nhưng trong suốt đời sống thế gian, ít khi chúng tách rời nhau. Sự tách rời này không được khuyến khích và luôn luôn là một dấu hiệu bệnh hoạn hay mất quân bình.
@@ -86,7 +86,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 ### THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)
 
-<details><summary>▶️</summary><blockquote><div markdown="1">
+<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
 
 - Theo khoa học vật chất, mọi sự thay đổi của bắp thịt, thần kinh, tế bào, hoặc những thay đổi hóa học liên tục trong cơ thể, đều do tác động của điện. Bất cứ lúc nào có tác động của điện, thì luôn luôn có sự hiện diện của chất dĩ thái, do đó, khi có dòng điện chứng tỏ có chất dĩ thái kèm theo. Chất dĩ thái thấm nhuần và bao quanh tất cả. Không có phần tử nào của vật chất tiếp xúc trực tiếp với phần tử khác, mà các phần tử đều di động trong môi trường chất dĩ thái. Thật ra dĩ thái cũng hữu hình như cái bàn, cái ghế, nhưng mắt trần không nhận thấy được, do mức độ tiếp nhận khác nhau của thị giác. Như đã được đề cập, có 4 loại dĩ thái khác nhau, loại thanh nhuyễn nhất bao gồm những nguyên tử căn bản của cõi trần, (nguyên tử căn bản cõi trần không phải nguyên tử mà các nhà hóa học hiện tại tìm ra, nguyên tử hóa học thật ra là một thể phức tạp). Ta gọi là nguyên tử căn bản, hay tối hậu vì khi nó phân hủy sẽ cho ra chất liệu cõi trung giới.[1]
 - Thể phách, hay ‘‘thể dĩ thái kép’’, còn được gọi là ‘‘nhị xác thân’’, được cấu tạo từ 4 loại chất dĩ thái, nó thấm nhập vào cấu trúc chất đặc, chất lỏng và chất hơi của thể xác đậm đặc, và bao bọc tất cả những phần tử với một lớp dĩ thái, như thế nó là một bản sao hoàn hảo của thể xác đậm đặc. Người có nhãn quan được huấn luyện, có thể nhìn thấy rõ thể phách, nó màu xám tím, cấu trúc nó thô hay mịn tùy theo độ thô kệch của thể xác đậm đặc. Điều quan trọng cần ghi nhận là những thay đổi về phẩm chất của thể xác đậm đặc đi đôi với phẩm chất của thể phách. Khi người học đạo có ý thức và chú tâm thanh lọc thể xác đậm đặc, thể phách cũng được trong sạch theo mà không cần cố gắng nào khác, và mặc dù người ấy không ý thức về điều đó.
@@ -117,7 +117,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 ### THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)
 
-<details><summary>▶️</summary><blockquote><div markdown="1">
+<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
 
 - Chúng ta đã nghiên cứu thể xác con người, cả phần hữu hình lẫn vô hình. Chúng ta hiểu con người, một thực thể sống động có ý thức, khi tâm thức ‘‘thức tỉnh’’ và sống trong thế giới vật chất, nó chỉ có thể hiểu biết và biểu lộ năng lực trong giới hạn của thể xác. Tùy theo sự hoàn hảo hay không của thể xác, mà sự diễn đạt của con người có hoàn hảo hay không tại cõi trần. Thể xác giới hạn những khả năng của con người ở cõi thấp, tạo ra ‘‘vòng giới hạn’’ thực sự chung quanh con người. Những điều gì không thể vượt qua vòng giới hạn này thì không thể biểu lộ được ở thế gian; vấn đề này quan trọng đối với người đang phát triển.
 - Cũng thế, khi con người xuất ra khỏi thể xác và hoạt động trong cõi trung giới, họ chỉ có thể diễn đạt những kiến thức và năng lực trong giới hạn của thể vía. Như thế, thể vía là một dẫn thể, đồng thời cũng là giới hạn đối với con người. 
@@ -185,7 +185,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 ### NHỮNG THỂ TRÍ - (The Mind Bodies)
 
-<details><summary>▶️</summary><blockquote><div markdown="1">
+<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
 
 - Chúng ta đã học về thể xác và thể vía con người. Thể xác hoạt động ở cõi trần, có phần hữu hình và phần vô hình. Chúng ta đã theo dõi cách thức sinh hoạt, cũng như phân tích bản chất của sự tăng trưởng và cách thức thanh lọc hóa nó. Đối với thể vía cũng thế, chúng ta đã theo dõi những hoạt động và tăng trưởng, những hiện tượng liên hệ với sự biểu lộ của nó ở cõi trung giới, và sự thanh lọc hóa nó. Như thế, chúng ta đã có vài ý tưởng về hoạt động của con người ở 2 trong 7 cõi của vũ trụ.
 - Bây giờ, chúng ta có thể sang qua cõi thứ ba, thế giới của trí tuệ. Chúng ta đã biết có 3 cõi: cõi trần, cõi trung giới và cõi trí tuệ. Trái đất và hai khối cầu bao quanh nó (chỉ cõi trung giới và cõi thượng giới – LDG), như một vùng bộ ba, nơi đó con người hoạt động trong suốt những lần đầu thai ở cõi trần, và cũng nơi đó con người cư trú trong suốt những giai đoạn xen kẽ giữa sự chết (khép lại một đời sống thế gian) và sự sinh (mở ra một đời sống khác ở thế gian). 
@@ -253,7 +253,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 ### NHỮNG DẪN THỂ KHÁC - (Other Vehicles)
 
-<details><summary>▶️</summary><blockquote><div markdown="1">
+<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
 
 - Chúng ta có thể đi một bước xa hơn, nhưng khi làm thế, chúng ta phải vào một vùng rất cao cả, gần như ngoài tầm con đường chúng ta, dù trong sự tưởng tượng. Vì nhân thể không phải một thể cao nhất, và Chân Ngã không phải Thượng Trí (Manas), mà là thượng trí kết hợp và thâm nhập trong Bồ Đề (Buddhi). Đây là kết quả sự tiến hóa của nhân loại, điểm cuối cùng của bánh xe luân hồi sinh tử.
 - Bên trên cõi thượng giới mà chúng ta đã nói đến, còn có một cõi cao hơn, đôi khi được gọi là cõi của trạng thái tâm thức tinh thần cao siêu (Turiya) hay cõi của Tuệ Giác (Buddhi). Ở cõi này, dẫn thể của tâm thức là thể tinh thần, còn được gọi là thể bồ đề hay thể phúc lạc (anandamayakosa), mà người tu sĩ thiền định có thể thâm nhập vào, và trong đó họ nếm mùi phúc lạc vĩnh cửu của thế giới huy hoàng. Ở trạng thái này, thiền gia nhận ra trong tâm thức chính mình sự đồng nhất với tất cả, điều này trở thành một sự kiện của kinh nghiệm, chớ không chỉ là một niềm tin thông minh.
@@ -283,7 +283,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 ### CON NGƯỜI - (The  man)
 
-<details><summary>▶️</summary><blockquote><div markdown="1">
+<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
 
 - Đến đây chúng ta để sang một bên sự nghiên cứu về những dẫn thể của tâm thức, và bắt đầu xem xét chính con người, tâm thức tác động lên những thể. Có nghĩa là chúng ta không chú trọng đến những thể mà chú trọng đến ‘‘thực thể’’ tác động bên trong những thể. Khi đề cập đến ‘‘con người’’, tôi muốn nói đến ‘‘cá nhân’’ tiếp tục đi qua từ đời sống này đến đời sống khác. Con người vào những thể rồi lại rời bỏ chúng, và cứ thế lặp đi lặp lại, nó tăng trưởng chậm chạp theo thời gian, phát triển bằng cách góp nhặt và đồng hóa những kinh nghiệm, nó tồn tại trên vùng cao của cõi trí tuệ. ‘‘Con người’’ này là chủ đề chúng ta nghiên cứu, nó xuống và sinh hoạt trong 3 cõi mà chúng ta đã biết: cõi vật chất, cõi tình cảm và cõi trí tuệ.
 - Con người bắt đầu kinh nghiệm bằng cách phát triển ý thức bản ngã ở cõi vật chất. Nơi đây xuất hiện cái chúng ta gọi là ‘‘tâm thức thức tỉnh’’, mà mọi người đều quen thuộc, nó làm việc xuyên qua não bộ và hệ thần kinh. Nhờ nó, chúng ta suy luận theo đường lối thông thường, nhờ nó chúng ta nhớ được những sự việc quá khứ thuộc kiếp hiện tại, và xét đoán những công việc trong đời sống.
