@@ -4,7 +4,7 @@
 
 ## Nữa đời hương phấn
 
-<details><summary>▶️</summary><blockquote>
+<details align="jusify"><summary>▶️</summary><blockquote>
 
 <p>Nữa đời hương phấn nương nhờ của Phật<br/>
 Xa rời gian dối vui câu kệ kinh<br/>
@@ -58,11 +58,11 @@ Trong lúc anh Tùng, tới lui tìm kiếm, cháu vẫn còn ở Sài Gòn, nê
 Cháu hứa gì và đã hứa với ai, nếu lồng đã thiệt thương, sau lại bỏ đi giữa chừng, tao nằm đêm tao nghĩ bụng, chắc là thằng Tùng nó có vợ, cho đến bây giờ khi cháu nói ra, tao mới hết nghi ngờ. Nhưng còn chuyện vợ chồng, khi lòng bây đã quyết, dù bất cứ thằng nào muốn chen vào phá quấy, bây ngán nó hay sao mà nó để cho lỡ dỡ, rồi tự ý bỏ đi, không nói cho tao hay.</p>
 </blockquote></details>
 
---------------------------------------------------------
+---
 
 ## Võ Đông Sơ - Bạch Thu Hà
 
-<details><summary>▶️</summary><blockquote>
+<details align="jusify"><summary>▶️</summary><blockquote>
 
 <p>Biên cương lá rơi Thu Hà em ơi,<br/>
 đường dài mịt mùng em không đến nơi.<br/>
@@ -118,9 +118,11 @@ há cay chuyện chung tình,<br/>
 khóc than riêng em một mình</p>
 </blockquote></details>
 
+---
+
 ## Tình anh bán chiếu
 
-<details><summary>▶️</summary><blockquote>
+<details align="jusify"><summary>▶️</summary><blockquote>
 
 <p>"Hò ơ...<br/>
 Chiếu Cà Mau nhuộm màu tươi thắm.<br/>
@@ -153,9 +155,11 @@ Chờ đợi chi nữa uổng công đợi chờ.</p>
 Tình anh bán chiếu trọn đời không phai."</p>
 </blockquote></details>
 
+---
+
 ## Lá trầu xanh
 
-<details><summary>▶️</summary><blockquote>
+<details align="jusify"><summary>▶️</summary><blockquote>
 
 <p>Thương nhau cau bổ làm đôi mảnh<br/>
 Một lá trầu xanh thắm nợ duyên.<br/>
@@ -204,3 +208,5 @@ Thu về rụng lá trầu xanh,<br/>
 Trầu xanh rụng lá tình anh hết rồi. (SL)<br/>
 Một gánh trầu còn oằn nặng đôi vai, như gánh nặng u hoài muôn vạn kiếp. Mưa rơi lạnh buốt khung trời. Anh phụ em rồi em còn biết tin ai./.</p>
 </blockquote></details>
+
+---
