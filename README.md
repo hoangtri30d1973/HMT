@@ -9,7 +9,7 @@
 
 ### Suy ngẫm
 
-[](books/human.md)
+1. _[Con người và các thể](books/human.md)_
 
 ---
 
