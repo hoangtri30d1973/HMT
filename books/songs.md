@@ -31,6 +31,10 @@
 
 </div></td><td><div markdown="1">
 
+[L](#l)
+
+</div></td><td><div markdown="1">
+
 [M](#m)
 
 </div></td></tr></table>
@@ -578,6 +582,102 @@ Khói thuốc tan trong quán khuya anh vẫn đợi chờ<br/>
 Tìm đâu tình yêu ngày nào giờ đã cách xa</p>
 </blockquote></details>
 
+<details align="center"><summary><strong>Khất duyên</strong><br/><em>Người đưa đò qua sông hay đò kia nương gió xuôi dòng</em></summary><blockquote>
+  
+🎼
+<p>Người đưa đò qua sông hay đò kia nương gió xuôi dòng<br/>
+Nhìn chân trời mênh mông hỏi rằng anh có nhớ em không<br/>
+Tựa như hòn vọng phu đem thời xuân che lấp mây mù<br/>
+Cớ sao cố nhân quên lời để em đợi em chờ ngàn khơi</p>
+  
+<p>Ngày anh về nơi đây trao tận tay em tấm thiệp hồng<br/>
+Đề tên người anh thương ôi trời cao sao thấu cơn đau<br/>
+Phận em nghèo nương rau sao bằng nơi phố xá đèn màu<br/>
+Tiếc chi cái công dã tràng không đồng sàng muộn màng sang ngang</p>
+
+🎶
+<p>Hò ơi mấy dặm hò khoan pháo hồng rền vang người ta dối gian<br/>
+Nỡ quên câu thề quên người tình xưa ôi nghĩa nhân vong phụ<br/>
+Câu hò chiều mưa tang tình tang oán than cung đàn<br/>
+Ai lấy dây ràng dây buộc duyên ai đôi bướm bay trên đồng<br/>
+Đau lòng chia phôi trời ơi tiếng gọi mình ơi<br/>
+Nức lòng từng đêm ngồi khâu giấc mơ<br/>
+Anh sánh đôi ai rồi cau trầu têm vôi em lẻ loi cô quạnh khuê phòng đơn côi<br/>
+Sao trời mang gió giông thân hồng son phấn tô cõi lòng mong anh đẹp tương lai<br/>
+Đem ánh trăng soi dạ sao em còn thương ai</p>
+
+<p>Ngày anh về nơi đây trao tận tay em tấm thiệp hồng<br/>
+Đề tên người anh thương ôi trời cao sao thấu cơn đau<br/>
+Phận em nghèo nương rau sao bằng nơi phố xá đèn màu<br/>
+Tiếc chi cái công dã tràng không đồng sàng muộn màng sang ngang</p>
+
+🎶
+<p>Hò ơi mấy dặm hò khoan pháo hồng rền vang người ta dối gian<br/>
+Nỡ quên câu thề quên người tình xưa ôi nghĩa nhân vong phụ<br/>
+Câu hò chiều mưa tang tình tang oán than cung đàn<br/>
+Ai lấy dây ràng dây buộc duyên ai đôi bướm bay trên đồng đau lòng chia phôi<br/>
+Trời ơi tiếng gọi mình ơi nức lòng từng đêm ngồi khâu giấc mơ<br/>
+Anh sánh đôi ai rồi cau trầu têm vôi em lẻ loi cô quạnh khuê phòng đơn côi<br/>
+Sao trời mang gió giông thân hồng son phấn tô cõi lòng mong anh đẹp tương lai<br/>
+Đem ánh trăng soi dạ sao em còn thương ai</p>
+
+<p>Đa đa vỗ cánh bay tìm về nơi yên lành<br/>
+Dòng sông bến nước vẫn còn xanh nợ nhau chữ danh<br/>
+Bên người lầu son yến anh khất duyên không đành thôi hẹn người tái sanh<br/>
+Khất duyên không đành thôi hẹn người tái sanh</p>
+</blockquote></details>
+
+<details align="center"><summary><strong>Ký ức nhạt màu</strong><br/><em>Mình anh nơi đây ôm bao tiếc nuối cuộc tình đã xa</em></summary><blockquote>
+  
+🎼
+<p>1. Mình [Em] anh nơi đây ôm bao tiếc nuối cuộc tình đã [Am] xa<br/>
+Mình [D] anh nơi đây lang thang mưa rơi anh nhớ tới [G] người [B7]<br/>
+Lời [Em] yêu mong manh khi xưa em trao toàn những [Am] dối gian<br/>
+[D] Em đang vui bên ai cười nói với [B7] ai</p>
+
+<p>2. Vòng [Em] tay yêu thương bên nhau hôm qua chỉ là giấc [Am] mơ<br/>
+Vì [D] em đam mê xa hoa nơi ai quên mất lối [G] về [B7]<br/>
+Ngày [Em] xưa khi ta bên nhau em nói “tình chẳng thể [Am] phai”<br/>
+[D] Anh ngu ngơ anh [Bm] tin và anh đắng [Em] cay</p>
+
+🎶
+<p>Người [Em] đã ra đi xa anh bao ngày, mà lòng vẫn [Am] yêu<br/>
+Tình [D] yêu bên nhau hôm qua ta trao đâu dễ kiếm [G] tìm [B7]<br/>
+Lạc [Em] bước đôi chân trong đêm vô vọng tìm về chốn [Am] xưa<br/>
+[D] Tan trong những tiếc [Bm] nuối một thời đắm [Em] say</p>
+</blockquote></details>
+
+# L
+
+<details align="center"><summary><strong>Lữ khách bên đường</strong><br/><em>Ta bước qua hơn nửa đời người</em></summary><blockquote>
+  
+🎼
+<p>1. Ta bước qua hơn nửa đời [Dm] người<br/>
+Giờ tóc xanh đã [Dm] điểm hai màu<br/>
+Lê đôi chân mòn gót [F] nhỏ đường trần<br/>
+Đời [Dm] người sao ngắn ngủi<br/>
+Hỏi cuộc [F] đời được mấy cái [A7] mười năm!</p>
+
+<p>2. Ta trách ta hay giận cuộc [Dm] đời<br/>
+Giàu sang quên bạn [Dm] hữu cơ hàn<br/>
+Khi gian nan mình mởi [F] hiểu lòng người<br/>
+Đời [Gm] chua cay đắng [Dm] ngọt<br/>
+Nhìn lại [F] ta, ta [A7] biết khoc hay [Dm] ta cười [Gm][Dm]</p>
+
+🎶
+<p>[C] Ôi! trần gian là nơi [F] quán trọ<br/>
+Mà {Am] ta là lữ khách qua [Dm] đường<br/>
+Kiếp vô thường [D7] được mất ai [Gm] hay<br/>
+Gieo chua [C] cay gieo nghiệp đời oan [Bb] trái<br/>
+Cuối con [E7] đường ta [A7] còn ta [Dm] với ai</p>
+
+<p>3. Khi bước qua quán trọ cuộc [Dm] đời<br/>
+Trần gian ơi lữ [Dm] khách đi rồi<br/>
+Sau lưng ta bỏ tất [F] cả cho [C] đời<br/>
+Ngoảnh [Dm] mặt ta chỉ là<br/>
+Đến rồi [F] đi như [A7] lữ khách [Dm] bên đường [Gm][Dm]</p>
+</blockquote></details>
+
 # M
 
 <details align="center"><summary><strong>Mưa tuyết</strong><br/><em>Trời lại làm đông sang, mưa tuyết tả tơi</em></summary><blockquote>
@@ -611,100 +711,3 @@ Em có quay về [Am] chăng , ta đứng đây chờ [D] mãi cho thân xác ta
 
 ---
 
-
----
-
-
-                        <th class="has-background-warning">Khất duyên</th>
-                    </tr>
-                    <tr>
-                    <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
-Người đưa đò qua sông hay đò kia nương gió xuôi dòng
-Nhìn chân trời mênh mông hỏi rằng anh có nhớ em không
-Tựa như hòn vọng phu đem thời xuân che lấp mây mù
-Cớ sao cố nhân quên lời để em đợi em chờ ngàn khơi
-Ngày anh về nơi đây trao tận tay em tấm thiệp hồng
-Đề tên người anh thương ôi trời cao sao thấu cơn đau
-Phận em nghèo nương rau sao bằng nơi phố xá đèn màu
-Tiếc chi cái công dã tràng không đồng sàng muộn màng sang ngang
-
-Hò ơi mấy dặm hò khoan pháo hồng rền vang người ta dối gian
-Nỡ quên câu thề quên người tình xưa ôi nghĩa nhân vong phụ
-Câu hò chiều mưa tang tình tang oán than cung đàn
-Ai lấy dây ràng dây buộc duyên ai đôi bướm bay trên đồng
-Đau lòng chia phôi trời ơi tiếng gọi mình ơi
-Nức lòng từng đêm ngồi khâu giấc mơ
-Anh sánh đôi ai rồi cau trầu têm vôi em lẻ loi cô quạnh khuê phòng đơn côi
-Sao trời mang gió giông thân hồng son phấn tô cõi lòng mong anh đẹp tương lai
-Đem ánh trăng soi dạ sao em còn thương ai
-
-Ngày anh về nơi đây trao tận tay em tấm thiệp hồng
-Đề tên người anh thương ôi trời cao sao thấu cơn đau
-Phận em nghèo nương rau sao bằng nơi phố xá đèn màu
-Tiếc chi cái công dã tràng không đồng sàng muộn màng sang ngang
-
-Hò ơi mấy dặm hò khoan pháo hồng rền vang người ta dối gian
-Nỡ quên câu thề quên người tình xưa ôi nghĩa nhân vong phụ
-Câu hò chiều mưa tang tình tang oán than cung đàn
-Ai lấy dây ràng dây buộc duyên ai đôi bướm bay trên đồng đau lòng chia phôi
-Trời ơi tiếng gọi mình ơi nức lòng từng đêm ngồi khâu giấc mơ
-Anh sánh đôi ai rồi cau trầu têm vôi em lẻ loi cô quạnh khuê phòng đơn côi
-Sao trời mang gió giông thân hồng son phấn tô cõi lòng mong anh đẹp tương lai
-Đem ánh trăng soi dạ sao em còn thương ai
-
-Đa đa vỗ cánh bay tìm về nơi yên lành
-Dòng sông bến nước vẫn còn xanh nợ nhau chữ danh
-Bên người lầu son yến anh khất duyên không đành thôi hẹn người tái sanh
-Khất duyên không đành thôi hẹn người tái sanh
-                    </pre></td>
-
-
-                        <th class="has-background-warning">Ký ức nhạt màu</th>
-                    </tr>
-                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
-1. Mình [Em] anh nơi đây ôm bao tiếc nuối cuộc tình đã [Am] xa
-Mình [D] anh nơi đây lang thang mưa rơi anh nhớ tới [G] người [B7]
-Lời [Em] yêu mong manh khi xưa em trao toàn những [Am] dối gian
-[D] Em đang vui bên ai cười nói với [B7] ai
-
-2. Vòng [Em] tay yêu thương bên nhau hôm qua chỉ là giấc [Am] mơ
-Vì [D] em đam mê xa hoa nơi ai quên mất lối [G] về [B7]
-Ngày [Em] xưa khi ta bên nhau em nói “tình chẳng thể [Am] phai”
-[D] Anh ngu ngơ anh [Bm] tin và anh đắng [Em] cay
-
-ĐK: Người [Em] đã ra đi xa anh bao ngày, mà lòng vẫn [Am] yêu
-Tình [D] yêu bên nhau hôm qua ta trao đâu dễ kiếm [G] tìm [B7]
-Lạc [Em] bước đôi chân trong đêm vô vọng tìm về chốn [Am] xưa
-[D] Tan trong những tiếc [Bm] nuối một thời đắm [Em] say
-                    </pre></td></tr>
-                    <tr>
-
-
-                        <th class="has-background-warning">Lữ khách bên đường</th>
-                    </tr>
-                    <tr>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
-1. Ta bước qua hơn nửa đời [Dm] người
-Giờ tóc xanh đã [Dm] điểm hai màu
-Lê đôi chân mòn gót [F] nhỏ đường trần
-Đời [Dm] người sao ngắn ngủi
-Hỏi cuộc [F] đời được mấy cái [A7] mười năm!
-
-2. Ta trách ta hay giận cuộc [Dm] đời
-Giàu sang quên bạn [Dm] hữu cơ hàn
-Khi gian nan mình mởi [F] hiểu lòng người
-Đời [Gm] chua cay đắng [Dm] ngọt
-Nhìn lại [F] ta, ta [A7] biết khoc hay [Dm] ta cười [Gm][Dm]
-
-ĐK: [C] Ôi! trần gian là nơi [F] quán trọ
-Mà {Am] ta là lữ khách qua [Dm] đường
-Kiếp vô thường [D7] được mất ai [Gm] hay
-Gieo chua [C] cay gieo nghiệp đời oan [Bb] trái
-Cuối con [E7] đường ta [A7] còn ta [Dm] với ai
-
-3. Khi bước qua quán trọ cuộc [Dm] đời
-Trần gian ơi lữ [Dm] khách đi rồi
-Sau lưng ta bỏ tất [F] cả cho [C] đời
-Ngoảnh [Dm] mặt ta chỉ là
-Đến rồi [F] đi như [A7] lữ khách [Dm] bên đường [Gm][Dm]
-                        </pre></td>
