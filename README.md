@@ -1,7 +1,8 @@
 # My space
 
-- [Trích dẫn hay trong sách](books/book.md) là các đoạn nội dung làm người đọc cảm thấy có ý nghĩa trong cuộc sống nhân sinh, chép về để suy ngẫm và thư giãn.
-- [Bài hát yêu thích](books/songs.md) là một số lời bài hát được người hát yêu thích, lưu để ngâm nga những lúc vui hoặc buồn.
+- Sách là thầy, là bạn, khi đọc sách mỗi người trong chúng ta đều có các cảm xúac, cảm nhận riêng của mình. [Trích dẫn hay trong sách](books/book.md) là các đoạn nội dung làm tui cảm thấy có ý nghĩa trong cuộc sống nhân sinh, nên sao chép về để suy ngẫm và thư giãn.
+- Mỗi người, trong cuộc sống nhân sinh, luôn có những lúc buồn vui, hoặc những cảm xúc phức tạp / đơn giản khác nhau. [Bài hát yêu thích](books/songs.md) là nơi tổng hợp lời của một số lời bài hát mà tui yêu thích, để dành đây để lâu lâu ngân nga.
+- Dân ca là một nhánh quan trọng của các kiểu nhạc. [Các điệu lý dân ca](ly_dan_ca.md) được tổng hợp từ một số các điệu lý đơn giản, nhằm những lúc buồn buồn thì có thể hát chơi.
 
 ---
 
