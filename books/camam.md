@@ -1,96 +1,125 @@
-# Cảm âm
+# Cảm âm sáo trúc
+
+---
+
+</blockquote></details>
+
+--------------------------------------------------------
 
 ### Cảm âm triệu đóa hoa hồng
 
-```
-Một chuyện tình yêu anh họa sĩ
-Gợi trong tranh vẽ những vui buồn
-Lòng anh thầm yêu nàng ca sĩ
-Cô gái rất yêu bông hoa hồng
-=====
+<details><summary>🪈</summary><blockquote>
 
-M - (M) F M L - X L D - M L D M - F M X
-M - (M) F M L - X D R - M - F M R - R D (X) L
-M - (M) F M L - X L D - M - R M F - M R S
-M - (M) F M L - X D R - M L D M - F M (X) L
+<p>Một chuyện tình yêu anh họa sĩ<br/>
+Gợi trong tranh vẽ những vui buồn<br/>
+Lòng anh thầm yêu nàng ca sĩ<br/>
+Cô gái rất yêu bông hoa hồng</p>
 
-M M M - R R R - D D D - R M F - F F F - M M M -R R R - D R M
-M M M - R R R - D D D - X D R - R R R - D D D - X X X - D X L
-```
+🎵
+<p>M - (M) F M L - X L D - M L D M - F M X<br/>
+M - (M) F M L - X D R - M - F M R - R D (X) L<br/>
+M - (M) F M L - X L D - M - R M F - M R S<br/>
+M - (M) F M L - X D R - M L D M - F M (X) L</p>
+
+<p>M M M - R R R - D D D - R M F - F F F - M M M -R R R - D R M<br/>
+M M M - R R R - D D D - X D R - R R R - D D D - X X X - D X L</p>
+
+</blockquote></details>
+
+--------------------------------------------------------
 
 ### Cảm âm Furelise
-```
-Rế Míb Rế Míb Rế Si Mí Đố La
-Đô Mi La Si
-Mi Lab Si Đố
-Mi Rế Míb Rế Míb Rế Si Mí Rế La
-Đô Mi La Si
-Mi Đố Si La
-Si Đố Mí Rế
-Sol Fá Rế Si
-Sol Rế Mí Đố
-Mi Mí Đố Si
-Mi Mi Rế Mi Rế
-Rế Míb Rế Míb Rế Si Mí Đố La
-```
+
+<details><summary>🪈</summary><blockquote>
+
+🎵
+<p>Rế Míb Rế Míb Rế Si Mí Đố La<br/>
+Đô Mi La Si<br/>
+Mi Lab Si Đố<br/>
+Mi Rế Míb Rế Míb Rế Si Mí Rế La<br/>
+Đô Mi La Si<br/>
+Mi Đố Si La<br/>
+Si Đố Mí Rế<br/>
+Sol Fá Rế Si<br/>
+Sol Rế Mí Đố<br/>
+Mi Mí Đố Si<br/>
+Mi Mi Rế Mi Rế<br/>
+Rế Míb Rế Míb Rế Si Mí Đố La</p>
+
+</blockquote></details>
+
+--------------------------------------------------------
 
 ### Cảm âm Hello
-```
-I’ve been alone with you inside my mind
-Mi mi la la si si đô2 đô2 rê2…đô2
 
-And in my dreams I’ve kissed your lips a thousand times
-Mi mi la la si si đô2 đô2…si đô2 si la
+<details><summary>🪈</summary><blockquote>
 
-I sometimes see you pass outside my door
-Mi mi la la si si đô2 đô2 rê2..đô2
+<p>I’ve been alone with you inside my mind<br/>
+Mi mi la la si si đô2 đô2 rê2…đô2</p>
 
-Hello, is it me you’re looking for?
-Rê2 mi2, rê2 đô2 mi2 rê2 rê2 đô2 mi2
+<p>And in my dreams I’ve kissed your lips a thousand times<br/>
+Mi mi la la si si đô2 đô2…si đô2 si la</p>
 
-I can see it in your eyes
-Rê2 mi2 fa2 fa2_fa2 mi2 rê2
+<p>I sometimes see you pass outside my door<br/>
+Mi mi la la si si đô2 đô2 rê2..đô2</p>
 
-I can see it in your smile
-Đô2 rê2 mi2 rê2 rê2 đô2 sol_la
+<p>Hello, is it me you’re looking for?<br/>
+Rê2 mi2, rê2 đô2 mi2 rê2 rê2 đô2 mi2</p>
 
-You’re all I’ve ever wanted, and my arms are open wide
-La đô2 rê2 đô2 đô2 la…sol#, fa# sol# la si…rê2 đô2
+<p>I can see it in your eyes<br/>
+Rê2 mi2 fa2 fa2_fa2 mi2 rê2</p>
 
-‘Cause you know just what to say
-Rê2 mi2 fa2 fa2_fa2 mi2 rê2
+<p>I can see it in your smile<br/>
+Đô2 rê2 mi2 rê2 rê2 đô2 sol_la</p>
 
-And you know just what to do
-Đô2 rê2 mi2 fa2 mi2 rê2 đô2_la
+<p>You’re all I’ve ever wanted, and my arms are open wide<br/>
+La đô2 rê2 đô2 đô2 la…sol#, fa# sol# la si…rê2 đô2</p>
 
-And I want to tell you so much, I love you
-La đô2 rê2 đô2 đô2 la…sol#, fa# sol# la
-```
+<p>‘Cause you know just what to say<br/>
+Rê2 mi2 fa2 fa2_fa2 mi2 rê2</p>
+
+<p>And you know just what to do<br/>
+Đô2 rê2 mi2 fa2 mi2 rê2 đô2_la</p>
+
+<p>And I want to tell you so much, I love you<br/>
+La đô2 rê2 đô2 đô2 la…sol#, fa# sol# la</p>
+
+</blockquote></details>
+
+--------------------------------------------------------
 
 ### Cảm âm We are the world
-```
-Đoạn 1 :
-mi fa mi re do,
-do re mi sol Do Mi si
-si Do la, la si sol
-Do si si la la sol sol
 
-Đoạn 2 :
-do re mi, fa mi re do,
-do re mi sol Do Mi si
-si Do la, la si sol
-Do si si la la sol sol
+<details><summary>🪈</summary><blockquote>
 
-Điệp Khúc :
-mi fa sol Mi Mi
-mi fa sol Re Re
-mi fa# sol#, Do si la si la sol sol
-la sol sol la sol fa fa mi fa sol sol fa mi re
+Đoạn 1:
 
-mi fa sol Mi Mi
-mi fa sol Re Re
-mi fa# sol#, Do si la si la sol sol
-la sol sol la sol fa fa mi fa sol sol fa mi re
-sol sol sol fa mi re
-fa fa mi re do
-```
+<p>mi fa mi re do,<br/>
+do re mi sol Do Mi si<br/>
+si Do la, la si sol<br/>
+Do si si la la sol sol<?
+
+Đoạn 2:
+
+<p>do re mi, fa mi re do,<br/>
+do re mi sol Do Mi si<br/>
+si Do la, la si sol<br/>
+Do si si la la sol sol</p>
+
+Điệp Khúc:
+
+<p>mi fa sol Mi Mi<br/>
+mi fa sol Re Re<br/>
+mi fa# sol#, Do si la si la sol sol<br/>
+la sol sol la sol fa fa mi fa sol sol fa mi re</p>
+
+<p>mi fa sol Mi Mi<br/>
+mi fa sol Re Re<br/>
+mi fa# sol#, Do si la si la sol sol<br/>
+la sol sol la sol fa fa mi fa sol sol fa mi re<br/>
+sol sol sol fa mi re<br/>
+fa fa mi re do</p>
+
+</blockquote></details>
+
+--------------------------------------------------------
