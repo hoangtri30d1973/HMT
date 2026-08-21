@@ -267,9 +267,41 @@ Hoa vẫn rơi bên thềm nhà, lá xát xơ đi nhiều và <br/>
 Anh chúc em yên bình, mối tình mình, hẹn em kiếp sau.</p>
 </blockquote></details>
 
+<details align="center"><summary><strong>Biệt tri kỷ</strong><br/><em>Hứa một lời với nhau trước khi từ biệt</em></summary><blockquote>
+
+🎼
+<p>Hứa một lời với nhau trước khi từ biệt<br/>
+Hẹn thề nhé nếu có kiếp sau vẫn là bạn hiền<br/>
+Thời gian kia theo gió cuốn bay thế gian cuồng quay bước chân mỏi mệt<br/>
+Nâng chén say đêm nay mong sao ánh trăng mãi không đổi thay</p>
+
+<p>Đã từng một thời có nhau ngỡ không rời xa<br/>
+Nhiều bão tố dẫu lắm khó khăn quyết không thở than<br/>
+Bạn thân hỡi giữa những dối gian sống cho vẹn nguyên trái tim thật thà<br/>
+Mỗi sớm mai đau thương tan trong ánh dương bóng đêm lại qua</p>
+
+🎶
+<p>Còn điều gì chưa nói đến đây nói ra cùng tôi<br/>
+Ngày mai chia hai lối dạo chơi khắp bốn phương trời<br/>
+Bạn thân hỡi giữa những dối gian sống cho vẹn nguyên trái tim thật thà<br/>
+Mỗi sớm mai đau thương tan trong ánh dương bóng đêm lại qua</p>
+
+<p>Bước một mình dưới trăng nhớ những ngày xưa<br/>
+Bầu trời năm ấy vẫn mãi mang theo biết bao mộng mơ<br/>
+Còn trong đó những ký ức ấu thơ cách xa ngày mai có đâu ai ngờ<br/>
+Nâng chén say đêm nay mong sao ánh trăng mãi không đổi thay</p>
+
+🎶
+<p>Còn điều gì chưa nói đến đây nói ra cùng tôi<br/>
+Ngày mai chia hai lối dạo chơi khắp bốn phương trời<br/>
+Còn trong đó những ký ức ấu thơ cách xa ngày mai có đâu ai ngờ<br/>
+Nâng chén say đêm nay mong sao ánh trăng mãi không đổi thay</p>
+
+</blockquote></details>
+
 # C
 
-<details align="center"><summary><strong>Chiều nghe biển khóc</strong><br/><em> Một chiều nào bơ vơ trên cát</em></summary><blockquote>
+<details align="center"><summary><strong>Chiều nghe biển khóc</strong><br/><em>Một chiều nào bơ vơ trên cát</em></summary><blockquote>
   
 🎼
 <p>[Em] Một chiều nào bơ [G] vơ trên cát<br/>
@@ -371,6 +403,63 @@ Thì mây mưa cứ trôi [Cm] hoài, [Dm7] khát khao chờ [Gm] mong.</p>
 Nhẹ nâng câu hát ban [Cm] đầu, dấu [F] xưa tuyệt [Bb] vời<br/>
 Một mai anh sẽ quay [Gm] về, bờ môi mang bao thiết [Dm7] tha<br/>
 Bài ca in mãi trong [Cm] lòng, [Dm7] sẽ không nhạt [Gm] phai.</p>
+</blockquote></details>
+
+<details align="center"><summary><strong>Đi Tìm Tình Yêu (Gạo Nếp Gạo Tẻ OST)</strong><br/><em>Một tình yêu bao la như một đời yêu</em></summary><blockquote>
+  
+🎼
+<p>Một tình yêu bao la như một đời yêu<br/>
+Mệt đứt hơi lao xao ta chạy quanh chẳng dừng tìm lối<br/>
+Bầu trời xanh trên cao nắng quay về thôi<br/>
+Hạt long lanh cho ngày thêm tinh khôi</p>
+
+<p>Trong nổi vui đời thường , hay dẫu bao muộn phiền<br/>
+Tình thật an nhiên , phút giây bình yên<br/>
+Giữa chốn xa hoa này bao lần vấp ngã<br/>
+Giữ tâm hồn nhiên thức giấc mơ ta về</p>
+
+<p>Đời không cho nhiều mà lòng chẳng thiếu<br/>
+Nghĩ chi trả vay<br/>
+Nếu tim còn yêu , trời luôn mơ nắng<br/>
+Biết yêu thương mình là biết yêu thương người<br/>
+Một lần cho đi muôn đời ta mãi có</p>
+
+🎶
+<p>Ngày rồi đêm thay nhau có chi sầu thêm<br/>
+Mặt đất đâu hư hao , luôn là nơi nụ hoa nương nấu<br/>
+Bầu trời xanh trên cao đến muôn ngàn sao<br/>
+Tình nao nao đưa người về bên nhau</p>
+</blockquote></details>
+
+<details align="center"><summary><strong>Điểm ca đích nhân</strong><br/><em>Ngồi đàn một khúc hát dành tặng những ai đang buồn</em></summary><blockquote>
+  
+🎼
+<p>1. [Em] Ngồi đàn một khúc [G] hát dành [D] tặng những ai đang [Em] buồn<br/>
+Buồn phiền này hay [G] hân hoan kia số [D] kiếp cũng đã an [Em] bài<br/>
+[Em] Ngồi đàn một khúc [G] ca dành [D] tặng nhưng ai đang [Em] buồn<br/>
+Mọi trở ngại, chông [G] gai, gian lao, cố [D] gắng bước tiếp sẽ qua [Em] được</p>
+
+🎶
+<p>[Em] Năn na na ná na [G] nằn nà nà ồ [D] oa ba ắp pa [Em] pa<br/>
+[Em] Năn na na ná na [G] nắn nà nà ồ [D] oa ai ắp già [Em] già</p>
+
+<p>2. [Em] Ngồi đàn một khúc [G] hát dành [D] tặng trái tim u [Em] sầu<br/>
+Một cuộc tình không [G] như trong mơ xin [D] gió hãy cuốn xa [Em] mờ<br/>
+[Em] Ngồi đàn một khúc [G] ca dành [D] tặng những ai yếu [Em] mềm<br/>
+nhìn dòng đời trôi [G] qua vươn vai thôi cố [D] gắng sẽ thấy trưởng [Em] thành</p>
+
+🎶
+<p>[Em] Năn na na ná na [G] nằn nà nà ồ [D] oa ba ắp pa [Em] pa<br/>
+[Em] Năn na na ná na [G] nắn nà nà ồ [D] oa ai ắp già [Em] già</p>
+
+<p>3. [Em] Nhìn ngoài trời mây [G] trôi nắng [D] tàn một giấc mơ [Em] buồn<br/>
+Mà lòng này ôi [G] sao không cam tâm chỉ sống [D] với bóng dáng em xa [Em] rồi<br/>
+[Em] Đời người là kiếp [G] muôn lối thì [D] đừng có lạc [Em] đường<br/>
+Buồn làm gì ngoài [G] kia bao la, đừng [D] sống với bóng ma cô [Em] độc</p>
+
+🎶
+<p>[Em] Năn na na ná na [G] nằn nà nà ồ [D] oa ba ắp pa [Em] pa<br/>
+[Em] Năn na na ná na [G] nắn nà nà ồ [D] oa ai ắp già [Em] già</p>
 </blockquote></details>
 
 # G
@@ -522,93 +611,9 @@ Em có quay về [Am] chăng , ta đứng đây chờ [D] mãi cho thân xác ta
 
 ---
 
-                        <th class="has-background-warning">Biệt tri kỷ</th>
-                    </tr>
-                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
-Hứa một lời với nhau trước khi từ biệt
-Hẹn thề nhé nếu có kiếp sau vẫn là bạn hiền
-Thời gian kia theo gió cuốn bay thế gian cuồng quay bước chân mỏi mệt
-Nâng chén say đêm nay mong sao ánh trăng mãi không đổi thay
-
-Đã từng một thời có nhau ngỡ không rời xa
-Nhiều bão tố dẫu lắm khó khăn quyết không thở than
-Bạn thân hỡi giữa những dối gian sống cho vẹn nguyên trái tim thật thà
-Mỗi sớm mai đau thương tan trong ánh dương bóng đêm lại qua
-
-ĐK: 
-Còn điều gì chưa nói đến đây nói ra cùng tôi
-Ngày mai chia hai lối dạo chơi khắp bốn phương trời
-Bạn thân hỡi giữa những dối gian sống cho vẹn nguyên trái tim thật thà
-Mỗi sớm mai đau thương tan trong ánh dương bóng đêm lại qua
-
-Bước một mình dưới trăng nhớ những ngày xưa
-Bầu trời năm ấy vẫn mãi mang theo biết bao mộng mơ
-Còn trong đó những ký ức ấu thơ cách xa ngày mai có đâu ai ngờ
-Nâng chén say đêm nay mong sao ánh trăng mãi không đổi thay
-
-ĐK:
-Còn điều gì chưa nói đến đây nói ra cùng tôi
-Ngày mai chia hai lối dạo chơi khắp bốn phương trời
-Còn trong đó những ký ức ấu thơ cách xa ngày mai có đâu ai ngờ
-Nâng chén say đêm nay mong sao ánh trăng mãi không đổi thay
 
 ---
 
-                        <th class="has-background-warning">Đi Tìm Tình Yêu (Gạo Nếp Gạo Tẻ OST)</th>
-                    </tr>
-                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
-Một tình yêu bao la như một đời yêu
-Mệt đứt hơi lao xao ta chạy quanh chẳng dừng tìm lối
-Bầu trời xanh trên cao nắng quay về thôi
-Hạt long lanh cho ngày thêm tinh khôi
-
-Trong nổi vui đời thường , hay dẫu bao muộn phiền
-Tình thật an nhiên , phút giây bình yên
-Giữa chốn xa hoa này bao lần vấp ngã
-Giữ tâm hồn nhiên thức giấc mơ ta về
-
-Đời không cho nhiều mà lòng chẳng thiếu
-Nghĩ chi trả vay
-Nếu tim còn yêu , trời luôn mơ nắng
-Biết yêu thương mình là biết yêu thương người
-Một lần cho đi muôn đời ta mãi có
-DK :
-Ngày rồi đêm thay nhau có chi sầu thêm
-Mặt đất đâu hư hao , luôn là nơi nụ hoa nương nấu
-Bầu trời xanh trên cao đến muôn ngàn sao
-Tình nao nao đưa người về bên nhau
-                    </pre></td></tr>
-                    <tr>
-                        <th class="has-background-warning">Điểm ca đích nhân</th>
-                    </tr>
-                    <tr>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
-1. [Em] Ngồi đàn một khúc [G] hát dành [D] tặng những ai đang [Em] buồn
-Buồn phiền này hay [G] hân hoan kia số [D] kiếp cũng đã an [Em] bài
-[Em] Ngồi đàn một khúc [G] ca dành [D] tặng nhưng ai đang [Em] buồn
-Mọi trở ngại, chông [G] gai, gian lao, cố [D] gắng bước tiếp sẽ qua [Em] được
-
-ĐK: [Em] Năn na na ná na [G] nằn nà nà ồ [D] oa ba ắp pa [Em] pa
-[Em] Năn na na ná na [G] nắn nà nà ồ [D] oa ai ắp già [Em] già
-
-2. [Em] Ngồi đàn một khúc [G] hát dành [D] tặng trái tim u [Em] sầu
-Một cuộc tình không [G] như trong mơ xin [D] gió hãy cuốn xa [Em] mờ
-[Em] Ngồi đàn một khúc [G] ca dành [D] tặng những ai yếu [Em] mềm
-nhìn dòng đời trôi [G] qua vươn vai thôi cố [D] gắng sẽ thấy trưởng [Em] thành
-
-ĐK: [Em] Năn na na ná na [G] nằn nà nà ồ [D] oa ba ắp pa [Em] pa
-[Em] Năn na na ná na [G] nắn nà nà ồ [D] oa ai ắp già [Em] già
-
-3. [Em] Nhìn ngoài trời mây [G] trôi nắng [D] tàn một giấc mơ [Em] buồn
-Mà lòng này ôi [G] sao không cam tâm chỉ sống [D] với bóng dáng em xa [Em] rồi
-[Em] Đời người là kiếp [G] muôn lối thì [D] đừng có lạc [Em] đường
-Buồn làm gì ngoài [G] kia bao la, đừng [D] sống với bóng ma cô [Em] độc
-
-ĐK: [Em] Năn na na ná na [G] nằn nà nà ồ [D] oa ba ắp pa [Em] pa
-[Em] Năn na na ná na [G] nắn nà nà ồ [D] oa ai ắp già [Em] già
-                        </pre></td>
-                    </tr>
-                    <tr>
 
                         <th class="has-background-warning">Khất duyên</th>
                     </tr>
