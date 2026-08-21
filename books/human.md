@@ -5,8 +5,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 ---
 
-LỜI MỞ ĐẦU
-=====
+### LỜI MỞ ĐẦU
 
 <details><summary>▶️</summary><blockquote><div markdown="1">
   
@@ -18,8 +17,7 @@ LỜI MỞ ĐẦU
 
 --------------------------------------------------------
 
-LỜI GIỚI THIỆU
-=====
+### LỜI GIỚI THIỆU
 
 <details><summary>▶️</summary><blockquote><div markdown="1">
 
@@ -35,8 +33,7 @@ LỜI GIỚI THIỆU
 
 --------------------------------------------------------
 
-THỂ  XÁC
-=====
+### THỂ  XÁC
 
 <details><summary>▶️</summary><blockquote><div markdown="1">
 
@@ -87,8 +84,7 @@ THỂ  XÁC
 
 --------------------------------------------------------
 
-THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)
-=====
+### THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)
 
 <details><summary>▶️</summary><blockquote><div markdown="1">
 
@@ -119,8 +115,7 @@ THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)
 
 --------------------------------------------------------
 
-THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)
-=====
+### THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)
 
 <details><summary>▶️</summary><blockquote><div markdown="1">
 
@@ -188,8 +183,7 @@ THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)
 
 --------------------------------------------------------
 
-NHỮNG THỂ TRÍ - (The Mind Bodies)
-=====
+### NHỮNG THỂ TRÍ - (The Mind Bodies)
 
 <details><summary>▶️</summary><blockquote><div markdown="1">
 
@@ -257,8 +251,7 @@ NHỮNG THỂ TRÍ - (The Mind Bodies)
 
 --------------------------------------------------------
 
-NHỮNG DẪN THỂ KHÁC - (Other Vehicles)
-=====
+### NHỮNG DẪN THỂ KHÁC - (Other Vehicles)
 
 <details><summary>▶️</summary><blockquote><div markdown="1">
 
@@ -288,8 +281,7 @@ NHỮNG DẪN THỂ KHÁC - (Other Vehicles)
 
 --------------------------------------------------------
 
-CON NGƯỜI - (The  man)
-=====
+### CON NGƯỜI - (The  man)
 
 <details><summary>▶️</summary><blockquote><div markdown="1">
 
