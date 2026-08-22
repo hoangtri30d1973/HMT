@@ -35,7 +35,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 |Nội dung|Liên kết|
 |:---|:---:|
-|***THỂ XÁC***| |
+|***THỂ XÁC***|[🔝](#top)|
 |THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)|[▶️](#02)|
 |THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)|[▶️](#03)|
 |NHỮNG THỂ TRÍ - (The Mind Bodies)|[▶️](#04)|
@@ -98,7 +98,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 |Nội dung|Liên kết|
 |:---|:---:|
 |THỂ XÁC|[▶️](#01)|
-|***THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)***| |
+|***THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)***|[🔝](#top)|
 |THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)|[▶️](#03)|
 |NHỮNG THỂ TRÍ - (The Mind Bodies)|[▶️](#04)|
 |NHỮNG DẪN THỂ KHÁC - (Other Vehicles)|[▶️](#05)|
@@ -141,7 +141,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 |:---|:---:|
 |THỂ XÁC|[▶️](#01)|
 |THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)|[▶️](#02)|
-|***THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)***| |
+|***THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)***|[🔝](#top)|
 |NHỮNG THỂ TRÍ - (The Mind Bodies)|[▶️](#04)|
 |NHỮNG DẪN THỂ KHÁC - (Other Vehicles)|[▶️](#05)|
 |CON NGƯỜI - (The man)|[▶️](#06)|
@@ -221,7 +221,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 |THỂ XÁC|[▶️](#01)|
 |THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)|[▶️](#02)|
 |THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)|[▶️](#03)|
-|***NHỮNG THỂ TRÍ - (The Mind Bodies)***| |
+|***NHỮNG THỂ TRÍ - (The Mind Bodies)***|[🔝](#top)|
 |NHỮNG DẪN THỂ KHÁC - (Other Vehicles)|[▶️](#05)|
 |CON NGƯỜI - (The man)|[▶️](#06)|
 
@@ -301,7 +301,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 |THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)|[▶️](#02)|
 |THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)|[▶️](#03)|
 |NHỮNG THỂ TRÍ - (The Mind Bodies)|[▶️](#04)|
-|***NHỮNG DẪN THỂ KHÁC - (Other Vehicles)***| |
+|***NHỮNG DẪN THỂ KHÁC - (Other Vehicles)***|[🔝](#top)|
 |CON NGƯỜI - (The man)|[▶️](#06)|
 
 ---
@@ -343,7 +343,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 |THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)|[▶️](#03)|
 |NHỮNG THỂ TRÍ - (The Mind Bodies)|[▶️](#04)|
 |NHỮNG DẪN THỂ KHÁC - (Other Vehicles)|[▶️](#05)|
-|***CON NGƯỜI - (The man)***| |
+|***CON NGƯỜI - (The man)***|[🔝](#top)|
 
 ---
 
