@@ -1,13 +1,10 @@
-<p align="center">
-  <img src="../svg/my-footer.svg" alt="Project banner" width="100%" />
-</p>
+<h1 align="center">Các đoạn văn yêu thích được trích từ sách</h1>
 
 ---
 
 <h3 align="center">Đại đường song long</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
-
-<div align="justify"><blockquote><div markdown="1">
+<blockquote><div markdown="1" align="justify">
 
 - Phép dụng binh, là lấy mưu làm chính! Đó là dùng mưu lược trận, trước tiên phải mưu đoạt địa lợi; muốn dùng mưu thắng địch, trước tiên phải dùng mưu đặt bản thân vào thế bất bại.
 - Dũng cảm hay nhát gan là tại phương pháp, thành hay bại là tại trí. Nghĩa là dũng cảm hay nhát gan nằm ở mưu, mạnh hay yếu nằm ở thế. Mưu đạt, việc thành thì làm người dũng, mưu hỏng, thế mất thì làm người nhát gan giả dũng cảm.
@@ -21,15 +18,14 @@
 - Sáng tạo bất chiếm hữu, Thành công bất tự cứ. 
 - Cả đời ta theo đuổi tìm kiếm cái tận mỹ, nhưng chỉ là dùng tâm trạng của người quan sát để thưởng thức mà thôi. Đó cũng là ý nghĩa sâu xa của Dịch kiếm thuật, ta truyền cho con.
 
-</div></blockquote></div>
-
-<div align="right">🔷 🔷 🔷 🔷 🔷</div>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
 
 --------------------------------------------------------
 
-## Thông thiên đại thánh
-
-<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
+<h3 align="center">Thông thiên đại thánh</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<div align="justify"><blockquote><div markdown="1">
 
 - Sống trên đời này, chính là một biển khổ, chúng ta đều là người sinh sống trong biển khổ, nhưng điểm khác nhau là, có ít người ở trên thuyền, mà có ít người, thì phiêu dạt khắp nơi, cái thuyền này, chính là thế lực, thế lực có lớn có nhỏ, còn con thuyền, cũng có lớn có nhỏ, như hoàng tộc Đại Tấn hiện giờ, đang ở trên con thuyền lớn nhất biển khổ, còn Thiên Long Đạo, Minh Nghĩa Kinh Viện các loại, còn có những thế gia ngàn năm, đây đều là những con thuyền lớn, còn Ô gia chúng ta, cũng là một chiếc thuyền, chúng ta, đều ở trên chiếc thuyền này, tạm thời thoát ly biển khổ, nhưng nếu vạn nhất thì sao, vạn nhất có một ngày nào đó con thuyền bị chìm, hoặc là nói, ngươi cần phải rời khỏi con thuyền này, đi làm chuyện của chính ngươi thì sao? Khi đó, ngươi cần một điểm dừng chân, nếu không, chỉ có thể lưu lạc giang hồ, nước chảy bèo trôi, thích ứng mọi tình cảnh, như vậy không tốt, phong hiểm quá lớn, trừ phi, thực lực của ngươi đạt tới tiêu chuẩn của hắc bào nhân, dịch cân giới, đến thực lực đó, không nói thoát ly biển khổ, ít nhất ngươi có vốn liếng du lịch biển khổ, nhưng mà, trên đời này có bao nhiêu người đạt tới dịch cân giới chứ, Tiểu Báo Tử, nghe lời ta, nhân lúc ngươi còn trẻ, lại có chút vốn liếng, ngươi phải làm ra một con thuyền, không cần quá lớn, nhưng đủ để chứa ngươi là được.
 - Chu Báo vốn muốn cười, nhưng chợt tưởng tượng, liền sao cũng không cười nổi nữa, không sai, thiên tâm nhất từ, lời này nói một chút cũng không sai, sinh linh trong thiên địa, đều ỷ lại vào thiên, ỷ lại vào địa, không có Thiên địa sẽ không còn không gian sinh tồn, Thiên địa cung cấp vô tận nguyên khí, vô tận lương thực, vô tận trụ sở, lại không cận bất luận hồi báo nào cả, việc nó muốn duy nhất chính là không nên đòi lấy quá nhiều, coi như người có đòi lấy nhiều hơn, khiến thiên không thể nhịn được nữa, cầm lôi đến bổ ngươi, còn có thể chừa lại cho ngươi một đường sinh cơ, cho ngươi đạt được một ít chỗ tốt, đây không phải nhất từ, vậy thì ai là nhất từ đây?
