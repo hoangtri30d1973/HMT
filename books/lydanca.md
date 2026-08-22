@@ -18,6 +18,8 @@ Dang dỡ tình đầu, ta còn ngóng đợi ai<br/>
 Dù cho người có đi về đâu<br/>
 Lòng em xin giữ vẹn mối tình đầu riêng mang</p>
 
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+
 Lý cái Mơn:
 =====
 <p>Đàn cò bay về nơi thương nhớ<br/>
@@ -36,6 +38,8 @@ Có sang sông thì chim sáo hát câu hẹn hò</p>
 Tia nắng soi rưng rưng<br/>
 Đôi bờ bỗng nghe chim nhạn tìm … nhau</p>
 
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+
 Lý con sáo Gò Công:
 =====
 <p>Ra bờ sông như hẹn lứa đôi<br/>
@@ -47,6 +51,8 @@ Mai mốt đây anh đem cau trầu nhờ người se duyên tình ta<br/>
 Em chớ nên lo buồn anh đã thưa cùng mẹ cha<br/>
 Duyên chúng ta muôn đời như nước trên dòng đầy vơi.</p>
 
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+
 Lý chim quyên:
 =====
 <p>Xanh mây trời, màu xanh áo em<br/>
@@ -57,6 +63,8 @@ Vang khúc nhạc tình xuân.</p>
 Từ trái tim yêu đời,hương sắc xuân tuyệt vời<br/>
 Tha thiết một niềm tin.</p>
 
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+
 Lý Mỹ Hưng:
 =====
 <p>Bạn tình ơi dẫu gì cũng xa nhau rồi,<br/>
@@ -65,6 +73,8 @@ Chuyện tình xưa dù sao đi nữa cũng là giấc mơ.<br/>
 Hơi ấm con tim để than ngắm thôi lạnh căm.<br/>
 Nếu xưa đôi mình chưa lần đường quê chung lối,<br/>
 Nếu xưa không hẹn bây giờ đâu làm khổ nhau.</p>
+
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 
 Lý son sắt:
 =====
@@ -79,6 +89,8 @@ Lời yêu tiếng thương hôm nay<br/>
 còn trong ta thiết tha nồng say.<br/>
 Mà ai đã quên đi rồi để mình ta ôm nhớ thương đầy vơi.</p>
 
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+
 Lý tòng quân:
 =====
 <p>Tôi nghèo, tôi nghèo xác xơ<br/>
@@ -86,5 +98,7 @@ Tấm thân tôi vốn mang tên lái đò<br/>
 Thì đâu ham gì, mơ gì cao sang<br/>
 Người hỡi chớ nên trách chi thân phận<br/>
 Thôi hãy về về đi, xin quên tình nay đã phai.</p>
+
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 
 ---
