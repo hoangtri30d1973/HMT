@@ -295,6 +295,8 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 --------------------------------------------------------
 
+<div id="05"></div>
+
 |Nội dung|Liên kết|
 |:---|:---:|
 |THỂ XÁC|[▶️](#01)|
@@ -308,7 +310,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 ### NHỮNG DẪN THỂ KHÁC - (Other Vehicles)
 
-<blockquote><div markdown="1" align="justify" id="05">
+<blockquote><div markdown="1" align="justify">
 
 - Chúng ta có thể đi một bước xa hơn, nhưng khi làm thế, chúng ta phải vào một vùng rất cao cả, gần như ngoài tầm con đường chúng ta, dù trong sự tưởng tượng. Vì nhân thể không phải một thể cao nhất, và Chân Ngã không phải Thượng Trí (Manas), mà là thượng trí kết hợp và thâm nhập trong Bồ Đề (Buddhi). Đây là kết quả sự tiến hóa của nhân loại, điểm cuối cùng của bánh xe luân hồi sinh tử.
 - Bên trên cõi thượng giới mà chúng ta đã nói đến, còn có một cõi cao hơn, đôi khi được gọi là cõi của trạng thái tâm thức tinh thần cao siêu (Turiya) hay cõi của Tuệ Giác (Buddhi). Ở cõi này, dẫn thể của tâm thức là thể tinh thần, còn được gọi là thể bồ đề hay thể phúc lạc (anandamayakosa), mà người tu sĩ thiền định có thể thâm nhập vào, và trong đó họ nếm mùi phúc lạc vĩnh cửu của thế giới huy hoàng. Ở trạng thái này, thiền gia nhận ra trong tâm thức chính mình sự đồng nhất với tất cả, điều này trở thành một sự kiện của kinh nghiệm, chớ không chỉ là một niềm tin thông minh.
@@ -336,6 +338,8 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 --------------------------------------------------------
 
+ <div id="06"></div>
+
 |Nội dung|Liên kết|
 |:---|:---:|
 |THỂ XÁC|[▶️](#01)|
@@ -349,7 +353,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 ### CON NGƯỜI - (The  man)
 
-<blockquote><div markdown="1" align=:justify" id="06">
+<blockquote><div markdown="1" align="justify">
 
 - Đến đây chúng ta để sang một bên sự nghiên cứu về những dẫn thể của tâm thức, và bắt đầu xem xét chính con người, tâm thức tác động lên những thể. Có nghĩa là chúng ta không chú trọng đến những thể mà chú trọng đến ‘‘thực thể’’ tác động bên trong những thể. Khi đề cập đến ‘‘con người’’, tôi muốn nói đến ‘‘cá nhân’’ tiếp tục đi qua từ đời sống này đến đời sống khác. Con người vào những thể rồi lại rời bỏ chúng, và cứ thế lặp đi lặp lại, nó tăng trưởng chậm chạp theo thời gian, phát triển bằng cách góp nhặt và đồng hóa những kinh nghiệm, nó tồn tại trên vùng cao của cõi trí tuệ. ‘‘Con người’’ này là chủ đề chúng ta nghiên cứu, nó xuống và sinh hoạt trong 3 cõi mà chúng ta đã biết: cõi vật chất, cõi tình cảm và cõi trí tuệ.
 - Con người bắt đầu kinh nghiệm bằng cách phát triển ý thức bản ngã ở cõi vật chất. Nơi đây xuất hiện cái chúng ta gọi là ‘‘tâm thức thức tỉnh’’, mà mọi người đều quen thuộc, nó làm việc xuyên qua não bộ và hệ thần kinh. Nhờ nó, chúng ta suy luận theo đường lối thông thường, nhờ nó chúng ta nhớ được những sự việc quá khứ thuộc kiếp hiện tại, và xét đoán những công việc trong đời sống.
