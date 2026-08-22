@@ -33,9 +33,20 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 --------------------------------------------------------
 
+|Nội dung|Liên kết|
+|:---|:---:|
+|***THỂ XÁC***| |
+|THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)|[▶️](#02)|
+|THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)|[▶️](#03)|
+|NHỮNG THỂ TRÍ - (The Mind Bodies)|[▶️](#04)|
+|NHỮNG DẪN THỂ KHÁC - (Other Vehicles)|[▶️](#05)|
+|CON NGƯỜI - (The man)|[▶️](#06)|
+
+---
+
 ### THỂ  XÁC
 
-<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
+<blockquote><div markdown="1" align="justify" id="01">
 
 - Từ ngữ thể xác bao gồm hai nguyên lý thấp của con người, hai nguyên lý này cùng hoạt động ở cõi trần, cùng được tạo nên bởi chất liệu vật chất, cùng sinh hoạt trong thời gian cuộc sống của con người ở cõi trần, và bị vứt bỏ lúc con người ‘‘chết’’, khi con người bước qua cõi trung giới chúng sẽ tan rã dần ở cõi trần.
 - Một nguyên nhân khác để ta xếp loại hai nguyên lý này chung trong thể xác hay ‘‘dẫn thể vật chất’’ là cho đến khi nào ta chưa vượt ra khỏi cõi trần, ta cần phải sử dụng một trong hai, hoặc cả hai lớp áo vật chất này. Vì chất liệu cấu tạo ra chúng, cả hai thể đều thuộc về cõi trần, và không thể đi ra bên ngoài cõi trần. Tâm thức tác động trong chúng bị ràng buộc bên trong những giới hạn vật chất, và phải tuân theo những định luật thông thường của không gian và thời gian. Dù chúng có thể tách riêng một phần nào, nhưng trong suốt đời sống thế gian, ít khi chúng tách rời nhau. Sự tách rời này không được khuyến khích và luôn luôn là một dấu hiệu bệnh hoạn hay mất quân bình.
@@ -80,13 +91,24 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 - Người có quyết tâm một cách bền bỉ, không phải tùy hứng, có thể tiến bộ theo ý họ muốn. Trong khi người giả bộ, chỉ chạy vòng quanh cối xay trong nhiều kiếp luân hồi.
 - Ở đây chỉ là sự thanh lọc hóa thể xác để chuẩn bị cho sự thực hành tất cả các loại yoga, không phải toàn thể sự chuẩn bị, mà chỉ là một phần cần thiết. Đến đây sự bàn luận về phần đậm đặc của thể xác, tức dẫn thể thấp nhất của tâm thức, được coi như tạm đủ, chúng ta bước sang phần thanh nhẹ hơn của thể xác, tức thể dĩ thái kép, thường được gọi là thể phách.
 
-</div></blockquote></details>
+</div></blockquote>
 
 --------------------------------------------------------
 
+|Nội dung|Liên kết|
+|:---|:---:|
+|THỂ XÁC|[▶️](#01)|
+|***THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)***| |
+|THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)|[▶️](#03)|
+|NHỮNG THỂ TRÍ - (The Mind Bodies)|[▶️](#04)|
+|NHỮNG DẪN THỂ KHÁC - (Other Vehicles)|[▶️](#05)|
+|CON NGƯỜI - (The man)|[▶️](#06)|
+
+---
+
 ### THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)
 
-<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
+<blockquote><div markdown="1" align="justify" id="02">
 
 - Theo khoa học vật chất, mọi sự thay đổi của bắp thịt, thần kinh, tế bào, hoặc những thay đổi hóa học liên tục trong cơ thể, đều do tác động của điện. Bất cứ lúc nào có tác động của điện, thì luôn luôn có sự hiện diện của chất dĩ thái, do đó, khi có dòng điện chứng tỏ có chất dĩ thái kèm theo. Chất dĩ thái thấm nhuần và bao quanh tất cả. Không có phần tử nào của vật chất tiếp xúc trực tiếp với phần tử khác, mà các phần tử đều di động trong môi trường chất dĩ thái. Thật ra dĩ thái cũng hữu hình như cái bàn, cái ghế, nhưng mắt trần không nhận thấy được, do mức độ tiếp nhận khác nhau của thị giác. Như đã được đề cập, có 4 loại dĩ thái khác nhau, loại thanh nhuyễn nhất bao gồm những nguyên tử căn bản của cõi trần, (nguyên tử căn bản cõi trần không phải nguyên tử mà các nhà hóa học hiện tại tìm ra, nguyên tử hóa học thật ra là một thể phức tạp). Ta gọi là nguyên tử căn bản, hay tối hậu vì khi nó phân hủy sẽ cho ra chất liệu cõi trung giới.[1]
 - Thể phách, hay ‘‘thể dĩ thái kép’’, còn được gọi là ‘‘nhị xác thân’’, được cấu tạo từ 4 loại chất dĩ thái, nó thấm nhập vào cấu trúc chất đặc, chất lỏng và chất hơi của thể xác đậm đặc, và bao bọc tất cả những phần tử với một lớp dĩ thái, như thế nó là một bản sao hoàn hảo của thể xác đậm đặc. Người có nhãn quan được huấn luyện, có thể nhìn thấy rõ thể phách, nó màu xám tím, cấu trúc nó thô hay mịn tùy theo độ thô kệch của thể xác đậm đặc. Điều quan trọng cần ghi nhận là những thay đổi về phẩm chất của thể xác đậm đặc đi đôi với phẩm chất của thể phách. Khi người học đạo có ý thức và chú tâm thanh lọc thể xác đậm đặc, thể phách cũng được trong sạch theo mà không cần cố gắng nào khác, và mặc dù người ấy không ý thức về điều đó.
@@ -111,13 +133,24 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 - Cũng đúng là khi giác quan trở nên bén nhạy hơn, có nhiều cảm giác không thích thú sẽ đến, vì ta sống trong thế giới có nhiều xáo động thô kệch do loài người phóng thích ra. Nhưng mặt khác, những vẻ đẹp sẽ tự biểu lộ và trả công ta gấp trăm lần cho những khó khăn mà ta phải đối diện và vượt qua. Hơn nữa, ta không sở hữu các thể với mục đích ích kỷ, hoặc để sống phù phiếm, hưởng thụ, mà ta phải sử dụng chúng để phụng sự đắc lực hơn. Ta phải làm cho các thể trở thành những dụng cụ hữu hiệu hơn trong việc giúp đỡ nhân loại, và thích hợp hơn cho công việc thúc đẩy sự tiến hóa chung, đó là chủ trương của các đấng Chân Sư vĩ đại mà chúng ta có đặc ân được hợp tác.   
 - Đến đây, chúng ta đã nghiên cứu qua cõi trần, tức chỉ một phần của đề tài, và chúng ta đã hiểu được sự quan trọng trong việc thanh luyện thể thấp nhất dùng cho tâm thức biểu lộ. Khi những kiến thức này trở thành thông dụng, và được chấp nhận không những chỉ như sự hiểu biết suông, mà như qui luật trong cuộc sống hàng ngày, thì cõi trần sẽ được trong sạch, tốt đẹp hơn. 
 
-</div></blockquote></details>
+</div></blockquote>
 
 --------------------------------------------------------
 
+|Nội dung|Liên kết|
+|:---|:---:|
+|THỂ XÁC|[▶️](#01)|
+|THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)|[▶️](#02)|
+|***THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)***| |
+|NHỮNG THỂ TRÍ - (The Mind Bodies)|[▶️](#04)|
+|NHỮNG DẪN THỂ KHÁC - (Other Vehicles)|[▶️](#05)|
+|CON NGƯỜI - (The man)|[▶️](#06)|
+
+---
+
 ### THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)
 
-<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
+<blockquote><div markdown="1" align="justify" id="03">
 
 - Chúng ta đã nghiên cứu thể xác con người, cả phần hữu hình lẫn vô hình. Chúng ta hiểu con người, một thực thể sống động có ý thức, khi tâm thức ‘‘thức tỉnh’’ và sống trong thế giới vật chất, nó chỉ có thể hiểu biết và biểu lộ năng lực trong giới hạn của thể xác. Tùy theo sự hoàn hảo hay không của thể xác, mà sự diễn đạt của con người có hoàn hảo hay không tại cõi trần. Thể xác giới hạn những khả năng của con người ở cõi thấp, tạo ra ‘‘vòng giới hạn’’ thực sự chung quanh con người. Những điều gì không thể vượt qua vòng giới hạn này thì không thể biểu lộ được ở thế gian; vấn đề này quan trọng đối với người đang phát triển.
 - Cũng thế, khi con người xuất ra khỏi thể xác và hoạt động trong cõi trung giới, họ chỉ có thể diễn đạt những kiến thức và năng lực trong giới hạn của thể vía. Như thế, thể vía là một dẫn thể, đồng thời cũng là giới hạn đối với con người. 
@@ -179,13 +212,24 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 - Con người có sự sống không gián đoạn; những kiếp sống trần gian được kết nối nhau, không tách rời. Tiến trình thanh lọc và phát triển cũng liên tục, và phải được thực hiện xuyên qua nhiều kiếp sống liên tục ở thế gian. Một lúc nào đó chúng ta phải bắt đầu công việc thanh lọc, có những lúc chúng ta cảm thấy mệt mỏi vì bản chất thấp hèn, mệt mỏi vì sự đòi hỏi thô bạo của những giác quan. Con người sẽ không còn bằng lòng phục tùng những đòi hỏi xấu, sẽ quyết định cắt đứt những giây trói buộc giam cầm họ. 
 - Tại sao ta để cho sự trói buộc kéo dài, trong khi ta có năng lực cắt đứt nó bất cứ lúc nào? Không một bàn tay nào ngoài chúng ta có thể trói buộc chúng ta, cũng không có bàn tay nào ngoài chúng ta có thể giải thoát chúng ta. Chúng ta có quyền chọn lựa, và tự do ý chí. Vì một ngày nào đó tất cả chúng ta sẽ đứng chung nhau trong thế giới cao cả, tại sao chúng ta không bắt đầu cắt đứt những trói buộc và đòi hỏi quyền thừa kế thiêng liêng ngay bây giờ? Khi bắt đầu công việc đó, chúng ta cương quyết bắt bản chất thấp hèn làm tôi tớ cho phần cao cả. Nơi đây, cõi của tâm thức hồng trần, ta phải bắt đầu kiến tạo những thể thanh cao hơn, và nhận ra những khả năng cao quý hơn, chúng có đặc quyền thiêng liêng, nhưng hiện tại bị che khuất bởi ‘‘con vật’’ mà ta đang sống trong đó. 
 
-</div></blockquote></details>
+</div></blockquote>
 
 --------------------------------------------------------
 
+|Nội dung|Liên kết|
+|:---|:---:|
+|THỂ XÁC|[▶️](#01)|
+|THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)|[▶️](#02)|
+|THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)|[▶️](#03)|
+|***NHỮNG THỂ TRÍ - (The Mind Bodies)***| |
+|NHỮNG DẪN THỂ KHÁC - (Other Vehicles)|[▶️](#05)|
+|CON NGƯỜI - (The man)|[▶️](#06)|
+
+---
+
 ### NHỮNG THỂ TRÍ - (The Mind Bodies)
 
-<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
+<blockquote><div markdown="1" align="justify" id="04">
 
 - Chúng ta đã học về thể xác và thể vía con người. Thể xác hoạt động ở cõi trần, có phần hữu hình và phần vô hình. Chúng ta đã theo dõi cách thức sinh hoạt, cũng như phân tích bản chất của sự tăng trưởng và cách thức thanh lọc hóa nó. Đối với thể vía cũng thế, chúng ta đã theo dõi những hoạt động và tăng trưởng, những hiện tượng liên hệ với sự biểu lộ của nó ở cõi trung giới, và sự thanh lọc hóa nó. Như thế, chúng ta đã có vài ý tưởng về hoạt động của con người ở 2 trong 7 cõi của vũ trụ.
 - Bây giờ, chúng ta có thể sang qua cõi thứ ba, thế giới của trí tuệ. Chúng ta đã biết có 3 cõi: cõi trần, cõi trung giới và cõi trí tuệ. Trái đất và hai khối cầu bao quanh nó (chỉ cõi trung giới và cõi thượng giới – LDG), như một vùng bộ ba, nơi đó con người hoạt động trong suốt những lần đầu thai ở cõi trần, và cũng nơi đó con người cư trú trong suốt những giai đoạn xen kẽ giữa sự chết (khép lại một đời sống thế gian) và sự sinh (mở ra một đời sống khác ở thế gian). 
@@ -247,13 +291,24 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 - Chúng ta vừa nhận thấy theo luật tiến hóa, mọi điều xấu ác trong nhất thời dù mạnh mẽ đến đâu, đều mang trong nó mầm mống tự hủy diệt, trong khi mọi điều tốt lành đều có trong nó hạt giống bất tử. Điều bí nhiệm nằm trong sự kiện là mọi điều xấu ác thì không hòa điệu, và tự nó chống lại luật vũ trụ; cho nên không sớm thì muộn cũng bị luật vũ trụ chống lại, phá vỡ và nghiền nát nó thành tro bụi. Trái lại, mọi điều tốt lành, hòa điệu với luật, được trợ lực bởi luật, trở thành một thành phần của dòng tiến hóa, và như thế ‘‘không phải chính chúng ta làm điều đúng, mà là thiên nhiên làm’’, do đó nó không thể nào mất, không bao giờ bị hủy diệt.
 - Đến đây chúng ta thấy không phải con người chỉ hy vọng suông, mà chắc chắn sẽ đạt được chiến thắng cuối cùng. Sự phát triển có thể chậm chạp nhưng vững mạnh, con đường có thể dài đằng đẵng, nhưng sẽ có đoạn cuối. Cá tính hay Chân Ngã chúng ta đang tiến hóa, không thể bị hủy diệt. Do ngu dốt, con người làm cho sự tiến hóa bị chậm trễ, tuy nhiên, những gì mà chúng ta góp phần vào sự tiến hóa, dù nhỏ nhặt, sẽ tồn tại vĩnh viễn, và là sở hữu của chúng ta qua mọi thời đại tương lai. 
 
-</div></blockquote></details>
+</div></blockquote>
 
 --------------------------------------------------------
 
+|Nội dung|Liên kết|
+|:---|:---:|
+|THỂ XÁC|[▶️](#01)|
+|THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)|[▶️](#02)|
+|THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)|[▶️](#03)|
+|NHỮNG THỂ TRÍ - (The Mind Bodies)|[▶️](#04)|
+|***NHỮNG DẪN THỂ KHÁC - (Other Vehicles)***| |
+|CON NGƯỜI - (The man)|[▶️](#06)|
+
+---
+
 ### NHỮNG DẪN THỂ KHÁC - (Other Vehicles)
 
-<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
+<blockquote><div markdown="1" align="justify" id="05">
 
 - Chúng ta có thể đi một bước xa hơn, nhưng khi làm thế, chúng ta phải vào một vùng rất cao cả, gần như ngoài tầm con đường chúng ta, dù trong sự tưởng tượng. Vì nhân thể không phải một thể cao nhất, và Chân Ngã không phải Thượng Trí (Manas), mà là thượng trí kết hợp và thâm nhập trong Bồ Đề (Buddhi). Đây là kết quả sự tiến hóa của nhân loại, điểm cuối cùng của bánh xe luân hồi sinh tử.
 - Bên trên cõi thượng giới mà chúng ta đã nói đến, còn có một cõi cao hơn, đôi khi được gọi là cõi của trạng thái tâm thức tinh thần cao siêu (Turiya) hay cõi của Tuệ Giác (Buddhi). Ở cõi này, dẫn thể của tâm thức là thể tinh thần, còn được gọi là thể bồ đề hay thể phúc lạc (anandamayakosa), mà người tu sĩ thiền định có thể thâm nhập vào, và trong đó họ nếm mùi phúc lạc vĩnh cửu của thế giới huy hoàng. Ở trạng thái này, thiền gia nhận ra trong tâm thức chính mình sự đồng nhất với tất cả, điều này trở thành một sự kiện của kinh nghiệm, chớ không chỉ là một niềm tin thông minh.
@@ -277,13 +332,24 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 - Đề cập về sự sống, có một triết lý nào khác đầy hy vọng, đầy sức mạnh và đầy niềm vui hơn triết lý này không? Nhìn khắp nhân loại bằng mắt trần, ta thấy toàn sự suy đồi, đau khổ, vô vọng. Nhưng khi quan sát bằng nhãn quan cao hơn, ta thấy nhân loại xuất hiện duới một phương diện hoàn toàn khác. Thật ra ta vẫn thấy sự đau khổ và suy đồi, nhưng ta biết rằng chúng chỉ tạm thời, chúng thuộc về giai đoạn non trẻ của nhân loại, và nhân loại sẽ vượt qua nó. Ta chưa thấy được triển vọng cao cả ở những người còn thấp kém, dã man, nhưng với thời gian họ sẽ tiến bộ.
 - Đây là thông điệp của hy vọng mà Minh Triết Thiêng Liêng mang đến cho thế giới tây phương, một thông điệp của sự giải phóng thế giới khỏi mọi thống khổ, không phải trong giấc mơ mà trên thực tế, không phải chỉ là hy vọng suông mà là sự xác quyết. Trong cuộc sống, mỗi người đang cố gắng phát triển khả năng nhận thức mới và áp dụng thông điệp. Những quả đầu tiên đang xuất hiện khắp mọi nơi, sẽ có ngày toàn thể thế giới gặt hái những trái chín và sẵn sàng hoàn thành mục đích mà Thượng Đế  đã đề ra.
 
-</div></blockquote></details>
+</div></blockquote>
 
 --------------------------------------------------------
 
+|Nội dung|Liên kết|
+|:---|:---:|
+|THỂ XÁC|[▶️](#01)|
+|THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)|[▶️](#02)|
+|THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)|[▶️](#03)|
+|NHỮNG THỂ TRÍ - (The Mind Bodies)|[▶️](#04)|
+|NHỮNG DẪN THỂ KHÁC - (Other Vehicles)|[▶️](#05)|
+|***CON NGƯỜI - (The man)***| |
+
+---
+
 ### CON NGƯỜI - (The  man)
 
-<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
+<blockquote><div markdown="1" align=:justify" id="06">
 
 - Đến đây chúng ta để sang một bên sự nghiên cứu về những dẫn thể của tâm thức, và bắt đầu xem xét chính con người, tâm thức tác động lên những thể. Có nghĩa là chúng ta không chú trọng đến những thể mà chú trọng đến ‘‘thực thể’’ tác động bên trong những thể. Khi đề cập đến ‘‘con người’’, tôi muốn nói đến ‘‘cá nhân’’ tiếp tục đi qua từ đời sống này đến đời sống khác. Con người vào những thể rồi lại rời bỏ chúng, và cứ thế lặp đi lặp lại, nó tăng trưởng chậm chạp theo thời gian, phát triển bằng cách góp nhặt và đồng hóa những kinh nghiệm, nó tồn tại trên vùng cao của cõi trí tuệ. ‘‘Con người’’ này là chủ đề chúng ta nghiên cứu, nó xuống và sinh hoạt trong 3 cõi mà chúng ta đã biết: cõi vật chất, cõi tình cảm và cõi trí tuệ.
 - Con người bắt đầu kinh nghiệm bằng cách phát triển ý thức bản ngã ở cõi vật chất. Nơi đây xuất hiện cái chúng ta gọi là ‘‘tâm thức thức tỉnh’’, mà mọi người đều quen thuộc, nó làm việc xuyên qua não bộ và hệ thần kinh. Nhờ nó, chúng ta suy luận theo đường lối thông thường, nhờ nó chúng ta nhớ được những sự việc quá khứ thuộc kiếp hiện tại, và xét đoán những công việc trong đời sống.
@@ -353,6 +419,6 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 - Tâm thức của Chân Sư mở rộng ra mọi hướng, tự đồng hóa với bất cứ điểm nào mà Ngài hướng đến, nhận biết bất cứ điều gì mà Ngài muốn biết. Để trợ giúp một cách hoàn hảo, không có gì mà Ngài không cảm nhận được, không có gì mà Ngài không thể chăm sóc, không có gì mà Ngài không thể tăng cường, và không có gì mà Ngài không thể giúp cho phát triển thêm. Đối với Ngài, thế giới là một toàn thể rộng lớn đang tiến hóa, và Ngài có nhiệm vụ trợ giúp sự tiến hóa ấy. Nếu cần, vị Chân Sư có thể tự hòa đồng với bất cứ giai đoạn nào, để trợ giúp người khác đang ở giai đoạn đó. Ngài trợ giúp sự tiến hóa cho  tất cả mọi loài kim thạch, thảo mộc, thú cầm và con người, mỗi loài theo cách riêng của nó. Ngài giúp tất cả vạn vật như tự giúp mình. Vì sự huy hoàng của đời sống Ngài là để cho tất cả, và khi giúp đỡ người khác, Ngài nhận thấy họ là chính Ngài. 
 - Điều bí nhiệm là khi con người phát triển, tâm thức dần dần mở rộng ra để bao gồm càng ngày càng nhiều, trong khi nó trở nên trong sáng hơn, sống động hơn, mà không mất sự nhận thức về chính nó. Khi một điểm đã trở thành một khối hình cầu, khối cầu nhận thấy chính nó là một điểm. Mỗi điểm chứa đựng tất cả, và tự biết nó là một với những điểm khác. Cái bên ngoài được thấy như là sự phản ảnh của cái bên trong. Thực Tại là Sự Sống Duy Nhất, và sự dị biệt chỉ là ảo ảnh cần được khắc phục.
 
-</div></blockquote></details>
+</div></blockquote>
 
 ---
