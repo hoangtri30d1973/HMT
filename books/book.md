@@ -4,9 +4,10 @@
 
 ---
 
-## Đại đường song long
+<h3 align="center">Đại đường song long</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
 
-<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
+<div align="justify"><blockquote><div markdown="1">
 
 - Phép dụng binh, là lấy mưu làm chính! Đó là dùng mưu lược trận, trước tiên phải mưu đoạt địa lợi; muốn dùng mưu thắng địch, trước tiên phải dùng mưu đặt bản thân vào thế bất bại.
 - Dũng cảm hay nhát gan là tại phương pháp, thành hay bại là tại trí. Nghĩa là dũng cảm hay nhát gan nằm ở mưu, mạnh hay yếu nằm ở thế. Mưu đạt, việc thành thì làm người dũng, mưu hỏng, thế mất thì làm người nhát gan giả dũng cảm.
@@ -20,7 +21,9 @@
 - Sáng tạo bất chiếm hữu, Thành công bất tự cứ. 
 - Cả đời ta theo đuổi tìm kiếm cái tận mỹ, nhưng chỉ là dùng tâm trạng của người quan sát để thưởng thức mà thôi. Đó cũng là ý nghĩa sâu xa của Dịch kiếm thuật, ta truyền cho con.
 
-</div></blockquote></details>
+</div></blockquote></div>
+
+<div align="right">🔷 🔷 🔷 🔷 🔷</div>
 
 --------------------------------------------------------
 
