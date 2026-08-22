@@ -1,44 +1,14 @@
-<p align="center">
-  <img src="../svg/my-footer.svg" alt="Project banner" width="100%" />
-</p>
+<h1 align="center">Bài hát yêu thích</h1>
 
 ---
 
-<table align="center">
-<tr><td><div markdown="1">
+<div markdown="1" align="center">
 
-[A](#a)
+|A|B|C|D|G|K|L|M|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[▶️](#a)|[▶️](#b)|[▶️](#c)|[▶️](#d)|[▶️](#g)|[▶️](#k)|[▶️](#l)|[▶️](#m)|
 
-</div></td><td><div markdown="1">
-  
-[B](#b)
-
-</div></td><td><div markdown="1">
-
-[C](#c)
-
-</div></td><td><div markdown="1">
-
-[D](#d)
-
-</div></td><td><div markdown="1">
-
-[G](#g)
-
-</div></td><td><div markdown="1">
-
-[K](#k)
-
-</div></td><td><div markdown="1">
-
-[L](#l)
-
-</div></td><td><div markdown="1">
-
-[M](#m)
-
-</div></td></tr></table>
-
+</div>
 
 ---
 
