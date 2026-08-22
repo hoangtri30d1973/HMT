@@ -52,20 +52,6 @@ Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét b�
 
 --------------------------------------------------------
 
-
-<h3 align="center">Đạo quân</h3>
-<div align="center">🔹🔹🔹🔹🔹</div><br/>
-<blockquote><div markdown="1" align="justify">
-
-- Thiên địa rộng lớn chừng nào, động hay không động, được hay không được cần phải tự lĩnh ngộ, sai một ly đi ngàn dặm. 
-- Người gặp nước thì bị ngăn cản, cá gặp nước thì lui tới tự nhiên. Phải làm sao hóa lực cản thành môi trường sống mới chính là điểm ảo diệu. 
-- Giữa động và bất động là cả một thế giới. Giang hồ cưỡi ngựa, gió cũng được, mưa cũng được, ghét bỏ cái này, cái kia, vậy thì đừng đi ra ngoài nữa. Ai đánh cờ lại ngại nhiều quân cờ chứ. Ta giữ lại hắn, tất nhiên có chỗ thích hợp để dùng. Từ khi bỏ gánh nặng trong lòng xuống, cả người tựa hồ cũng giải thoát, làm chuyện mình muốn làm, cả người lộ ra thanh nhã thong dong. Núi như thế nào thì thấy phong cảnh như thế đấy, ngươi không thể đứng ở dưới chân núi mà nghĩ đến phong cảnh trên núi. Đều phải đối mặt với hiện thực, nếu không muốn tiếp nhận hiện thực nơi đỉnh núi, xúc động lung tung thì có khả năng té xuống chân núi, lúc đó phải đối mặt với hiện thực nơi chân núi. Ngươi không muốn nhìn cảnh trên núi thì hoặc là nhắm mắt lại, hoặc là lăn xuống núi. Chỉ cần là tập hợp người ở đây, hòa hợp êm thấm là chuyện không thể nào tồn tại. Bọn họ nhiều người, hiểu rõ môn quy hơn so với người, nói đạo lý thì không thắng bọn họ, người càng tránh thì càng đuối lý, lấy đấu tranh để tìm đường sống mới là đạo lý. Con người kỳ thực không có quá nhiều lực chọn, cũng vì thời gian vội vã, chọn lựa sắc dục đều vì ảo giác. Thân ở trong một nhóm lợi ích, từ nhóm lợi ích này hấp thu chất dinh dưỡng, bất luận hấp thụ bao nhiêu, bất kể ngươi có bao nhiêu bất mãn, mỗi một phần lợi ích ngươi có được đều là xây dựng trên sự hy sinh của tiền nhân, trên sự thống khổ và nỗ lực, bất luận như thế nào nhóm lợi ích này cũng không nợ ngươi, chỉ có người nợ nhóm lợi ích này, lựa chọn một người và hỉ nộ ái ố cũng không quan trọng, hưởng thụ điều tốt mà nhóm lợi ích cho ngươi, thì phải vì đó mà trả giá. Ta cũng vậy, ngươi cũng vậy, mỗi người trong nhóm lợi ích đều vậy, bất luận là người nào cũng không thể làm trái, kẻ vi phạm cũng sẽ bị chém chết, đây chính là nhóm lợi ích. Muốn tu luyện thì phải bắt đầu từ việc nhỏ, tục ngữ nói, một phòng nếu còn không quét được thì ngươi dùng cái gì để quét thiên hạ? Nhiệm vụ chính của các ngươi hôm nay là quét dọn sạch sẽ những gian phòng này.
-
-<div align="right">🔸<a href="#top">🔝</a>🔸</div>
-</div></blockquote>
-
---------------------------------------------------------
-
 <h3 align="center">La phù</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
@@ -74,6 +60,18 @@ Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét b�
 - Nếu không dám khiêu chiến với giới hạn sinh tử, thì làm sao có thể ngộ được đạo một cách thực sự, có thể nắm được lực lượng một cách chân chính?
 - Làm việc không cần phải để ý tới lợi lộc, mà chỉ cần chú ý tới bản tâm.
 - Đạo trời rộng lớn, nhân quả khó thay đổi. Cho dù biết được cát hung thì làm sao nói tránh là có thể tránh được?
+
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
+
+--------------------------------------------------------
+<h3 align="center">Đạo quân</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
+
+- Thiên địa rộng lớn chừng nào, động hay không động, được hay không được cần phải tự lĩnh ngộ, sai một ly đi ngàn dặm. 
+- Người gặp nước thì bị ngăn cản, cá gặp nước thì lui tới tự nhiên. Phải làm sao hóa lực cản thành môi trường sống mới chính là điểm ảo diệu. 
+- Giữa động và bất động là cả một thế giới. Giang hồ cưỡi ngựa, gió cũng được, mưa cũng được, ghét bỏ cái này, cái kia, vậy thì đừng đi ra ngoài nữa. Ai đánh cờ lại ngại nhiều quân cờ chứ. Ta giữ lại hắn, tất nhiên có chỗ thích hợp để dùng. Từ khi bỏ gánh nặng trong lòng xuống, cả người tựa hồ cũng giải thoát, làm chuyện mình muốn làm, cả người lộ ra thanh nhã thong dong. Núi như thế nào thì thấy phong cảnh như thế đấy, ngươi không thể đứng ở dưới chân núi mà nghĩ đến phong cảnh trên núi. Đều phải đối mặt với hiện thực, nếu không muốn tiếp nhận hiện thực nơi đỉnh núi, xúc động lung tung thì có khả năng té xuống chân núi, lúc đó phải đối mặt với hiện thực nơi chân núi. Ngươi không muốn nhìn cảnh trên núi thì hoặc là nhắm mắt lại, hoặc là lăn xuống núi. Chỉ cần là tập hợp người ở đây, hòa hợp êm thấm là chuyện không thể nào tồn tại. Bọn họ nhiều người, hiểu rõ môn quy hơn so với người, nói đạo lý thì không thắng bọn họ, người càng tránh thì càng đuối lý, lấy đấu tranh để tìm đường sống mới là đạo lý. Con người kỳ thực không có quá nhiều lực chọn, cũng vì thời gian vội vã, chọn lựa sắc dục đều vì ảo giác. Thân ở trong một nhóm lợi ích, từ nhóm lợi ích này hấp thu chất dinh dưỡng, bất luận hấp thụ bao nhiêu, bất kể ngươi có bao nhiêu bất mãn, mỗi một phần lợi ích ngươi có được đều là xây dựng trên sự hy sinh của tiền nhân, trên sự thống khổ và nỗ lực, bất luận như thế nào nhóm lợi ích này cũng không nợ ngươi, chỉ có người nợ nhóm lợi ích này, lựa chọn một người và hỉ nộ ái ố cũng không quan trọng, hưởng thụ điều tốt mà nhóm lợi ích cho ngươi, thì phải vì đó mà trả giá. Ta cũng vậy, ngươi cũng vậy, mỗi người trong nhóm lợi ích đều vậy, bất luận là người nào cũng không thể làm trái, kẻ vi phạm cũng sẽ bị chém chết, đây chính là nhóm lợi ích. Muốn tu luyện thì phải bắt đầu từ việc nhỏ, tục ngữ nói, một phòng nếu còn không quét được thì ngươi dùng cái gì để quét thiên hạ? Nhiệm vụ chính của các ngươi hôm nay là quét dọn sạch sẽ những gian phòng này.
 
 <div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
