@@ -33,6 +33,8 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 --------------------------------------------------------
 
+<div id="01"></div>
+
 |Nội dung|Liên kết|
 |:---|:---:|
 |***THỂ XÁC***|[🔝](#top)|
@@ -46,7 +48,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 ### THỂ  XÁC
 
-<blockquote><div markdown="1" align="justify" id="01">
+<blockquote><div markdown="1" align="justify">
 
 - Từ ngữ thể xác bao gồm hai nguyên lý thấp của con người, hai nguyên lý này cùng hoạt động ở cõi trần, cùng được tạo nên bởi chất liệu vật chất, cùng sinh hoạt trong thời gian cuộc sống của con người ở cõi trần, và bị vứt bỏ lúc con người ‘‘chết’’, khi con người bước qua cõi trung giới chúng sẽ tan rã dần ở cõi trần.
 - Một nguyên nhân khác để ta xếp loại hai nguyên lý này chung trong thể xác hay ‘‘dẫn thể vật chất’’ là cho đến khi nào ta chưa vượt ra khỏi cõi trần, ta cần phải sử dụng một trong hai, hoặc cả hai lớp áo vật chất này. Vì chất liệu cấu tạo ra chúng, cả hai thể đều thuộc về cõi trần, và không thể đi ra bên ngoài cõi trần. Tâm thức tác động trong chúng bị ràng buộc bên trong những giới hạn vật chất, và phải tuân theo những định luật thông thường của không gian và thời gian. Dù chúng có thể tách riêng một phần nào, nhưng trong suốt đời sống thế gian, ít khi chúng tách rời nhau. Sự tách rời này không được khuyến khích và luôn luôn là một dấu hiệu bệnh hoạn hay mất quân bình.
@@ -95,6 +97,8 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 --------------------------------------------------------
 
+<div id="02"></div>
+
 |Nội dung|Liên kết|
 |:---|:---:|
 |THỂ XÁC|[▶️](#01)|
@@ -108,7 +112,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 ### THỂ DĨ THÁI KÉP, HAY THỂ PHÁCH (The etheric double)
 
-<blockquote><div markdown="1" align="justify" id="02">
+<blockquote><div markdown="1" align="justify">
 
 - Theo khoa học vật chất, mọi sự thay đổi của bắp thịt, thần kinh, tế bào, hoặc những thay đổi hóa học liên tục trong cơ thể, đều do tác động của điện. Bất cứ lúc nào có tác động của điện, thì luôn luôn có sự hiện diện của chất dĩ thái, do đó, khi có dòng điện chứng tỏ có chất dĩ thái kèm theo. Chất dĩ thái thấm nhuần và bao quanh tất cả. Không có phần tử nào của vật chất tiếp xúc trực tiếp với phần tử khác, mà các phần tử đều di động trong môi trường chất dĩ thái. Thật ra dĩ thái cũng hữu hình như cái bàn, cái ghế, nhưng mắt trần không nhận thấy được, do mức độ tiếp nhận khác nhau của thị giác. Như đã được đề cập, có 4 loại dĩ thái khác nhau, loại thanh nhuyễn nhất bao gồm những nguyên tử căn bản của cõi trần, (nguyên tử căn bản cõi trần không phải nguyên tử mà các nhà hóa học hiện tại tìm ra, nguyên tử hóa học thật ra là một thể phức tạp). Ta gọi là nguyên tử căn bản, hay tối hậu vì khi nó phân hủy sẽ cho ra chất liệu cõi trung giới.[1]
 - Thể phách, hay ‘‘thể dĩ thái kép’’, còn được gọi là ‘‘nhị xác thân’’, được cấu tạo từ 4 loại chất dĩ thái, nó thấm nhập vào cấu trúc chất đặc, chất lỏng và chất hơi của thể xác đậm đặc, và bao bọc tất cả những phần tử với một lớp dĩ thái, như thế nó là một bản sao hoàn hảo của thể xác đậm đặc. Người có nhãn quan được huấn luyện, có thể nhìn thấy rõ thể phách, nó màu xám tím, cấu trúc nó thô hay mịn tùy theo độ thô kệch của thể xác đậm đặc. Điều quan trọng cần ghi nhận là những thay đổi về phẩm chất của thể xác đậm đặc đi đôi với phẩm chất của thể phách. Khi người học đạo có ý thức và chú tâm thanh lọc thể xác đậm đặc, thể phách cũng được trong sạch theo mà không cần cố gắng nào khác, và mặc dù người ấy không ý thức về điều đó.
@@ -137,6 +141,8 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 --------------------------------------------------------
 
+<div id="03"></div>
+
 |Nội dung|Liên kết|
 |:---|:---:|
 |THỂ XÁC|[▶️](#01)|
@@ -150,7 +156,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 ### THỂ VÍA hay THỂ CẢM DỤC (The astral or desire body)
 
-<blockquote><div markdown="1" align="justify" id="03">
+<blockquote><div markdown="1" align="justify">
 
 - Chúng ta đã nghiên cứu thể xác con người, cả phần hữu hình lẫn vô hình. Chúng ta hiểu con người, một thực thể sống động có ý thức, khi tâm thức ‘‘thức tỉnh’’ và sống trong thế giới vật chất, nó chỉ có thể hiểu biết và biểu lộ năng lực trong giới hạn của thể xác. Tùy theo sự hoàn hảo hay không của thể xác, mà sự diễn đạt của con người có hoàn hảo hay không tại cõi trần. Thể xác giới hạn những khả năng của con người ở cõi thấp, tạo ra ‘‘vòng giới hạn’’ thực sự chung quanh con người. Những điều gì không thể vượt qua vòng giới hạn này thì không thể biểu lộ được ở thế gian; vấn đề này quan trọng đối với người đang phát triển.
 - Cũng thế, khi con người xuất ra khỏi thể xác và hoạt động trong cõi trung giới, họ chỉ có thể diễn đạt những kiến thức và năng lực trong giới hạn của thể vía. Như thế, thể vía là một dẫn thể, đồng thời cũng là giới hạn đối với con người. 
@@ -216,6 +222,8 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 --------------------------------------------------------
 
+<div id="04"></div>
+
 |Nội dung|Liên kết|
 |:---|:---:|
 |THỂ XÁC|[▶️](#01)|
@@ -229,7 +237,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 ### NHỮNG THỂ TRÍ - (The Mind Bodies)
 
-<blockquote><div markdown="1" align="justify" id="04">
+<blockquote><div markdown="1" align="justify">
 
 - Chúng ta đã học về thể xác và thể vía con người. Thể xác hoạt động ở cõi trần, có phần hữu hình và phần vô hình. Chúng ta đã theo dõi cách thức sinh hoạt, cũng như phân tích bản chất của sự tăng trưởng và cách thức thanh lọc hóa nó. Đối với thể vía cũng thế, chúng ta đã theo dõi những hoạt động và tăng trưởng, những hiện tượng liên hệ với sự biểu lộ của nó ở cõi trung giới, và sự thanh lọc hóa nó. Như thế, chúng ta đã có vài ý tưởng về hoạt động của con người ở 2 trong 7 cõi của vũ trụ.
 - Bây giờ, chúng ta có thể sang qua cõi thứ ba, thế giới của trí tuệ. Chúng ta đã biết có 3 cõi: cõi trần, cõi trung giới và cõi trí tuệ. Trái đất và hai khối cầu bao quanh nó (chỉ cõi trung giới và cõi thượng giới – LDG), như một vùng bộ ba, nơi đó con người hoạt động trong suốt những lần đầu thai ở cõi trần, và cũng nơi đó con người cư trú trong suốt những giai đoạn xen kẽ giữa sự chết (khép lại một đời sống thế gian) và sự sinh (mở ra một đời sống khác ở thế gian). 
