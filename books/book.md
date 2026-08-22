@@ -38,6 +38,7 @@
 - Mạt Pháp Chi Kiếp, giống như quá trình suy bại của cây, đây là một quá trình dài dằng dặc và tàn khốc, cũng là quá trình làm cho người ta tuyệt vọng nhất, trừ Thiên Tiên, tất cả tu sĩ, duy nhất có thể làm trong quá trình tuyệt vọng này chính tìm kiếm hi vọng. Tìm được, ngươi là người may mắn, tìm không được, vậy thì sẽ chết theo cây này.
 - Mỗi một kỷ nguyên, đều sinh ra đời một ít Thiên Tiên, nhưng số lượng tuyệt đối không nhiều, chỉ có mấy người, mà trong một kỷ nguyên, có hai Thiên Tiên là đặc thù nhất, chính là Thiên Tiên ra đời đầu tiên trong kỷ nguyên mới, được xưng là Nguyên Thủy Đại Thánh, đại biểu cho bắt đầu, mà một còn lại, chính là Thiên Tiên ra đời cuối cùng trong kỷ nguyên đó, được xưng là Thông Thiên Đại Thánh, đại biểu cho việc kết thúc kỷ nguyên, nhưng vẫn còn một loại Thiên Tiên, cho dù trải qua vô số kỷ nguyên cũng khó sinh ra một người, đó chính là Thiên Tiên ra đời duy nhất trong một kỷ nguyên, tiền vô cổ nhân hậu vô lai giả, tuyên cổ duy nhất, Thiên Tiên như vậy, được xưng là Bàn Cổ Đại Thánh.
 
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
@@ -67,6 +68,7 @@
 - Trạng thái bình tĩnh đối với ý thức có lợi thật lớn, mà nếu như có thể đạt tới trạng thái yên lặng cực kì cao, thậm chí có thể nuôi dưỡng ý thức. Tạp phiến tính toán 0 Mỗi một tia sáng giống như một ngôi sao, chúng nó chuyển động một cách chậm rãi. Trong những ngôi sao này, thỉnh thoảng có một chút đường nét màu bạc không đồng nhất uốn lượn, di động. Hấp dẫn nhất chính là những bề mặt trong suốt giống như thủy tinh, mỗi mặt lớn nhỏ không đồng nhất, phân bố một cách lộn xộn.
 - Ngoài điểm, đường và mặt còn có những kết cấu phức tạp ba chiều và đa chiều khác nữa…
 
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
@@ -91,6 +93,7 @@
 - Người thì làm, trời thì nhìn, mỗi thứ chiếm một nửa, thiên đạo vô thường, lòng người không thể dò được, há có thể một lời định đoạt? Lão nạp cũng không làm chuyện chỉ điểm tiền đồ khỏi bến mê, nông cạn dưới chân chỉ có bản thân thí chủ rõ ràng nhất, lạnh ấm tự biết, người ngoài làm thế nào biết được? 
 - Pháp tùy tâm động, âm dương chi cực.
 
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
@@ -105,6 +108,7 @@
 - Chi cần ngươi nghĩ ra là đều có thể làm được, chỉ là khác biệt về hình thái mà thôi. Dĩ nhiên chuyện này được quyết định bởi khả năng khống chế của ngươi.
 - Mặc kệ người muốn làm gì thì cũng phải thuận theo ý nguyện của mình, tùy tâm mà làm, chỉ có thích hợp với mình mới là điều chính xác nhất.
 
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
@@ -124,6 +128,7 @@
 - Tu luyện hồn thuật chính là quá trình không ngừng tái hiện quá trình của hồn thuật đó, lặp lại thi triển vô số lần, chồng chất lên nhau, mới có thể khiến bí thuật ngày càng mạnh.
 - Chọn hồn thuật nào làm nền tảng cho bí thuật trấn hồn, ban đầu cũng chỉ là một cái khung, cần phải hoàn thiện cái khung này trong năm tháng dài đằng đẵng, bổ sung thêm nội dung phong phú hơn, như vậy mới có thể khiến trấn hồn bí thuật ngày càng mạnh. Bỏi vì quá trình này rất giống với vẽ tranh, nên còn được gọi là vẽ hồn.
 
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
@@ -142,6 +147,7 @@
 - Trên đời này không có tuyệt đối chính nghĩa hay tà ác, lực lượng dùng đúng thì chính là Chính đạo, dùng sai thì chính là Tà đạo. 
 - Thuật nghiệp hữu chuyên công.
 
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
@@ -172,6 +178,7 @@
 - Trình độ của con người sẽ được thể hiện ra trong từng chi tiết nhỏ.
 - Muốn có lực lượng càng lớn, cái giá phải trả càng cao.
 
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
@@ -184,6 +191,7 @@
 - Người gặp nước thì bị ngăn cản, cá gặp nước thì lui tới tự nhiên. Phải làm sao hóa lực cản thành môi trường sống mới chính là điểm ảo diệu. 
 - Giữa động và bất động là cả một thế giới. Giang hồ cưỡi ngựa, gió cũng được, mưa cũng được, ghét bỏ cái này, cái kia, vậy thì đừng đi ra ngoài nữa. Ai đánh cờ lại ngại nhiều quân cờ chứ. Ta giữ lại hắn, tất nhiên có chỗ thích hợp để dùng. Từ khi bỏ gánh nặng trong lòng xuống, cả người tựa hồ cũng giải thoát, làm chuyện mình muốn làm, cả người lộ ra thanh nhã thong dong. Núi như thế nào thì thấy phong cảnh như thế đấy, ngươi không thể đứng ở dưới chân núi mà nghĩ đến phong cảnh trên núi. Đều phải đối mặt với hiện thực, nếu không muốn tiếp nhận hiện thực nơi đỉnh núi, xúc động lung tung thì có khả năng té xuống chân núi, lúc đó phải đối mặt với hiện thực nơi chân núi. Ngươi không muốn nhìn cảnh trên núi thì hoặc là nhắm mắt lại, hoặc là lăn xuống núi. Chỉ cần là tập hợp người ở đây, hòa hợp êm thấm là chuyện không thể nào tồn tại. Bọn họ nhiều người, hiểu rõ môn quy hơn so với người, nói đạo lý thì không thắng bọn họ, người càng tránh thì càng đuối lý, lấy đấu tranh để tìm đường sống mới là đạo lý. Con người kỳ thực không có quá nhiều lực chọn, cũng vì thời gian vội vã, chọn lựa sắc dục đều vì ảo giác. Thân ở trong một nhóm lợi ích, từ nhóm lợi ích này hấp thu chất dinh dưỡng, bất luận hấp thụ bao nhiêu, bất kể ngươi có bao nhiêu bất mãn, mỗi một phần lợi ích ngươi có được đều là xây dựng trên sự hy sinh của tiền nhân, trên sự thống khổ và nỗ lực, bất luận như thế nào nhóm lợi ích này cũng không nợ ngươi, chỉ có người nợ nhóm lợi ích này, lựa chọn một người và hỉ nộ ái ố cũng không quan trọng, hưởng thụ điều tốt mà nhóm lợi ích cho ngươi, thì phải vì đó mà trả giá. Ta cũng vậy, ngươi cũng vậy, mỗi người trong nhóm lợi ích đều vậy, bất luận là người nào cũng không thể làm trái, kẻ vi phạm cũng sẽ bị chém chết, đây chính là nhóm lợi ích. Muốn tu luyện thì phải bắt đầu từ việc nhỏ, tục ngữ nói, một phòng nếu còn không quét được thì ngươi dùng cái gì để quét thiên hạ? Nhiệm vụ chính của các ngươi hôm nay là quét dọn sạch sẽ những gian phòng này.
 
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
@@ -197,13 +205,14 @@
 - Làm việc không cần phải để ý tới lợi lộc, mà chỉ cần chú ý tới bản tâm.
 - Đạo trời rộng lớn, nhân quả khó thay đổi. Cho dù biết được cát hung thì làm sao nói tránh là có thể tránh được?
 
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
 
-## Hành trình về phương Đông
-
-<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
+<h3 align="center">Hành trình về phương Đông</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
 
 - Thay vì tìm một chân lý tuyệt đối, hãy tìm sự tuyệt đối nơi mình vì chân lý để sống chứ không phải để dạy.
 - Thầy nào, trò nấy. Một tu sĩ chân chính không có đệ tử bất hảo, và một đệ tử thông minh không tìm thầy bất lương. Một tu sĩ hiểu biết phải lo làm chủ chính mình để cầu giải thoát.
@@ -222,13 +231,14 @@
 - Điều khoa học chưa chứng minh được không có nghĩa là điều này không có thật, vì một ngày nào đó, khoa học sẽ tiến đến mức mà họ có thể chứng minh được tất cả.
 - Sự thật là không có điều gì chia cách linh hồn cả, khi ta yêu mến ai bằng những rung động chân thành, ta yêu mến họ qua linh hồn của họ chứ đâu phải chỉ qua xác thân.
 
-</div></blockquote></details>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
 
 --------------------------------------------------------
 
-## Vô hạn khủng bố
-
-<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
+<h3 align="center">Vô hạn khủng bố</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
 
 - Chúng ta là đều đồng đội sóng vai chiến đấu, đều là chiến hữu đồng sinh cộng tử, bây giờ có lẽ ngươi vẫn chưa thể hoàn toàn hiểu được câu nói này, nhưng ngươi tự mình nghĩ mà xem, khi ngươi vì sống sót mà có thể vứt bỏ tất cả, phản bội tất cả, ngươi không cảm thấy cô đơn và mệt mỏi sao?
 - Từ một vài phương diện, thế giới được chia thành hai hệ thống tri thức, một là tri thức cổ điển, cũng tức là hệ thống tri thức chúng ta sử dụng trong thế giới hiện thực. Ví dụ như ta đánh ngươi một quyền, ngươi cảm thấy đau, kỳ thật nắm tay ta cũng cảm thấy đau, chỉ là mức độ đau đớn của hai bên khác nhau, đây là lực tác dụng qua lại lẫn nhau, do hai bên va chạm sinh ra. Ngoài ra còn có định luật bảo toàn năng lượng, bảo toàn khối lượng các loại, nhưng từ một số phương diện mà nói... Không, từ thuyết lượng tử mà nói, những điều này đều là nhận thức sai lầm, vũ trụ so với chúng ta tưởng tượng còn phức tạp hơn nhiều, huyền ảo hơn nhiều. Đầu tiên là nắm tay và thân thể chính xác là tất cả mọi người cùng tất cả vật thể căn bản đều không tiếp xúc với nhau, khi lớp phân tử và nguyên tử ngoài cùng của chúng ta tiếp cận nhau, giữa hai vật thể sẽ sinh ra lực đẩy bài xích lẫn nhau, vì thể hai bên không thể tiếp xúc. Mà bảo toàn năng lượng cùng bảo toàn khối lượng cũng gần như là sai lầm, định luật chuyển đổi năng lượng và khối lượng là phương trình giao hoán của luận điểm này.
@@ -295,52 +305,57 @@
 - Một khi có được điểm nhân quả là có thể khởi động Phong Thần bảng, nó có thể hoàn thành nhiệm vụ ngươi yêu cầu…. Không có chuyện một phần hay là đại đa số, chỉ cần có yêu cầu, kể cả ngươi muốn thành thần nó cũng có thể hoàn thành, nhưng sẽ căn cứ theo trị số entropy của vũ trụ để quyết định số điểm nhân quả cần tiêu hao. Như chúng ta đã biết, vũ trụ được sinh ra từ vụ nổ của một chất điểm, sau đó entropy của vũ trụ không ngừng gia tăng, từ nhân đến quả, quả đó lại là khởi đầu của vô số nhân mới. Toàn vũ trụ chỉ có một xu hướng từ có trật tự biến thành vô trật tự, mà Phong Thần bảng thì lại là vũ khí có thể đảo ngược quá trình ấy.
 - Chuyện như ngươi nói, viết tên ai lên người đó sẽ tử vong, ngoài ra căn cứ theo những gì chúng ta biết về Phong Thần bảng trong Phong Thần diễn nghĩa thì người đó còn chết trong tình huống cực kỳ hợp lý, cũng tức là hợp với thiên đạo tự nhiên, việc này có thể coi là… Phong Thần bảng làm đảo ngược giá trị entropy, cả vũ trụ sẽ bài xích món vũ khí này cùng người sử dụng nó. Chủ Thần không gian đã diễn tả kết quả bị vũ trụ bài xích, đó là cực kỳ đen đủi, thậm chí đến lúc cực đoan sẽ biểu hiện bằng cái chết.
 
-</div></blockquote></details>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
 
 --------------------------------------------------------
 
-## Hành trình một linh hồn
-
-<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
+<h3 align="center">Hành trình một linh hồn</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
   
 - Đừng bao giờ gạt bỏ một tư tưởng chỉ vì nó xa lạ với anh, mà nên lắng nghe mọi mặt của câu hỏi và tự có kết luận riêng của mình.
 - Nguyên do của dục vọng không phải là cái 'khát nước', mà là sự thèm muốn một khoái cảm có được khi 'uống nước'
 
-</div></blockquote></details>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
 
 --------------------------------------------------------
 
-## Cửu đỉnh ký
-
-<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
+<h3 align="center">Cửu đỉnh ký</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
                     
 Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét bút hỏng nào xảy ra.
 
-</div></blockquote></details>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
 
 --------------------------------------------------------
 
-## Hoa sơn tiên môn
-
-<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
+<h3 align="center">Hoa sơn tiên môn</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
   
 - Kiếm, là phát ra từ trong lòng, không phải do kiếm chiêu ghi nhớ trong đầu phát ra.
 - Trời như họa, đất như kỳ, thân ở trong kỳ, cảm nhận thiên địa.
 
-</div></blockquote></details>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
 
 --------------------------------------------------------
 
-## Bụt là hình hài, Bụt là tâm thức
-
-<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
+<h3 align="center">Bụt là hình hài, Bụt là tâm thức</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
 
 - Thực tập thiền đi chậm một mình, quý vị hãy thử phương pháp này: thở vào và bước một bước, chú tâm hoàn toàn vào gan bàn chân. Nếu quý vị chưa 'về', chưa 'tới' được một trăm phần trăm thì đừng bước thêm bước nào nữa cả. Cứ đợi cho quý vị về tới giây phút hiện tại được một trăm phần trăm rồi thì mới bước đi bước kế tiếp. Quý vị có thể 'xài lớn' thì giờ như vậy. Và khi quý vị thấy mình đã về đã tới được một trăm phần trăm rồi thì hãy mỉm cười và bước thêm một bước khác. Bước đi như vậy, quý vị in xuống đất sự vững chãi và thảnh thơi của quý vị.
 - Tàng thức hoạt động không cần sự có mặt của ý thức. Nó có khả năng làm được nhiều thứ, lập ra nhiều kế hoạch, quyết định được nhiều điều mà không cần biết quyết định đó là gì. Ví dụ như khi đi vào một gian hàng để tìm mua một cái mũ hay một chiếc áo sơ mi, ta có cảm tưởng trong khi nhìn vào những thứ được trưng bày ta có tự do, rằng nếu tài chính cho phép ta sẽ tự do lựa chọn những gì ta muốn. Nếu người bán hàng hỏi ta thích gì, ta có thể chỉ hoặc nói cái mình muốn và ta có cảm giác lúc này ta là người tự do, ta có thể dùng ý thức của mình để lựa chọn những gì mình muốn. Nhưng thực chất, đó là một ảo tưởng. Mọi thứ mà chúng ta lựa chọn đã có sẵn trong tàng thức và chúng ta không còn là người tự do nữa, chúng ta bị nô lệ. Cảm giác đẹp, cảm giác thích hay không thích đã được quyết định rất chắc chắn, rất thận trọng ở tàng thức rồi.
 - Chúng ta tưởng rằng chúng ta có nhiều tự do, đó là một ảo tưởng. Thực ra mức độ tự do của ý thức chúng ta rất nhỏ. Tàng thức ra lệnh cho chúng ta làm nhiều thứ, bởi vì tàng thức tiếp tục nhận vào, ôm ấp, duy trì, làm hiện hành và quyết định mà không cần sự tham dự của ý thức. Tuy nhiên nếu biết thực tập, chúng ta có thể tác động đến tàng thức, chúng ta có thể giúp tàng thức biết cách cất giữ và làm hiện hành những hạt giống tốt, đồng thời có những quyết định hay hơn.
 - Cũng như ý thức và tiền ngũ thức, tàng thức cũng tiêu thụ. Khi xung quanh ta có một nhóm người thì cho dù ta muốn ta là ta, ta cũng tiêu thụ cách thức của nhóm người đó, chúng ta tiêu thụ tàng thức của họ. Thức của chúng ta được nuôi bằng thức của những người khác. Cách chúng ta quyết định, những gì chúng ta thích hay không thích đều phụ thuộc vào cách nhìn của cộng đồng. Có thể ban đầu chúng ta thấy không đẹp lắm, nhưng nếu nhiều người cho là đẹp thì từ từ chúng ta cũng thấy đẹp. Đó là vì tâm thức cá nhân được làm bằng tâm thức cộng đồng.
 
-</div></blockquote></details>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
 
 --------------------------------------------------------
 
