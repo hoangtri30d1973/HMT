@@ -7,19 +7,19 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 
 ### LỜI MỞ ĐẦU
 
-<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
+<blockquote><div markdown="1" align="justify">
   
 - Tôi xin có vài lời giới thiệu về quyển sách nhỏ này đến quí độc giả. Đây là quyển thứ bảy trong loạt sách nhỏ trình bày đơn giản Minh Triết Thiêng Liêng để đáp ứng nhu cầu công chúng. Một số độc giả phàn nàn sách vở hội Thông Thiên Học quá trừu tượng, quá kỷ thuật và khó hiểu đối với những người bình thường. Chúng tôi hy vọng loạt sách này sẽ đáp ứng được sự mong mỏi  của quần chúng. 
 - Minh Triết Thiêng Liêng không chỉ dành riêng cho các học giả, mà cho mọi người. Có lẽ một số người khi đọc những quyển sách này lần đầu tiên sẽ nhận ra ý nghĩa tổng quát của nó, từ đó muốn tìm hiểu sâu xa hơn về triết lý, khoa học và tôn giáo của  Minh Triết Thiêng Liêng, để có thể đối diện với những vấn đề khó khăn hơn với lòng hăng hái của một sinh viên nhiệt tâm. Đối với những người ấy, sẽ có những tác phẩm lớn, sâu xa hơn dành cho họ. 
 - Những quyển sách nhỏ mà chúng tôi giới thiệu nơi đây không phải chỉ dành riêng cho những sinh viên nhiệt thành, không khó khăn ban đầu nào có thể làm họ nản lòng, mà nó cũng được dành cho những người đang bận rộn trong công việc hàng ngày, muốn tìm hiểu một vài chân lý cao cả để hướng dẫn đời sống họ bớt nặng trĩu, và đồng thời giúp họ đối diện với sự chết một cách dễ dàng hơn. Chúng tôi, những người phụng sự các vị Chân Sư, những Bậc Đàn Anh của nhân loại, viết nên những quyển sách này không ngoài mục đích giúp ích quần chúng.
 
-</div></blockquote></details>
+</div></blockquote>
 
 --------------------------------------------------------
 
 ### LỜI GIỚI THIỆU
 
-<details align="justify"><summary>▶️</summary><blockquote><div markdown="1">
+<blockquote><div markdown="1" align="justify">
 
 - Vấn đề tâm thức và những dẫn thể, con người và những lớp áo, gây nhiều rắc rối cho những học viên minh triết thiêng liêng, do đó cần có những giải thích đơn giản, dễ hiểu hơn. Sự học hỏi của chúng ta phải đến giai đoạn những điều khó hiểu trở nên rõ ràng, những điều mơ hồ trở nên xác thực, những điều mà trước kia chúng ta chấp nhận như lý thuyết trở thành kiến thức trực tiếp. Từ đó chúng ta xếp đặt có hệ thống những sự kiện, để những học viên đã phát triển năng lực quan sát, có thể khảo sát trở đi trở lại và phát biểu một cách khẳng định, như sự phát biểu của một nhà vật lý học khi ông khảo sát và liệt kê những hiện tượng vật chất. 
 - Nhà siêu hình học cũng như nhà vật lý học có thể sai lầm. Khi kiến thức mở rộng hơn, ánh sáng mới chiếu rọi vào những dữ kiện cũ, sự liên quan giữa chúng được thấy rõ ràng hơn, thường là do ánh sáng mới cho thấy sự vật trước kia được xem như toàn thể, nay thật ra chỉ là một phần.
@@ -29,7 +29,7 @@ _Tô Hiệp và Nhóm dịch thuật Krotona - 2011_
 - Sự thông hiểu rõ ràng bằng trí tuệ ở trong tầm với của tất cả chúng ta, chúng ta có thể tập phân biệt giữa Chân Ngã – con người thật – và những thể của nó. Khi làm thế, ta bước ra khỏi ảo tưởng mà phần đông nguời đời còn bị bao bọc. Nhờ đó thái độ chúng ta đối với cuộc sống và thế gian sẽ hoàn toàn thay đổi. Nó sẽ nâng ta lên vùng yên tĩnh, vượt trên những thay đổi vô thường của cuộc đời hữu hạn, cùng những rối ren nhỏ nhặt hàng ngày, để nhận thấy được mối tương quan thật sự giữa cái luôn luôn thay đổi và cái tương đối trường tồn. Ta sẽ cảm nhận sự khác biệt giữa một người ở giữa biển khơi, bị những làn sóng bao phủ, xô đẩy, vùi dập, và một người đứng trên tảng đá vững chắc không hề hấn bởi những làn sóng nhấp nhô bên dưới. 
 - Khi nói đến ‘‘con người’’, tôi muốn nói đến cái Ngã sống động, có ý thức, có suy tư; khi nói đến ‘‘các thể’’, tôi đề cập đến những lớp vỏ khác nhau, trong đó cái Ngã được bao bọc, và mỗi lớp vỏ giúp cho cái Ngã hoạt động trong một vài vùng nhất định của vũ trụ. Chúng ta có thể dùng xe để di chuyển từ nơi này sang nơi khác trên mặt đất, dùng tàu đi trên biển, dùng phi cơ bay trong không gian, nhưng ở mọi nơi chúng ta vẫn là chúng ta. Cũng thế, Chân Ngã, hay con người thật sự, vẫn là chính nó dù đang hoạt động trong một ‘‘thể’’ nào. Cái xe, chiếc tàu hay phi cơ được tạo ra bởi những vật liệu và sự xếp đặt khác nhau, tùy theo nơi mà nó hoạt động, tương tự như thế, mỗi thể có cấu tạo khác nhau tùy theo môi trường chúng sinh hoạt. Thể này thô kệch hơn thể kia, có đời sống ngắn ngủi hay ít khả năng hơn thể kia; nhưng tất cả đều có đặc tính chung: chúng tương đối ngắn ngủi, tạm bợ so với ‘‘con người’’. Chúng là những dụng cụ, tôi tớ của con người, thường bị hư hoại và được tái tạo lại cái mới, để thích hợp với sự thay đổi tính chất và nhu cầu, cũng như năng lực càng ngày càng gia tăng của con người. Chúng ta sẽ học hỏi từng thể một, bắt đầu bằng thể thấp nhất, kế đó nghiên cứu chính con người, diễn viên trong tất cả các thể.  
 
-</div></blockquote></details>
+</div></blockquote>
 
 --------------------------------------------------------
 
