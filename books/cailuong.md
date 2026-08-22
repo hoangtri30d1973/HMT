@@ -55,9 +55,9 @@ Xin ba nhìn nhận con là con The, cho con ở lại sớm hôm hầu cha mẹ
 ⭐
 <div align="jusify" markdown="1">
 
-- 👨Tụi bây sao kỳ quá, thét rồi tao cũng không hiểu nỗi nữa à ... bởi vì khi cháu đi rồi, thì kế sáng bữa sau, thằng Tùng nó tới với tao, nó đấm ngực nó kêu trời, tao đưa thơ cho nó đọc, coi mòi nó bực dọc, trong suốt một tuần nó kiếm khắp nơi, cũng không ra được manh mối gì.
-- 👩Trong lúc anh Tùng, tới lui tìm kiếm, cháu vẫn còn ở Sài Gòn, nên cháu biết, thấy ảnh khổ đau cháu không sao cầm nước mắt, nhưng những lời trót hứa ra, cháu phải giữ với người ta.
-- 👨Cháu hứa gì và đã hứa với ai, nếu lồng đã thiệt thương, sau lại bỏ đi giữa chừng, tao nằm đêm tao nghĩ bụng, chắc là thằng Tùng nó có vợ, cho đến bây giờ khi cháu nói ra, tao mới hết nghi ngờ. Nhưng còn chuyện vợ chồng, khi lòng bây đã quyết, dù bất cứ thằng nào muốn chen vào phá quấy, bây ngán nó hay sao mà nó để cho lỡ dỡ, rồi tự ý bỏ đi, không nói cho tao hay.
+- ♂️ Tụi bây sao kỳ quá, thét rồi tao cũng không hiểu nỗi nữa à ... bởi vì khi cháu đi rồi, thì kế sáng bữa sau, thằng Tùng nó tới với tao, nó đấm ngực nó kêu trời, tao đưa thơ cho nó đọc, coi mòi nó bực dọc, trong suốt một tuần nó kiếm khắp nơi, cũng không ra được manh mối gì.
+- ♀️ Trong lúc anh Tùng, tới lui tìm kiếm, cháu vẫn còn ở Sài Gòn, nên cháu biết, thấy ảnh khổ đau cháu không sao cầm nước mắt, nhưng những lời trót hứa ra, cháu phải giữ với người ta.
+- ♂️ Cháu hứa gì và đã hứa với ai, nếu lồng đã thiệt thương, sau lại bỏ đi giữa chừng, tao nằm đêm tao nghĩ bụng, chắc là thằng Tùng nó có vợ, cho đến bây giờ khi cháu nói ra, tao mới hết nghi ngờ. Nhưng còn chuyện vợ chồng, khi lòng bây đã quyết, dù bất cứ thằng nào muốn chen vào phá quấy, bây ngán nó hay sao mà nó để cho lỡ dỡ, rồi tự ý bỏ đi, không nói cho tao hay.
 
 </div>
 </blockquote></details>
