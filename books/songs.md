@@ -99,6 +99,7 @@ Và dường như anh hiểu ra một điều Em đã hết yêu anh phải khô
 Vậy thì anh sẽ bước ra đi Trả lại em những ngày anh chưa đến <br/>
 Và khi anh ra đi em sẽ nhận ra Không ai yêu em như anh đã từng yêu.</p>
 </blockquote></details>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 
 # B
 
@@ -272,6 +273,7 @@ Còn trong đó những ký ức ấu thơ cách xa ngày mai có đâu ai ngờ
 Nâng chén say đêm nay mong sao ánh trăng mãi không đổi thay</p>
 
 </blockquote></details>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 
 # C
 
@@ -351,6 +353,7 @@ Dù [Bb] ta đây bao [C7] đêm vẫn ôm niềm [F] đau<br/>
 Nàng là [Bb] biển xanh trời cao, mắt [Am] môi thiên [Dm] thần<br/>
 Nàng là tất [Gm] cả nguyên [C7] do của niềm [F] đau.</p>
 </blockquote></details>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 
 # D
 
@@ -435,6 +438,7 @@ Buồn làm gì ngoài [G] kia bao la, đừng [D] sống với bóng ma cô [Em
 <p>[Em] Năn na na ná na [G] nằn nà nà ồ [D] oa ba ắp pa [Em] pa<br/>
 [Em] Năn na na ná na [G] nắn nà nà ồ [D] oa ai ắp già [Em] già</p>
 </blockquote></details>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 
 # G
 
@@ -502,6 +506,7 @@ Từng [D] ngày ngóng trông quê [Em] nhà<br/>
 Buồn [C] chi em ơi dòng [Em] đời cứ trôi<br/>
 Lòng [D] người có [Em] bao giờ [Am] vơi.</p>
 </blockquote></details>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 
 # K
 
@@ -616,6 +621,7 @@ Tình [D] yêu bên nhau hôm qua ta trao đâu dễ kiếm [G] tìm [B7]<br/>
 Lạc [Em] bước đôi chân trong đêm vô vọng tìm về chốn [Am] xưa<br/>
 [D] Tan trong những tiếc [Bm] nuối một thời đắm [Em] say</p>
 </blockquote></details>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 
 # L
 
@@ -647,6 +653,7 @@ Sau lưng ta bỏ tất [F] cả cho [C] đời<br/>
 Ngoảnh [Dm] mặt ta chỉ là<br/>
 Đến rồi [F] đi như [A7] lữ khách [Dm] bên đường [Gm][Dm]</p>
 </blockquote></details>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 
 # M
 
@@ -678,6 +685,7 @@ Khi có nhau mình nói câu thương nhớ nhau một đời.</p>
 Giờ người đã đi mình [Bm] nhớ thương cho trái tim cuồng [Em] si<br/>
 Em có quay về [Am] chăng , ta đứng đây chờ [D] mãi cho thân xác ta thành [G] băng.</p>
 </blockquote></details>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 
 ---
 
