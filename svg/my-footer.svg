@@ -4,9 +4,9 @@
 
 <g id="bamboo-H-standalone">
     <!-- Cột trúc bên trái: Gồm 3 đốt trúc xếp chồng có khoảng cách tinh tế -->
-    <rect x="90" y="60" width="12" height="32" rx="3" fill="#0B4619" />
-    <rect x="90" y="98" width="12" height="34" rx="3" fill="#0B4619" />
-    <rect x="90" y="136" width="12" height="32" rx="3" fill="#0B4619" />
+    <rect x="90" y="60" width="12" height="32" rx="3" fill="#0B2545" />
+    <rect x="90" y="98" width="12" height="34" rx="3" fill="#0B2545" />
+    <rect x="90" y="136" width="12" height="32" rx="3" fill="#0B2545" />
     
     <!-- Cột trúc bên phải: Đối xứng hoàn hảo -->
     <rect x="190" y="60" width="12" height="32" rx="3" fill="#0B4619" />
