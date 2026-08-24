@@ -192,3 +192,42 @@ XI. CHƯƠNG 11: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 10: NGŨ GIÁC TĂNG TR
 </pre></details><br/>
 
 <details><summary>BMG</summary>
+
+
+pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+KP | KA/KR | VP | CR/CH | CS
+C$ (KP, KA, KR) | RS (CR, CH, CS)
+
+Mô hình cấu trúc DN BMG - Business Model Generation
+=====
+CS - Cost Structures
+RS - Revenue Streams
+
+KP - Key Partnerships
+=====
+- Đối tác của DN
+
+KA - Key Activities
+=====
+- Chức năng của DN
+
+KR - Key Resources
+=====
+- Nguồn tài nguyên của DN
+
+VP - Value Propositions
+=====
+- Giá trị cốt lõi của DN
+
+CR - Customer Relationship
+=====
+- Chăm sóc khách hàng
+
+CH - Channels
+=====
+- Kênh phân phối
+
+CS - Customer Segment
+=====
+- Thông tin khách hàng
+</pre></details><br/>
