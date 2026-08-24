@@ -1,49 +1,194 @@
-# Tổng hợp theo dõi công việc
+<details><summary>CHRO</summary>
+<pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+Chân dung CHRO:
+=====
+- Quản trị nguồn nhân lực toàn công ty.
 
----
+Vấn đề nhân sự trong công ty:
+=====
+- Tuyển dụng: Người từ đâu tới?
+- Sử dụng: Người sẽ ngồi đâu? 
+- Thôi dụng: Người sẽ đi ra sao?
 
-<blockquote><div markdown="1" align="center">
-  
-|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|24|25|26|27|28|<mark>29</mark>|<mark>30</mark>|
+Pro CHRO:
+=====
+- Khát vọng nghề nghiệp:
+    + Kinh nghiệm nghề nghiệp
+    + Quan hệ nghề nghiệp
+    + Đạo đức nghề nghiệp
+- Tố chất nghề nghiệp
+- Kiến thức nền tảng: 
+    + Kỹ thuật nghề nhân sự
+- Kiến thức cập nhật và chuyên sâu
 
-</div>
-<div markdown="1">
+Nghề nhân sự:
+=====
+1. Tham gia xây dựng cơ cấu tổ chức & phân công
+2. Tham gia xây dựng văn hóa DN
+3. Xây dựng tiêu chuẩn năng lực & đánh giá năng lực
+4. Xây dựng hệ thống trả công
+5. Xây dựng hệ thống đánh giá thành tích
+6. Xây dựng hệ thống đào tạo và phát triển
+7. Thu hút, tuyển dụng & giữ nhân viên giỏi
+8. Tham gia hoạch định chiến lược & hoạch định nguồn nhân lực
 
-|Công việc|Tình hình thực hiện|Ghi chú|Link|
-|:---|:---|:---|:---:|
-|Xây dựng kế hoạch năm 2027 <blockquote>Tham khảo trong thư mục kế hoạch các năm</blockquote>|🔘24/8/2026|Chuẩn bị thực hiện cho năm 2027|[Drive](https://drive.hissc.com.vn/index.php/f/336869)|
-|Công văn số 1076/CNS-VPCQ ngày 19/8/2026 của Tổng Công ty về việc tăng cường bảo vệ, bảo quản an toàn tài liệu lưu trữ trước diễn biến phức tạp của biến đổi khí hậu và tình hình thiên tai cực đoan năm 2026 <blockquote>- Công ty đã số hóa tài liệu, hồ sơ hoạt động điều hành. Tuy nhiên, vẫn có hồ sơ giấy (đối chiếu). <br/> - P.PTNL rà soát nhằm đảm bảo công tác bảo quản tài liệu</blockquote>|🔘23/8/2026| ||[PTNL-1484](https://sd.hissc.com.vn/browse/PTNL-1484)|
+Tổng hợp từ kinh nghiệm thực tế cá nhân
+=====
+1. Giao tiếp với NLĐ:
+    - Ứng viên
+        + Hồ sơ xin việc 
+        + Tìm kiếm 
+        + Tuyển dụng 
+        + Phỏng vấn
+        + Phân loại hồ sơ 
+    - Làm việc 
+        + Phân công 
+        + Đánh giá hiệu quả 
+        + Đánh giá thành tích 
+        + Tính tuân thủ kỷ luật, nội quy 
+    - Rèn luyện 
+        + Đào tạo 
+        + Điều động 
+    - Thăng tiến 
+        + Bổ nhiệm 
+        + Kiêm nhiệm 
+    - Thôi dụng 
+        + Hết tuổi lao động 
+        + Đủ tuổi hưu 
+        + Xin nghỉ theo nguyện vọng 
+        + Vi phạm kỷ luật, nội quy 
+        + Lao động dôi dư 
 
-</div>
-</blockquote>
+Tổng hợp từ kinh nghiệm thực tế cá nhân
+=====
+2. Quản lý NLĐ
+    - Hồ sơ Cá nhân: Hợp đồng lao động 
+        + Quá trình công tác 
+        + Quá trình thăng tiến 
+        + Quá trình rèn luyện 
+    - Cơ cấu tổ chức 
+        + Cơ quan văn phòng 
+        + Đơn vị trực thuộc 
+        + Công ty con, Công ty liên kết 
+        + Đơn vị có góp vốn 
+    - Nội quy, quy định 
+        + Điều lệ hoạt động 
+        + Quy chế, quy định
+        + Nội quy lao động 
+        + Thỏa ước lao động tập thể 
+    - Trả công, chăm sóc NLĐ 
 
----
+Tổng hợp từ kinh nghiệm thực tế cá nhân
+=====
+3. Quản trị nhân sự tại Công ty
+    - Trả công 
+        + Lương 
+        + Thù lao 
+        + Phụ cấp Trách nhiệm 
+        + Thêm giờ 
+        + Kiêm nhiệm 
+        + Công tác xa 
+    - Trợ cấp 
+        + Xe đưa đón 
+        + Chi phí điện thoại 
+        + Chi phí công tác 
+    - Thưởng 
+        + Thành tích 
+        + Bổ sung 
+        + Phúc lợi 
+    - Trang phục BHLĐ 
+    - Nghỉ mát 
+    - Chế độ BHXH, BHYT 
 
-<blockquote><div markdown="1" align="center">
-  
-|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|17|18|19|20|21|<mark>22</mark>|<mark>23</mark>|
+Tổng hợp từ kinh nghiệm thực tế cá nhân
+=====
+4. Điều kiện làm việc
+    - Cơ sở vật chất 
+        + Nhà xưởng, kho tàng, 
+        + VP 
+    - Trang thiết bị dùng chung 
+    - Trang thiết bị cấp cho cá nhân 
+    - Trang thiết bị bảo vệ, PCCC, BHLĐ 
+    - Hệ thống thông tin 
+    - Cơ sở dữ liệu 
+        + Hệ thống phần mềm 
+        + Hệ thống bảo mật 
+        + Hệ thống truyền tin 
+    - Công tác hậu cần 
+        + Vận chuyển hàng hóa 
+        + Chế độ sử dụng phương tiện đi lại 
+        + Chế độ đi công tác 
+    - Văn thư lưu trữ 
+        + Sự kiện, hội nghị 
+        + Tiếp khách, đối tác 
+    - Chăm sóc sức khỏe 
+        + Y tế cơ quan 
+        + Khám định kỳ 
+        + Bệnh nghề nghiệp ATLĐ - VSLĐ
+</pre></details><br/>
 
-</div>
-<div markdown="1">
+<details><summary>Sách về marketing</summary>
+<pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+Sách: 45 giây tạo nên thay đổi.
 
-|Công việc|Tình hình thực hiện|Ghi chú|Link|
-|:---|:---|:---|:---:|
-|Văn bản số 1062/CNS-KTAT ngày 17/8/2026 về việc tăng cường các biện pháp an toàn, vệ sinh lao động, PCCC và bảo vệ sức khỏe trước, trong và sau ngày nghỉ lễ Quốc khánh 02/9/2026 <blockquote>- P.PTNL tham mưu, đề xuất nội dung đảm bảo an toàn, vệ sinh lao động, PCCC và bảo vệ sức khỏe trước, trong, và sau Lễ quốc khánh 2/9/2026 </blockquote>|✅24/8/2026|- Soạn thảo kế hoạch thực hiện của Công ty - Lê Tấn Vũ ✅22/8/2026 <br/> - Đã gởi email báo cáo cho haint@cns.com.vn|[PTNL-1471](https://sd.hissc.com.vn/browse/PTNL-1471)|
-|Cấp phát tài nguyên cho nhân sự mới|🔵21/8/2026|Phan Đức Công - PTNL <br/>Nguyễn Huy Bảo - ATTT <blockquote>Tạo user ✅21/8/2026 <br/> Kích hoạt tài khoản email 🔘21/8/2026</blockquote>|[HIS-616](https://sd.hissc.com.vn/browse/HIS-616) <br/> [HIS-621](https://sd.hissc.com.vn/browse/HIS-621)|
-|Chuẩn bị bộ hồ sơ đăng ký Công ty là doanh nghiệp khoa học công nghệ <blockquote>Liên hệ chị Kim Chi để tham khảo bộ hồ sơ đăng ký DN khoa học CN của QTSC đã thực hiện</blockquote>|🔵 20/8/2026| |
-|Chuẩn bị họp ĐHĐCĐ bất thường. <blockquote>Nội dung: thông qua việc thay đổi hình thức góp vốn của cổ đông</blockquote>|🔵19/8/2026|<strong>Hồ sơ: </strong> <br/> - Văn bản số 197/CNS-HĐTV ngày 18/8/2026 Về việc triển khai thực hiện Biên bản thỏa thuận về việc thay đổi hình thức góp vốn, định giá tài sản góp vốn và công nhận việc góp vốn; Biên bản giao nhận vốn <br/> <strong>Công việc:</strong> <br/> - Trao đổi với VNI về các công việc chi tiết <br/> - Chuẩn bị tài liệu họp ĐHĐCĐ bất thường <blockquote>- Tờ trình của TGĐ cho HĐQT, HĐQT cho ĐHĐCĐ, BBH HĐQT ✅20/8/2026 <br/> - Thư mời, Biên bản họp , Nghị quyết, Chương trình ĐHĐCĐ <br/> - Báo cáo thẩm tra tư cách cổ đông, Kịch bản chi tiết</blockquote>|[PTNL-1468](https://sd.hissc.com.vn/browse/PTNL-1468)|
-|Điều chỉnh Điều lệ Công ty|🔵18/8/2026|- So sánh góp ý của BKS và bản cập nhật điều chỉnh của VNI ✅18/8/2026 <br/> - Trao đổi với VNI để điều chỉnh cập nhật, gởi qua group trên zalo ✅18/8/2026|[PTNL-1463](https://sd.hissc.com.vn/browse/PTNL-1463)|
-|NDDV báo cáo kết quả thực hiện theo chỉ đạo của CNS <blockquote>Báo cáo số 18/BC-ĐDV ngày 17/8/2026 về kết quả thông qua tình hình sử dụng lao động, quỹ tiền lương, thù lao thực hiện năm 2026 của Công ty HISSC</blockquote>|✅21/8/2026| |[PTNL-1434](https://sd.hissc.com.vn/browse/PTNL-1434)|
-|NDDV báo cáo kết quả thực hiện theo chỉ đạo của CNS <blockquote>Báo cáo số 19/BC-ĐDV ngày 17/8/2026 về kết quả họp Đại hội đồng cổ đông năm 2026 của Công ty HISSC</blockquote>|✅21/8/2026| |[PTNL-1435](https://sd.hissc.com.vn/browse/PTNL-1435)|
-|Thông báo số 8021/TB-SKHCN ngày 13/8/2026 về khóa huấn luyện nâng cao năng lực quản trị tài sản trí tuệ trên địa bàn Tp.HCM 2026 |✅20/8/2026|- Anh Vũ Hải Sơn - P.PTKD và Anh Lê Tấn Vũ - P.PTNL <blockquote>Đã xác nhận lịch học tối 2 4 6</blockquote>|[PTNL-1465](https://sd.hissc.com.vn/browse/PTNL-1465)|
-|Hoàn chỉnh hồ sơ HĐ thuê VPS với QTSC <blockquote>Liên hệ Dũng sale cung cấp báo giá</blockquote>|✅19/8/2026| | |
-|Quyết định số 12/QĐ-BKS ngày 18/8/2026 về việc Ban hành Quy chế hoạt động của Ban Kiểm soát Công ty Cổ phần Dịch vụ an toàn thông tin Thành phố Hồ Chí Minh |✅P.PTNL đã lưu trên Drive|[Quy chế hoạt động của BKS](https://drive.hissc.com.vn/index.php/f/2694154)|[PTNL-1483](https://sd.hissc.com.vn/browse/PTNL-1483)|
+- Mục đích: Thấu hiểu tiếp thị mạng lưới.
+- Tác giả: Don Failla.
 
-</div>
-</blockquote>
+=========
+- Ý tưởng: Bài thuyết trình 45 giây là tất cả những gì một người cần biết để bắt đầu xây dựng một tổ chức lớn mạnh.
+=========
 
----
+I. CHƯƠNG 1: TIẾP THỊ MẠNG LƯỚI.
+- Có ba phương pháp để phân phối hàng hóa: Bán lẻ, bán hàng trực tiếp và tiếp thị mạng lưới.
+- Điều quan trọng nhất trong tiếp thị mạng lưới không phải là phải bán lẻ để thành công, mà là SẢN PHẨM PHẢI ĐƯỢC LƯU CHUYỂN - nếu sản phẩm không lưu chuyển thì không ai kiếm được tiền cả.
+- Tiếp thị mạng lưới dùng khái niệm BẢO TRỢ thay cho tuyển dụng. Trong đó, bảo trợ được hiểu là bạn bảo trợ người khác và dạy họ cách làm những gì bạn đang làm, đó là xây dựng sự nghiệp cho chính bản thân.
+
+II. CHƯƠNG 2: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 1: HAI LẦN HAI LÀ BỐN.
+- 2 x 2 = 4 x 2 = 8 x 2 = 16.
+- 3 x 3 = 9 x 3 = 27 x 3 = 81
+- 4 x 4 = ...
+- 5 x 5 = ...
+
+III. CHƯƠNG 3: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 2: TRIỆU CHỨNG THẤT BẠI CỦA NGƯỜI BÁN HÀNG.
+- Phân biệt rõ ràng sự khác nhau giữa Bảo trợ và Tuyển dụng bán hàng.
+
+IV. CHƯƠNG 4: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 3: BỐN VIỆC BẠN PHẢI LÀM.
+- 1. Lên xe - Khởi động.
+- 2. Nạp nhiên liệu. Hiểu là Sản phẩm khi được sử dụng hết sẽ được mua lại để sử dụng tiếp, nghĩa là tìm ra sản phẩm nào có thể tiêu dùng được. Chính mình phải sử dụng được sản phẩm của Công ty.
+- 3. Lên số. Hiểu là bắt đầu công tác bảo trợ người khác vào hệ thống.
+- 4. Chia sẻ. Chia sẻ sản phẩm với bạn bè. Bán lẻ sản phẩm.
+
+V. CHƯƠNG 5: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 4: ĐÀO SÂU XUỐNG TẬN NỀN ĐÁ CỨNG.
+- Người thất bại duy nhất là người bỏ cuộc.
+- Khi chạy đua, mọi người cùng xuất phát tại cùng một vạch, chỉ là có người bắt đầu trước, có người sau. Khi bắt đầu chạy, bạn thường phải bám theo đám đông, rồi sau mới vượt lên họ để về đích trước tiên.
+- Khi bạn bắt đầu bảo trợ đủ tầng sâu, bạn bắt đầu trở nên vô hình và tổ chức của bạn bắt đầu khởi động vươn lên.
+
+VI. CHƯƠNG 6: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 5: NHỮNG CON TÀU TRÊN BIỂN.
+- Cơ bản là có ba con tàu, con tàu vàng, con tàu bạc và con tàu rỗng. Nếu không quan tâm đúng mức đến việc bảo trợ và cam kết đi cùng họ thì khả năng bạn lái con tàu rỗng rất lớn.
+- Các đặc điểm cơ bản của con tàu vàng:
+	+ Có Khao khát học hỏi.
+	+ Có Yêu cầu giúp đỡ.
+	+ Có Hứng khởi với việc kinh doanh này.
+	+ Có Cam kết.
+	+ Có Mục tiêu.
+	+ Có Danh sách được viết ra.
+	+ Rất vui và tích cực.
+- Bạn có thể có được mọi thứ mình muốn trên thế giới này, đơn giản chỉ bằng cách giúp đủ số người đạt được điều họ muốn. Zig Ziglar.
+
+VII. CHƯƠNG 7: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 6: HẤP DẪN BÊN THỨ BA.
+- Nỗi sợ bị từ chối.
+- Hãy cố gắng hạ thủy nhiều tàu cho nó ra biển, để nhận về các con tàu vàng nhiều hơn là các con tàu rỗng.
+
+VIII. CHƯƠNG 8: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 7: ĐẦU TƯ THỜI GIAN VÀO ĐÂU.
+- 100% thời gian là dùng để lưu chuyển hàng hóa.
+
+IX. CHƯƠNG 9: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 8: TIẾNG XÈO XÈO GIÚP BÍT TẾT HẾT VEO.
+- Năng lượng.
+
+X. CHƯƠNG 10: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 9: ĐỘNG LỰC VÀ THÁI ĐỘ.
+- Động lực xuống - động lực lên.
+
+XI. CHƯƠNG 11: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 10: NGŨ GIÁC TĂNG TRƯỞNG.
+</pre></details><br/>
+
+<details><summary>BMG</summary>
