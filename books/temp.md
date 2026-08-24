@@ -1,0 +1,49 @@
+# Tổng hợp theo dõi công việc
+
+---
+
+<blockquote><div markdown="1" align="center">
+  
+|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|24|25|26|27|28|<mark>29</mark>|<mark>30</mark>|
+
+</div>
+<div markdown="1">
+
+|Công việc|Tình hình thực hiện|Ghi chú|Link|
+|:---|:---|:---|:---:|
+|Xây dựng kế hoạch năm 2027 <blockquote>Tham khảo trong thư mục kế hoạch các năm</blockquote>|🔘24/8/2026|Chuẩn bị thực hiện cho năm 2027|[Drive](https://drive.hissc.com.vn/index.php/f/336869)|
+|Công văn số 1076/CNS-VPCQ ngày 19/8/2026 của Tổng Công ty về việc tăng cường bảo vệ, bảo quản an toàn tài liệu lưu trữ trước diễn biến phức tạp của biến đổi khí hậu và tình hình thiên tai cực đoan năm 2026 <blockquote>- Công ty đã số hóa tài liệu, hồ sơ hoạt động điều hành. Tuy nhiên, vẫn có hồ sơ giấy (đối chiếu). <br/> - P.PTNL rà soát nhằm đảm bảo công tác bảo quản tài liệu</blockquote>|🔘23/8/2026| ||[PTNL-1484](https://sd.hissc.com.vn/browse/PTNL-1484)|
+
+</div>
+</blockquote>
+
+---
+
+<blockquote><div markdown="1" align="center">
+  
+|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|17|18|19|20|21|<mark>22</mark>|<mark>23</mark>|
+
+</div>
+<div markdown="1">
+
+|Công việc|Tình hình thực hiện|Ghi chú|Link|
+|:---|:---|:---|:---:|
+|Văn bản số 1062/CNS-KTAT ngày 17/8/2026 về việc tăng cường các biện pháp an toàn, vệ sinh lao động, PCCC và bảo vệ sức khỏe trước, trong và sau ngày nghỉ lễ Quốc khánh 02/9/2026 <blockquote>- P.PTNL tham mưu, đề xuất nội dung đảm bảo an toàn, vệ sinh lao động, PCCC và bảo vệ sức khỏe trước, trong, và sau Lễ quốc khánh 2/9/2026 </blockquote>|✅24/8/2026|- Soạn thảo kế hoạch thực hiện của Công ty - Lê Tấn Vũ ✅22/8/2026 <br/> - Đã gởi email báo cáo cho haint@cns.com.vn|[PTNL-1471](https://sd.hissc.com.vn/browse/PTNL-1471)|
+|Cấp phát tài nguyên cho nhân sự mới|🔵21/8/2026|Phan Đức Công - PTNL <br/>Nguyễn Huy Bảo - ATTT <blockquote>Tạo user ✅21/8/2026 <br/> Kích hoạt tài khoản email 🔘21/8/2026</blockquote>|[HIS-616](https://sd.hissc.com.vn/browse/HIS-616) <br/> [HIS-621](https://sd.hissc.com.vn/browse/HIS-621)|
+|Chuẩn bị bộ hồ sơ đăng ký Công ty là doanh nghiệp khoa học công nghệ <blockquote>Liên hệ chị Kim Chi để tham khảo bộ hồ sơ đăng ký DN khoa học CN của QTSC đã thực hiện</blockquote>|🔵 20/8/2026| |
+|Chuẩn bị họp ĐHĐCĐ bất thường. <blockquote>Nội dung: thông qua việc thay đổi hình thức góp vốn của cổ đông</blockquote>|🔵19/8/2026|<strong>Hồ sơ: </strong> <br/> - Văn bản số 197/CNS-HĐTV ngày 18/8/2026 Về việc triển khai thực hiện Biên bản thỏa thuận về việc thay đổi hình thức góp vốn, định giá tài sản góp vốn và công nhận việc góp vốn; Biên bản giao nhận vốn <br/> <strong>Công việc:</strong> <br/> - Trao đổi với VNI về các công việc chi tiết <br/> - Chuẩn bị tài liệu họp ĐHĐCĐ bất thường <blockquote>- Tờ trình của TGĐ cho HĐQT, HĐQT cho ĐHĐCĐ, BBH HĐQT ✅20/8/2026 <br/> - Thư mời, Biên bản họp , Nghị quyết, Chương trình ĐHĐCĐ <br/> - Báo cáo thẩm tra tư cách cổ đông, Kịch bản chi tiết</blockquote>|[PTNL-1468](https://sd.hissc.com.vn/browse/PTNL-1468)|
+|Điều chỉnh Điều lệ Công ty|🔵18/8/2026|- So sánh góp ý của BKS và bản cập nhật điều chỉnh của VNI ✅18/8/2026 <br/> - Trao đổi với VNI để điều chỉnh cập nhật, gởi qua group trên zalo ✅18/8/2026|[PTNL-1463](https://sd.hissc.com.vn/browse/PTNL-1463)|
+|NDDV báo cáo kết quả thực hiện theo chỉ đạo của CNS <blockquote>Báo cáo số 18/BC-ĐDV ngày 17/8/2026 về kết quả thông qua tình hình sử dụng lao động, quỹ tiền lương, thù lao thực hiện năm 2026 của Công ty HISSC</blockquote>|✅21/8/2026| |[PTNL-1434](https://sd.hissc.com.vn/browse/PTNL-1434)|
+|NDDV báo cáo kết quả thực hiện theo chỉ đạo của CNS <blockquote>Báo cáo số 19/BC-ĐDV ngày 17/8/2026 về kết quả họp Đại hội đồng cổ đông năm 2026 của Công ty HISSC</blockquote>|✅21/8/2026| |[PTNL-1435](https://sd.hissc.com.vn/browse/PTNL-1435)|
+|Thông báo số 8021/TB-SKHCN ngày 13/8/2026 về khóa huấn luyện nâng cao năng lực quản trị tài sản trí tuệ trên địa bàn Tp.HCM 2026 |✅20/8/2026|- Anh Vũ Hải Sơn - P.PTKD và Anh Lê Tấn Vũ - P.PTNL <blockquote>Đã xác nhận lịch học tối 2 4 6</blockquote>|[PTNL-1465](https://sd.hissc.com.vn/browse/PTNL-1465)|
+|Hoàn chỉnh hồ sơ HĐ thuê VPS với QTSC <blockquote>Liên hệ Dũng sale cung cấp báo giá</blockquote>|✅19/8/2026| | |
+|Quyết định số 12/QĐ-BKS ngày 18/8/2026 về việc Ban hành Quy chế hoạt động của Ban Kiểm soát Công ty Cổ phần Dịch vụ an toàn thông tin Thành phố Hồ Chí Minh |✅P.PTNL đã lưu trên Drive|[Quy chế hoạt động của BKS](https://drive.hissc.com.vn/index.php/f/2694154)|[PTNL-1483](https://sd.hissc.com.vn/browse/PTNL-1483)|
+
+</div>
+</blockquote>
+
+---
