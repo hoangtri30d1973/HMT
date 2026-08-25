@@ -1,41 +1,21 @@
 # Chuyên đề sức khỏe
+***Tổng hợp các kiến thức về dinh dưỡng để xây dựng một cuộc sống khỏe mạnh.***
 
- <section class="section has-background-white-bis">
-        <h1 class="title">Health</h1>
-        <h2 class="subtitle">
-            Tổng hợp các kiến thức về dinh dưỡng để xây dựng một cuộc sống khỏe mạnh.
-        </h2>
-    <div class="message is-success">
-        <details><summary class="summary has-text-weight-medium message-header has-text-black-ter">1. Kiến thức về dinh dưỡng</summary>
-            <div class="table-container">
-                <table class="table is-striped is-narrow is-hoverable is-fullwidth">
-                    <tr>
-                        <th>Muối</th>
-                        <td>Ăn hạn chế, dưới 180gr/người/tháng. Đây là thành phần bị hạn chế nhất trong bảng chế độ dinh dưỡng. Vì nếu ăn quá nhiều muối sẽ gây ra nguy cơ dẫn đến các bệnh: huyết áp, bệnh tim, bệnh thận. heo khảo sát, người ăn mặn nhiều sẽ có tuổi thọ thấp hơn những người bình thường.</td>
-                    </tr>
-                    <tr>
-                        <th>Đường</th>
-                        <td>Ăn ít, dưới 500gr/người/tháng. Đường cung cấp cho chúng ta năng lượng tức thời, nhưng không chứa bất kỳ dinh dưỡng nào tốt cho cơ thể. Thực trạng phổ biến hiện nay, các căn bệnh tim mạch, tiểu đường, béo phì…là do dung nạp quá nhiều đường. Nếu không biết cách kiểm soát lượng đường hợp lý, sẽ làm tăng nguy cơ các bệnh. Một số bệnh phổ biến: ung thư, tăng huyết áp, gây sâu răng, làm xấu da, tăng stress.</td>
-                    </tr>
-                    <tr>
-                        <th>Chất béo</th>
-                        <td>Ăn có mức độ, khoảng 600gr/người/tháng. Có nhiều loại thực phẩm cung cấp chất béo trong bữa ăn hàng ngày: dầu ăn, bơ, hạt vừng, đậu phộng. Trong đó, dầu ăn là thực phẩm không thể thiếu trong khâu chế biến của các chị em nội trợ. Dầu ăn cung cấp một số vitamin có lợi như A, E, D, K. Theo khuyến cáo, chúng ta nên sử dụng dầu ăn có nguồn gốc từ thực vật. Tuyệt đối, không được ăn quá nhiều thức ăn chiên xào đầy dầu mỡ.</td>
-                    </tr>
-                    <tr>
-                        <th>Chất đạm (đạm thực vật, đạm động vật)</th>
-                        <td>Đứng ở trung tâm của bảng chế độ dinh dưỡng, chúng ta nên ăn vừa phải. Trung bình 2,5 kg cá và thủy sản; 1,5 kg thịt; 2kg đậu phụ/người/tháng. Đạm thực vật xuất hiện trong các loại đậu, sản phẩm từ đậu nành, bơ thực vật. Đạm động vật có trong các loại thịt, cá, trứng, hải sản…chúng có giá trị dinh dưỡng cao hơn đạm thực vật. Tuy nhiên trong quá trình chuyển hóa chúng có thể sản sinh ra urê, axit uric…có thể gây ra một số bệnh nguy hiểm, phổ biến là bệnh gout như hiện nay. Vì vậy, chúng ta nên ăn cân đối giữa đạm động vật và thực vật. Ăn uống hợp lý giúp bảo vệ sức khỏe và nâng cao vai trò của chất đạm.</td>
-                    </tr>
-                    <tr>
-                        <th>Quả chín</th>
-                        <td>Các loại hoa quả chính là một phần không thể thiếu trong chế độ dinh dưỡng hàng ngày. Tuy nhiên số lượng không bắt buộc, chỉ nên ăn đủ tùy theo khả năng. Những loại quả như cam, kiwi, đu đủ, bơ, táo, chuối…không chỉ giúp cho cơ thể khỏe mạnh mà còn làm đẹp da, chống lão hóa.</td>
-                    </tr>
-                    <tr>
-                        <th>Rau, củ</th>
-                        <td>Ăn đủ, trung bình 10kg/người/tháng. Rau, củ chứa nhiều vitamin, cung cấp khoáng chất và chất xơ cần thiết. Có nhiều loại rau với hình dạng và màu sắc khác nhau, tuy nhiên các loại rau có màu xanh sẫm thường chứa nhiều vitamin và khoáng chất hơn.</td>
-                    </tr>
-                    <tr>
-                        <th>Nhóm lương thực, chất bột đường (gluxit)</th>
-                        <td>Đây là loại thực phẩm cơ bản của một chế độ dinh dưỡng hợp lý, chúng ta nên ăn đủ, trung bình 12kg/người/tháng. Các loại thực phẩm chủ yếu trong các bữa ăn: gạo, mì, bánh, khoai tây…cung cấp lượng tinh bột đáng kể và cần thiết tạo ra năng lượng phục vụ nhu cầu hoạt động hàng ngày.</td>
+---
+
+<h3 align="center">1. Kiến thức về dinh dưỡng</h3>
+<div align="center">♥️♥️♥️♥️♥️</div><br/>
+<blockquote><div markdown="1" align="justify">
+
+|Loại|Tác dụng|
+|:---:|:---|
+|Muối|<p align="justify">Ăn hạn chế, dưới 180gr/người/tháng. Đây là thành phần bị hạn chế nhất trong bảng chế độ dinh dưỡng. Vì nếu ăn quá nhiều muối sẽ gây ra nguy cơ dẫn đến các bệnh: huyết áp, bệnh tim, bệnh thận. heo khảo sát, người ăn mặn nhiều sẽ có tuổi thọ thấp hơn những người bình thường.</p>|
+|Đường|<p align="justify">Ăn ít, dưới 500gr/người/tháng. Đường cung cấp cho chúng ta năng lượng tức thời, nhưng không chứa bất kỳ dinh dưỡng nào tốt cho cơ thể. Thực trạng phổ biến hiện nay, các căn bệnh tim mạch, tiểu đường, béo phì…là do dung nạp quá nhiều đường. Nếu không biết cách kiểm soát lượng đường hợp lý, sẽ làm tăng nguy cơ các bệnh. Một số bệnh phổ biến: ung thư, tăng huyết áp, gây sâu răng, làm xấu da, tăng stress.</p>|
+|Chất béo|<p align="justify">Ăn có mức độ, khoảng 600gr/người/tháng. Có nhiều loại thực phẩm cung cấp chất béo trong bữa ăn hàng ngày: dầu ăn, bơ, hạt vừng, đậu phộng. Trong đó, dầu ăn là thực phẩm không thể thiếu trong khâu chế biến của các chị em nội trợ. Dầu ăn cung cấp một số vitamin có lợi như A, E, D, K. Theo khuyến cáo, chúng ta nên sử dụng dầu ăn có nguồn gốc từ thực vật. Tuyệt đối, không được ăn quá nhiều thức ăn chiên xào đầy dầu mỡ.</p>|
+|Chất đạm (đạm thực vật, đạm động vật)|<p align="justify">Đứng ở trung tâm của bảng chế độ dinh dưỡng, chúng ta nên ăn vừa phải. Trung bình 2,5 kg cá và thủy sản; 1,5 kg thịt; 2kg đậu phụ/người/tháng. Đạm thực vật xuất hiện trong các loại đậu, sản phẩm từ đậu nành, bơ thực vật. Đạm động vật có trong các loại thịt, cá, trứng, hải sản…chúng có giá trị dinh dưỡng cao hơn đạm thực vật. Tuy nhiên trong quá trình chuyển hóa chúng có thể sản sinh ra urê, axit uric…có thể gây ra một số bệnh nguy hiểm, phổ biến là bệnh gout như hiện nay. Vì vậy, chúng ta nên ăn cân đối giữa đạm động vật và thực vật. Ăn uống hợp lý giúp bảo vệ sức khỏe và nâng cao vai trò của chất đạm.</p>|
+|Quả chín|<p align="justify">Các loại hoa quả chính là một phần không thể thiếu trong chế độ dinh dưỡng hàng ngày. Tuy nhiên số lượng không bắt buộc, chỉ nên ăn đủ tùy theo khả năng. Những loại quả như cam, kiwi, đu đủ, bơ, táo, chuối…không chỉ giúp cho cơ thể khỏe mạnh mà còn làm đẹp da, chống lão hóa.</p>|
+|Rau, củ|<p align="justify">Ăn đủ, trung bình 10kg/người/tháng. Rau, củ chứa nhiều vitamin, cung cấp khoáng chất và chất xơ cần thiết. Có nhiều loại rau với hình dạng và màu sắc khác nhau, tuy nhiên các loại rau có màu xanh sẫm thường chứa nhiều vitamin và khoáng chất hơn.</p>|
+|Nhóm lương thực, chất bột đường (gluxit)|<p align="justify">Đây là loại thực phẩm cơ bản của một chế độ dinh dưỡng hợp lý, chúng ta nên ăn đủ, trung bình 12kg/người/tháng. Các loại thực phẩm chủ yếu trong các bữa ăn: gạo, mì, bánh, khoai tây…cung cấp lượng tinh bột đáng kể và cần thiết tạo ra năng lượng phục vụ nhu cầu hoạt động hàng ngày.</p>|
                     </tr>
                     <tr><td colspan="2" class="has-background-warning"><em>Và cuối cùng để hoàn thiện chế độ ăn uống hợp lý của mình, bạn hãy ghi nhớ các loại thực phẩm cần hạn chế dưới đây:</em></td></tr>
                     <tr>
@@ -264,6 +244,16 @@
                 </table>
             </div>
         </details>
+
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
+
+--------------------------------------------------------
+
+<h3 align="center">Cửu đỉnh ký</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
+ 
     </div>
     <div class="message is-success">
         <details><summary class="summary has-text-weight-medium message-header has-text-black-ter">2. Kiến thức về các chỉ số sức khỏe</summary>
