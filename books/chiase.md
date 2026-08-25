@@ -148,32 +148,32 @@
 =========
 ```
 
-## I. CHƯƠNG 1: TIẾP THỊ MẠNG LƯỚI.
+### I. CHƯƠNG 1: TIẾP THỊ MẠNG LƯỚI.
 - Có ba phương pháp để phân phối hàng hóa: Bán lẻ, bán hàng trực tiếp và tiếp thị mạng lưới.
 - Điều quan trọng nhất trong tiếp thị mạng lưới không phải là phải bán lẻ để thành công, mà là SẢN PHẨM PHẢI ĐƯỢC LƯU CHUYỂN - nếu sản phẩm không lưu chuyển thì không ai kiếm được tiền cả.
 - Tiếp thị mạng lưới dùng khái niệm BẢO TRỢ thay cho tuyển dụng. Trong đó, bảo trợ được hiểu là bạn bảo trợ người khác và dạy họ cách làm những gì bạn đang làm, đó là xây dựng sự nghiệp cho chính bản thân.
 
-## II. CHƯƠNG 2: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 1: HAI LẦN HAI LÀ BỐN.
+### II. CHƯƠNG 2: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 1: HAI LẦN HAI LÀ BỐN.
 - 2 x 2 = 4 x 2 = 8 x 2 = 16.
 - 3 x 3 = 9 x 3 = 27 x 3 = 81
 - 4 x 4 = ...
 - 5 x 5 = ...
 
-## III. CHƯƠNG 3: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 2: TRIỆU CHỨNG THẤT BẠI CỦA NGƯỜI BÁN HÀNG.
+### III. CHƯƠNG 3: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 2: TRIỆU CHỨNG THẤT BẠI CỦA NGƯỜI BÁN HÀNG.
 - Phân biệt rõ ràng sự khác nhau giữa Bảo trợ và Tuyển dụng bán hàng.
 
-## IV. CHƯƠNG 4: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 3: BỐN VIỆC BẠN PHẢI LÀM.
-- 1. Lên xe - Khởi động.
-- 2. Nạp nhiên liệu. Hiểu là Sản phẩm khi được sử dụng hết sẽ được mua lại để sử dụng tiếp, nghĩa là tìm ra sản phẩm nào có thể tiêu dùng được. Chính mình phải sử dụng được sản phẩm của Công ty.
-- 3. Lên số. Hiểu là bắt đầu công tác bảo trợ người khác vào hệ thống.
-- 4. Chia sẻ. Chia sẻ sản phẩm với bạn bè. Bán lẻ sản phẩm.
+### IV. CHƯƠNG 4: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 3: BỐN VIỆC BẠN PHẢI LÀM.
+1. Lên xe - Khởi động.
+2. Nạp nhiên liệu. Hiểu là Sản phẩm khi được sử dụng hết sẽ được mua lại để sử dụng tiếp, nghĩa là tìm ra sản phẩm nào có thể tiêu dùng được. Chính mình phải sử dụng được sản phẩm của Công ty.
+3. Lên số. Hiểu là bắt đầu công tác bảo trợ người khác vào hệ thống.
+4. Chia sẻ. Chia sẻ sản phẩm với bạn bè. Bán lẻ sản phẩm.
 
-## V. CHƯƠNG 5: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 4: ĐÀO SÂU XUỐNG TẬN NỀN ĐÁ CỨNG.
+### V. CHƯƠNG 5: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 4: ĐÀO SÂU XUỐNG TẬN NỀN ĐÁ CỨNG.
 - Người thất bại duy nhất là người bỏ cuộc.
 - Khi chạy đua, mọi người cùng xuất phát tại cùng một vạch, chỉ là có người bắt đầu trước, có người sau. Khi bắt đầu chạy, bạn thường phải bám theo đám đông, rồi sau mới vượt lên họ để về đích trước tiên.
 - Khi bạn bắt đầu bảo trợ đủ tầng sâu, bạn bắt đầu trở nên vô hình và tổ chức của bạn bắt đầu khởi động vươn lên.
 
-## VI. CHƯƠNG 6: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 5: NHỮNG CON TÀU TRÊN BIỂN.
+### VI. CHƯƠNG 6: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 5: NHỮNG CON TÀU TRÊN BIỂN.
 - Cơ bản là có ba con tàu, con tàu vàng, con tàu bạc và con tàu rỗng. Nếu không quan tâm đúng mức đến việc bảo trợ và cam kết đi cùng họ thì khả năng bạn lái con tàu rỗng rất lớn.
 - Các đặc điểm cơ bản của con tàu vàng:
 	+ Có Khao khát học hỏi.
@@ -185,20 +185,20 @@
 	+ Rất vui và tích cực.
 - Bạn có thể có được mọi thứ mình muốn trên thế giới này, đơn giản chỉ bằng cách giúp đủ số người đạt được điều họ muốn. Zig Ziglar.
 
-## VII. CHƯƠNG 7: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 6: HẤP DẪN BÊN THỨ BA.
+### VII. CHƯƠNG 7: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 6: HẤP DẪN BÊN THỨ BA.
 - Nỗi sợ bị từ chối.
 - Hãy cố gắng hạ thủy nhiều tàu cho nó ra biển, để nhận về các con tàu vàng nhiều hơn là các con tàu rỗng.
 
-## VIII. CHƯƠNG 8: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 7: ĐẦU TƯ THỜI GIAN VÀO ĐÂU.
+### VIII. CHƯƠNG 8: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 7: ĐẦU TƯ THỜI GIAN VÀO ĐÂU.
 - 100% thời gian là dùng để lưu chuyển hàng hóa.
 
-## IX. CHƯƠNG 9: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 8: TIẾNG XÈO XÈO GIÚP BÍT TẾT HẾT VEO.
+### IX. CHƯƠNG 9: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 8: TIẾNG XÈO XÈO GIÚP BÍT TẾT HẾT VEO.
 - Năng lượng.
 
-## X. CHƯƠNG 10: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 9: ĐỘNG LỰC VÀ THÁI ĐỘ.
+### X. CHƯƠNG 10: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 9: ĐỘNG LỰC VÀ THÁI ĐỘ.
 - Động lực xuống - động lực lên.
 
-## XI. CHƯƠNG 11: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 10: NGŨ GIÁC TĂNG TRƯỞNG.
+### XI. CHƯƠNG 11: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 10: NGŨ GIÁC TĂNG TRƯỞNG.
 
 <div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
@@ -209,10 +209,11 @@
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
 
-```
-KP | KA/KR | VP | CR/CH | CS
-C$ (KP, KA, KR) | RS (CR, CH, CS)
-```
+<table>
+<tr><td rowspan="2">KP</td><td>KR</td><td rowspan="3">VP</td><td>CH</td><td rowspan="2">CS</td></tr>
+<tr><td>KA</td><td>CR</td></tr>
+<tr><td colspan="2" align="center">C$</td><td colspan="2" align="center">RS</td></tr>
+</table>
 
 ### Mô hình cấu trúc DN BMG - Business Model Generation
 - CS - Cost Structures
