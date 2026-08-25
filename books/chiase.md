@@ -1,5 +1,9 @@
-<details><summary>CHRO</summary>
-<pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+# Chia sẻ kinh nghiệm
+
+<h3 align="center">CHRO</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
+
 Chân dung CHRO:
 =====
 - Quản trị nguồn nhân lực toàn công ty.
@@ -125,11 +129,15 @@ Tổng hợp từ kinh nghiệm thực tế cá nhân
         + Y tế cơ quan 
         + Khám định kỳ 
         + Bệnh nghề nghiệp ATLĐ - VSLĐ
-</pre></details><br/>
 
-<details><summary>Sách về marketing</summary>
-<pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
-Sách: 45 giây tạo nên thay đổi.
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
+
+---
+
+<h3 align="center">45 giây tạo nên thay đổi</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
 
 - Mục đích: Thấu hiểu tiếp thị mạng lưới.
 - Tác giả: Don Failla.
@@ -189,12 +197,16 @@ X. CHƯƠNG 10: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 9: ĐỘNG LỰC VÀ TH�
 - Động lực xuống - động lực lên.
 
 XI. CHƯƠNG 11: BÀI HỌC TRÊN CHIẾC KHĂN ĂN SỐ 10: NGŨ GIÁC TĂNG TRƯỞNG.
-</pre></details><br/>
 
-<details><summary>BMG</summary>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
 
+---
 
-pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+<h3 align="center">BMG</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
+
 KP | KA/KR | VP | CR/CH | CS
 C$ (KP, KA, KR) | RS (CR, CH, CS)
 
@@ -230,4 +242,8 @@ CH - Channels
 CS - Customer Segment
 =====
 - Thông tin khách hàng
-</pre></details><br/>
+
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
+
+---
