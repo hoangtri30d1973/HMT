@@ -38,7 +38,7 @@
 - Sự nhân đôi DNA và phân chia của tế bào cũng dựa trên nguyên tắc chuyển đổi vật chất và năng lượng. DNA, tế bào, sinh vật là các hệ năng lượng mở, nhận năng lượng để đảm bảo phân chia mà không hạ thấp dạng năng lượng hay cấu trúc của tế bào như hình minh họa dưới theo www.biologylessons.sdsu.edu. 
 - Sự tạo thành vũ trụ từ vụ nổ Big Bang, sự tạo thành các ngôi sao, các hành tinh, các thiên thể cũng theo cơ chế gần như vậy. Một năng lượng cao hơn giải phóng ra những vật chất/ánh sáng có rung động thấp hơn. 
 - Trong quá trình phát triển, một số thiên thể, hành tinh có thể nhận thêm năng lượng để chuyển đối thành dạng vật chất sáng hơn đồng thời 'loãng' hơn về mặt vật lý như một ngôi sao trở thành sao khổng lồ, rồi siêu sao khổng lồ, thậm chí thành lỗ đen. 
-- Tiếp tục phóng ra vật chất/ánh sáng từ chính nó và mất năng lượng hay là đặc lại, giống như một ngôi sao trở thành sao lùn trắng và cuối cùng là sao lùn đen. 
+- Tiếp tục phóng ra vật chất/ ánh sáng từ chính nó và mất năng lượng hay là đặc lại, giống như một ngôi sao trở thành sao lùn trắng và cuối cùng là sao lùn đen. 
 - Sự tạo thành linh hồn con người cũng theo đúng quy tắc tăng khối lượng vật chất và giảm mật độ rung động. 
 - Sự sinh ra của linh hồn thực chất là sự chuyển đổi năng lượng đi kèm với sự phân tách vật chất. Hai linh hồn con được sinh ra ở mật độ năng lượng thấp hơn từ một linh hồn mẹ có mức năng lượng cao hơn. 
 - Sự tiến hóa của linh hồn là việc nâng tần số rung động, khi nhận thêm năng lượng từ bên ngoài vì linh hồn là hệ năng lượng mở. 
@@ -70,10 +70,13 @@
 
 ### Tổng quan
 - Với nhận thức chia cắt, con người đã cố gắng lý giải các hiện tượng bằng các con đường hẹp, thông qua việc tập trung vào một đặc thù nào đó như là một đối tượng nhận thức. 
-- Các ngành khoa học tập trung vào những hiện tượng đo lường được. Khi các thiết bị đo trở nên tinh vi hơn, khi đi vào đo lường bản chất năng lượng của mọi sự vật, hiện tượng, các ngành khoa học bắt đầu gặp nhau. Các tôn giáo và tâm linh dường như đi vào những hiện tượng siêu hình hay không đo lường trực tiếp được khi nhận thức của con người còn hạn chế, cho đến khi con người bắt đầu hiểu sự gắn bó chặt chẽ giữa vật lý và phi vật lý. Con đường tiến hóa tâm linh = Con đường giác ngộ tôn giáo = Quy luật năng lượng 
+- Các ngành khoa học tập trung vào những hiện tượng đo lường được. Khi các thiết bị đo trở nên tinh vi hơn, khi đi vào đo lường bản chất năng lượng của mọi sự vật, hiện tượng, các ngành khoa học bắt đầu gặp nhau. Các tôn giáo và tâm linh dường như đi vào những hiện tượng siêu hình hay không đo lường trực tiếp được khi nhận thức của con người còn hạn chế, cho đến khi con người bắt đầu hiểu sự gắn bó chặt chẽ giữa vật lý và phi vật lý.
+
+> `Con đường tiến hóa tâm linh = Con đường giác ngộ tôn giáo = Quy luật năng lượng`
+
 - Con đường nâng cao năng lượng = Con đường minh triết & tình yêu 
 - Nhận thức mở rộng dần theo thời gian, với sự đóng góp của nhiều con người qua thế hệ. Ở một tầm nhận thức đủ cao, các ngành khoa học, tôn giáo và tâm linh hội tụ và bổ sung, hoàn thiện nhau để tạo nên một nhận thức hoàn chỉnh hơn của nhân loại về sự hợp nhất của vũ trụ và con người. 
-- Mở rộng nhận thức là Nâng cao năng lượng là dấu = trong công thức E=Mc2 
+- Mở rộng nhận thức là Nâng cao năng lượng là dấu = trong công thức E=Mc<sup>2</sup>
 - Tình yêu khác nhau là năng lượng di chuyển với tốc độ khác nhau. Đang trên máy bay siêu thanh bay ngược chiều quay Trái đất đến thăm người yêu gặp tai nạn, bạn nghe thấy cô ấy gọi. Tiếng thì thầm của cô ấy đáp máy bay tình yêu, bay xuôi chiều quay Trái đât nhanh hơn cả tốc độ ánh sáng, gặp tâm thức chân thành của bạn đang lơ lửng trên tầng mây. 
 - Tình yêu có khả năng thay đổi con người. Tình yêu vô điều kiện đi nhanh hơn tốc độ ánh sáng và có khả năng thay đổi con người sâu sắc nhất. Các lãnh tụ tâm linh đều kêu gọi nhân loại tập trung hơn vào những thứ siêu hình, đều quan tâm đến thay đổi nhân loại, cho nên đều kêu gọi tình yêu vô điều kiện. 
 - Tình yêu là Sự chuyển đổi năng lượng là dấu = trong công thức E=Mc<sup>2</sup>
@@ -134,7 +137,7 @@
 
 ### Mục đích
 
-phát triển tâm linh là hoàn thiện linh hồn bằng qua trải nghiệm các cảnh giới thấp (involution) và tiến hóa lên các cảnh giới cao (evolution). Theo ba ngôi của linh hồn mà sẽ có 3 con đường phát triển tâm linh chính. 
+Phát triển tâm linh là hoàn thiện linh hồn bằng qua trải nghiệm các cảnh giới thấp (involution) và tiến hóa lên các cảnh giới cao (evolution). Theo ba ngôi của linh hồn mà sẽ có 3 con đường phát triển tâm linh chính. 
 
 1. Con đường trí tuệ:
     - hành động 
@@ -172,14 +175,14 @@ phát triển tâm linh là hoàn thiện linh hồn bằng qua trải nghiệm 
 ### Tổng quan
 - Cung chủ linh hồn thời điểm sinh ra có ảnh hưởng xuyên suốt đến trải nghiệm của linh hồn trong vòng luân hồi. Cho dù con người có ở trình độ nào, có thừa nhận linh hồn, có biết các ngôi của linh hồn hay không, thì họ vẫn sẽ phát triển theo ba con đường đó. 
 - Cung bản ngã có thể không trùng với cung linh hồn. Khi linh hồn và bản ngã càng hòa hợp thì hai cung này càng có xu hướng trùng với nhau. Cung chính của linh hồn tạo nên màu sắc tiến hóa và cung chính của bản ngã sẽ tạo nên sắc màu cho trải nghiệm của con người. Khi một con người đạt được bước nhảy vọt trên một cung đường sớm muộn họ cũng đạt được sự tiến bộ mạnh mẽ trên hai cung đường còn lại. Cung chính là động lực tiến hóa và tạo nên mục đích cuộc đời. 
-- Sự kết hợp cực đoan của ba cung khiến sự tiến hóa bị bế tắc. Con đường này thay vì hỗ trợ lại thu hẹp con đường kia. Khi một con người đạt được bước nhảy vọt trên một con đường nhưng lại cực đoan hoặc thiếu phát triển trên hai con đường còn lại.Tình trạng quá thiết hụt một trạng thái quá thiếu biến tam giác năng lượng thành đường thẳng. Tình trạng quá thừa thãi một sắc màu, biến tam giác năng lượng thành một điểm cũng gây ra những trải nghiệm cực đoan. Cả hai trạng thái này đều cản trở tiến hóa của linh hồn. 
+- Sự kết hợp cực đoan của ba cung khiến sự tiến hóa bị bế tắc. Con đường này thay vì hỗ trợ lại thu hẹp con đường kia. Khi một con người đạt được bước nhảy vọt trên một con đường nhưng lại cực đoan hoặc thiếu phát triển trên hai con đường còn lại. Tình trạng quá thiết hụt một trạng thái quá thiếu biến tam giác năng lượng thành đường thẳng. Tình trạng quá thừa thãi một sắc màu, biến tam giác năng lượng thành một điểm cũng gây ra những trải nghiệm cực đoan. Cả hai trạng thái này đều cản trở tiến hóa của linh hồn. 
 - Sự quá thiếu cân đối giữa ba con đường làm cho tiến hóa bị nghẽn lại, nguy hiểm hơn cả sự tiến bộ chậm chạp nhưng tương xứng. Người gần như chỉ đi trên một con đường sẽ tự mình cản trở sự tiến hóa tự nhiên của bản thân và sớm muộn cũng phải tự điều chỉnh theo quy luật tiến hóa. 
-        + Thiên về lý trí 
-            * Chỉ thích phân tích hay nghiền ngẫm những vấn đề duy lý nhưng không phát triển tình cảm đầy đủ và không có động lực sống rõ ràng 
-        + Thiên về tình cảm 
-            * Tràn đầy cảm xúc và tình yêu nhưng quá thiếu hụt về mục đích và minh triết, nên can thiệp vào cuộc sống người khác theo chính kiến đúng sai cá nhân và gánh chịu hậu quả cho bản thân mình 
-        + Thiên về ý chí 
-            * Dùng sức mạnh cá nhân để áp chế ý chí cá nhân bất chấp người khác và hoàn cảnh, si mê các kỹ thuật hành xác, thiền định hay yoga đến độ tinh thần tách rời thân thể và cá nhân tách rời đồng loại 
+    + Thiên về lý trí 
+        * Chỉ thích phân tích hay nghiền ngẫm những vấn đề duy lý nhưng không phát triển tình cảm đầy đủ và không có động lực sống rõ ràng 
+    + Thiên về tình cảm 
+        * Tràn đầy cảm xúc và tình yêu nhưng quá thiếu hụt về mục đích và minh triết, nên can thiệp vào cuộc sống người khác theo chính kiến đúng sai cá nhân và gánh chịu hậu quả cho bản thân mình 
+    + Thiên về ý chí 
+        * Dùng sức mạnh cá nhân để áp chế ý chí cá nhân bất chấp người khác và hoàn cảnh, si mê các kỹ thuật hành xác, thiền định hay yoga đến độ tinh thần tách rời thân thể và cá nhân tách rời đồng loại 
 
 > Kết quả: Tất cả con đường đều dẫn đến đích. Nhưng không thể chỉ đi trên một cung đường để về đích. Thậm chí cũng không thể chỉ đi trên hai cung đường để về đích. Mỗi người và cả nhân loại đều đang cùng một lúc đi trên cả ba cung đường. Mỗi con người cần phát triển đủ năng lượng bi – trí – dũng. Hình thái phát triển của mỗi cá nhân là mở rộng tam giác theo một đỉnh, cân đối tam giác, dể rồi lại mở rộng nó ra. Các cung đường này có thể có những đoạn nhỏ tưởng như song song với nhau rồi lại giao nhau, tuy nhiên thực tế các con đường này lồng vào nhau như những vòng xoáy kiểu trôn ốc để dẫn đến đỉnh ốc duy nhất.
 
@@ -196,7 +199,7 @@ phát triển tâm linh là hoàn thiện linh hồn bằng qua trải nghiệm 
 - Một số người sợ ma cứ gặp ma suốt. Nhiều người mơ ước được gặp vong linh ông bà mình nhưng lại sợ chết khiếp khi gặp ma ông bà người hàng xóm. 
 
 ### Người dương tìm người âm
-- Phong trào tìm mộ phát triển mạnh mẽ ở Việt Nam những năm gần đây có thể vì lý do lịch sử và tín ngưỡng thờ tổ tiên. Không biết có nơi trên thế giới, bộ môn cảm xạ học có lớp dạy tìm mộ như nước ta. Tìm mộ không phải lúc nào cung là cần thiết cho cả người sống và người chết. Những linh hồn tiến hóa không cần mộ và không quan tâm đến mộ, vì cơ thể vật lý họ cũng không cần. 
+- Phong trào tìm mộ phát triển mạnh mẽ ở Việt Nam những năm gần đây có thể vì lý do lịch sử và tín ngưỡng thờ tổ tiên. Không biết có nơi trên thế giới, bộ môn cảm xạ học có lớp dạy tìm mộ như nước ta. Tìm mộ không phải lúc nào cũng là cần thiết cho cả người sống và người chết. Những linh hồn tiến hóa không cần mộ và không quan tâm đến mộ, vì cơ thể vật lý họ cũng không cần. 
 - Mục đích tâm linh của người dương không phải là đi tìm người âm. 
 
 ### Người dương sùng bái người âm 
@@ -256,9 +259,16 @@ Tổng quát: Trong một con người Trần lại có
 - Mạch Đốc (Dương), mạch Nhâm (Âm) 
 - Bệnh phần thực (D) + Bệnh phần mờ (Â); v.v... 
 
+**Con vật**
 
 - Con vật ở cõi Trần (Dương) và ở cõi Trời (Âm) 
+
+**Cây cối**
+
 - Cây cối: Thân cành (Dương)+ ánh hào quang (Âm) 
+
+**Đồ vật**
+
 - Mạng Internet: Hệ thống máy chủ (Dương)+ Phần mềm điều khiển (Âm) 
 - Đồ vật: Máy tính, tivi, điện thoại di động đều có ổ cứng (Dương) và phần mềm điều khiển (Âm) 
 - Radar: Rada có thiết bị cứng (Dương) và sóng điều khiển (Âm) 
