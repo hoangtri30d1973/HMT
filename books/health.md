@@ -16,59 +16,24 @@
 |Quả chín|<p align="justify">Các loại hoa quả chính là một phần không thể thiếu trong chế độ dinh dưỡng hàng ngày. Tuy nhiên số lượng không bắt buộc, chỉ nên ăn đủ tùy theo khả năng. Những loại quả như cam, kiwi, đu đủ, bơ, táo, chuối…không chỉ giúp cho cơ thể khỏe mạnh mà còn làm đẹp da, chống lão hóa.</p>|
 |Rau, củ|<p align="justify">Ăn đủ, trung bình 10kg/người/tháng. Rau, củ chứa nhiều vitamin, cung cấp khoáng chất và chất xơ cần thiết. Có nhiều loại rau với hình dạng và màu sắc khác nhau, tuy nhiên các loại rau có màu xanh sẫm thường chứa nhiều vitamin và khoáng chất hơn.</p>|
 |Nhóm lương thực, chất bột đường (gluxit)|<p align="justify">Đây là loại thực phẩm cơ bản của một chế độ dinh dưỡng hợp lý, chúng ta nên ăn đủ, trung bình 12kg/người/tháng. Các loại thực phẩm chủ yếu trong các bữa ăn: gạo, mì, bánh, khoai tây…cung cấp lượng tinh bột đáng kể và cần thiết tạo ra năng lượng phục vụ nhu cầu hoạt động hàng ngày.</p>|
-                    </tr>
-                    <tr><td colspan="2" class="has-background-warning"><em>Và cuối cùng để hoàn thiện chế độ ăn uống hợp lý của mình, bạn hãy ghi nhớ các loại thực phẩm cần hạn chế dưới đây:</em></td></tr>
-                    <tr>
-                        <th>Đồ uống nhiều đường, đường nhân tạo</th>
-                        <td>Đồ uống có đường có thể làm tăng nguy cơ tử vong sớm. Một nghiên cứu cho thấy những người hấp thụ nhiều chất làm ngọt nhân tạo có nguy cơ đột quỵ và mất trí nhớ cao hơn (theo báo cáo của Guardian)</td>
-                    </tr>
-                    <tr>
-                        <th>Thức ăn quá mặn</th>
-                        <td>Ăn quá nhiều natri làm tăng nguy cơ mắc bệnh tim mạch, đột quỵ và ung thư dạ dày, tăng tốc quá trình lão hóa ở cấp độ tế bào (theo Business Insider)</td>
-                    </tr>
-                    <tr>
-                        <th>Thịt chế biến</th>
-                        <td>Theo một nghiên cứu được công bố trên tạp chí JAMA Internal Medicine, thịt xông khói, xúc xích và thịt nguội có liên quan đến việc tăng nguy cơ tử vong sớm. Nghiên cứu, liên quan đến hơn nửa triệu người, đã phát hiện ra rằng những người ăn thịt chế biến nhiều nhất có nguy cơ tử vong vì bệnh tim tăng 72% và tăng 11% nguy cơ tử vong do ung thư (theo Reader’s Digest)</td>
-                    </tr>
-                    <tr>
-                        <th>Thực phẩm giàu chất béo chuyển hóa</th>
-                        <td>Chất béo chuyển hóa làm tăng nguy cơ mắc bệnh tim, đột quỵ và tiểu đường loại 2, theo Hiệp hội Tim mạch Mỹ. Tránh thực phẩm chứa nhiều chất béo có hại này là một trong những lời khuyên chính để sống lâu hơn. Có nghĩa là hạn chế bánh quy, bánh ngọt, bánh nướng và pizza</td>
-                    </tr>
-                    <tr>
-                        <th>Thực phẩm gây ung thư</th>
-                        <td>Những loại thực phẩm gây hại cho trái tim, cũng có thể gây ung thư. Rượu, thịt đỏ và thịt chế biến và đồ nướng bị cháy đều gây ung thư. Thịt cháy ở nhiệt độ cao tạo ra các chất gây ung thư, tiêu thụ rượu quá mức có liên quan đến ung thư tuyến tụy, buồng trứng, tuyến tiền liệt và dạ dày</td>
-                    </tr>
-                    <tr>
-                        <th>Rượu</th>
-                        <td>Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 người trên 19 quốc gia, đã phát hiện ra rằng: Những người uống ít nhất 100 gram cồn mỗi tuần, tương đương với 1 ly rượu nhỏ, một cốc bia, hoặc 1 chung rượu mạnh mỗi ngày, có thể bị "trộm" mất 6 tháng tuổi thọ. Hấp thụ 200 - 300 gram cồn mỗi tuần, tương đương 2 - 3 ly mỗi ngày, có thể bị "cướp" mất 2 năm. Nếu uống nhiều hơn 3 ly một ngày, có thể mất tới 5 năm</td>
-                    </tr>
-                    <tr>
-                        <th class="has-background-warning has-text-centered" colspan="2">Các loại hạt</th>
-                    </tr>
-                    <tr>
-                        <td>Hạt thông: Giảm cân hiệu quả</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
-- Hạt thông được biết đến là một loại hạng đắt tiền có công dụng hữu hiệu trong quá trình giảm cân. Sử dụng hạt thông hàng ngày giúp bạn ức chế sự thèm ăn, nhờ đó mà giảm cân nhanh chóng.
-- Hiệp hội Hóa học Hoa Kỳ năm 2006 đã chứng minh rằng axit pinolenic (một loại axit béo không bão hòa chỉ có trong hạt thông và dầu của nó) đã ngăn chặn sự thèm ăn ở phụ nữ thừa cân, giúp họ giảm lượng thức ăn tổng thể xuống 37%. Vậy là nhờ hạt thông, bạn sẽ chẳng cần dùng bất kỳ loại thuốc hỗ trợ giảm cân nào mà vẫn thúc đẩy được quá trình giảm cân hiệu quả.
-- Tui khỏe còn bạn tip: Hãy kết hợp loại hạt này với một món sa lát nào đó để thêm phần hấp dẫn. Bạn có thể làm sa lát cải xoăn với hạt thông hoặc sa lát hoa quả đều được. Đó chắc chắn là những món ăn vừa ngon miệng vừa bổ dưỡng.
-                        </pre></td>
-                    </tr>
-                    <tr>
-                        <td>Hạt óc chó: Hết ngay thiếu ngủ</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
-- Trong hạt óc chó chứa rất nhiều acid béo omega 3, những chất này đều có lợi cho não bộ. Chúng giúp bạn điều chỉnh giấc ngủ về mức cân đối.
-- Nếu bạn đang cảm thấy khó ngủ, thiếu ngủ trong thời gian dài, hãy sử dụng hạt óc chó. Loại hạt tuyệt vời này sở hữu melatonin, một loại hormone khiến cơ thể bạn cảm thấy thoải mái và ngủ ngon hơn.
-- Tui khỏe còn bạn tip: Thời điểm thích hợp để ăn hạt óc chó là trước khi đi ngủ, tuy nhiên bạn lưu ý là chỉ nên ăn từ 2 đến 3 hạt một lần thôi nhé!
-- Quả óc chó thực sự là một loại quả có nguồn dinh dưỡng tuyệt vời. Trong 28 gram hạt óc chó có chứa khoảng:
-    + Lượng calo: 182
-    + Chất béo: 18 gram
-    + Protein: 4 gram
-    + Carbs: 4 gram
-    + Chất xơ: 2 gram
-    + Vitamin E: 1% RDI
-    + Magiê: 11% RDI
-- Quả óc chó giúp cải thiện một số nguy cơ dẫn đến bệnh tim, giảm đáng kể tổng lượng cholesterol và cholesterol xấu (LDL), đồng thời làm tăng mức cholesterol tốt (HDL).
-- Ngoài ra, quả óc chó có thể giúp giảm viêm. Ăn quả óc chó có lợi cho sức khỏe của tim và thậm chí là não.
+
+***Và cuối cùng để hoàn thiện chế độ ăn uống hợp lý của mình, bạn hãy ghi nhớ các loại thực phẩm cần hạn chế dưới đây:***
+
+|Loại|Tác dụng|
+|:---:|:---|
+|Đồ uống nhiều đường, đường nhân tạo|<p align="justify">Đồ uống có đường có thể làm tăng nguy cơ tử vong sớm. Một nghiên cứu cho thấy những người hấp thụ nhiều chất làm ngọt nhân tạo có nguy cơ đột quỵ và mất trí nhớ cao hơn (theo báo cáo của Guardian)</p>|
+|Thức ăn quá mặn|<p align="justify">Ăn quá nhiều natri làm tăng nguy cơ mắc bệnh tim mạch, đột quỵ và ung thư dạ dày, tăng tốc quá trình lão hóa ở cấp độ tế bào (theo Business Insider)</p>|
+|Thịt chế biến|<p align="justify">Theo một nghiên cứu được công bố trên tạp chí JAMA Internal Medicine, thịt xông khói, xúc xích và thịt nguội có liên quan đến việc tăng nguy cơ tử vong sớm. Nghiên cứu, liên quan đến hơn nửa triệu người, đã phát hiện ra rằng những người ăn thịt chế biến nhiều nhất có nguy cơ tử vong vì bệnh tim tăng 72% và tăng 11% nguy cơ tử vong do ung thư (theo Reader’s Digest)</p>|
+|Thực phẩm giàu chất béo chuyển hóa|<p align="justify">Chất béo chuyển hóa làm tăng nguy cơ mắc bệnh tim, đột quỵ và tiểu đường loại 2, theo Hiệp hội Tim mạch Mỹ. Tránh thực phẩm chứa nhiều chất béo có hại này là một trong những lời khuyên chính để sống lâu hơn. Có nghĩa là hạn chế bánh quy, bánh ngọt, bánh nướng và pizza</p>|
+|Thực phẩm gây ung thư|<p align="justify">Những loại thực phẩm gây hại cho trái tim, cũng có thể gây ung thư. Rượu, thịt đỏ và thịt chế biến và đồ nướng bị cháy đều gây ung thư. Thịt cháy ở nhiệt độ cao tạo ra các chất gây ung thư, tiêu thụ rượu quá mức có liên quan đến ung thư tuyến tụy, buồng trứng, tuyến tiền liệt và dạ dày</p>|
+|Rượu|<p align="justify">Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 người trên 19 quốc gia, đã phát hiện ra rằng: Những người uống ít nhất 100 gram cồn mỗi tuần, tương đương với 1 ly rượu nhỏ, một cốc bia, hoặc 1 chung rượu mạnh mỗi ngày, có thể bị "trộm" mất 6 tháng tuổi thọ. Hấp thụ 200 - 300 gram cồn mỗi tuần, tương đương 2 - 3 ly mỗi ngày, có thể bị "cướp" mất 2 năm. Nếu uống nhiều hơn 3 ly một ngày, có thể mất tới 5 năm</p>|
+
+**Các loại hạt**
+
+|Loại|Tác dụng|
+|:---:|:---|
+|Hạt thông|<p align="justify"><strong>Giảm cân hiệu quả</strong><br/>- Hạt thông được biết đến là một loại hạng đắt tiền có công dụng hữu hiệu trong quá trình giảm cân. Sử dụng hạt thông hàng ngày giúp bạn ức chế sự thèm ăn, nhờ đó mà giảm cân nhanh chóng.<br/>- Hiệp hội Hóa học Hoa Kỳ năm 2006 đã chứng minh rằng axit pinolenic (một loại axit béo không bão hòa chỉ có trong hạt thông và dầu của nó) đã ngăn chặn sự thèm ăn ở phụ nữ thừa cân, giúp họ giảm lượng thức ăn tổng thể xuống 37%. Vậy là nhờ hạt thông, bạn sẽ chẳng cần dùng bất kỳ loại thuốc hỗ trợ giảm cân nào mà vẫn thúc đẩy được quá trình giảm cân hiệu quả.<br/>- Tui khỏe còn bạn tip: Hãy kết hợp loại hạt này với một món sa lát nào đó để thêm phần hấp dẫn. Bạn có thể làm sa lát cải xoăn với hạt thông hoặc sa lát hoa quả đều được. Đó chắc chắn là những món ăn vừa ngon miệng vừa bổ dưỡng.</p>|
+|Hạt óc chó: Hết ngay thiếu ngủ|<p align="justify">- Trong hạt óc chó chứa rất nhiều acid béo omega 3, những chất này đều có lợi cho não bộ. Chúng giúp bạn điều chỉnh giấc ngủ về mức cân đối.<br/>- Nếu bạn đang cảm thấy khó ngủ, thiếu ngủ trong thời gian dài, hãy sử dụng hạt óc chó. Loại hạt tuyệt vời này sở hữu melatonin, một loại hormone khiến cơ thể bạn cảm thấy thoải mái và ngủ ngon hơn.<br/>- Thời điểm thích hợp để ăn hạt óc chó là trước khi đi ngủ, tuy nhiên bạn lưu ý là chỉ nên ăn từ 2 đến 3 hạt một lần thôi nhé!<hr/>- Quả óc chó thực sự là một loại quả có nguồn dinh dưỡng tuyệt vời. Trong 28 gram hạt óc chó có chứa khoảng:<blockquote>+ Lượng calo: 182<br/>+ Chất béo: 18 gram<br/>+ Protein: 4 gram<br/>+ Carbs: 4 gram<br/>+ Chất xơ: 2 gram<br/>+ Vitamin E: 1% RDI<br/>+ Magiê: 11% RDI</blockquote><br/>- Quả óc chó giúp cải thiện một số nguy cơ dẫn đến bệnh tim, giảm đáng kể tổng lượng cholesterol và cholesterol xấu (LDL), đồng thời làm tăng mức cholesterol tốt (HDL).<br/>- Ngoài ra, quả óc chó có thể giúp giảm viêm. Ăn quả óc chó có lợi cho sức khỏe của tim và thậm chí là não.</p>|
                         </pre></td>
                     </tr>
                     <tr>
