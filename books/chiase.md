@@ -216,7 +216,7 @@
 </table>
 
 ### Mô hình cấu trúc DN BMG - Business Model Generation
-- CS - Cost Structures
+- C$ - Cost Structures
 - RS - Revenue Streams
 
 ### KP - Key Partnerships
