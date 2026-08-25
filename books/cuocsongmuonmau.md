@@ -1,8 +1,11 @@
-        <details><summary class="summary has-text-weight-medium message-header has-text-black-ter">5. Cảm nhận cuộc sống muôn màu</summary>
-            <div class="table-container">
-                <table class="table is-striped is-narrow is-hoverable is-fullwidth">
-                    <tr><th class="has-background-warning">Các nhóm người trên trái đất.</th></tr>
-                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+<h1 align="center">Cảm nhận cuộc sống muôn màu</h1>
+
+---
+
+<h3 align="center">Các nhóm người trên trái đất</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
+  
 Tổng quan
 =====
     - Trên Trái đất đã và đang tồn tại những nền văn minh hay thành phố thuộc nhiều cảnh giới và liên quan đến nhiều giống người. Một số thời kỳ các nền văn minh hay giống người này này tương tác chặt chẽ với nhau. Chúng ta đang chuẩn bị bước vào, nói đúng hơn là đang ở trong một thời kỳ đa dạng như thế. Nhóm người như thần 0 Tác phẩm Phong thần diễn nghĩa của Trung Quốc mô tả một giai đoạn mà nhiều 'thần' sống ở các am, động … tham gia các sự kiện lịch sử của người, và nhiều người nếu qua được thử thách của thời kỳ này thì được 'phong thần'. 
@@ -20,9 +23,16 @@ Tổng quan
     - Nhóm chân sư và người ngoài hành tinh tạm thời hiện diện và tương tác qua các tầng năng lượng mật độ cao của Trái đất để trợ giúp cho Trái đất và nhân loại trong tiến hóa và chuyển đổi – Nhóm chân sư (ascended masters) đã từng đầu thai, thăng lên và đang tham gia vào sự trợ giúp cho tiến hóa của Trái đất – Nhóm ETs có rung động cao đang tham gia vào trợ giúp cho tiến hóa trên Trái đất, có thể đến từ Arcturus, Andromeda, Venus … 
     
     - Trong inner planes, ngoài các thành phố được gọi là Inner Earth city nơi có con người tiến hóa của Trái đất sinh sống, còn các trung tâm, các trường huyền môn, gọi là các temples of light hay các ashrams của các chân sư và của cả các nhóm ETs hỗ trợ. Kim tự tháp hay các đền đài linh thiêng thường được xây dựng bởi năng lượng gồm cảm hứng và công sức của cả người và thần. Những công trình còn lại dù của người hay ETs, vật lý hay phi vật lý đều thuộc về hạ giới và trung giới.
-                    </pre></td></tr>
-                    <tr><th class="has-background-warning">Tiến hóa là chuyển đổi năng lượng.</th></tr>
-                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
+
+--------------------------------------------------------
+
+<h3 align="center">Tiến hóa là chuyển đổi năng lượng</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
+
 Sự tạo thành và chuyển đổi vật chất từ năng lượng
 =====
     - Một tia vũ trụ hay là một hạt photon có năng lượng cao khi phân giải sẽ tạo ra hạt electron và phản hạt của nó là positron. Electron và positron thực chất không phải là hạt quay rất nhanh quanh nhau, mà chúng vừa là hạt vừa là sóng. Các nhà khoa học đã chứng minh được rằng chúng xuất hiện cùng thời điểm ở hai vị trí khác nhau, một đặc tính của sóng, không phải của hạt dù hạt đó chuyển động nhanh đến mức nào. Electron và positron tạo ra những đám mây năng lượng và từ trường năng lượng mà trong từ trường đó chúng di chuyển ngược chiều nhau. Khi electron và positron nhận thêm năng lượng, chúng tăng bước sóng, nghĩa là quay nhanh hơn hay mở vòng quay rộng hơn, hay là có tần số cao hơn. 
@@ -49,9 +59,16 @@ Suy ngẫm
     - Năng lượng = Toán học = Vật lý học = Sinh học = Hóa học = Y học = Nhân học = Tâm lý học 
     - Các văn bản tôn giáo cổ xưa đều nói về năng lượng một cách rõ ràng hoặc ẩn ý mà đến mấy nghìn năm sau, bước sang Thời đại vàng nhân loại mới hiểu. Nhờ năng lượng, tâm linh gặp tôn giáo. Nhờ năng lượng khoa học gặp tâm linh. 
     - Năng lượng = Tâm linh = Tôn giáo = Khoa học
-                    </pre></td></tr>
-                    <tr><th class="has-background-warning">Con đường tiến hóa = Quy luật năng lượng.</th></tr>
-                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
+
+--------------------------------------------------------
+
+<h3 align="center">Con đường tiến hóa = Quy luật năng lượng</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
+
 Tổng quan
 =====
     - Với nhận thức chia cắt, con người đã cố gắng lý giải các hiện tượng bằng các con đường hẹp, thông qua việc tập trung vào một đặc thù nào đó như là một đối tượng nhận thức. 
@@ -62,9 +79,16 @@ Tổng quan
     - Tình yêu khác nhau là năng lượng di chuyển với tốc độ khác nhau. Đang trên máy bay siêu thanh bay ngược chiều quay Trái đất đến thăm người yêu gặp tai nạn, bạn nghe thấy cô ấy gọi. Tiếng thì thầm của cô ấy đáp máy bay tình yêu, bay xuôi chiều quay Trái đât nhanh hơn cả tốc độ ánh sáng, gặp tâm thức chân thành của bạn đang lơ lửng trên tầng mây. 
     - Tình yêu có khả năng thay đổi con người. Tình yêu vô điều kiện đi nhanh hơn tốc độ ánh sáng và có khả năng thay đổi con người sâu sắc nhất. Các lãnh tụ tâm linh đều kêu gọi nhân loại tập trung hơn vào những thứ siêu hình, đều quan tâm đến thay đổi nhân loại, cho nên đều kêu gọi tình yêu vô điều kiện. 
     - Tình yêu là Sự chuyển đổi năng lượng là dấu = trong công thức E=Mc2
-                    </pre></td></tr>
-                    <tr><th class="has-background-warning">Con đường tiến hóa = Con đường tìm về năng lượng gốc.</th></tr>
-                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
+
+--------------------------------------------------------
+
+<h3 align="center">Con đường tiến hóa = Con đường tìm về năng lượng gốc</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
+
 Tổng quan
 =====
     - Con đường tiến hóa là con đường nâng cao mức năng lượng và trở về năng lượng gốc đã tạo ra Tất cả, để tiếp tục sáng tạo. 
@@ -72,9 +96,16 @@ Tổng quan
     - Vì sao Phật, Chúa, các nhà tâm linh đều nói y như nhau 'Sự thật nội tâm', 'Câu trả lời nằm trong mỗi con người', 'Tĩnh tâm là minh triết' …? Vì con người là tổ hợp các dạng năng lượng của các chiều vụ trụ, càng đi sâu đi vào trong con người, ta càng thấy rộng dài vũ trụ. 
     - Vì sao nói 'Con người là vũ trụ thu nhỏ?''. Vì năng lượng các chiều cao luôn bao bọc lấy các chiều thấp, năng lượng các chiều cao có trước các chiều thấp, hay là linh hồn có trước và cơ thể vật lý tồn tại qua mỗi kiếp người. Vì sao nói 'Chúa tạo ra con người theo hình ảnh của Chúa', 'Con người là hiện thân của Chúa', 'Chúa luôn ở bên Bạn', 'Phật tại tâm' ? Vì dạng năng lượng gốc đã tạo ra con người cũng tạo ra vũ trụ vẫn luôn tồn tại ở chiều cao nhất của con người và của vũ trụ, năng lượng gốc này kết nối với các chiều khác cho đến tận chiều vật lý. 
     - Thượng đế là năng lượng gốc. Không có năng lượng gốc vạn vật không những đã không sinh ra mà cũng ngừng tồn tại. Năng lượng gốc luôn ở đó, trong từng nguyên tử nhỏ li ti, trong con người và trong vũ trụ.
-                    </pre></td></tr>
-                    <tr><th class="has-background-warning">Sự tiến hóa trên Trái đất.</th></tr>
-                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
+
+--------------------------------------------------------
+
+<h3 align="center">Sự tiến hóa trên Trái đất</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
+
 Sự tương đồng năng lượng
 =====
     - Thông thường trong một tập thể, mức độ năng lượng phải tương đối tương đồng. Dù đó là tập thể nhỏ hay tập thể lớn. Nếu không tập thể đó sẽ tan rã hoặc những cá thể quá khác biệt với số đông sẽ bị thu hút bởi những tập thể khác. 
@@ -94,9 +125,16 @@ Sự tương đồng năng lượng
     - Tiến hóa là quy luật của cỏ cây, của động vật, của vũ trụ chứ không chỉ của loài người. Do đó, con người và Trái đất cùng tiến hóa đi lên theo thời gian. Chuyện gì xảy ra khi mật độ năng lượng trên Trái đất tăng lên ? Chuyện gì xảy ra khi mật độ năng lượng trung bình của nhân loại tăng lên ? 
     - Hàng loạt sự điều chỉnh để tái hòa hợp giữa các cái tôi, để kết nối cái tôi thấp và cái tôi cao và để nâng mức năng lượng của con người cho phù hợp với nhau và với môi trường, cũng có nghĩa là hàng loạt tai nạn và sự cố cùng với hàng loạt các nhà ngoại cảm xuất hiện 
     - Ai đó sẽ tiến lên và ai đó sẽ lùi xuống, nhân loại sẽ phân hóa mạnh hơn
-                    </pre></td></tr>
-                    <tr><th class="has-background-warning">3 con đường phát triển tâm linh.</th></tr>
-                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
+
+--------------------------------------------------------
+
+<h3 align="center">Ba con đường phát triển tâm linh</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
+
 Mục đích
 =====
 phát triển tâm linh là hoàn thiện linh hồn bằng qua trải nghiệm các cảnh giới thấp (involution) và tiến hóa lên các cảnh giới cao (evolution). Theo ba ngôi của linh hồn mà sẽ có 3 con đường phát triển tâm linh chính. 
@@ -124,9 +162,16 @@ phát triển tâm linh là hoàn thiện linh hồn bằng qua trải nghiệm 
     - Phát triển ý chí & sức mạnh tự thân 
     - Sử dụng mục đích, tầm nhìn, quyền lực 
     - Ví dụ : nhà chính trị, nhà lãnh đạo
-                    </pre></td></tr>
-                    <tr><th class="has-background-warning">Con đường nào dành cho mỗi con người?</th></tr>
-                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
+
+--------------------------------------------------------
+
+<h3 align="center">Con đường nào dành cho mỗi con người?</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
+
 Tổng quan
 =====
     - Cung chủ linh hồn thời điểm sinh ra có ảnh hưởng xuyên suốt đến trải nghiệm của linh hồn trong vòng luân hồi. Cho dù con người có ở trình độ nào, có thừa nhận linh hồn, có biết các ngôi của linh hồn hay không, thì họ vẫn sẽ phát triển theo ba con đường đó. 
@@ -141,9 +186,16 @@ Tổng quan
             * Dùng sức mạnh cá nhân để áp chế ý chí cá nhân bất chấp người khác và hoàn cảnh, si mê các kỹ thuật hành xác, thiền định hay yoga đến độ tinh thần tách rời thân thể và cá nhân tách rời đồng loại 
 
 Kết quả: Tất cả con đường đều dẫn đến đích. Nhưng không thể chỉ đi trên một cung đường để về đích. Thậm chí cũng không thể chỉ đi trên hai cung đường để về đích. Mỗi người và cả nhân loại đều đang cùng một lúc đi trên cả ba cung đường. Mỗi con người cần phát triển đủ năng lượng bi – trí – dũng. Hình thái phát triển của mỗi cá nhân là mở rộng tam giác theo một đỉnh, cân đối tam giác, dể rồi lại mở rộng nó ra. Các cung đường này có thể có những đoạn nhỏ tưởng như song song với nhau rồi lại giao nhau, tuy nhiên thực tế các con đường này lồng vào nhau như những vòng xoáy kiểu trôn ốc để dẫn đến đỉnh ốc duy nhất.
-                    </pre></td></tr>
-                    <tr><th class="has-background-warning">Âm dương song hành.</th></tr>
-                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
+
+--------------------------------------------------------
+
+<h3 align="center">Âm dương song hành</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
+
 Người dương sợ người âm 
 =====
     - Một số người sợ ma cứ gặp ma suốt. Nhiều người mơ ước được gặp vong linh ông bà mình nhưng lại sợ chết khiếp khi gặp ma ông bà người hàng xóm. 
@@ -170,9 +222,16 @@ Hẹn nhau kiếp sau
     - Người âm và cả người dương đều đi học, trong rất nhiều lớp học, với rất nhiều bài học. Nhiều bài học tương tự nhau hoặc nối tiếp nhau từ âm sang dương và dương sang âm, có điều học bằng cách khác nhau. 
 
 Theo quan điểm cá nhân tôi, dù ở bất kỳ đâu, con người hãy sống hạnh phúc, làm những gì cần làm và nên làm ở đó.
-                    </pre></td></tr>
-                    <tr><th class="has-background-warning">Định nghĩa Âm Dương.</th></tr>
-                    <tr><td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
+
+--------------------------------------------------------
+
+<h3 align="center">Định nghĩa Âm Dương</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
+
 Khái niệm 
 =====
     - Âm Dương là một cặp phạm trù chỉ sự thống nhất của 2 mặt đối lập, không chỉ một cái gì cụ thể. Âm Dương có thể là: Trời Đất, dài ngắn, cao thấp, lớn bé, dày mỏng, nóng lạnh, trước sau, trên dưới, phải trái, lưng bụng, Mặt trời Mặt trăng, sáng tối, nhanh chậm, sâu nông, cát hung, ngày đêm, thiện ác, tốt xấu v.v... 
@@ -209,4 +268,9 @@ Con người
 - Radar: Rada có thiết bị cứng (Dương) và sóng điều khiển (Âm) 
 - Tên lửa: Tên lửa có quả tên lửa (Dương) và phần mềm điều khiển (Âm) 
 - Khác: Đất, nước, gỗ, lửa đều có thành phần vật chất là đất nước gỗ lửa (Dương) và người động vật thực vật ẩn (Âm)
-                    </pre></td></tr>
+
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</div></blockquote>
+
+--------------------------------------------------------
+
