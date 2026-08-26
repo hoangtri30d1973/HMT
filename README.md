@@ -9,7 +9,7 @@
 - _[Cảm âm sáo trúc](books/camam.md) dành cho người yêu âm điệu._
 - _[Kinh nghiệm do cá nhân tổng hợp](books/chiase.md) là nơi tổng hợp một số những kinh nghiệm cá nhân trong quá trình trải nghiệm cuộc sống và công việc, chia sẻ để cùng tham khảo._
 - _[Tham khảo lịch sử Việt Nam](books/history.md) là một số thông tin về quá trình hình thành và phát triển của đất nước, chia sẻ để tham khảo thêm._
-- _[](books/health.md)_
+- _[Chuyên đề sức khỏe](books/health.md) tổng hợp các thông tin liên quan đến việc giữ gìn sức khỏe, ăn uống đúng, hiệu quả._
 
 </div>
 
