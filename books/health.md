@@ -165,15 +165,14 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 <tr><td align="center">Hạt dẻ cười: <strong><i>Hỗ trợ quá trình giảm cân</i></strong></td><td><div align="justify" markdown="1">
 
 - Hạt dẻ cười không còn xa lạ đối với người Việt, đây lại là loại hạt chứa nhiều kali và vitamin K hơn bất kỳ loại hạt nào khác. Không chỉ vậy, hạt dẻ cười còn chứa rất ít calo, nhiều chất xơ và protein nên có thể sử dụng trong quá trình giảm cân.
-- Bạn có thể tìm thấy hạt dẻ cười ở nhiều siêu thị lớn hoặc các siêu thị bán nguyên liệu để nấu món châu Âu.
-    + Trong 28 gram hạt dẻ cười chứa:
-        * Lượng calo: 176
-        * Chất béo: 9 gram
-        * Protein: 6 gram
-        * Carbs: 6 gram
-        * Chất xơ: 3,5 gram
-        * Vitamin E: 37% RDI
-        * Magiê: 20% RDI
+- Bạn có thể tìm thấy hạt dẻ cười ở nhiều siêu thị lớn hoặc các siêu thị bán nguyên liệu để nấu món châu Âu. Trong 28 gram hạt dẻ cười chứa:
+  * Lượng calo: 176
+  * Chất béo: 9 gram
+  * Protein: 6 gram
+  * Carbs: 6 gram
+  * Chất xơ: 3,5 gram
+  * Vitamin E: 37% RDI
+  * Magiê: 20% RDI
 - Hạt dẻ cười có nhiều chất dinh dưỡng như vitamin E. Chúng cũng có thể làm giảm các yếu tố dẫn đến các bệnh lý về tim.
 
 </div></td></tr>
