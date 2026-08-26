@@ -7,17 +7,29 @@
 <div align="center">♥️♥️♥️♥️♥️</div><br/>
 <blockquote><div markdown="1" align="justify">
 
-<table><tr><td align="center">Muối</td><td><div align="justify">
+<table>
+<tr><td align="center">Muối</td><td><div align="justify">
 
 Ăn hạn chế, dưới 180gr/người/tháng. Đây là thành phần bị hạn chế nhất trong bảng chế độ dinh dưỡng. Vì nếu ăn quá nhiều muối sẽ gây ra nguy cơ dẫn đến các bệnh: huyết áp, bệnh tim, bệnh thận. Theo khảo sát, người ăn mặn nhiều sẽ có tuổi thọ thấp hơn những người bình thường.
 
-</div></td></tr></table>
+</div></td></tr>
+<tr><td align="center">Đường</td><td><div align="justify">
+
+Ăn ít, dưới 500gr/người/tháng. Đường cung cấp cho chúng ta năng lượng tức thời, nhưng không chứa bất kỳ dinh dưỡng nào tốt cho cơ thể. Thực trạng phổ biến hiện nay, các căn bệnh tim mạch, tiểu đường, béo phì…là do dung nạp quá nhiều đường. Nếu không biết cách kiểm soát lượng đường hợp lý, sẽ làm tăng nguy cơ các bệnh. Một số bệnh phổ biến: ung thư, tăng huyết áp, gây sâu răng, làm xấu da, tăng stress.
+
+</div></td></tr>
+<tr><td align="center">Chất béo</td><td><div align="justify">
+
+Ăn có mức độ, khoảng 600gr/người/tháng. Có nhiều loại thực phẩm cung cấp chất béo trong bữa ăn hàng ngày: dầu ăn, bơ, hạt vừng, đậu phộng. Trong đó, dầu ăn là thực phẩm không thể thiếu trong khâu chế biến của các chị em nội trợ. Dầu ăn cung cấp một số vitamin có lợi như A, E, D, K. Theo khuyến cáo, chúng ta nên sử dụng dầu ăn có nguồn gốc từ thực vật. Tuyệt đối, không được ăn quá nhiều thức ăn chiên xào đầy dầu mỡ.
+
+</div></td></tr>
+<tr><td align="center"></td><td><div align="justify">
+</table>
 
 |Loại|Tác dụng|
 |:---:|:---|
-|Muối|<div align="justify">Ăn hạn chế, dưới 180gr/người/tháng. Đây là thành phần bị hạn chế nhất trong bảng chế độ dinh dưỡng. Vì nếu ăn quá nhiều muối sẽ gây ra nguy cơ dẫn đến các bệnh: huyết áp, bệnh tim, bệnh thận. heo khảo sát, người ăn mặn nhiều sẽ có tuổi thọ thấp hơn những người bình thường.</div>|
-|Đường|<div align="justify">Ăn ít, dưới 500gr/người/tháng. Đường cung cấp cho chúng ta năng lượng tức thời, nhưng không chứa bất kỳ dinh dưỡng nào tốt cho cơ thể. Thực trạng phổ biến hiện nay, các căn bệnh tim mạch, tiểu đường, béo phì…là do dung nạp quá nhiều đường. Nếu không biết cách kiểm soát lượng đường hợp lý, sẽ làm tăng nguy cơ các bệnh. Một số bệnh phổ biến: ung thư, tăng huyết áp, gây sâu răng, làm xấu da, tăng stress.</div>|
-|Chất béo|<div align="justify">Ăn có mức độ, khoảng 600gr/người/tháng. Có nhiều loại thực phẩm cung cấp chất béo trong bữa ăn hàng ngày: dầu ăn, bơ, hạt vừng, đậu phộng. Trong đó, dầu ăn là thực phẩm không thể thiếu trong khâu chế biến của các chị em nội trợ. Dầu ăn cung cấp một số vitamin có lợi như A, E, D, K. Theo khuyến cáo, chúng ta nên sử dụng dầu ăn có nguồn gốc từ thực vật. Tuyệt đối, không được ăn quá nhiều thức ăn chiên xào đầy dầu mỡ.</div>|
+
+
 |Chất đạm (đạm thực vật, đạm động vật)|<div align="justify">Đứng ở trung tâm của bảng chế độ dinh dưỡng, chúng ta nên ăn vừa phải. Trung bình 2,5 kg cá và thủy sản; 1,5 kg thịt; 2kg đậu phụ/người/tháng. Đạm thực vật xuất hiện trong các loại đậu, sản phẩm từ đậu nành, bơ thực vật. Đạm động vật có trong các loại thịt, cá, trứng, hải sản…chúng có giá trị dinh dưỡng cao hơn đạm thực vật. Tuy nhiên trong quá trình chuyển hóa chúng có thể sản sinh ra urê, axit uric…có thể gây ra một số bệnh nguy hiểm, phổ biến là bệnh gout như hiện nay. Vì vậy, chúng ta nên ăn cân đối giữa đạm động vật và thực vật. Ăn uống hợp lý giúp bảo vệ sức khỏe và nâng cao vai trò của chất đạm.</div>|
 |Quả chín|<div align="justify">Các loại hoa quả chính là một phần không thể thiếu trong chế độ dinh dưỡng hàng ngày. Tuy nhiên số lượng không bắt buộc, chỉ nên ăn đủ tùy theo khả năng. Những loại quả như cam, kiwi, đu đủ, bơ, táo, chuối…không chỉ giúp cho cơ thể khỏe mạnh mà còn làm đẹp da, chống lão hóa.</div>|
 |Rau, củ|<div align="justify">Ăn đủ, trung bình 10kg/người/tháng. Rau, củ chứa nhiều vitamin, cung cấp khoáng chất và chất xơ cần thiết. Có nhiều loại rau với hình dạng và màu sắc khác nhau, tuy nhiên các loại rau có màu xanh sẫm thường chứa nhiều vitamin và khoáng chất hơn.</div>|
