@@ -272,12 +272,16 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 
 --------------------------------------------------------
 
+<table><tr><td><a href="#dinh_duong">Dinh dưỡng</a></td><td><a href="#chi_so_suc_khoe">Chỉ số sức khỏe</a></td></tr></table>
+
+---
+
 <div id="chi_so_suc_khoe"></div>
 <h3 align="center">CHỈ SỐ SỨC KHỎE</h3>
 <div align="center">♥️♥️♥️♥️♥️</div><br/>
 <blockquote><div markdown="1" align="justify">
  
-### Chiều cao/cân nặng lý tưởng</th>
+### Chiều cao/cân nặng lý tưởng
                     
 #### Nam
 
@@ -371,92 +375,118 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 </td></tr>
 </table>
 
-#### Chỉ số cân đối (Phân loại vóc dáng)
-                    </tr>
-                    <tr>
-                        <td colspan="2">1 - Béo ẩn - Béo bụng nhỏ, vóc dáng bên ngoài bình thường, lượng mỡ cao và cơ thấp hơn bình thường.<br/>2 - Béo phì - Béo trung bình, mỡ cao, cơ trung bình.<br/>3 - Béo chắc - Quá béo, mỡ, cơ cao.<br/>4 - Dưới chuẩn - Ít cơ, mỡ bình thường.<br/>5 - Chuẩn - Cơ, % mỡ bình thường.<br/>6 - Cơ bắp - Nhiều cơ bắp, % mỡ bình thường.<br/>7 - Gầy - Thiếu cơ, thiếu mỡ.<br/>8 - Gầy và nhiều cơ - Vận động viên (Ít mỡ, nhiều cơ).<br/>9 - Cơ bắp - Vận động viên (Ít mỡ, rất nhiều cơ).</td>
-                    </tr>
-                    <tr>
-                        <th colspan="2" class="is-warning">Bảng tỷ lệ mỡ</th>
-                    </tr>
-                    <tr><th colspan="2">Nam</th></tr>
-                    <tr>
-                        <td colspan="2">
-                            <table class="table is-striped is-narrow is-hoverable">
-                                <tr><th>Tuổi | Chuẩn</th><th>Tốt </th><th>TB  </th><th>Xấu  </th></tr>
-                                <tr><td>20-24 |  10,1</td><td>14,9</td><td>19,0</td><td>>23,3</td></tr>
-                                <tr><td>25-29 |  12,8</td><td>16,5</td><td>20,3</td><td>>24,3</td></tr>
-                                <tr><td>30-34 |  14,5</td><td>18,0</td><td>21,5</td><td>>25,2</td></tr>
-                                <tr><td>35-39 |  16,1</td><td>19,3</td><td>22,6</td><td>>26,1</td></tr>
-                                <tr><td>40-44 |  17,5</td><td>20,5</td><td>23,6</td><td>>26,9</td></tr>
-                                <tr><td>45-49 |  18,6</td><td>21,5</td><td>24,5</td><td>>27,6</td></tr>
-                                <tr><td>50-54 |  19,2</td><td>22,1</td><td>25,1</td><td>>28,7</td></tr>
-                                <tr><td>55-59 |  19,8</td><td>22,7</td><td>25,6</td><td>>28,7</td></tr>
-                                <tr><td>60+   |  20,2</td><td>23,3</td><td>26,2</td><td>>29,3</td></tr>
-                            </table>
-                        </td>
-                    </tr>
-                    <tr><th colspan="2">Nữ</th></tr>
-                    <tr>
-                        <td colspan="2">
-                            <table class="table is-striped is-narrow is-hoverable">
-                                <tr><th>Tuổi | Chuẩn </th><th> Tốt  </th><th> TB   </th><th> Xấu   </th></tr>
-                                <tr><td>20-24 | 18,2 </td><td> 22,1 </td><td> 25,0 </td><td> >29,6 </td></tr>
-                                <tr><td>25-29 | 18,9 </td><td> 22,0 </td><td> 25,4 </td><td> >29,8 </td></tr>
-                                <tr><td>30-34 | 19,7 </td><td> 22,7 </td><td> 26,4 </td><td> >30,5 </td></tr>
-                                <tr><td>35-39 | 21,1 </td><td> 24,0 </td><td> 27,7 </td><td> >31,5 </td></tr>
-                                <tr><td>40-44 | 22,6 </td><td> 25,6 </td><td> 29,3 </td><td> >32,8 </td></tr>
-                                <tr><td>45-49 | 24,3 </td><td> 27,3 </td><td> 30,9 </td><td> >34,1 </td></tr>
-                                <tr><td>50-54 | 25,2 </td><td> 26,2 </td><td> 31,8 </td><td> >35,1 </td></tr>
-                                <tr><td>55-59 | 26,6 </td><td> 29,7 </td><td> 33,1 </td><td> >36,2 </td></tr>
-                                <tr><td>60+   | 27,4 </td><td> 30,7 </td><td> 34,0 </td><td> >37,3 </td></tr>
-                            </table>
-                        </td>
-                    </tr>
-                    <tr>
-                        <th colspan="2" class="is-warning">Thời gian sinh học của cơ thể</th>
-                    </tr>
-                    <tr>
-                        <th class="has-text-centered">05-07 giờ</th>
-                        <td><li>Buổi sáng là thời gian vàng để nuông chiều các bộ phận của hệ tiêu hóa. Trong đó, từ 5-7 giờ sáng là thời điểm tá tràng và ruột già được kích hoạt và làm việc hiệu quả nhất để thanh lọc cơ thể. Do đó, ngay sau khi thức dậy, bạn nên uống một ít nước lọc và đi bộ một đoạn ngắn hoặc tập thể dục nhẹ nhàng giúp cơ thể kích hoạt việc thải độc.</li><li>Để giảm nguy cơ táo bón, bạn có thể ăn nhiều thực phẩm giàu chất xơ trong bữa sáng, thực hiện các động tác xoa bóp, massage ruột già và vùng bụng dưới nằm bên phía cánh tay phải để giúp cơ quan này thải độc hiệu quả.</li><li>Theo vòng năng lượng tuần hoàn, khi ruột già đạt mức năng lượng cao nhất thì thận sẽ có mức năng lượng yếu nhất. Chính vì thế, những người bị suy chức năng thận thường sẽ cảm thấy khó dậy sớm được, do nồng độ cortisol (có tác dụng thúc đẩy bạn thức dậy) được sản xuất từ tuyến thượng thận của họ không đạt đỉnh như những người bình thường.</li></td>
-                    </tr>
-                    <tr>
-                        <th class="has-text-centered">07-09 giờ</th>
-                        <td><li>Trong khung thời gian này, dạ dày sẽ hoạt động hết công suất để tiêu hóa thức ăn. Bạn cần ăn sáng và có thể uống một ít trà hoặc cafe. Bữa sáng sẽ giúp cơ thể bắt kịp nhịp độ khuếch tán và làm nóng năng lượng Qi vào giữa ngày, cung cấp dinh dưỡng cho ruột, hỗ trợ khả năng hấp thu và đồng hóa chất dinh dưỡng trong cơ thể.</li><li>Trong khung giờ này, bạn có thể tập thở bằng bụng để thúc đẩy máu lưu thông và năng lượng đến dạ dày, từ đó hỗ trợ quá trình trao đổi chất và tiêu hóa. Mật ong, đậu phộng, cà rốt hoặc táo là những thực phẩm tốt cho dạ dày trong buổi sáng.</li></td>
-                    </tr>
-                    <tr>
-                        <th class="has-text-centered">09-11 giờ</th>
-                        <td><li>Đây là khung giờ tụy và lá lách hoạt động mạnh, giúp não bộ hoạt động hiệu quả và tăng cường sự trao đổi chất trong cơ thể.</li><li>Nhờ bữa ăn sáng trước đó, cơ thể được bổ sung năng lượng đầy đủ, dạ dày tiêu hóa tất cả thực phẩm, hấp thụ đủ dinh dưỡng đến các kinh tuyến của lá lách, giúp cơ quan này vận hành tốt hơn. Lá lách chuyển hóa thức ăn dạ dày hấp thu thành năng lượng đưa đến não bộ. Nếu các chất được gửi đến “dây chuyền sản xuất dinh dưỡng” đúng lúc, sẽ không có thức ăn thừa nào chuyển hóa thành chất béo gây thừa cân. Đồng thời, 10 giờsáng cũng là lúc cơ thể tỉnh táo cao độ để tập trung làm việc.</li></td>
-                    </tr>
-                    <tr>
-                        <th class="has-text-centered">11-13 giờ</th>
-                        <td><li>Đây là khung giờ tim hoạt động mạnh để vận chuyển máu đến toàn bộ cơ thể. Do đó, bạn nên tránh việc tập thể dục cường độ cao trong thời điểm này vì sẽ ảnh hưởng đến tim.</li><li>Bạn cần ăn trưa trong khoảng thời gian này, có thể bổ sung táo, nhãn trong bữa ăn để cung cấp máu và chất dinh dưỡng thích hợp cho tim. Một giấc ngủ ngắn sau bữa trưa sẽ giúp cơ thể được hồi phục, tiếp thêm năng lượng cho buổi chiều, đồng thời giúp tim loại bỏ độc tố, hoạt động tốt hơn. Tuy nhiên, bạn cũng không nên ngủ ngay sau khi ăn, vì sẽ không tốt cho dạ dày. Bạn có thể đi bộ nhẹ nhàng vài phút và không nên ngủ trưa nhiều hơn một tiếng.</li></td>
-                    </tr>
-                    <tr>
-                        <th class="has-text-centered">13-15 giờ</th>
-                        <td><li>Đây là thời gian ruột non bắt đầu làm việc để tiêu hóa thức ăn trong bữa trưa. Ruột non phân phối các chất dinh dưỡng được tiêu hóa đến các bộ phận liên quan. Cụ thể, các chất lỏng từ ruột non được chuyển đến bàng quang, chất thải sẽ tới ruột già và chất dinh dưỡng được đưa đến lá lách để tạo máu và năng lượng.</li><li>Theo các chuyên gia dinh dưỡng, bạn nên dùng bữa trưa nhẹ nhàng và nhai kỹ khi ăn để ruột non hấp thu dinh dưỡng một cách tốt nhất. Trước bữa ăn, bạn có thể thực hiện một vài động tác đá chân để kích hoạt ruột non hoạt động tốt hơn.</li><li>Trong giai đoạn này, các chức năng của não hoạt động mạnh, các cơ quan trong cơ thể cũng kết nối tốt nhất vào khoảng 14h30 và phản ứng nhanh nhất trong khoảng 15h30. Do đó đây là khung thời gian lý tưởng để giải quyết các vấn đề, đưa ra các quyết định quan trọng.</li></td>
-                    </tr>
-                    <tr>
-                        <th class="has-text-centered">15-17 giờ</th>
-                        <td><li>Đây là thời gian bàng quang hoạt động nhiều nhất. Bàng quang là bộ phận quan trọng giúp loại bỏ nhiều độc tố trong cơ thể. Gần như tất cả các chất độc ở các cơ quan khác đều phải tới bàng quang và được thải ra ngoài qua nước tiểu.</li><li>Do đó, trong giờ này, bạn cần uống thật nhiều nước, tốt nhất là nên uống một tách trà để thanh lọc cơ thể, tận dụng công suất hoạt động của bàng quang, thúc đẩy quá trình thải độc.</li></td>
-                    </tr>
-                    <tr>
-                        <th class="has-text-centered">17-19 giờ</th>
-                        <td><li>Thời gian này, thận hoạt động nhiều nhất trong ngày. Độc tố tích lũy trong thận sẽ gây nên tình trạng phù nề, lâu dần dẫn đến các bệnh liên quan như suy thận, sỏi thận. Từ 17 giờ trở đi, tim mạch và các cơ bắp hoạt động hiệu quả. Do đó, bạn nên chạy hoặc đi bộ trong khung giờ này giúp thận đào thải độc tố tốt hơn.</li><li>Đồng thời, đây cũng là thời điểm ăn tối. Bạn có thể bổ sung các thực phẩm tốt cho thận trong bữa ăn bao gồm nấm, tảo bẹ.</li></td>
-                    </tr>
-                    <tr>
-                        <th class="has-text-centered">19-21 giờ</th>
-                        <td><li>Màng tim hoạt động nhiều nhất trong khung 19-21 giờ giúp bạn thoải mái và phấn chấn về tinh thần. Màng ngoài tim là túi chứa chất lỏng bao quanh tim và rễ của các mạch máu lớn. Con người có thể bị mất ngủ hoặc tức ngực khi màng ngoài tim không loại độc tố hiệu quả.</li><li>Thời điểm này, dạ dày hoạt động rất yếu do vòng năng lượng đang mạnh ở tim, do đó bạn nên tránh ăn tối quá no hoặc ăn quá trễ.</li></td>
-                    </tr>
-                    <tr>
-                        <th class="has-text-centered">21-23 giờ</th>
-                        <td><li>Tuyến giáp và tuyến thượng thận còn đang điều phối năng lượng cho tất cả các cơ quan khác trong cơ thể để tăng tốc độ trao đổi chất và làm tăng nhiệt độ cơ thể. Trong khoảng thời gian này, bạn nên đọc sách và thư giãn để cơ thể được nghỉ ngơi sau một ngày làm việc.</li></td>
-                    </tr>
-                    <tr>
-                        <th class="has-text-centered">23-5 giờ sáng hôm sau</th>
-                        <td><li>Thời gian đi ngủ là lúc các bộ phận túi mật, gan và phổi hoạt động sôi nổi nhất để loại bỏ độc tố ra khỏi cơ thể. Do đó, không phải ngẫu nhiên mà các chuyên gia khuyên bạn nên đi ngủ trước 23 giờ  để đảm bảo cho các bộ phận thải độc làm tốt nhất công việc của mình.</li><li>Chính vì hoạt động nhiều nên trong thời gian này, những người có bệnh về túi mật, gan sẽ cảm thấy đau đớn, khó chịu; người bệnh phổi sẽ ho nhiều hơn.</li><li>Tuy nhiên, trong khi ngủ, các bộ phận tim, ruột non và bàng quang sẽ có mức năng lượng thấp nhất. Điều này lý giải tại sao những người ăn đêm dễ thừa cân. Do đó, để giảm tải hoạt động cho ruột non, bàng quang và tim, bạn không nên ăn quá no, uống quá nhiều nước hay vận động quá mạnh trước khi đi ngủ.</li></td>
-                    </tr>
-                    <tr><td colspan="2"><em>Mỗi cơ quan trong cơ thể đều có một khung giờ nhất định để làm việc hết công suất và một khung giờ để nghỉ ngơi. Những thói quen không điều độ và lệch quỹ đạo hoạt động của vòng năng lượng tuần hoàn sẽ dẫn đến những căn bệnh không mong muốn. Do đó, việc lập kế hoạch làm việc – ăn uống – nghỉ ngơi tương ứng với thời gian hoạt động của các cơ quan theo vòng năng lượng tuần hoàn rất cần thiết để có một cơ thể khỏe mạnh.</em></td></tr>
+### Chỉ số cân đối (Phân loại vóc dáng)
+
+1 - Béo ẩn - Béo bụng nhỏ, vóc dáng bên ngoài bình thường, lượng mỡ cao và cơ thấp hơn bình thường.
+2 - Béo phì - Béo trung bình, mỡ cao, cơ trung bình.
+3 - Béo chắc - Quá béo, mỡ, cơ cao.
+4 - Dưới chuẩn - Ít cơ, mỡ bình thường.
+5 - Chuẩn - Cơ, % mỡ bình thường.
+6 - Cơ bắp - Nhiều cơ bắp, % mỡ bình thường.
+7 - Gầy - Thiếu cơ, thiếu mỡ.
+8 - Gầy và nhiều cơ - Vận động viên (Ít mỡ, nhiều cơ).
+9 - Cơ bắp - Vận động viên (Ít mỡ, rất nhiều cơ).</td>
+
+### Bảng tỷ lệ mỡ
+
+#### Nam
+
+<table>
+<tr><th>Tuổi | Chuẩn</th><th>Tốt </th><th>TB  </th><th>Xấu  </th></tr>
+<tr><td>20-24 |  10,1</td><td>14,9</td><td>19,0</td><td>>23,3</td></tr>
+<tr><td>25-29 |  12,8</td><td>16,5</td><td>20,3</td><td>>24,3</td></tr>
+<tr><td>30-34 |  14,5</td><td>18,0</td><td>21,5</td><td>>25,2</td></tr>
+<tr><td>35-39 |  16,1</td><td>19,3</td><td>22,6</td><td>>26,1</td></tr>
+<tr><td>40-44 |  17,5</td><td>20,5</td><td>23,6</td><td>>26,9</td></tr>
+<tr><td>45-49 |  18,6</td><td>21,5</td><td>24,5</td><td>>27,6</td></tr>
+<tr><td>50-54 |  19,2</td><td>22,1</td><td>25,1</td><td>>28,7</td></tr>
+<tr><td>55-59 |  19,8</td><td>22,7</td><td>25,6</td><td>>28,7</td></tr>
+<tr><td>60+   |  20,2</td><td>23,3</td><td>26,2</td><td>>29,3</td></tr>
+</table>
+
+#### Nữ
+
+<table>
+<tr><th>Tuổi | Chuẩn </th><th> Tốt  </th><th> TB   </th><th> Xấu   </th></tr>
+<tr><td>20-24 | 18,2 </td><td> 22,1 </td><td> 25,0 </td><td> >29,6 </td></tr>
+<tr><td>25-29 | 18,9 </td><td> 22,0 </td><td> 25,4 </td><td> >29,8 </td></tr>
+<tr><td>30-34 | 19,7 </td><td> 22,7 </td><td> 26,4 </td><td> >30,5 </td></tr>
+<tr><td>35-39 | 21,1 </td><td> 24,0 </td><td> 27,7 </td><td> >31,5 </td></tr>
+<tr><td>40-44 | 22,6 </td><td> 25,6 </td><td> 29,3 </td><td> >32,8 </td></tr>
+<tr><td>45-49 | 24,3 </td><td> 27,3 </td><td> 30,9 </td><td> >34,1 </td></tr>
+<tr><td>50-54 | 25,2 </td><td> 26,2 </td><td> 31,8 </td><td> >35,1 </td></tr>
+<tr><td>55-59 | 26,6 </td><td> 29,7 </td><td> 33,1 </td><td> >36,2 </td></tr>
+<tr><td>60+   | 27,4 </td><td> 30,7 </td><td> 34,0 </td><td> >37,3 </td></tr>
+</table>
+
+### Thời gian sinh học của cơ thể
+
+<table>
+<tr><td align="center">05-07 giờ</td><td><div markdown="1" align="justify">
+
+- Buổi sáng là thời gian vàng để nuông chiều các bộ phận của hệ tiêu hóa. Trong đó, từ 5-7 giờ sáng là thời điểm tá tràng và ruột già được kích hoạt và làm việc hiệu quả nhất để thanh lọc cơ thể. Do đó, ngay sau khi thức dậy, bạn nên uống một ít nước lọc và đi bộ một đoạn ngắn hoặc tập thể dục nhẹ nhàng giúp cơ thể kích hoạt việc thải độc.
+- Để giảm nguy cơ táo bón, bạn có thể ăn nhiều thực phẩm giàu chất xơ trong bữa sáng, thực hiện các động tác xoa bóp, massage ruột già và vùng bụng dưới nằm bên phía cánh tay phải để giúp cơ quan này thải độc hiệu quả.
+- Theo vòng năng lượng tuần hoàn, khi ruột già đạt mức năng lượng cao nhất thì thận sẽ có mức năng lượng yếu nhất. Chính vì thế, những người bị suy chức năng thận thường sẽ cảm thấy khó dậy sớm được, do nồng độ cortisol (có tác dụng thúc đẩy bạn thức dậy) được sản xuất từ tuyến thượng thận của họ không đạt đỉnh như những người bình thường.
+
+</div></td></tr>
+<tr><td align="center">07-09 giờ</td><td><div markdown="1" align="justify">
+
+- Trong khung thời gian này, dạ dày sẽ hoạt động hết công suất để tiêu hóa thức ăn. Bạn cần ăn sáng và có thể uống một ít trà hoặc cafe. Bữa sáng sẽ giúp cơ thể bắt kịp nhịp độ khuếch tán và làm nóng năng lượng Qi vào giữa ngày, cung cấp dinh dưỡng cho ruột, hỗ trợ khả năng hấp thu và đồng hóa chất dinh dưỡng trong cơ thể.
+- Trong khung giờ này, bạn có thể tập thở bằng bụng để thúc đẩy máu lưu thông và năng lượng đến dạ dày, từ đó hỗ trợ quá trình trao đổi chất và tiêu hóa. Mật ong, đậu phộng, cà rốt hoặc táo là những thực phẩm tốt cho dạ dày trong buổi sáng.
+
+</div></td></tr>
+<tr><td align="center">09-11 giờ</td><td><div markdown="1" align="justify">
+
+- Đây là khung giờ tụy và lá lách hoạt động mạnh, giúp não bộ hoạt động hiệu quả và tăng cường sự trao đổi chất trong cơ thể.
+- Nhờ bữa ăn sáng trước đó, cơ thể được bổ sung năng lượng đầy đủ, dạ dày tiêu hóa tất cả thực phẩm, hấp thụ đủ dinh dưỡng đến các kinh tuyến của lá lách, giúp cơ quan này vận hành tốt hơn. Lá lách chuyển hóa thức ăn dạ dày hấp thu thành năng lượng đưa đến não bộ. Nếu các chất được gửi đến “dây chuyền sản xuất dinh dưỡng” đúng lúc, sẽ không có thức ăn thừa nào chuyển hóa thành chất béo gây thừa cân. Đồng thời, 10 giờsáng cũng là lúc cơ thể tỉnh táo cao độ để tập trung làm việc.
+
+</div></td></tr>
+<tr><td align="center">11-13 giờ</td><td><div markdown="1" align="justify">
+
+- Đây là khung giờ tim hoạt động mạnh để vận chuyển máu đến toàn bộ cơ thể. Do đó, bạn nên tránh việc tập thể dục cường độ cao trong thời điểm này vì sẽ ảnh hưởng đến tim.
+- Bạn cần ăn trưa trong khoảng thời gian này, có thể bổ sung táo, nhãn trong bữa ăn để cung cấp máu và chất dinh dưỡng thích hợp cho tim. Một giấc ngủ ngắn sau bữa trưa sẽ giúp cơ thể được hồi phục, tiếp thêm năng lượng cho buổi chiều, đồng thời giúp tim loại bỏ độc tố, hoạt động tốt hơn. Tuy nhiên, bạn cũng không nên ngủ ngay sau khi ăn, vì sẽ không tốt cho dạ dày. Bạn có thể đi bộ nhẹ nhàng vài phút và không nên ngủ trưa nhiều hơn một tiếng.
+
+</div></td></tr>
+<tr><td align="center">13-15 giờ</td><td><div markdown="1" align="justify">
+
+- Đây là thời gian ruột non bắt đầu làm việc để tiêu hóa thức ăn trong bữa trưa. Ruột non phân phối các chất dinh dưỡng được tiêu hóa đến các bộ phận liên quan. Cụ thể, các chất lỏng từ ruột non được chuyển đến bàng quang, chất thải sẽ tới ruột già và chất dinh dưỡng được đưa đến lá lách để tạo máu và năng lượng.
+- Theo các chuyên gia dinh dưỡng, bạn nên dùng bữa trưa nhẹ nhàng và nhai kỹ khi ăn để ruột non hấp thu dinh dưỡng một cách tốt nhất. Trước bữa ăn, bạn có thể thực hiện một vài động tác đá chân để kích hoạt ruột non hoạt động tốt hơn.</li><li>Trong giai đoạn này, các chức năng của não hoạt động mạnh, các cơ quan trong cơ thể cũng kết nối tốt nhất vào khoảng 14h30 và phản ứng nhanh nhất trong khoảng 15h30. Do đó đây là khung thời gian lý tưởng để giải quyết các vấn đề, đưa ra các quyết định quan trọng.
+
+</div></td></tr>
+<tr><td align="center">15-17 giờ</td><td><div markdown="1" align="justify">
+
+- Đây là thời gian bàng quang hoạt động nhiều nhất. Bàng quang là bộ phận quan trọng giúp loại bỏ nhiều độc tố trong cơ thể. Gần như tất cả các chất độc ở các cơ quan khác đều phải tới bàng quang và được thải ra ngoài qua nước tiểu.</li><li>Do đó, trong giờ này, bạn cần uống thật nhiều nước, tốt nhất là nên uống một tách trà để thanh lọc cơ thể, tận dụng công suất hoạt động của bàng quang, thúc đẩy quá trình thải độc.
+
+</div></td></tr>
+<tr><td align="center">17-19 giờ</td><td><div markdown="1" align="justify">
+
+- Thời gian này, thận hoạt động nhiều nhất trong ngày. Độc tố tích lũy trong thận sẽ gây nên tình trạng phù nề, lâu dần dẫn đến các bệnh liên quan như suy thận, sỏi thận. Từ 17 giờ trở đi, tim mạch và các cơ bắp hoạt động hiệu quả. Do đó, bạn nên chạy hoặc đi bộ trong khung giờ này giúp thận đào thải độc tố tốt hơn.
+- Đồng thời, đây cũng là thời điểm ăn tối. Bạn có thể bổ sung các thực phẩm tốt cho thận trong bữa ăn bao gồm nấm, tảo bẹ.
+
+</div></td></tr>
+<tr><td align="center">19-21 giờ</td><td><div markdown="1" align="justify">
+
+- Màng tim hoạt động nhiều nhất trong khung 19-21 giờ giúp bạn thoải mái và phấn chấn về tinh thần. Màng ngoài tim là túi chứa chất lỏng bao quanh tim và rễ của các mạch máu lớn. Con người có thể bị mất ngủ hoặc tức ngực khi màng ngoài tim không loại độc tố hiệu quả.
+- Thời điểm này, dạ dày hoạt động rất yếu do vòng năng lượng đang mạnh ở tim, do đó bạn nên tránh ăn tối quá no hoặc ăn quá trễ.
+
+</div></td></tr>
+<tr><td align="center">21-23 giờ</td><td><div markdown="1" align="justify">
+
+- Tuyến giáp và tuyến thượng thận còn đang điều phối năng lượng cho tất cả các cơ quan khác trong cơ thể để tăng tốc độ trao đổi chất và làm tăng nhiệt độ cơ thể. Trong khoảng thời gian này, bạn nên đọc sách và thư giãn để cơ thể được nghỉ ngơi sau một ngày làm việc.
+
+</div></td></tr>
+<tr><td align="center">23-05 giờ (hôm sau)</td><td><div markdown="1" align="justify">
+
+- Thời gian đi ngủ là lúc các bộ phận túi mật, gan và phổi hoạt động sôi nổi nhất để loại bỏ độc tố ra khỏi cơ thể. Do đó, không phải ngẫu nhiên mà các chuyên gia khuyên bạn nên đi ngủ trước 23 giờ  để đảm bảo cho các bộ phận thải độc làm tốt nhất công việc của mình.
+- Chính vì hoạt động nhiều nên trong thời gian này, những người có bệnh về túi mật, gan sẽ cảm thấy đau đớn, khó chịu; người bệnh phổi sẽ ho nhiều hơn.
+- Tuy nhiên, trong khi ngủ, các bộ phận tim, ruột non và bàng quang sẽ có mức năng lượng thấp nhất. Điều này lý giải tại sao những người ăn đêm dễ thừa cân. Do đó, để giảm tải hoạt động cho ruột non, bàng quang và tim, bạn không nên ăn quá no, uống quá nhiều nước hay vận động quá mạnh trước khi đi ngủ.
+</div></td></tr>
+</table>
+
+> _Mỗi cơ quan trong cơ thể đều có một khung giờ nhất định để làm việc hết công suất và một khung giờ để nghỉ ngơi. Những thói quen không điều độ và lệch quỹ đạo hoạt động của vòng năng lượng tuần hoàn sẽ dẫn đến những căn bệnh không mong muốn. Do đó, việc lập kế hoạch làm việc – ăn uống – nghỉ ngơi tương ứng với thời gian hoạt động của các cơ quan theo vòng năng lượng tuần hoàn rất cần thiết để có một cơ thể khỏe mạnh._
+
+                    
+                    
                     <tr>
                         <th colspan="2" class="is-warning">Lưu ý các khoảng thời gian</th>
                     </tr>
