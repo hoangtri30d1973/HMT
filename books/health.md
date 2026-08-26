@@ -7,6 +7,12 @@
 <div align="center">♥️♥️♥️♥️♥️</div><br/>
 <blockquote><div markdown="1" align="justify">
 
+<table><tr><td align="center">Muối</td><td><div align="justify">
+
+Ăn hạn chế, dưới 180gr/người/tháng. Đây là thành phần bị hạn chế nhất trong bảng chế độ dinh dưỡng. Vì nếu ăn quá nhiều muối sẽ gây ra nguy cơ dẫn đến các bệnh: huyết áp, bệnh tim, bệnh thận. Theo khảo sát, người ăn mặn nhiều sẽ có tuổi thọ thấp hơn những người bình thường.
+
+</div></td></tr></table>
+
 |Loại|Tác dụng|
 |:---:|:---|
 |Muối|<div align="justify">Ăn hạn chế, dưới 180gr/người/tháng. Đây là thành phần bị hạn chế nhất trong bảng chế độ dinh dưỡng. Vì nếu ăn quá nhiều muối sẽ gây ra nguy cơ dẫn đến các bệnh: huyết áp, bệnh tim, bệnh thận. heo khảo sát, người ăn mặn nhiều sẽ có tuổi thọ thấp hơn những người bình thường.</div>|
