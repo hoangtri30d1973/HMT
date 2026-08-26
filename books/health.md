@@ -3,6 +3,11 @@
 
 ---
 
+<table><tr><td><a href="#dinh_duong">Dinh dưỡng</a></td><td><a href="#chi_so_suc_khoe">Chỉ số sức khỏe</a></td></tr></table>
+
+---
+
+<div id="dinh_duong"></div>
 <h3 align="center">DINH DƯỠNG</h3>
 <div align="center">♥️♥️♥️♥️♥️</div><br/>
 <blockquote><div markdown="1" align="justify">
@@ -267,69 +272,58 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 
 --------------------------------------------------------
 
-<h3 align="center">Cửu đỉnh ký</h3>
-<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<div id="chi_so_suc_khoe"></div>
+<h3 align="center">CHỈ SỐ SỨC KHỎE</h3>
+<div align="center">♥️♥️♥️♥️♥️</div><br/>
 <blockquote><div markdown="1" align="justify">
  
-    </div>
-    <div class="message is-success">
-        <details><summary class="summary has-text-weight-medium message-header has-text-black-ter">2. Kiến thức về các chỉ số sức khỏe</summary>
-            <div class="table-container">
-                <table class="table is-striped is-narrow is-hoverable is-fullwidth">
-                    <tr>
-                        <th colspan="2" class="is-warning">Chiều cao/cân nặng lý tưởng</th>
-                    </tr>
-                    <tr>
-                        <td colspan="2">
-                            <table class="table is-striped is-narrow is-hoverable">
-                                <tr><th colspan="5">Nam</th></tr>
-                                <tr>
-                                    <td>
-                                        <table class="table is-striped is-narrow is-hoverable">
-                                            <tr><td>140 | 43-45<td><tr>
-                                            <tr><td>142 | 43-46</td></tr>
-                                            <tr><td>144 | 45-48</td></tr>
-                                            <tr><td>146 | 46-49</td></tr>
-                                            <tr><td>148 | 47-50</td></tr>
-                                        </table>
-                                    </td>
-                                    <td>
-                                        <table class="table is-striped is-narrow is-hoverable">
-                                            <tr><td>150 | 48-52</td></tr>
-                                            <tr><td>152 | 50-53</td></tr>
-                                            <tr><td>154 | 51-55</td></tr>
-                                            <tr><td>156 | 52-66</td></tr>
-                                            <tr><td>158 | 54-57</td></tr>
-                                        </table>
-                                    </td>
-                                    <td>
-                                        <table class="table is-striped is-narrow is-hoverable">
-                                            <tr><td>160 | 55-59</td></tr>
-                                            <tr><td>162 | 56-60</td></tr>
-                                            <tr><td>164 | 58-62</td></tr>
-                                            <tr><td>166 | 59-63</td></tr>
-                                            <tr><td>168 | 61-65</td></tr>
-                                        </table>
-                                    </td>
-                                    <td>
-                                        <table class="table is-striped is-narrow is-hoverable">
-                                            <tr><td>170 | 62-66</td></tr>
-                                            <tr><td>172 | 64-68</td></tr>
-                                            <tr><td>174 | 65-70</td></tr>
-                                            <tr><td>176 | 67-71</td></tr>
-                                            <tr><td>178 | 68-73</td></tr>
-                                        </table>
-                                    </td>
-                                    <td>
-                                        <table class="table is-striped is-narrow is-hoverable">
-                                            <tr><td>180 | 70-75</td></tr>
-                                            <tr><td>182 | 71-76</td></tr>
-                                            <tr><td>184 | 73-78</td></tr>
-                                            <tr><td>186 | 74-80</td></tr>
-                                            <tr><td>188 | 76-81</td></tr>
-                                        </table>
-                                    </td>
-                                </tr>
+### Chiều cao/cân nặng lý tưởng</th>
+                    
+#### Nam
+
+<table>
+<tr><td>
+<table>
+<tr><td>140 | 43-45</tr>td><tr>
+<tr><td>142 | 43-46</td></tr>
+<tr><td>144 | 45-48</td></tr>
+<tr><td>146 | 46-49</td></tr>
+<tr><td>148 | 47-50</td></tr>
+</table>
+</td><td>
+<table>
+<tr><td>150 | 48-52</td></tr>
+<tr><td>152 | 50-53</td></tr>
+<tr><td>154 | 51-55</td></tr>
+<tr><td>156 | 52-66</td></tr>
+<tr><td>158 | 54-57</td></tr>
+</table>
+</td><td>
+<table>
+<tr><td>160 | 55-59</td></tr>
+<tr><td>162 | 56-60</td></tr>
+<tr><td>164 | 58-62</td></tr>
+<tr><td>166 | 59-63</td></tr>
+<tr><td>168 | 61-65</td></tr>
+</table>
+</td><td>
+<table>
+<tr><td>170 | 62-66</td></tr>
+<tr><td>172 | 64-68</td></tr>
+<tr><td>174 | 65-70</td></tr>
+<tr><td>176 | 67-71</td></tr>
+<tr><td>178 | 68-73</td></tr>
+</table>
+</td><td>
+<table>
+<tr><td>180 | 70-75</td></tr>
+<tr><td>182 | 71-76</td></tr>
+<tr><td>184 | 73-78</td></tr>
+<tr><td>186 | 74-80</td></tr>
+<tr><td>188 | 76-81</td></tr>
+</table>
+</td></tr>
+</table>
                                 <tr><th colspan="5">Nữ</th></tr>
                                 <tr>
                                     <td>
