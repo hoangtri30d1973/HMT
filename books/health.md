@@ -284,7 +284,7 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 <table>
 <tr><td>
 <table>
-<tr><td>140 | 43-45</tr>td><tr>
+<tr><td>140 | 43-45</td></tr>
 <tr><td>142 | 43-46</td></tr>
 <tr><td>144 | 45-48</td></tr>
 <tr><td>146 | 46-49</td></tr>
@@ -324,59 +324,54 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 </table>
 </td></tr>
 </table>
-                                <tr><th colspan="5">Nữ</th></tr>
-                                <tr>
-                                    <td>
-                                        <table class="table is-striped is-narrow is-hoverable">
-                                            <tr><td>140 | 39-42</td></tr>
-                                            <tr><td>142 | 40-43</td></tr>
-                                            <tr><td>144 | 41-45</td></tr>
-                                            <tr><td>146 | 43-46</td></tr>
-                                            <tr><td>148 | 44-47</td></tr>
-                                        </table>
-                                    </td>
-                                    <td>
-                                        <table class="table is-striped is-narrow is-hoverable">
-                                            <tr><td>150 | 45-48</td></tr>
-                                            <tr><td>152 | 46-50</td></tr>
-                                            <tr><td>154 | 47-51</td></tr>
-                                            <tr><td>156 | 49-52</td></tr>
-                                            <tr><td>158 | 50-54</td></tr>
-                                        </table>
-                                    </td>
-                                    <td>
-                                        <table class="table is-striped is-narrow is-hoverable">
-                                            <tr><td>160 | 51-55</td></tr>
-                                            <tr><td>162 | 52-56</td></tr>
-                                            <tr><td>164 | 54-58</td></tr>
-                                            <tr><td>166 | 55-59</td></tr>
-                                            <tr><td>168 | 56-61</td></tr>
-                                        </table>
-                                    </td>
-                                    <td>
-                                        <table class="table is-striped is-narrow is-hoverable">
-                                            <tr><td>170 | 58-62</td></tr>
-                                            <tr><td>172 | 59-64</td></tr>
-                                            <tr><td>174 | 61-65</td></tr>
-                                            <tr><td>176 | 62-67</td></tr>
-                                            <tr><td>178 | 63-68</td></tr>
-                                        </table>
-                                    </td>
-                                    <td>
-                                        <table class="table is-striped is-narrow is-hoverable">
-                                            <tr><td>180 | 65-70</td></tr>
-                                            <tr><td>182 | 66-71</td></tr>
-                                            <tr><td>184 | 68-73</td></tr>
-                                            <tr><td>186 | 69-74</td></tr>
-                                            <tr><td>188 | 71-76</td></tr>
-                                        </table>
-                                    </td>
-                                </tr>
-                            </table>
-                        </td>
-                    </tr>
-                    <tr>
-                        <th colspan="2" class="is-warning">Chỉ số cân đối (Phân loại vóc dáng)</th>
+
+#### Nữ
+
+<table>
+<tr><td>
+<table>
+<tr><td>140 | 39-42</td></tr>
+<tr><td>142 | 40-43</td></tr>
+<tr><td>144 | 41-45</td></tr>
+<tr><td>146 | 43-46</td></tr>
+<tr><td>148 | 44-47</td></tr>
+</table>
+</td><td>
+<table>
+<tr><td>150 | 45-48</td></tr>
+<tr><td>152 | 46-50</td></tr>
+<tr><td>154 | 47-51</td></tr>
+<tr><td>156 | 49-52</td></tr>
+<tr><td>158 | 50-54</td></tr>
+</table>
+</td><td>
+<table>
+<tr><td>160 | 51-55</td></tr>
+<tr><td>162 | 52-56</td></tr>
+<tr><td>164 | 54-58</td></tr>
+<tr><td>166 | 55-59</td></tr>
+<tr><td>168 | 56-61</td></tr>
+</table>
+</td><td>
+<table>
+<tr><td>170 | 58-62</td></tr>
+<tr><td>172 | 59-64</td></tr>
+<tr><td>174 | 61-65</td></tr>
+<tr><td>176 | 62-67</td></tr>
+<tr><td>178 | 63-68</td></tr>
+</table>
+</td><td>
+<table>
+<tr><td>180 | 65-70</td></tr>
+<tr><td>182 | 66-71</td></tr>
+<tr><td>184 | 68-73</td></tr>
+<tr><td>186 | 69-74</td></tr>
+<tr><td>188 | 71-76</td></tr>
+</table>
+</td></tr>
+</table>
+
+#### Chỉ số cân đối (Phân loại vóc dáng)
                     </tr>
                     <tr>
                         <td colspan="2">1 - Béo ẩn - Béo bụng nhỏ, vóc dáng bên ngoài bình thường, lượng mỡ cao và cơ thấp hơn bình thường.<br/>2 - Béo phì - Béo trung bình, mỡ cao, cơ trung bình.<br/>3 - Béo chắc - Quá béo, mỡ, cơ cao.<br/>4 - Dưới chuẩn - Ít cơ, mỡ bình thường.<br/>5 - Chuẩn - Cơ, % mỡ bình thường.<br/>6 - Cơ bắp - Nhiều cơ bắp, % mỡ bình thường.<br/>7 - Gầy - Thiếu cơ, thiếu mỡ.<br/>8 - Gầy và nhiều cơ - Vận động viên (Ít mỡ, nhiều cơ).<br/>9 - Cơ bắp - Vận động viên (Ít mỡ, rất nhiều cơ).</td>
