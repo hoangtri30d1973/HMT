@@ -23,34 +23,84 @@
 Ăn có mức độ, khoảng 600gr/người/tháng. Có nhiều loại thực phẩm cung cấp chất béo trong bữa ăn hàng ngày: dầu ăn, bơ, hạt vừng, đậu phộng. Trong đó, dầu ăn là thực phẩm không thể thiếu trong khâu chế biến của các chị em nội trợ. Dầu ăn cung cấp một số vitamin có lợi như A, E, D, K. Theo khuyến cáo, chúng ta nên sử dụng dầu ăn có nguồn gốc từ thực vật. Tuyệt đối, không được ăn quá nhiều thức ăn chiên xào đầy dầu mỡ.
 
 </div></td></tr>
-<tr><td align="center"></td><td><div align="justify">
+<tr><td align="center">Chất đạm (đạm thực vật, đạm động vật)</td><td><div align="justify">
+
+Đứng ở trung tâm của bảng chế độ dinh dưỡng, chúng ta nên ăn vừa phải. Trung bình 2,5 kg cá và thủy sản; 1,5 kg thịt; 2kg đậu phụ/người/tháng. Đạm thực vật xuất hiện trong các loại đậu, sản phẩm từ đậu nành, bơ thực vật. Đạm động vật có trong các loại thịt, cá, trứng, hải sản…chúng có giá trị dinh dưỡng cao hơn đạm thực vật. Tuy nhiên trong quá trình chuyển hóa chúng có thể sản sinh ra urê, axit uric…có thể gây ra một số bệnh nguy hiểm, phổ biến là bệnh gout như hiện nay. Vì vậy, chúng ta nên ăn cân đối giữa đạm động vật và thực vật. Ăn uống hợp lý giúp bảo vệ sức khỏe và nâng cao vai trò của chất đạm.
+
+</div></td></tr>
+<tr><td align="center">Quả chín</td><td><div align="justify">
+
+Các loại hoa quả chính là một phần không thể thiếu trong chế độ dinh dưỡng hàng ngày. Tuy nhiên số lượng không bắt buộc, chỉ nên ăn đủ tùy theo khả năng. Những loại quả như cam, kiwi, đu đủ, bơ, táo, chuối…không chỉ giúp cho cơ thể khỏe mạnh mà còn làm đẹp da, chống lão hóa.
+
+</div></td></tr>
+<tr><td align="center">Rau, củ</td><td><div align="justify">
+
+Ăn đủ, trung bình 10kg/người/tháng. Rau, củ chứa nhiều vitamin, cung cấp khoáng chất và chất xơ cần thiết. Có nhiều loại rau với hình dạng và màu sắc khác nhau, tuy nhiên các loại rau có màu xanh sẫm thường chứa nhiều vitamin và khoáng chất hơn.
+
+</div></td></tr>
+<tr><td align="center">Nhóm lương thực, chất bột đường (gluxit)</td><td><div align="justify">
+
+Đây là loại thực phẩm cơ bản của một chế độ dinh dưỡng hợp lý, chúng ta nên ăn đủ, trung bình 12kg/người/tháng. Các loại thực phẩm chủ yếu trong các bữa ăn: gạo, mì, bánh, khoai tây…cung cấp lượng tinh bột đáng kể và cần thiết tạo ra năng lượng phục vụ nhu cầu hoạt động hàng ngày.
+
+</div></td></tr>
+</table>
+
+***Và cuối cùng để hoàn thiện chế độ ăn uống hợp lý của mình, bạn hãy ghi nhớ các loại thực phẩm cần hạn chế dưới đây:***
+
+<table>
+<tr><td align="center">Đồ uống nhiều đường, đường nhân tạo</td><td><div align="justify">
+
+Đồ uống có đường có thể làm tăng nguy cơ tử vong sớm. Một nghiên cứu cho thấy những người hấp thụ nhiều chất làm ngọt nhân tạo có nguy cơ đột quỵ và mất trí nhớ cao hơn (theo báo cáo của Guardian).
+
+</div></td></tr>
+<tr><td align="center">Thức ăn quá mặn</td><td><div align="justify">
+
+Ăn quá nhiều natri làm tăng nguy cơ mắc bệnh tim mạch, đột quỵ và ung thư dạ dày, tăng tốc quá trình lão hóa ở cấp độ tế bào (theo Business Insider).
+
+</div></td></tr>
+<tr><td align="center">Thịt chế biến</td><td><div align="justify">
+
+Theo một nghiên cứu được công bố trên tạp chí JAMA Internal Medicine, thịt xông khói, xúc xích và thịt nguội có liên quan đến việc tăng nguy cơ tử vong sớm. Nghiên cứu, liên quan đến hơn nửa triệu người, đã phát hiện ra rằng những người ăn thịt chế biến nhiều nhất có nguy cơ tử vong vì bệnh tim tăng 72% và tăng 11% nguy cơ tử vong do ung thư (theo Reader’s Digest).
+
+</div></td></tr>
+<tr><td align="center">Thực phẩm giàu chất béo chuyển hóa</td><td><div align="justify">
+
+Chất béo chuyển hóa làm tăng nguy cơ mắc bệnh tim, đột quỵ và tiểu đường loại 2, theo Hiệp hội Tim mạch Mỹ. Tránh thực phẩm chứa nhiều chất béo có hại này là một trong những lời khuyên chính để sống lâu hơn. Có nghĩa là hạn chế bánh quy, bánh ngọt, bánh nướng và pizza.
+
+</div></td></tr>
+<tr><td align="center">Thực phẩm gây ung thư</td><td><div align="justify">
+
+Những loại thực phẩm gây hại cho trái tim, cũng có thể gây ung thư. Rượu, thịt đỏ và thịt chế biến và đồ nướng bị cháy đều gây ung thư. Thịt cháy ở nhiệt độ cao tạo ra các chất gây ung thư, tiêu thụ rượu quá mức có liên quan đến ung thư tuyến tụy, buồng trứng, tuyến tiền liệt và dạ dày.
+
+</div></td></tr>
+<tr><td align="center">Rượu</td><td><div align="justify">
+
+Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 người trên 19 quốc gia, đã phát hiện ra rằng: Những người uống ít nhất 100 gram cồn mỗi tuần, tương đương với 1 ly rượu nhỏ, một cốc bia, hoặc 1 chung rượu mạnh mỗi ngày, có thể bị "trộm" mất 6 tháng tuổi thọ. Hấp thụ 200 - 300 gram cồn mỗi tuần, tương đương 2 - 3 ly mỗi ngày, có thể bị "cướp" mất 2 năm. Nếu uống nhiều hơn 3 ly một ngày, có thể mất tới 5 năm.
+
+</div></td></tr>
+</table>
+
+**Các loại hạt**
+
+<table>
+<tr><td align="center">Hạt thông: <strong>Giảm cân hiệu quả</strong></td><td><div align="justify" markdown="1">
+
+- Hạt thông được biết đến là một loại hạng đắt tiền có công dụng hữu hiệu trong quá trình giảm cân. Sử dụng hạt thông hàng ngày giúp bạn ức chế sự thèm ăn, nhờ đó mà giảm cân nhanh chóng.
+- Hiệp hội Hóa học Hoa Kỳ năm 2006 đã chứng minh rằng axit pinolenic (một loại axit béo không bão hòa chỉ có trong hạt thông và dầu của nó) đã ngăn chặn sự thèm ăn ở phụ nữ thừa cân, giúp họ giảm lượng thức ăn tổng thể xuống 37%. Vậy là nhờ hạt thông, bạn sẽ chẳng cần dùng bất kỳ loại thuốc hỗ trợ giảm cân nào mà vẫn thúc đẩy được quá trình giảm cân hiệu quả.
+- _Hãy kết hợp loại hạt này với một món sa lát nào đó để thêm phần hấp dẫn. Bạn có thể làm sa lát cải xoăn với hạt thông hoặc sa lát hoa quả đều được. Đó chắc chắn là những món ăn vừa ngon miệng vừa bổ dưỡng._
+
+</div></td></tr>
+<tr><td align="center">Rượu</td><td><div align="justify">
+</div></td></tr>
+<tr><td align="center">Rượu</td><td><div align="justify">
+</div></td></tr>
+<tr><td align="center">Rượu</td><td><div align="justify">
+</div></td></tr>
 </table>
 
 |Loại|Tác dụng|
 |:---:|:---|
 
-
-|Chất đạm (đạm thực vật, đạm động vật)|<div align="justify">Đứng ở trung tâm của bảng chế độ dinh dưỡng, chúng ta nên ăn vừa phải. Trung bình 2,5 kg cá và thủy sản; 1,5 kg thịt; 2kg đậu phụ/người/tháng. Đạm thực vật xuất hiện trong các loại đậu, sản phẩm từ đậu nành, bơ thực vật. Đạm động vật có trong các loại thịt, cá, trứng, hải sản…chúng có giá trị dinh dưỡng cao hơn đạm thực vật. Tuy nhiên trong quá trình chuyển hóa chúng có thể sản sinh ra urê, axit uric…có thể gây ra một số bệnh nguy hiểm, phổ biến là bệnh gout như hiện nay. Vì vậy, chúng ta nên ăn cân đối giữa đạm động vật và thực vật. Ăn uống hợp lý giúp bảo vệ sức khỏe và nâng cao vai trò của chất đạm.</div>|
-|Quả chín|<div align="justify">Các loại hoa quả chính là một phần không thể thiếu trong chế độ dinh dưỡng hàng ngày. Tuy nhiên số lượng không bắt buộc, chỉ nên ăn đủ tùy theo khả năng. Những loại quả như cam, kiwi, đu đủ, bơ, táo, chuối…không chỉ giúp cho cơ thể khỏe mạnh mà còn làm đẹp da, chống lão hóa.</div>|
-|Rau, củ|<div align="justify">Ăn đủ, trung bình 10kg/người/tháng. Rau, củ chứa nhiều vitamin, cung cấp khoáng chất và chất xơ cần thiết. Có nhiều loại rau với hình dạng và màu sắc khác nhau, tuy nhiên các loại rau có màu xanh sẫm thường chứa nhiều vitamin và khoáng chất hơn.</div>|
-|Nhóm lương thực, chất bột đường (gluxit)|<div align="justify">Đây là loại thực phẩm cơ bản của một chế độ dinh dưỡng hợp lý, chúng ta nên ăn đủ, trung bình 12kg/người/tháng. Các loại thực phẩm chủ yếu trong các bữa ăn: gạo, mì, bánh, khoai tây…cung cấp lượng tinh bột đáng kể và cần thiết tạo ra năng lượng phục vụ nhu cầu hoạt động hàng ngày.</div>|
-
-***Và cuối cùng để hoàn thiện chế độ ăn uống hợp lý của mình, bạn hãy ghi nhớ các loại thực phẩm cần hạn chế dưới đây:***
-
-|Loại|Tác dụng|
-|:---:|:---|
-|Đồ uống nhiều đường, đường nhân tạo|<div align="justify">Đồ uống có đường có thể làm tăng nguy cơ tử vong sớm. Một nghiên cứu cho thấy những người hấp thụ nhiều chất làm ngọt nhân tạo có nguy cơ đột quỵ và mất trí nhớ cao hơn (theo báo cáo của Guardian)</div>|
-|Thức ăn quá mặn|<div align="justify">Ăn quá nhiều natri làm tăng nguy cơ mắc bệnh tim mạch, đột quỵ và ung thư dạ dày, tăng tốc quá trình lão hóa ở cấp độ tế bào (theo Business Insider)</div>|
-|Thịt chế biến|<div align="justify">Theo một nghiên cứu được công bố trên tạp chí JAMA Internal Medicine, thịt xông khói, xúc xích và thịt nguội có liên quan đến việc tăng nguy cơ tử vong sớm. Nghiên cứu, liên quan đến hơn nửa triệu người, đã phát hiện ra rằng những người ăn thịt chế biến nhiều nhất có nguy cơ tử vong vì bệnh tim tăng 72% và tăng 11% nguy cơ tử vong do ung thư (theo Reader’s Digest)</div>|
-|Thực phẩm giàu chất béo chuyển hóa|<div align="justify">Chất béo chuyển hóa làm tăng nguy cơ mắc bệnh tim, đột quỵ và tiểu đường loại 2, theo Hiệp hội Tim mạch Mỹ. Tránh thực phẩm chứa nhiều chất béo có hại này là một trong những lời khuyên chính để sống lâu hơn. Có nghĩa là hạn chế bánh quy, bánh ngọt, bánh nướng và pizza</div>|
-|Thực phẩm gây ung thư|<div align="justify">Những loại thực phẩm gây hại cho trái tim, cũng có thể gây ung thư. Rượu, thịt đỏ và thịt chế biến và đồ nướng bị cháy đều gây ung thư. Thịt cháy ở nhiệt độ cao tạo ra các chất gây ung thư, tiêu thụ rượu quá mức có liên quan đến ung thư tuyến tụy, buồng trứng, tuyến tiền liệt và dạ dày</div>|
-|Rượu|<div align="justify">Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 người trên 19 quốc gia, đã phát hiện ra rằng: Những người uống ít nhất 100 gram cồn mỗi tuần, tương đương với 1 ly rượu nhỏ, một cốc bia, hoặc 1 chung rượu mạnh mỗi ngày, có thể bị "trộm" mất 6 tháng tuổi thọ. Hấp thụ 200 - 300 gram cồn mỗi tuần, tương đương 2 - 3 ly mỗi ngày, có thể bị "cướp" mất 2 năm. Nếu uống nhiều hơn 3 ly một ngày, có thể mất tới 5 năm</div>|
-
-**Các loại hạt**
-
-|Loại|Tác dụng|
-|:---:|:---|
-|Hạt thông|<div align="justify"><strong>Giảm cân hiệu quả</strong><br/>- Hạt thông được biết đến là một loại hạng đắt tiền có công dụng hữu hiệu trong quá trình giảm cân. Sử dụng hạt thông hàng ngày giúp bạn ức chế sự thèm ăn, nhờ đó mà giảm cân nhanh chóng.<br/>- Hiệp hội Hóa học Hoa Kỳ năm 2006 đã chứng minh rằng axit pinolenic (một loại axit béo không bão hòa chỉ có trong hạt thông và dầu của nó) đã ngăn chặn sự thèm ăn ở phụ nữ thừa cân, giúp họ giảm lượng thức ăn tổng thể xuống 37%. Vậy là nhờ hạt thông, bạn sẽ chẳng cần dùng bất kỳ loại thuốc hỗ trợ giảm cân nào mà vẫn thúc đẩy được quá trình giảm cân hiệu quả.<br/>- Tui khỏe còn bạn tip: Hãy kết hợp loại hạt này với một món sa lát nào đó để thêm phần hấp dẫn. Bạn có thể làm sa lát cải xoăn với hạt thông hoặc sa lát hoa quả đều được. Đó chắc chắn là những món ăn vừa ngon miệng vừa bổ dưỡng.</div>|
 |Hạt óc chó|<strong>Hết ngay thiếu ngủ</strong><div align="justify">- Trong hạt óc chó chứa rất nhiều acid béo omega 3, những chất này đều có lợi cho não bộ. Chúng giúp bạn điều chỉnh giấc ngủ về mức cân đối.<br/>- Nếu bạn đang cảm thấy khó ngủ, thiếu ngủ trong thời gian dài, hãy sử dụng hạt óc chó. Loại hạt tuyệt vời này sở hữu melatonin, một loại hormone khiến cơ thể bạn cảm thấy thoải mái và ngủ ngon hơn.<br/>- Thời điểm thích hợp để ăn hạt óc chó là trước khi đi ngủ, tuy nhiên bạn lưu ý là chỉ nên ăn từ 2 đến 3 hạt một lần thôi nhé!<hr/>- Quả óc chó thực sự là một loại quả có nguồn dinh dưỡng tuyệt vời. Trong 28 gram hạt óc chó có chứa khoảng:<blockquote>+ Lượng calo: 182<br/>+ Chất béo: 18 gram<br/>+ Protein: 4 gram<br/>+ Carbs: 4 gram<br/>+ Chất xơ: 2 gram<br/>+ Vitamin E: 1% RDI<br/>+ Magiê: 11% RDI</blockquote><br/>- Quả óc chó giúp cải thiện một số nguy cơ dẫn đến bệnh tim, giảm đáng kể tổng lượng cholesterol và cholesterol xấu (LDL), đồng thời làm tăng mức cholesterol tốt (HDL).<br/>- Ngoài ra, quả óc chó có thể giúp giảm viêm. Ăn quả óc chó có lợi cho sức khỏe của tim và thậm chí là não.</div>|
 |<div align="justify">Hạt điều|<div align="justify"><strong>Ngăn ngừa thiếu máu</strong>- Hạt điều có vị thơm ngon, bùi bùi khiến nhiều người yêu thích. Bên cạnh cảm giác ngon miệng, hạt điều còn mang lại một lượng dinh dưỡng lớn cho chúng ta. Trong hạt điều chứa nhiều chất sắt và kẽm. Sắt có vai trò ngăn ngừa bệnh thiếu máu, cung cấp oxy cho tế bào trong cơ thể, trong khi đó kẽm lại tăng cường khả năng miễn dịch. Vì vậy hạt điều rất thích hợp để sử dụng sau một cuộc phẫu thuật hoặc khi bạn mới ốm dậy, đó là thời điểm cơ thể bạn thiếu máu và hệ miễn dịch vẫn còn yếu. <br/> - Hạt điều có thành phần dinh dưỡng tốt. Trong 28 gram hạt điều chứa khoảng: <blockquote>+ Lượng calo: 155 <br/> + Chất béo: 12 gram <br/> + Protein: 5 gram <br/> + Carbs: 9 gram <br/> + Chất xơ: 1 gram <br/> + Vitamin E: 1% RDI <br/> + Magiê: 20% RDI </blockquote><br/>- Hạt điều giúp cải thiện nồng độ lipid trong máu và giảm huyết áp.</div>|
 
