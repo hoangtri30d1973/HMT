@@ -120,26 +120,14 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 - Hạt điều giúp cải thiện nồng độ lipid trong máu và giảm huyết áp.
 
 </div></td></tr>
-<tr><td align="center">Hạt thông: <strong><i>Giảm cân hiệu quả</i></strong></td><td><div align="justify" markdown="1">
-</div></td></tr>
-</table>
+<tr><td align="center">Hạt dẻ: <strong><i>Rất tốt cho phụ nữ mang thai</i></strong></td><td><div align="justify" markdown="1">
 
-|Loại|Tác dụng|
-|:---:|:---|
-
-
-
-
-                        
-                        <td>Hạt dẻ: Rất tốt cho phụ nữ mang thai</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
 - Hạt dẻ là món ăn yêu thích của rất nhiều người. Phụ nữ mang thai nên sử dụng hạt dẻ thường xuyên bởi lượng folate có trong hạt dẻ sẽ hỗ trợ mạnh mẽ sự hình thành các tế bào máu đỏ. Nhờ vậy mà thai nhi sẽ được hạn chế nguy cơ mắc bệnh khuyết tật ống thần kinh.
-- Tui khỏe còn bạn tip: Thai phụ nên sử dụng khoảng 100g hạt dẻ rang mỗi ngày, có thể làm thành bánh để tạo thành món tráng miệng thơm ngon và bổ dưỡng.
-                        </pre></td>
-                    </tr>
-                    <tr>
-                        <td>Hạnh nhân: Cân bằng lượng Cholesterol trong cơ thể</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+> _Thai phụ nên sử dụng khoảng 100g hạt dẻ rang mỗi ngày, có thể làm thành bánh để tạo thành món tráng miệng thơm ngon và bổ dưỡng._
+
+</div></td></tr>
+<tr><td align="center">Hạnh nhân: <strong><i>Cân bằng lượng Cholesterol trong cơ thể</i></strong></td><td><div align="justify" markdown="1">
+
 - Sử dụng hạnh nhân mỗi ngày sẽ kích thích sự tăng trưởng hàm lượng Cholesterol tốt (HDL) trong cơ thể bạn, đồng thời cũng kiềm chế hàm lượng Cholesterol xấu (LDL). Nhờ vậy mà mức Cholesterol trong máu được kiểm soát cân đối, ngăn ngừa những biến chứng bệnh như tiểu đường, mỡ máu, cao huyết áp…vv. Công dụng tuyệt vời này đến từ việc hạnh nhân sở hữu một lượng chất béo không bão hoà đơn dồi dào hơn các hạt dinh dưỡng khác trong danh sách này.
 - Hạnh nhân là loại hạt chứa nhiều chất dinh dưỡng có lợi cho sức khỏe. Trong 28gram hạnh nhân có chứa:
     + Lượng calo: 161
@@ -150,11 +138,10 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
     + Vitamin E: 37% lượng tiêu thụ hàng ngày tham khảo (RDI)
     + Magiê: 19% RDI
 - Hạnh nhân có thể giúp cải thiện mức cholesterol trong cơ thể. Một số nghiên cứu đã phát hiện ra rằng, khi có một chế độ ăn giàu hạnh nhân có thể làm giảm cholesterol LDL ""xấu"", cholesterol toàn phần và cholesterol LDL bị oxy hóa. Đồng thời, hạnh nhân được bổ sung vào khẩu phần ăn nhằm giảm cân, giảm huyết áp ở những người thừa cân hoặc béo phì. Một bữa ăn với 28 gram hạnh nhân có thể giúp giảm mức tăng đường huyết xảy ra sau bữa ăn tới 30% ở những người mắc bệnh tiểu đường. Hạnh nhân còn có lợi đối với hệ vi sinh vật đường ruột bằng cách hỗ trợ sự phát triển của vi khuẩn đường ruột có lợi như: Bifidobacteria và Lactobacillus.
-                        </pre></td>
-                    </tr>
-                    <tr>
-                        <td>Hạt lạc: Giúp bạn sở hữu trái tim khỏe mạnh</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+</div></td></tr>
+<tr><td align="center">Hạt lạc: <strong><i>Giúp bạn sở hữu trái tim khỏe mạnh</i></strong></td><td><div align="justify" markdown="1">
+
 - Lạc là loại hạt phổ biến, dễ kiếm và dễ ăn. So với nhiều loại hạt khác thì lạc có giá thành rẻ nhưng vẫn chứa nhiều chất dinh dưỡng có lợi. Hạt lạc chứa nhiều protein và các khoáng chất quý. Đặc biệt nhất là khoáng chất Resveratrol, nổi tiếng với công dụng tốt cho tim mạch. Ngoài ra, trong lạc còn có arginine, đây cũng là một chất được coi là “vũ khí” giúp con người chống lại các triệu chứng bệnh liên quan đến tim mạch.
 - Tui khỏe còn bạn tip: Nếu bạn là người tập thể thao thường xuyên, nên kết hợp thịt bò và lạc, đây là công thức tuyệt vời sẽ mang lại cho bạn cơ thể khỏe mạnh và cân đối.
 - Đậu phộng không phải thuộc họ nhà hạt, mà thuộc họ nhà đậu. Tuy nhiên giá trị dinh dưỡng của đậu phộng tương đương với các loại hạt. Trong 28 gram đậu phộng rang chứa:
@@ -166,19 +153,17 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
     + Vitamin E: 21% RDI
     + Magiê: 11% RDI
 - Đậu phộng giúp cải thiện các yếu tố dẫn đến bệnh tim, giảm tỷ lệ mắc bệnh tiểu đường loại 2.
-                        </pre></td>
-                    </tr>
-                    <tr>
-                        <td>Hạt bí ngô: Hạn chế cholesterol xấu trong máu</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+</div></td></tr>
+<tr><td align="center">Hạt bí ngô: <strong><i>Hạn chế cholesterol xấu trong máu</i></strong></td><td><div align="justify" markdown="1">
+
 - Người Việt Nam thường quen gọi hạt bí ngô là hạt bí. Nó chính là thứ hạt màu trắng mà người Việt ta hay thưởng thức vào dịp Tết Nguyên Đán.
 - Hạt bí đã được chứng minh là có nhiều dưỡng chất qua cuộc thử nghiệm của trạm thực nghiệm Massachusetts. Hàm lượng protein và calo trong hạt bí ngô rất cao. Bên cạnh đó, loại hạt này cũng mang lại rất nhiều dưỡng chất thiết yếu khác như vitamin, photpho, magie, đồng… Hạt bí có công dụng đặc biệt trong quá giảm cholesterol xấu trong máu. Bạn biết đấy, lượng cholesterol xấu trong máu quá cao sẽ gây ra các biến chứng như bệnh tiểu đường, tắc nghẽn động mạch…vv.
 - Do đó, chúng ta cần ngăn ngừa tình trạng cholesterol xấu trong máu cao ngay từ sớm. Hãy sử dụng hạt bí thường xuyên để hạn chế tình trạng này bạn nhé!
-                        </pre></td>
-                    </tr>
-                    <tr>
-                        <td>Hạt dẻ cười: Hỗ trợ quá trình giảm cân</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+</div></td></tr>
+<tr><td align="center">Hạt dẻ cười: <strong><i>Hỗ trợ quá trình giảm cân</i></strong></td><td><div align="justify" markdown="1">
+
 - Hạt dẻ cười không còn xa lạ đối với người Việt, đây lại là loại hạt chứa nhiều kali và vitamin K hơn bất kỳ loại hạt nào khác. Không chỉ vậy, hạt dẻ cười còn chứa rất ít calo, nhiều chất xơ và protein nên có thể sử dụng trong quá trình giảm cân.
 - Bạn có thể tìm thấy hạt dẻ cười ở nhiều siêu thị lớn hoặc các siêu thị bán nguyên liệu để nấu món châu Âu.
     + Trong 28 gram hạt dẻ cười chứa:
@@ -190,18 +175,16 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
         * Vitamin E: 37% RDI
         * Magiê: 20% RDI
 - Hạt dẻ cười có nhiều chất dinh dưỡng như vitamin E. Chúng cũng có thể làm giảm các yếu tố dẫn đến các bệnh lý về tim.
-                        </pre></td>
-                    </tr>
-                    <tr>
-                        <td>Hạt sen: Lưu giữ sự trẻ trung</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+</div></td></tr>
+<tr><td align="center">Hạt sen: <strong><i>Lưu giữ sự trẻ trung</i></strong></td><td><div align="justify" markdown="1">
+
 - Hạt sen gần gũi và quen thuộc với người Việt Nam nhưng không phải ai cũng biết những công dụng kỳ diệu của loại hạt này. Mỗi 100g hạt sen sẽ cung cấp cho cơ thể bạn 350 calo, 17-18g và rất nhiều loại khoáng chất bổ dưỡng khác như kali, phốt pho…vv.
 - Các dưỡng chất có trong hạt sen sẽ chữa được nhiều bệnh. Tuy nhiên, công dụng đáng chú ý nhất của hạt sen chính là hạn chế tình trạng lão hóa. Loại hạt này được coi là “liều thuốc” tuyệt vời để phụ nữ nuôi dưỡng nét thanh xuân. Sử dụng hạt sen thường xuyên giúp làn da của phụ nữ luôn trẻ trung, căng mịn và không bị nhiễm khuẩn gây mụn.
-                        </pre></td>
-                    </tr>
-                    <tr>
-                        <td>Mắc ca: Hết ngay mỡ bụng</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+</div></td></tr>
+<tr><td align="center">Mắc ca: <strong><i>Hết ngay mỡ bụng</i></strong></td><td><div align="justify" markdown="1">
+
 - Mỡ bụng có thể gây ra bệnh tim và tiểu đường cho cơ thể của bạn. Bên cạnh việc tập luyện thì chế độ ăn uống cũng ảnh hưởng rất nhiều đến việc giảm mỡ bụng. Nếu thêm hạt mắc ca vào khẩu phần ăn,quá trình giảm mỡ bụng sẽ được thúc đẩy. Hạt mắc ca là một trong số ít thực phẩm có axit palmitoleic, một chất có thể hỗ trợ chuyển hóa chất béo và giảm lượng mỡ dự trữ trong cơ thể.
 - Nếu bạn có thời gian thì thử ghé thăm bài viết tác dụng của hạt macca để tìm hiểu thêm về loại hạt này nhé.
 - Hạt Macca chứa một loạt các chất dinh dưỡng và là một nguồn chất béo không bão hòa đơn tuyệt vời. Trong 28 gram hạt macca chứa:
@@ -212,31 +195,27 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
     + Chất xơ: 2,5 gram
     + Vitamin E: 1% RDI
     + Magiê: 9% RDI
-                        </pre></td>
-                    </tr>
-                    <tr>
-                        <td>Hạt hướng dương: Ngăn chặn ung thư</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+</div></td></tr>
+<tr><td align="center">Hạt hướng dương: <strong><i>Ngăn chặn ung thư</i></strong></td><td><div align="justify" markdown="1">
+
 - Hạt hướng dương có hương vị khá ngon, thích hợp để sử dụng hàng ngày. Dưỡng chất trong hạt hướng dương là rất nhiều, có thể kể tới vitamin E, chất béo, chất khoáng.
 - Bất ngờ hơn, lượng phytosterols và lognans dồi dào trong hạt hướng dương có khả năng ngăn cản sự phát triển của các tế bào ung thư. Nếu bạn đang điều trị ung thư ở bất kỳ giai đoạn nào, hãy thử bổ sung hạt hướng dương vào khẩu phần ăn.
-                        </pre></td>
-                    </tr>
-                    <tr>
-                        <td>Hạt ca cao: Tốt cho tuần hoàn máu</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+</div></td></tr>
+<tr><td align="center">Hạt ca cao: <strong><i>Tốt cho tuần hoàn máu</i></strong></td><td><div align="justify" markdown="1">
+
 - Hạt cacao cung cấp cho bạn một lượng caffeine mạnh mẽ, đồng thời nó cũng là một trong những nguồn cung cấp chất chống oxy hóa tốt nhất. Vậy công dụng của chất chống oxy hóa có trong hạt ca cao là gì? Đó chính là cải thiện tuần hoàn máu hiệu quả. Thay vì sử dụng các loại thuốc tuần hoàn máu đắt tiền, bạn chỉ cần thử dùng hạt cacao ít nhất 3 lần một tuần. Tình trạng tuần hoàn máu sẽ phát triển đáng kể.
-                        </pre></td>
-                    </tr>
-                    <tr>
-                        <td>Hạt dưa hấu: Tiêu diệt viêm gan</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+</div></td></tr>
+<tr><td align="center">Hạt dưa hấu: <strong><i>Tiêu diệt viêm gan</i></strong></td><td><div align="justify" markdown="1">
+
 - Cũng như hạt bí đỏ, hạt dưa là món ăn vặt yêu thích và quen thuộc của người Việt. Loại hạt này rất nhỏ nhưng lại chứa nhiều chất dinh dưỡng thiết yếu cho cơ thể như các loại vitamin, canxi, kẽm ,protit, glucid,…
 - Đối với bênh nhân viêm gan thì sử dụng hạt dưa rất có lợi. Viêm gan là một trong những nguyên nhân chính gây ra ung thư gan, khiến gan bị suy giảm chức năng nghiêm trọng. Không chỉ vậy, căn bệnh này còn gia tăng nguy cơ mắc bệnh tiểu đường. Do đó, chúng ta cần sớm chữa trị dứt điểm bệnh viêm gan, bên cạnh áp dụng phác đồ điều trị hợp lý, bạn cũng nên sử dụng thêm hạt dưa đều đặn để hạn chế tối đa sự phát triển của bệnh viêm gan.
-                        </pre></td>
-                    </tr>
-                    <tr>
-                        <td>Hạt hạch Brazil: Tốt cho tuyến giáp</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+</div></td></tr>
+<tr><td align="center">Hạt hạch Brazil: <strong><i>Tốt cho tuyến giáp</i></strong></td><td><div align="justify" markdown="1">
+
 - Hạt hạch Brazil có nhiều selen hơn bất kỳ loại hạt nào khác. Loại hạt này rất có ý nghĩa đối với những người đang đấu tranh với các vấn đề về tuyến giáp, bởi vì selen vô cùng quan trọng đối với sức khỏe tuyến giáp.
 - Hạt hạch Brazil có hương vị phong phú, khá ngậy. Vì vậy bạn nên xắt nhỏ, trộn cùng bột yến mạch, thêm một ít trái cây và mật ong, ăn sống hoặc nướng chúng trong 10 phút với một chút xi-rô hoa quả.
 - Hạt quả hạch Brazil có nguồn gốc từ một cây ở Amazon. Trong 28 gram hạt quả hạch Brazil chứa:
@@ -248,18 +227,16 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
     + Vitamin E: 8% RDI
     + Magiê: 26% RDI
 - Hạt quả hạch có nguồn selen vô cùng phong phú. Selen là một khoáng chất chống oxy hóa. Chúng ta có thể bổ sung chất selen thông qua chế độ ăn uống. Chỉ cần ăn 28 gram hạt quả hạch Brazil là đã cung cấp cho cơ thể hơn 100% RDI selen cần thiết. Thiếu hụt Selen là rất hiếm và thường chỉ xảy ra ở một số bệnh như những người trải qua chạy thận nhân tạo. Khi những người này chỉ ăn một hạt Brazil mỗi ngày trong ba tháng, nồng độ selen trong máu của bệnh nhân đó sẽ trở lại bình thường.
-                        </pre></td>
-                    </tr>
-                    <tr>
-                        <td>Hạt Chia: Hạn chế triệu chứng tiểu đường</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+</div></td></tr>
+<tr><td align="center">Hạt Chia: <strong><i>Hạn chế triệu chứng tiểu đường</i></strong></td><td><div align="justify" markdown="1">
+
 - Thành phần chủ yếu của hạt chia là các chất dinh dưỡng bổ ích cho cơ thể, cụ thể là chất xơ, chất đạm, các loại khoáng chất và vitamin thiết yếu. Hạt chia được biết tới với công dụng hạn chế các triệu chứng của bệnh tiểu đường. Sử dụng hạt chia thường xuyên sẽ giúp giữ mức đường trong máu ổn định một cách an toàn.
 - Tui khỏe còn bạn tip: Bạn có thể sử dụng hạt chia để làm gia vị cho món ăn hàng ngày, món ăn của bạn sẽ thơm ngon và bổ dưỡng hơn. Công thức đơn giản và nhanh gọn để sử dụng hạt chia đó là trộn với sữa chua không đường và thưởng thức. Vị chua ngậy của sữa chua sẽ khiến vị giác của bạn cảm thấy thoải mái.
-                        </pre></td>
-                    </tr>
-                    <tr>
-                        <td>Hạt hồ trăn</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+</div></td></tr>
+<tr><td align="center">Hạt hồ trăn:</td><td><div align="justify" markdown="1">
+
 - Hạt hồ trăn được biết đến là một trong những loại hạt có nhiều chất xơ. Trong 28 gram hạt hồ trăn chứa:
     + Lượng calo: 156
     + Chất béo: 12,5 gram
@@ -269,11 +246,10 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
     + Vitamin E: 3% RDI
     + Magiê: 8% RDI
 - Tương tự như hạnh nhân, hạt hồ trăn cũng giúp cải thiện mức độ cholesterol trong cơ thể. Khi ăn 2 quả hồ trăn mỗi ngày có thể giúp tăng cholesterol tốt (HDL). Quả hồ trăn cũng giúp cải thiện các yếu tố dẫn đến các bệnh tim như: huyết áp, cân nặng và tình trạng oxy hóa. Tình trạng oxy hóa liên quan đến nồng độ các chất hóa học bị oxy hóa trong máu, có thể gây ra bệnh tim.
-                        </pre></td>
-                    </tr>
-                    <tr>
-                        <td>Hạt hồ đào</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+
+</div></td></tr>
+<tr><td align="center">Hạt hồ đào:</td><td><div align="justify" markdown="1">
+
 - Quả hồ đào thường được sử dụng phổ biến trong các món tráng miệng, chúng cũng chứa nhiều chất dinh dưỡng. Trong 28 gram quả hồ đào chứa khoảng:
     + Lượng calo: 193
     + Chất béo: 20 gram
@@ -283,11 +259,9 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
     + Vitamin E: 2% RDI
     + Magiê: 8% RDI
 - Trong quả hồ đào chứa polyphenol, là những hợp chất chống oxy hóa. Trong một nghiên cứu, chỉ ra rằng, những người ăn quả hồ đào với 20% lượng calo hàng ngày cho thấy cấu hình chống oxy hóa được cải thiện trong máu và có thể giúp hạ thấp cholesterol xấu (LDL).
-                        </pre></td>
-                    </tr>
-                </table>
-            </div>
-        </details>
+
+</div></td></tr>
+</table>
 
 <div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
