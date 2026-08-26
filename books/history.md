@@ -1,6 +1,9 @@
 # Tham khảo lịch sử Việt Nam
 
-<pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
+---
+
+<div markdown="1" align="justify">
+
 - Trước năm 218 TCN, 
     + Việt Nam chưa có chính sử, lúc này truyền thuyết và lịch sử còn hòa quyện vào nhau. 
     + Người ta thường hay nhắc tới các truyền thuyết về Kinh Dương Vương, Lạc Long Quân, Phù Đổng Thiên Vương, Sơn Tinh - Thủy Tinh nhằm giải thích nguồn gốc và sự đấu tranh để tồn tại của dân tộc.
@@ -179,4 +182,7 @@
 
 - 30.4.1975, chiến dịch Hồ Chí Minh toàn thắng, miền Nam hoàn toàn được giải phóng.
     + Ngày 2-7-1976, Quốc hội khóa VI, kỳ họp thứ nhất quyết định đổi tên nước ta thành Cộng hòa Xã hội Chủ nghĩa Việt Nam.
-</pre></details><br/>
+
+</div>
+
+---
