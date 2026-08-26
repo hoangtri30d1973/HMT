@@ -33,25 +33,10 @@
 |Loại|Tác dụng|
 |:---:|:---|
 |Hạt thông|<div align="justify"><strong>Giảm cân hiệu quả</strong><br/>- Hạt thông được biết đến là một loại hạng đắt tiền có công dụng hữu hiệu trong quá trình giảm cân. Sử dụng hạt thông hàng ngày giúp bạn ức chế sự thèm ăn, nhờ đó mà giảm cân nhanh chóng.<br/>- Hiệp hội Hóa học Hoa Kỳ năm 2006 đã chứng minh rằng axit pinolenic (một loại axit béo không bão hòa chỉ có trong hạt thông và dầu của nó) đã ngăn chặn sự thèm ăn ở phụ nữ thừa cân, giúp họ giảm lượng thức ăn tổng thể xuống 37%. Vậy là nhờ hạt thông, bạn sẽ chẳng cần dùng bất kỳ loại thuốc hỗ trợ giảm cân nào mà vẫn thúc đẩy được quá trình giảm cân hiệu quả.<br/>- Tui khỏe còn bạn tip: Hãy kết hợp loại hạt này với một món sa lát nào đó để thêm phần hấp dẫn. Bạn có thể làm sa lát cải xoăn với hạt thông hoặc sa lát hoa quả đều được. Đó chắc chắn là những món ăn vừa ngon miệng vừa bổ dưỡng.</div>|
-|Hạt óc chó: Hết ngay thiếu ngủ|<div align="justify">- Trong hạt óc chó chứa rất nhiều acid béo omega 3, những chất này đều có lợi cho não bộ. Chúng giúp bạn điều chỉnh giấc ngủ về mức cân đối.<br/>- Nếu bạn đang cảm thấy khó ngủ, thiếu ngủ trong thời gian dài, hãy sử dụng hạt óc chó. Loại hạt tuyệt vời này sở hữu melatonin, một loại hormone khiến cơ thể bạn cảm thấy thoải mái và ngủ ngon hơn.<br/>- Thời điểm thích hợp để ăn hạt óc chó là trước khi đi ngủ, tuy nhiên bạn lưu ý là chỉ nên ăn từ 2 đến 3 hạt một lần thôi nhé!<hr/>- Quả óc chó thực sự là một loại quả có nguồn dinh dưỡng tuyệt vời. Trong 28 gram hạt óc chó có chứa khoảng:<blockquote>+ Lượng calo: 182<br/>+ Chất béo: 18 gram<br/>+ Protein: 4 gram<br/>+ Carbs: 4 gram<br/>+ Chất xơ: 2 gram<br/>+ Vitamin E: 1% RDI<br/>+ Magiê: 11% RDI</blockquote><br/>- Quả óc chó giúp cải thiện một số nguy cơ dẫn đến bệnh tim, giảm đáng kể tổng lượng cholesterol và cholesterol xấu (LDL), đồng thời làm tăng mức cholesterol tốt (HDL).<br/>- Ngoài ra, quả óc chó có thể giúp giảm viêm. Ăn quả óc chó có lợi cho sức khỏe của tim và thậm chí là não.</div>|
-                        </pre></td>
-                    </tr>
-                    <tr>
-                        <td>Hạt điều: Ngăn ngừa thiếu máu</td>
-                        <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
-- Hạt điều có vị thơm ngon, bùi bùi khiến nhiều người yêu thích. Bên cạnh cảm giác ngon miệng, hạt điều còn mang lại một lượng dinh dưỡng lớn cho chúng ta. Trong hạt điều chứa nhiều chất sắt và kẽm. Sắt có vai trò ngăn ngừa bệnh thiếu máu, cung cấp oxy cho tế bào trong cơ thể, trong khi đó kẽm lại tăng cường khả năng miễn dịch. Vì vậy hạt điều rất thích hợp để sử dụng sau một cuộc phẫu thuật hoặc khi bạn mới ốm dậy, đó là thời điểm cơ thể bạn thiếu máu và hệ miễn dịch vẫn còn yếu.
-- Hạt điều có thành phần dinh dưỡng tốt. Trong 28 gram hạt điều chứa khoảng:
-    + Lượng calo: 155
-    + Chất béo: 12 gram
-    + Protein: 5 gram
-    + Carbs: 9 gram
-    + Chất xơ: 1 gram
-    + Vitamin E: 1% RDI
-    + Magiê: 20% RDI
-- Hạt điều giúp cải thiện nồng độ lipid trong máu và giảm huyết áp.
-                        </pre></td>
-                    </tr>
-                    <tr>
+|Hạt óc chó|<strong>Hết ngay thiếu ngủ</strong><div align="justify">- Trong hạt óc chó chứa rất nhiều acid béo omega 3, những chất này đều có lợi cho não bộ. Chúng giúp bạn điều chỉnh giấc ngủ về mức cân đối.<br/>- Nếu bạn đang cảm thấy khó ngủ, thiếu ngủ trong thời gian dài, hãy sử dụng hạt óc chó. Loại hạt tuyệt vời này sở hữu melatonin, một loại hormone khiến cơ thể bạn cảm thấy thoải mái và ngủ ngon hơn.<br/>- Thời điểm thích hợp để ăn hạt óc chó là trước khi đi ngủ, tuy nhiên bạn lưu ý là chỉ nên ăn từ 2 đến 3 hạt một lần thôi nhé!<hr/>- Quả óc chó thực sự là một loại quả có nguồn dinh dưỡng tuyệt vời. Trong 28 gram hạt óc chó có chứa khoảng:<blockquote>+ Lượng calo: 182<br/>+ Chất béo: 18 gram<br/>+ Protein: 4 gram<br/>+ Carbs: 4 gram<br/>+ Chất xơ: 2 gram<br/>+ Vitamin E: 1% RDI<br/>+ Magiê: 11% RDI</blockquote><br/>- Quả óc chó giúp cải thiện một số nguy cơ dẫn đến bệnh tim, giảm đáng kể tổng lượng cholesterol và cholesterol xấu (LDL), đồng thời làm tăng mức cholesterol tốt (HDL).<br/>- Ngoài ra, quả óc chó có thể giúp giảm viêm. Ăn quả óc chó có lợi cho sức khỏe của tim và thậm chí là não.</div>|
+|<div align="justify">Hạt điều|<div align="justify"><strong>Ngăn ngừa thiếu máu</strong>- Hạt điều có vị thơm ngon, bùi bùi khiến nhiều người yêu thích. Bên cạnh cảm giác ngon miệng, hạt điều còn mang lại một lượng dinh dưỡng lớn cho chúng ta. Trong hạt điều chứa nhiều chất sắt và kẽm. Sắt có vai trò ngăn ngừa bệnh thiếu máu, cung cấp oxy cho tế bào trong cơ thể, trong khi đó kẽm lại tăng cường khả năng miễn dịch. Vì vậy hạt điều rất thích hợp để sử dụng sau một cuộc phẫu thuật hoặc khi bạn mới ốm dậy, đó là thời điểm cơ thể bạn thiếu máu và hệ miễn dịch vẫn còn yếu. <br/> - Hạt điều có thành phần dinh dưỡng tốt. Trong 28 gram hạt điều chứa khoảng: <blockquote>+ Lượng calo: 155 <br/> + Chất béo: 12 gram <br/> + Protein: 5 gram <br/> + Carbs: 9 gram <br/> + Chất xơ: 1 gram <br/> + Vitamin E: 1% RDI <br/> + Magiê: 20% RDI </blockquote><br/>- Hạt điều giúp cải thiện nồng độ lipid trong máu và giảm huyết áp.</div>|
+
+                        
                         <td>Hạt dẻ: Rất tốt cho phụ nữ mang thai</td>
                         <td><pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
 - Hạt dẻ là món ăn yêu thích của rất nhiều người. Phụ nữ mang thai nên sử dụng hạt dẻ thường xuyên bởi lượng folate có trong hạt dẻ sẽ hỗ trợ mạnh mẽ sự hình thành các tế bào máu đỏ. Nhờ vậy mà thai nhi sẽ được hạn chế nguy cơ mắc bệnh khuyết tật ống thần kinh.
