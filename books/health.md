@@ -83,11 +83,11 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 **Các loại hạt**
 
 <table>
-<tr><td align="center">Hạt thông: <strong>Giảm cân hiệu quả</strong></td><td><div align="justify" markdown="1">
+<tr><td align="center">Hạt thông: <mark>Giảm cân hiệu quả</mark></td><td><div align="justify" markdown="1">
 
 - Hạt thông được biết đến là một loại hạng đắt tiền có công dụng hữu hiệu trong quá trình giảm cân. Sử dụng hạt thông hàng ngày giúp bạn ức chế sự thèm ăn, nhờ đó mà giảm cân nhanh chóng.
 - Hiệp hội Hóa học Hoa Kỳ năm 2006 đã chứng minh rằng axit pinolenic (một loại axit béo không bão hòa chỉ có trong hạt thông và dầu của nó) đã ngăn chặn sự thèm ăn ở phụ nữ thừa cân, giúp họ giảm lượng thức ăn tổng thể xuống 37%. Vậy là nhờ hạt thông, bạn sẽ chẳng cần dùng bất kỳ loại thuốc hỗ trợ giảm cân nào mà vẫn thúc đẩy được quá trình giảm cân hiệu quả.
-- _Hãy kết hợp loại hạt này với một món sa lát nào đó để thêm phần hấp dẫn. Bạn có thể làm sa lát cải xoăn với hạt thông hoặc sa lát hoa quả đều được. Đó chắc chắn là những món ăn vừa ngon miệng vừa bổ dưỡng._
+> _Hãy kết hợp loại hạt này với một món sa lát nào đó để thêm phần hấp dẫn. Bạn có thể làm sa lát cải xoăn với hạt thông hoặc sa lát hoa quả đều được. Đó chắc chắn là những món ăn vừa ngon miệng vừa bổ dưỡng._
 
 </div></td></tr>
 <tr><td align="center">Rượu</td><td><div align="justify">
