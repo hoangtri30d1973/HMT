@@ -2,6 +2,21 @@
 
 ---
 
+<div id="00"></div>
+
+|Nội dung|Liên kết|
+|:---|:---:|
+|***Các nhóm người trên trái đất***|[🔝](#top)|
+|Tiến hóa là chuyển đổi năng lượng|[▶️](#01)|
+|Con đường tiến hóa = Quy luật năng lượng|[▶️](#02)|
+|Con đường tiến hóa = Con đường tìm về năng lượng gốc|[▶️](#03)|
+|Sự tiến hóa trên Trái đất|[▶️](#04)|
+|Ba con đường phát triển tâm linh|[▶️](#05)|
+|Con đường nào dành cho mỗi con người?|[▶️](#06)|
+|Âm dương song hành|[▶️](#07)|
+|Định nghĩa Âm Dương|[▶️](#08)|
+
+
 <h3 align="center">Các nhóm người trên trái đất</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
@@ -24,10 +39,23 @@
 - Nhóm chân sư và người ngoài hành tinh tạm thời hiện diện và tương tác qua các tầng năng lượng mật độ cao của Trái đất để trợ giúp cho Trái đất và nhân loại trong tiến hóa và chuyển đổi – Nhóm chân sư (ascended masters) đã từng đầu thai, thăng lên và đang tham gia vào sự trợ giúp cho tiến hóa của Trái đất – Nhóm ETs có rung động cao đang tham gia vào trợ giúp cho tiến hóa trên Trái đất, có thể đến từ Arcturus, Andromeda, Venus … 
 - Trong inner planes, ngoài các thành phố được gọi là Inner Earth city nơi có con người tiến hóa của Trái đất sinh sống, còn các trung tâm, các trường huyền môn, gọi là các temples of light hay các ashrams của các chân sư và của cả các nhóm ETs hỗ trợ. Kim tự tháp hay các đền đài linh thiêng thường được xây dựng bởi năng lượng gồm cảm hứng và công sức của cả người và thần. Những công trình còn lại dù của người hay ETs, vật lý hay phi vật lý đều thuộc về hạ giới và trung giới.
 
-<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
+
+<div id="01"></div>
+
+|Nội dung|Liên kết|
+|:---|:---:|
+|Các nhóm người trên trái đất|[▶️](#00)|
+|***Tiến hóa là chuyển đổi năng lượng***|[🔝](#top)|
+|Con đường tiến hóa = Quy luật năng lượng|[▶️](#02)|
+|Con đường tiến hóa = Con đường tìm về năng lượng gốc|[▶️](#03)|
+|Sự tiến hóa trên Trái đất|[▶️](#04)|
+|Ba con đường phát triển tâm linh|[▶️](#05)|
+|Con đường nào dành cho mỗi con người?|[▶️](#06)|
+|Âm dương song hành|[▶️](#07)|
+|Định nghĩa Âm Dương|[▶️](#08)|
 
 <h3 align="center">Tiến hóa là chuyển đổi năng lượng</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
@@ -59,10 +87,23 @@
 
 > `Năng lượng = Tâm linh = Tôn giáo = Khoa học`
 
-<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
+
+<div id="02"></div>
+
+|Nội dung|Liên kết|
+|:---|:---:|
+|Các nhóm người trên trái đất|[▶️](#00)|
+|Tiến hóa là chuyển đổi năng lượng|[▶️](#01)|
+|***Con đường tiến hóa = Quy luật năng lượng***|[🔝](#top)|
+|Con đường tiến hóa = Con đường tìm về năng lượng gốc|[▶️](#03)|
+|Sự tiến hóa trên Trái đất|[▶️](#04)|
+|Ba con đường phát triển tâm linh|[▶️](#05)|
+|Con đường nào dành cho mỗi con người?|[▶️](#06)|
+|Âm dương song hành|[▶️](#07)|
+|Định nghĩa Âm Dương|[▶️](#08)|
 
 <h3 align="center">Con đường tiến hóa = Quy luật năng lượng</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
@@ -81,10 +122,22 @@
 - Tình yêu có khả năng thay đổi con người. Tình yêu vô điều kiện đi nhanh hơn tốc độ ánh sáng và có khả năng thay đổi con người sâu sắc nhất. Các lãnh tụ tâm linh đều kêu gọi nhân loại tập trung hơn vào những thứ siêu hình, đều quan tâm đến thay đổi nhân loại, cho nên đều kêu gọi tình yêu vô điều kiện. 
 - Tình yêu là Sự chuyển đổi năng lượng là dấu = trong công thức E=Mc<sup>2</sup>
 
-<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
+
+<div id="03"></div>
+
+|Nội dung|Liên kết|
+|:---|:---:|
+|Các nhóm người trên trái đất|[▶️](#01)|
+|Tiến hóa là chuyển đổi năng lượng|[▶️](#02)|
+|***Con đường tiến hóa = Con đường tìm về năng lượng gốc***|[🔝](#top)|
+|Sự tiến hóa trên Trái đất|[▶️](#04)|
+|Ba con đường phát triển tâm linh|[▶️](#05)|
+|Con đường nào dành cho mỗi con người?|[▶️](#06)|
+|Âm dương song hành|[▶️](#07)|
+|Định nghĩa Âm Dương|[▶️](#08)|
 
 <h3 align="center">Con đường tiến hóa = Con đường tìm về năng lượng gốc</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
@@ -97,10 +150,22 @@
 - Vì sao nói 'Con người là vũ trụ thu nhỏ?''. Vì năng lượng các chiều cao luôn bao bọc lấy các chiều thấp, năng lượng các chiều cao có trước các chiều thấp, hay là linh hồn có trước và cơ thể vật lý tồn tại qua mỗi kiếp người. Vì sao nói 'Chúa tạo ra con người theo hình ảnh của Chúa', 'Con người là hiện thân của Chúa', 'Chúa luôn ở bên Bạn', 'Phật tại tâm' ? Vì dạng năng lượng gốc đã tạo ra con người cũng tạo ra vũ trụ vẫn luôn tồn tại ở chiều cao nhất của con người và của vũ trụ, năng lượng gốc này kết nối với các chiều khác cho đến tận chiều vật lý. 
 - Thượng đế là năng lượng gốc. Không có năng lượng gốc vạn vật không những đã không sinh ra mà cũng ngừng tồn tại. Năng lượng gốc luôn ở đó, trong từng nguyên tử nhỏ li ti, trong con người và trong vũ trụ.
 
-<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
+
+<div id="04"></div>
+
+|Nội dung|Liên kết|
+|:---|:---:|
+|Các nhóm người trên trái đất|[▶️](#01)|
+|Tiến hóa là chuyển đổi năng lượng|[▶️](#02)|
+|Con đường tiến hóa = Con đường tìm về năng lượng gốc|[▶️](#03)|
+|***Sự tiến hóa trên Trái đất***|[🔝](#top)|
+|Ba con đường phát triển tâm linh|[▶️](#05)|
+|Con đường nào dành cho mỗi con người?|[▶️](#06)|
+|Âm dương song hành|[▶️](#07)|
+|Định nghĩa Âm Dương|[▶️](#08)|
 
 <h3 align="center">Sự tiến hóa trên Trái đất</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
@@ -126,10 +191,22 @@
 - Hàng loạt sự điều chỉnh để tái hòa hợp giữa các cái tôi, để kết nối cái tôi thấp và cái tôi cao và để nâng mức năng lượng của con người cho phù hợp với nhau và với môi trường, cũng có nghĩa là hàng loạt tai nạn và sự cố cùng với hàng loạt các nhà ngoại cảm xuất hiện 
 - Ai đó sẽ tiến lên và ai đó sẽ lùi xuống, nhân loại sẽ phân hóa mạnh hơn
 
-<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
+
+<div id="05"></div>
+
+|Nội dung|Liên kết|
+|:---|:---:|
+|Các nhóm người trên trái đất|[▶️](#01)|
+|Tiến hóa là chuyển đổi năng lượng|[▶️](#02)|
+|Con đường tiến hóa = Con đường tìm về năng lượng gốc|[▶️](#03)|
+|Sự tiến hóa trên Trái đất|[▶️](#04)|
+|***Ba con đường phát triển tâm linh***|[🔝](#top)|
+|Con đường nào dành cho mỗi con người?|[▶️](#06)|
+|Âm dương song hành|[▶️](#07)|
+|Định nghĩa Âm Dương|[▶️](#08)|
 
 <h3 align="center">Ba con đường phát triển tâm linh</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
@@ -163,10 +240,22 @@ Phát triển tâm linh là hoàn thiện linh hồn bằng qua trải nghiệm 
     - Sử dụng mục đích, tầm nhìn, quyền lực 
     - Ví dụ : nhà chính trị, nhà lãnh đạo
 
-<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
+
+<div id="06"></div>
+
+|Nội dung|Liên kết|
+|:---|:---:|
+|Các nhóm người trên trái đất|[▶️](#01)|
+|Tiến hóa là chuyển đổi năng lượng|[▶️](#02)|
+|Con đường tiến hóa = Con đường tìm về năng lượng gốc|[▶️](#03)|
+|Sự tiến hóa trên Trái đất|[▶️](#04)|
+|Ba con đường phát triển tâm linh|[▶️](#05)|
+|***Con đường nào dành cho mỗi con người?***|[🔝](#top)|
+|Âm dương song hành|[▶️](#07)|
+|Định nghĩa Âm Dương|[▶️](#08)|
 
 <h3 align="center">Con đường nào dành cho mỗi con người?</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
@@ -186,10 +275,22 @@ Phát triển tâm linh là hoàn thiện linh hồn bằng qua trải nghiệm 
 
 > Kết quả: Tất cả con đường đều dẫn đến đích. Nhưng không thể chỉ đi trên một cung đường để về đích. Thậm chí cũng không thể chỉ đi trên hai cung đường để về đích. Mỗi người và cả nhân loại đều đang cùng một lúc đi trên cả ba cung đường. Mỗi con người cần phát triển đủ năng lượng bi – trí – dũng. Hình thái phát triển của mỗi cá nhân là mở rộng tam giác theo một đỉnh, cân đối tam giác, dể rồi lại mở rộng nó ra. Các cung đường này có thể có những đoạn nhỏ tưởng như song song với nhau rồi lại giao nhau, tuy nhiên thực tế các con đường này lồng vào nhau như những vòng xoáy kiểu trôn ốc để dẫn đến đỉnh ốc duy nhất.
 
-<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
+
+<div id="07"></div>
+
+|Nội dung|Liên kết|
+|:---|:---:|
+|Các nhóm người trên trái đất|[▶️](#01)|
+|Tiến hóa là chuyển đổi năng lượng|[▶️](#02)|
+|Con đường tiến hóa = Con đường tìm về năng lượng gốc|[▶️](#03)|
+|Sự tiến hóa trên Trái đất|[▶️](#04)|
+|Ba con đường phát triển tâm linh|[▶️](#05)|
+|Con đường nào dành cho mỗi con người?|[▶️](#06)|
+|***Âm dương song hành***|[🔝](#top)|
+|Định nghĩa Âm Dương|[▶️](#08)|
 
 <h3 align="center">Âm dương song hành</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
@@ -217,10 +318,22 @@ Phát triển tâm linh là hoàn thiện linh hồn bằng qua trải nghiệm 
 
 > Theo quan điểm cá nhân tôi, dù ở bất kỳ đâu, con người hãy sống hạnh phúc, làm những gì cần làm và nên làm ở đó.
 
-<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
+
+<div id="08"></div>
+
+|Nội dung|Liên kết|
+|:---|:---:|
+|Các nhóm người trên trái đất|[▶️](#01)|
+|Tiến hóa là chuyển đổi năng lượng|[▶️](#02)|
+|Con đường tiến hóa = Con đường tìm về năng lượng gốc|[▶️](#03)|
+|Sự tiến hóa trên Trái đất|[▶️](#04)|
+|Ba con đường phát triển tâm linh|[▶️](#05)|
+|Con đường nào dành cho mỗi con người?|[▶️](#06)|
+|Âm dương song hành|[▶️](#07)|
+|***Định nghĩa Âm Dương***|[🔝](#top)|
 
 <h3 align="center">Định nghĩa Âm Dương</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
@@ -275,8 +388,10 @@ Tổng quát: Trong một con người Trần lại có
 - Tên lửa: Tên lửa có quả tên lửa (Dương) và phần mềm điều khiển (Âm) 
 - Khác: Đất, nước, gỗ, lửa đều có thành phần vật chất là đất nước gỗ lửa (Dương) và người động vật thực vật ẩn (Âm)
 
-<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </div></blockquote>
 
 --------------------------------------------------------
 
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+
+---
