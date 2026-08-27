@@ -130,8 +130,9 @@
 
 |Nội dung|Liên kết|
 |:---|:---:|
-|Các nhóm người trên trái đất|[▶️](#01)|
-|Tiến hóa là chuyển đổi năng lượng|[▶️](#02)|
+|Các nhóm người trên trái đất|[▶️](#00)|
+|Tiến hóa là chuyển đổi năng lượng|[▶️](#01)|
+|Con đường tiến hóa = Quy luật năng lượng|[▶️](#02)|
 |***Con đường tiến hóa = Con đường tìm về năng lượng gốc***|[🔝](#top)|
 |Sự tiến hóa trên Trái đất|[▶️](#04)|
 |Ba con đường phát triển tâm linh|[▶️](#05)|
@@ -158,8 +159,9 @@
 
 |Nội dung|Liên kết|
 |:---|:---:|
-|Các nhóm người trên trái đất|[▶️](#01)|
-|Tiến hóa là chuyển đổi năng lượng|[▶️](#02)|
+|Các nhóm người trên trái đất|[▶️](#00)|
+|Tiến hóa là chuyển đổi năng lượng|[▶️](#01)|
+|Con đường tiến hóa = Quy luật năng lượng|[▶️](#02)|
 |Con đường tiến hóa = Con đường tìm về năng lượng gốc|[▶️](#03)|
 |***Sự tiến hóa trên Trái đất***|[🔝](#top)|
 |Ba con đường phát triển tâm linh|[▶️](#05)|
@@ -199,8 +201,9 @@
 
 |Nội dung|Liên kết|
 |:---|:---:|
-|Các nhóm người trên trái đất|[▶️](#01)|
-|Tiến hóa là chuyển đổi năng lượng|[▶️](#02)|
+|Các nhóm người trên trái đất|[▶️](#00)|
+|Tiến hóa là chuyển đổi năng lượng|[▶️](#01)|
+|Con đường tiến hóa = Quy luật năng lượng|[▶️](#02)|
 |Con đường tiến hóa = Con đường tìm về năng lượng gốc|[▶️](#03)|
 |Sự tiến hóa trên Trái đất|[▶️](#04)|
 |***Ba con đường phát triển tâm linh***|[🔝](#top)|
@@ -248,8 +251,9 @@ Phát triển tâm linh là hoàn thiện linh hồn bằng qua trải nghiệm 
 
 |Nội dung|Liên kết|
 |:---|:---:|
-|Các nhóm người trên trái đất|[▶️](#01)|
-|Tiến hóa là chuyển đổi năng lượng|[▶️](#02)|
+|Các nhóm người trên trái đất|[▶️](#00)|
+|Tiến hóa là chuyển đổi năng lượng|[▶️](#01)|
+|Con đường tiến hóa = Quy luật năng lượng|[▶️](#02)|
 |Con đường tiến hóa = Con đường tìm về năng lượng gốc|[▶️](#03)|
 |Sự tiến hóa trên Trái đất|[▶️](#04)|
 |Ba con đường phát triển tâm linh|[▶️](#05)|
@@ -283,8 +287,9 @@ Phát triển tâm linh là hoàn thiện linh hồn bằng qua trải nghiệm 
 
 |Nội dung|Liên kết|
 |:---|:---:|
-|Các nhóm người trên trái đất|[▶️](#01)|
-|Tiến hóa là chuyển đổi năng lượng|[▶️](#02)|
+|Các nhóm người trên trái đất|[▶️](#00)|
+|Tiến hóa là chuyển đổi năng lượng|[▶️](#01)|
+|Con đường tiến hóa = Quy luật năng lượng|[▶️](#02)|
 |Con đường tiến hóa = Con đường tìm về năng lượng gốc|[▶️](#03)|
 |Sự tiến hóa trên Trái đất|[▶️](#04)|
 |Ba con đường phát triển tâm linh|[▶️](#05)|
@@ -326,8 +331,9 @@ Phát triển tâm linh là hoàn thiện linh hồn bằng qua trải nghiệm 
 
 |Nội dung|Liên kết|
 |:---|:---:|
-|Các nhóm người trên trái đất|[▶️](#01)|
-|Tiến hóa là chuyển đổi năng lượng|[▶️](#02)|
+|Các nhóm người trên trái đất|[▶️](#00)|
+|Tiến hóa là chuyển đổi năng lượng|[▶️](#01)|
+|Con đường tiến hóa = Quy luật năng lượng|[▶️](#02)|
 |Con đường tiến hóa = Con đường tìm về năng lượng gốc|[▶️](#03)|
 |Sự tiến hóa trên Trái đất|[▶️](#04)|
 |Ba con đường phát triển tâm linh|[▶️](#05)|
