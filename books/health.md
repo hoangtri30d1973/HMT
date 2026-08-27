@@ -3,11 +3,13 @@
 
 ---
 
-<table><tr><td><a href="#dinh_duong">Dinh dưỡng</a></td><td><a href="#chi_so_suc_khoe">Chỉ số sức khỏe</a></td></tr></table>
-
----
-
 <div id="dinh_duong"></div>
+
+|Nội dung|Liên kết|
+|:---|:---:|
+|***DINH DƯỠNG***|[🔝](#top)|
+|CHỈ SỐ SỨC KHỎE|[▶️](#chi_so_suc_khoe)|
+
 <h3 align="center">DINH DƯỠNG</h3>
 <div align="center">♥️♥️♥️♥️♥️</div><br/>
 <blockquote><div markdown="1" align="justify">
@@ -272,11 +274,13 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 
 --------------------------------------------------------
 
-<table><tr><td><a href="#dinh_duong">Dinh dưỡng</a></td><td><a href="#chi_so_suc_khoe">Chỉ số sức khỏe</a></td></tr></table>
-
----
-
 <div id="chi_so_suc_khoe"></div>
+
+|Nội dung|Liên kết|
+|:---|:---:|
+|DINH DƯỠNG|[▶️](#dinh_duong)|
+|***CHỈ SỐ SỨC KHỎE***|[🔝](#top)|
+
 <h3 align="center">CHỈ SỐ SỨC KHỎE</h3>
 <div align="center">♥️♥️♥️♥️♥️</div><br/>
 <blockquote><div markdown="1" align="justify">
