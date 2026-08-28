@@ -3,8 +3,7 @@
 ---
 
 <div id="01"></div>
-
-🔹[Nữa đời hương phấn](#01)🔹[Võ Đông Sơ - Bạch Thu Hà](#02)🔹[Tình anh bán chiếu](#03)🔹[Lá trầu xanh](#04)🔹
+<div align="center">🔹<a href="#01">Nữa đời hương phấn</a>🔹<a href="#02">Võ Đông Sơ - Bạch Thu Hà</a>🔹<a href="#03">Tình anh bán chiếu</a>🔹<a href="#04">Lá trầu xanh</a>🔹</div>
 
 <h3 align="center">Nữa đời hương phấn</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
@@ -102,8 +101,7 @@ Nữa đời hương phấn vì đâu lỡ làng, vương vấn sầu trên cung
 ---
 
 <div id="02"></div>
-
-🔹[Nữa đời hương phấn](#01)🔹[Võ Đông Sơ - Bạch Thu Hà](#02)🔹[Tình anh bán chiếu](#03)🔹[Lá trầu xanh](#04)🔹
+<div align="center">🔹<a href="#01">Nữa đời hương phấn</a>🔹<a href="#02">Võ Đông Sơ - Bạch Thu Hà</a>🔹<a href="#03">Tình anh bán chiếu</a>🔹<a href="#04">Lá trầu xanh</a>🔹</div>
 
 <h3 align="center">Võ Đông Sơ - Bạch Thu Hà</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
@@ -209,8 +207,7 @@ Nói nữa chi thêm nghẹn lời.
 ---
 
 <div id="03"></div>
-
-🔹[Nữa đời hương phấn](#01)🔹[Võ Đông Sơ - Bạch Thu Hà](#02)🔹[Tình anh bán chiếu](#03)🔹[Lá trầu xanh](#04)🔹
+<div align="center">🔹<a href="#01">Nữa đời hương phấn</a>🔹<a href="#02">Võ Đông Sơ - Bạch Thu Hà</a>🔹<a href="#03">Tình anh bán chiếu</a>🔹<a href="#04">Lá trầu xanh</a>🔹</div>
 
 <h3 align="center">Tình anh bán chiếu</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
@@ -274,8 +271,7 @@ Nói nữa chi thêm nghẹn lời.
 ---
 
 <div id="04"></div>
-
-🔹[Nữa đời hương phấn](#01)🔹[Võ Đông Sơ - Bạch Thu Hà](#02)🔹[Tình anh bán chiếu](#03)🔹[Lá trầu xanh](#04)🔹
+<div align="center">🔹<a href="#01">Nữa đời hương phấn</a>🔹<a href="#02">Võ Đông Sơ - Bạch Thu Hà</a>🔹<a href="#03">Tình anh bán chiếu</a>🔹<a href="#04">Lá trầu xanh</a>🔹</div>
 
 <h3 align="center">Lá trầu xanh</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
