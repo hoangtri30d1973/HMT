@@ -96,7 +96,8 @@ Nữa đời hương phấn vì đâu lỡ làng, vương vấn sầu trên cung
 - ♂️ Cháu hứa gì và đã hứa với ai, nếu lồng đã thiệt thương, sau lại bỏ đi giữa chừng, tao nằm đêm tao nghĩ bụng, chắc là thằng Tùng nó có vợ, cho đến bây giờ khi cháu nói ra, tao mới hết nghi ngờ. Nhưng còn chuyện vợ chồng, khi lòng bây đã quyết, dù bất cứ thằng nào muốn chen vào phá quấy, bây ngán nó hay sao mà nó để cho lỡ dỡ, rồi tự ý bỏ đi, không nói cho tao hay.
 
 </div>
-</blockquote></details>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</blockquote>
 
 ---
 
@@ -202,6 +203,7 @@ Nói nữa chi thêm nghẹn lời.
 - há cay chuyện chung tình,
 - khóc than riêng em một mình
 </div>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </blockquote>
 
 ---
@@ -266,7 +268,8 @@ Nói nữa chi thêm nghẹn lời.
 - Tình anh bán chiếu trọn đời không phai."
 
 </div>
-</blockquote></details>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
+</blockquote>
 
 ---
 
@@ -346,6 +349,7 @@ Nói nữa chi thêm nghẹn lời.
 - Trầu xanh rụng lá tình anh hết rồi. (SL)
 - Một gánh trầu còn oằn nặng đôi vai, như gánh nặng u hoài muôn vạn kiếp. Mưa rơi lạnh buốt khung trời. Anh phụ em rồi em còn biết tin ai./.
 </div>
+<div align="right">🔸<a href="#top">🔝</a>🔸</div>
 </blockquote>
 
 ---
