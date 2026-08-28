@@ -396,31 +396,31 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 #### Nam
 
 <table>
-<tr><th>Tuổi </th><th> Chuẩn</th><th>Tốt </th><th>TB  </th><th>Xấu  </th></tr>
-<tr><td>20-24 </td><td>  10,1</td><td>14,9</td><td>19,0</td><td>>23,3</td></tr>
-<tr><td>25-29 </td><td>  12,8</td><td>16,5</td><td>20,3</td><td>>24,3</td></tr>
-<tr><td>30-34 </td><td>  14,5</td><td>18,0</td><td>21,5</td><td>>25,2</td></tr>
-<tr><td>35-39 </td><td>  16,1</td><td>19,3</td><td>22,6</td><td>>26,1</td></tr>
-<tr><td>40-44 </td><td>  17,5</td><td>20,5</td><td>23,6</td><td>>26,9</td></tr>
-<tr><td>45-49 </td><td>  18,6</td><td>21,5</td><td>24,5</td><td>>27,6</td></tr>
-<tr><td>50-54 </td><td>  19,2</td><td>22,1</td><td>25,1</td><td>>28,7</td></tr>
-<tr><td>55-59 </td><td>  19,8</td><td>22,7</td><td>25,6</td><td>>28,7</td></tr>
-<tr><td>60+   </td><td>  20,2</td><td>23,3</td><td>26,2</td><td>>29,3</td></tr>
+<tr><th>Tuổi </th><th align="center"> Chuẩn </th><th>Tốt </th><th>TB  </th><th>Xấu  </th></tr>
+<tr><td>20-24 </td><td align="center">10,1</td><td>14,9</td><td>19,0</td><td>>23,3</td></tr>
+<tr><td>25-29 </td><td align="center">12,8</td><td>16,5</td><td>20,3</td><td>>24,3</td></tr>
+<tr><td>30-34 </td><td align="center">14,5</td><td>18,0</td><td>21,5</td><td>>25,2</td></tr>
+<tr><td>35-39 </td><td align="center">16,1</td><td>19,3</td><td>22,6</td><td>>26,1</td></tr>
+<tr><td>40-44 </td><td align="center">17,5</td><td>20,5</td><td>23,6</td><td>>26,9</td></tr>
+<tr><td>45-49 </td><td align="center">18,6</td><td>21,5</td><td>24,5</td><td>>27,6</td></tr>
+<tr><td>50-54 </td><td align="center">19,2</td><td>22,1</td><td>25,1</td><td>>28,7</td></tr>
+<tr><td>55-59 </td><td align="center">19,8</td><td>22,7</td><td>25,6</td><td>>28,7</td></tr>
+<tr><td>60+   </td><td align="center">20,2</td><td>23,3</td><td>26,2</td><td>>29,3</td></tr>
 </table>
 
 #### Nữ
 
 <table>
-<tr><th>Tuổi </th><th> Chuẩn </th><th> Tốt  </th><th> TB   </th><th> Xấu   </th></tr>
-<tr><td>20-24 </td><td> 18,2 </td><td> 22,1 </td><td> 25,0 </td><td> >29,6 </td></tr>
-<tr><td>25-29 </td><td> 18,9 </td><td> 22,0 </td><td> 25,4 </td><td> >29,8 </td></tr>
-<tr><td>30-34 </td><td> 19,7 </td><td> 22,7 </td><td> 26,4 </td><td> >30,5 </td></tr>
-<tr><td>35-39 </td><td> 21,1 </td><td> 24,0 </td><td> 27,7 </td><td> >31,5 </td></tr>
-<tr><td>40-44 </td><td> 22,6 </td><td> 25,6 </td><td> 29,3 </td><td> >32,8 </td></tr>
-<tr><td>45-49 </td><td> 24,3 </td><td> 27,3 </td><td> 30,9 </td><td> >34,1 </td></tr>
-<tr><td>50-54 </td><td> 25,2 </td><td> 26,2 </td><td> 31,8 </td><td> >35,1 </td></tr>
-<tr><td>55-59 </td><td> 26,6 </td><td> 29,7 </td><td> 33,1 </td><td> >36,2 </td></tr>
-<tr><td>60+   </td><td> 27,4 </td><td> 30,7 </td><td> 34,0 </td><td> >37,3 </td></tr>
+<tr><th>Tuổi </th><th align="center"> Chuẩn </th><th> Tốt  </th><th> TB   </th><th> Xấu   </th></tr>
+<tr><td>20-24 </td><td align="center"> 18,2 </td><td> 22,1 </td><td> 25,0 </td><td> >29,6 </td></tr>
+<tr><td>25-29 </td><td align="center"> 18,9 </td><td> 22,0 </td><td> 25,4 </td><td> >29,8 </td></tr>
+<tr><td>30-34 </td><td align="center"> 19,7 </td><td> 22,7 </td><td> 26,4 </td><td> >30,5 </td></tr>
+<tr><td>35-39 </td><td align="center"> 21,1 </td><td> 24,0 </td><td> 27,7 </td><td> >31,5 </td></tr>
+<tr><td>40-44 </td><td align="center"> 22,6 </td><td> 25,6 </td><td> 29,3 </td><td> >32,8 </td></tr>
+<tr><td>45-49 </td><td align="center"> 24,3 </td><td> 27,3 </td><td> 30,9 </td><td> >34,1 </td></tr>
+<tr><td>50-54 </td><td align="center"> 25,2 </td><td> 26,2 </td><td> 31,8 </td><td> >35,1 </td></tr>
+<tr><td>55-59 </td><td align="center"> 26,6 </td><td> 29,7 </td><td> 33,1 </td><td> >36,2 </td></tr>
+<tr><td>60+   </td><td align="center"> 27,4 </td><td> 30,7 </td><td> 34,0 </td><td> >37,3 </td></tr>
 </table>
 
 ### Thời gian sinh học của cơ thể
