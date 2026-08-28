@@ -2,55 +2,77 @@
 
 ---
 
-## Nữa đời hương phấn
+<h3 align="center">Nữa đời hương phấn</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
 
-<details><summary>▶️</summary><blockquote>
-
-<p>Nữa đời hương phấn nương nhờ của Phật<br/>
+<table>
+<tr><td>Nữa đời hương phấn nương nhờ của Phật<br/>
 Xa rời gian dối vui câu kệ kinh<br/>
 Thôi rồi một kiếp hồn nhan bạc phận<br/>
-Dang dở cầu duyên âm thầm, cho ai được tròn hạnh phúc</p>
-
-<p>Nữa đời hương phấn tay lần chuỗi hạt<br/>
+Dang dở cầu duyên âm thầm, cho ai được tròn hạnh phúc
+</td>
+<td>Nữa đời hương phấn tay lần chuỗi hạt<br/>
 Xa rời mái tóc chưa nhạt mùi hương<br/>
-Nữa đời hương phấn vì đâu lỡ làng, vương vấn sầu trên cung đàn, thương ai cuộc tình trái ngang</p>
+Nữa đời hương phấn vì đâu lỡ làng, vương vấn sầu trên cung đàn, thương ai cuộc tình trái ngang
+</td></tr>
+</table>
 
 ⭐
-<p align="jusify">Anh suy nghĩ kỹ rồi em à, việc cưới nhau đó đâu phải là một việc buôn bán, mà là một sự hòa hợp giữa hai cuộc đời ... của hai kẻ yêu nhau. Không rào trước đón sau, không cân phân đo lường, không biết chi điều hơn lẽ thiệt, mà chỉ có tấm lòng trọn vẹn, em ơi dẫu sau này cuộc sống ra sao, cũng quyết không thay lòng.<br/>
-Nếu anh đã vì sự say mê đắm đuối, thì chắc hản sau này, có ngày anh sẽ hối, rồi cảm thấy hôn nhân là một điều tội lỗi, làm hoen ố một đời trai, cũng trong sạch như ai. Vì một bên là cô gái phong sương, còn một bên là thanh niên trong lành, ắt hản ngày sum họp, sẽ lắm lời dị nghị, anh à... anh cũng thừa hiểu hôn nhân không giống như ái tình.<br/>
-Nước ở trong bình, khi mới nhìn thì trong suốt, ai chẳng hiểu rằng có một thời gian trước, cạn cáu nổi lên rồi nay nằm yên dưới đáy nước, thì cuộc đời của em đây, ví như nước ấy mà thôi.</p>
+<div align="jusify" markdown="1">
+- ♂️ Anh suy nghĩ kỹ rồi em à, việc cưới nhau đó đâu phải là một việc buôn bán, mà là một sự hòa hợp giữa hai cuộc đời ... của hai kẻ yêu nhau. Không rào trước đón sau, không cân phân đo lường, không biết chi điều hơn lẽ thiệt, mà chỉ có tấm lòng trọn vẹn, em ơi dẫu sau này cuộc sống ra sao, cũng quyết không thay lòng.
+- ♀️ Nếu anh đã vì sự say mê đắm đuối, thì chắc hản sau này, có ngày anh sẽ hối, rồi cảm thấy hôn nhân là một điều tội lỗi, làm hoen ố một đời trai, cũng trong sạch như ai. Vì một bên là cô gái phong sương, còn một bên là thanh niên trong lành, ắt hản ngày sum họp, sẽ lắm lời dị nghị, anh à... anh cũng thừa hiểu hôn nhân không giống như ái tình.
+- ♂️ Nước ở trong bình, khi mới nhìn thì trong suốt, ai chẳng hiểu rằng có một thời gian trước, cạn cáu nổi lên rồi nay nằm yên dưới đáy nước, thì cuộc đời của em đây, ví như nước ấy mà thôi.
+</div>
 
 ⭐
-<p align="jusify">Tôi là người buôn bán ở Thủ Đức, nó buôn bán ở Sài Gòn, nó chính là thằng em ruột của tôi, tôi tên là Cang còn nó thiệt tên Tùng.<br/>
-Dạ, nếu quả vậy thì xin anh hai chớ giận, để cho em xin lỗi đôi lời, bởi nghe tên mà chưa thấy mặt người, nên mới có điều xúc phạm đến anh hai.<br/>
-Ba má của tôi chẳng may đành bạc phận, lúc chúng tôi mười ba mười bốn tuổi đầu, nhờ người bác không con cái nối dòng, mới đem về nuôi dưỡng đến lớn khôn.<br/>
-Dạ thưa có, anh Tùng ảnh có nói, tới anh hai và người bác hiện giờ, em thiệt lỗi quá vì không biết mặt anh, xin anh hai cũng bỏ qua giùm, những lời lẽ em không lễ độ, để cho em được yên lòng.<br/>
-Thôi, chuyện đó mà có nhằm gì, quan hệ là những điều tôi sắp nói ra đây, nõ coi ai cũng là tốt bụng, tôi biết thằng em tôi rất là thành thật, mới đem chuyện nhà nói thật hết với cô đây.<br/>
-Dạ phải, em cũng biết anh Tùng, không có chuyện gì mà ảnh nói dối với ai, thật ra giữa chốn phồn hoa náo nhiệt này, dễ gì kiếm một người như ảnh đâu.</p>
+<div align="jusify" markdown="1">
+  
+- ♂️ Tôi là người buôn bán ở Thủ Đức, nó buôn bán ở Sài Gòn, nó chính là thằng em ruột của tôi, tôi tên là Cang còn nó thiệt tên Tùng.
+- ♀️ Dạ, nếu quả vậy thì xin anh hai chớ giận, để cho em xin lỗi đôi lời, bởi nghe tên mà chưa thấy mặt người, nên mới có điều xúc phạm đến anh hai.
+- ♂️ Ba má của tôi chẳng may đành bạc phận, lúc chúng tôi mười ba mười bốn tuổi đầu, nhờ người bác không con cái nối dòng, mới đem về nuôi dưỡng đến lớn khôn.
+- ♀️ Dạ thưa có, anh Tùng ảnh có nói, tới anh hai và người bác hiện giờ, em thiệt lỗi quá vì không biết mặt anh, xin anh hai cũng bỏ qua giùm, những lời lẽ em không lễ độ, để cho em được yên lòng.
+- ♂️ Thôi, chuyện đó mà có nhằm gì, quan hệ là những điều tôi sắp nói ra đây, nõ coi ai cũng là tốt bụng, tôi biết thằng em tôi rất là thành thật, mới đem chuyện nhà nói thật hết với cô đây.
+- ♀️ Dạ phải, em cũng biết anh Tùng, không có chuyện gì mà ảnh nói dối với ai, thật ra giữa chốn phồn hoa náo nhiệt này, dễ gì kiếm một người như ảnh đâu.
+</div>
 
 ⭐
-<p align="jusify">Hướng đi ấy em chưa định được, nhưng em chỉ biết rằng em phải đi vì lòng tự trọng, dẫu em là một cô gái giang ... hồ. Người ta từ chối không cho em làm dâu thảo vợ hiền. Em vừa mới ngoi khỏi vũng lầy tội lỗi, người ta đạp em xuống vũng bùn nhơ. Em muốn lau đi khuôn mặt nhuốc nhơ, người ta bưng thau nước ấy đổ đi. Em muốn bước ra ánh sáng trong lành, lại bị người ta xô em vào trong bóng tối.<br/>
-Cô nói quá lời, tôi đâu đến nỗi vô nhân đạo như vậy cô.<br/>
-Anh Cang, trước khi anh vào đây để trình bày ý định, thì anh lại tưởng rằng tôi sẽ chống đối mãnh liệt vô cùng, nhưng anh không ngờ tôi đã cư xử với anh đẹp đẽ dịu dàng, vì yêu Tùng, nên tôi can đảm hy sinh hạnh phúc cho người mà tôi thiết tha yêu, tôi dư hiểu, gia đình lễ giáo không cho phép tôi với Tùng thành duyên giai ngẫu, anh hãy về lo vợ cho Tùng đi, đừng kể đến tôi, chỉ là một gái giang hồ phấn lạt hương phai.<br/>
-Thôi anh hai cứ an tâm về đi, về lo cưới vợ cho em anh đi, đi đi.</p>
+<div align="jusify" markdown="1">
+  
+- ♀️ Hướng đi ấy em chưa định được, nhưng em chỉ biết rằng em phải đi vì lòng tự trọng, dẫu em là một cô gái giang ... hồ. Người ta từ chối không cho em làm dâu thảo vợ hiền. Em vừa mới ngoi khỏi vũng lầy tội lỗi, người ta đạp em xuống vũng bùn nhơ. Em muốn lau đi khuôn mặt nhuốc nhơ, người ta bưng thau nước ấy đổ đi. Em muốn bước ra ánh sáng trong lành, lại bị người ta xô em vào trong bóng tối.
+- ♂️ Cô nói quá lời, tôi đâu đến nỗi vô nhân đạo như vậy cô.
+- ♀️ Anh Cang, trước khi anh vào đây để trình bày ý định, thì anh lại tưởng rằng tôi sẽ chống đối mãnh liệt vô cùng, nhưng anh không ngờ tôi đã cư xử với anh đẹp đẽ dịu dàng, vì yêu Tùng, nên tôi can đảm hy sinh hạnh phúc cho người mà tôi thiết tha yêu, tôi dư hiểu, gia đình lễ giáo không cho phép tôi với Tùng thành duyên giai ngẫu, anh hãy về lo vợ cho Tùng đi, đừng kể đến tôi, chỉ là một gái giang hồ phấn lạt hương phai.
+- ♀️ Thôi anh hai cứ an tâm về đi, về lo cưới vợ cho em anh đi, đi đi.
+</div>
 
 ⭐
-<p align="jusify">Khổ em quá à, anh thông cảm cho em mà, tuy đem dạ yêu anh, nhưng phải tùy lệnh cha, bởi vì chuyện trăm năm, đâu phải là chuyện nhỏ nhen, xin anh hiểu giùm em, công sinh thành mấy năm dưỡng dục, người tái tạo cuộc đời, cao cả như trời.<br/>
-Anh là người của bốn phương, không mẹ không cha, và cũng không cửa không nhà, mà trót yêu em rồi, biết làm sao sum hiệp để hỏi buồn chia phôi.</p>
+<div align="jusify" markdown="1">
+  
+- ♀️ Khổ em quá à, anh thông cảm cho em mà, tuy đem dạ yêu anh, nhưng phải tùy lệnh cha, bởi vì chuyện trăm năm, đâu phải là chuyện nhỏ nhen, xin anh hiểu giùm em, công sinh thành mấy năm dưỡng dục, người tái tạo cuộc đời, cao cả như trời.
+- ♂️ Anh là người của bốn phương, không mẹ không cha, và cũng không cửa không nhà, mà trót yêu em rồi, biết làm sao sum hiệp để hỏi buồn chia phôi.
+</div>
 
 ⭐
-<p align="jusify">Ê ê đừng chửi chớ, chắc cô chưa quên, có lần trước đây, cô đã mắng tôi tiếng khốn nạn này, tôi nhất định làm cho cô sáng mắt, chửi người ta có lợi gì cho cô không.<br/>
-Ở trên đời này tại sao lại có thứ đàn ông, mặt chai mày đá cũng như ông, thói sở khanh không sợ người ta khinh, ông thản nhiên đi mua bán ái tình, ông gạt tôi rồi lại muôn gạt cả đến em tôi.</p>
+<div align="jusify" markdown="1">
+- ♂️ Ê ê đừng chửi chớ, chắc cô chưa quên, có lần trước đây, cô đã mắng tôi tiếng khốn nạn này, tôi nhất định làm cho cô sáng mắt, chửi người ta có lợi gì cho cô không.
+- ♀️ Ở trên đời này tại sao lại có thứ đàn ông, mặt chai mày đá cũng như ông, thói sở khanh không sợ người ta khinh, ông thản nhiên đi mua bán ái tình, ông gạt tôi rồi lại muôn gạt cả đến em tôi.
+</div>
 
 ⭐
-<p align="jusify">Chị thương em không hết, có lý nào chị cướp giật tình em. Nhưng vì hoàn cảnh của chị không thể nào nói hết ra đây. Đã từ lâu, chị xa cách gia đình. Cuộc đời lắm phong ba, gặp bao điều xót xa. Xưa nay trong chốn tình trường, có mấy ai thật lòng với ta? Tuổi của em đương độ xuân thời, nên có lắm kẻ tới lui. Khi bướm hưởng được hoa rồi, hoa đâu còn ngày vui.<br/>
-Chị tưởng đâu anh trai nào cũng bội bạc, sao khong phân biệt từ người, người ta ở trong đời, có ai mà giống ai.</p>
+<div align="jusify" markdown="1">
+  
+- ♀️ Chị thương em không hết, có lý nào chị cướp giật tình em. Nhưng vì hoàn cảnh của chị không thể nào nói hết ra đây. Đã từ lâu, chị xa cách gia đình. Cuộc đời lắm phong ba, gặp bao điều xót xa. Xưa nay trong chốn tình trường, có mấy ai thật lòng với ta? Tuổi của em đương độ xuân thời, nên có lắm kẻ tới lui. Khi bướm hưởng được hoa rồi, hoa đâu còn ngày vui.
+- ♀️ Chị tưởng đâu anh trai nào cũng bội bạc, sao khong phân biệt từ người, người ta ở trong đời, có ai mà giống ai.
+</div>
 
 ⭐
-<p align="jusify">Không có cha con gì hết, Người đang nói chuyện với tao tuy là xác con The nhưng tâm hồn con Hương, trước kia mày là đưa con gái đàng hoàng, nay mày lại đi làm bại hoại gia phong, lễ giáo của nhà tao, tao cũng tin mày đi làm ăn chân thật, chứ thật ra tao đâu dè, mày đem tiết trinh bán khắp phụ người ta để nuôi mẹ nuôi cha, trời ơi cái đồ quân mất dạy, đừng léo hánh về đây để làm nhục tổ tông.<br/>
-Con cúi đầu trăm lạy ba<br/>
-Thôi thôi, mày đừng có lạy lục làm chi để tao thêm tổn thọ.<br/>
-Xin ba nhìn nhận con là con The, cho con ở lại sớm hôm hầu cha mẹ.</p>
+<div align="jusify" markdown="1">
+
+- ♂️ Không có cha con gì hết, Người đang nói chuyện với tao tuy là xác con The nhưng tâm hồn con Hương, trước kia mày là đưa con gái đàng hoàng, nay mày lại đi làm bại hoại gia phong, lễ giáo của nhà tao, tao cũng tin mày đi làm ăn chân thật, chứ thật ra tao đâu dè, mày đem tiết trinh bán khắp phụ người ta để nuôi mẹ nuôi cha, trời ơi cái đồ quân mất dạy, đừng léo hánh về đây để làm nhục tổ tông.
+- ♀️ Con cúi đầu trăm lạy ba
+- ♂️ Thôi thôi, mày đừng có lạy lục làm chi để tao thêm tổn thọ.
+- ♀️ Xin ba nhìn nhận con là con The, cho con ở lại sớm hôm hầu cha mẹ.
+</div>
 
 ⭐
 <div align="jusify" markdown="1">
