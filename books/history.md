@@ -1,89 +1,91 @@
-# Tham khảo lịch sử Việt Nam
+# Tham khảo lịch sử Việt Nam 
+
+_Sưu tầm_
 
 ---
 
 <div markdown="1" align="justify">
 
-- Trước năm 218 TCN, 
-    + Việt Nam chưa có chính sử, lúc này truyền thuyết và lịch sử còn hòa quyện vào nhau. 
-    + Người ta thường hay nhắc tới các truyền thuyết về Kinh Dương Vương, Lạc Long Quân, Phù Đổng Thiên Vương, Sơn Tinh - Thủy Tinh nhằm giải thích nguồn gốc và sự đấu tranh để tồn tại của dân tộc.
+🔹 **Trước năm 218 TCN**
+> + Việt Nam chưa có chính sử, lúc này truyền thuyết và lịch sử còn hòa quyện vào nhau. 
+> + Người ta thường hay nhắc tới các truyền thuyết về Kinh Dương Vương, Lạc Long Quân, Phù Đổng Thiên Vương, Sơn Tinh - Thủy Tinh nhằm giải thích nguồn gốc và sự đấu tranh để tồn tại của dân tộc.
 
-- Từ năm 257 - 208 TCN, 
-    + Thục Phán, thủ lĩnh người Âu Việt hợp nhất với nước Văn Lang của Lạc Việt, đặt quốc hiệu nước là Âu Lạc, tự xưng là An Dương Vương. 
-    + Thời kỳ này lịch sử được tái hiện thông qua lăng kính truyền thuyết với việc An Dương xây thành Cổ Loa.
+🔹 **Từ năm 257 - 208 TCN**
+> + Thục Phán, thủ lĩnh người Âu Việt hợp nhất với nước Văn Lang của Lạc Việt, đặt quốc hiệu nước là Âu Lạc, tự xưng là An Dương Vương. 
+> + Thời kỳ này lịch sử được tái hiện thông qua lăng kính truyền thuyết với việc An Dương xây thành Cổ Loa.
 
-- Từ năm 217 – 111 TCN, 
-    + Triệu Đà, gốc người Hán, thôn tính Âu Lạc. 
-    + Sự kiện này cũng được thể hiện qua truyền thuyết về mối tình Trọng Thủy, Mỵ Châu. Sau khi chiếm được Âu Lạc, Triệu Đà lập nước Nam Việt. 
-    + Nhà Triệu kéo dài 97 năm với năm đời vua: Triệu Đà, Triệu Hồ, Triệu An Tề, Triệu Hưng, Triệu Kiến Đức.
-    + Năm 113, nội tình nhà Triệu rối ren, nhà Hán thừa cơ đưa quân sang đánh Nam Việt rồi đổi tên Nam Việt thành Giao Chỉ.
-    + Từ năm 207 TCN – 39 SCN, Việt Nam sống dưới ách đô hộ của nhà Hán.
+🔹 **Từ năm 217 – 111 TCN**
+> + Triệu Đà, gốc người Hán, thôn tính Âu Lạc. 
+> + Sự kiện này cũng được thể hiện qua truyền thuyết về mối tình Trọng Thủy, Mỵ Châu. Sau khi chiếm được Âu Lạc, Triệu Đà lập nước Nam Việt. 
+> + Nhà Triệu kéo dài 97 năm với năm đời vua: Triệu Đà, Triệu Hồ, Triệu An Tề, Triệu Hưng, Triệu Kiến Đức.
+> + Năm 113, nội tình nhà Triệu rối ren, nhà Hán thừa cơ đưa quân sang đánh Nam Việt rồi đổi tên Nam Việt thành Giao Chỉ.
+> + Từ năm 207 TCN – 39 SCN, Việt Nam sống dưới ách đô hộ của nhà Hán.
 
-- Từ 40 – 43, khởi nghĩa Hai Bà Trưng. 
-    + Sau thắng lợi, Trưng Trắc lên ngôi vua, đóng đô ở Mê Linh.
-    + Năm 41, Mã Viện mang 20 vạn quân sang xâm lược nước ta. 
-    + Năm 43, Hai Bà Trưng thất bại, phải nhảy xuống sông Hát Giang tuẫn tiết.
+🔹 **Từ 40 – 43, khởi nghĩa Hai Bà Trưng**
+> + Sau thắng lợi, Trưng Trắc lên ngôi vua, đóng đô ở Mê Linh.
+> + Năm 41, Mã Viện mang 20 vạn quân sang xâm lược nước ta. 
+> + Năm 43, Hai Bà Trưng thất bại, phải nhảy xuống sông Hát Giang tuẫn tiết.
 
-- Từ năm 43 – 543, 
-    + Việt Nam sống dưới ách đô hộ của phong kiến phương Bắc. 
-    + Thời gian này có cuộc khởi nghĩa của Bà Triệu chống quân Đông Ngô. 
-    + Bà Triệu tự xưng là Đại Hải Bà Vương, đánh nhau với tướng Đông Ngô là Lục Dân nhưng thất bại.
+🔹 **Từ năm 43 – 543**
+> + Việt Nam sống dưới ách đô hộ của phong kiến phương Bắc. 
+> + Thời gian này có cuộc khởi nghĩa của Bà Triệu chống quân Đông Ngô. 
+> + Bà Triệu tự xưng là Đại Hải Bà Vương, đánh nhau với tướng Đông Ngô là Lục Dân nhưng thất bại.
 
-- Từ năm 544 – 548, 
-    + khởi nghĩa của Lý Bí 544, Lý Nam Đế xưng vương, đặt tên nước là Vạn Xuân.
+🔹 **Từ năm 544 – 548**
+> + Khởi nghĩa của Lý Bí 544, Lý Nam Đế xưng vương, đặt tên nước là Vạn Xuân.
 
-- Từ năm 548 – 571, 
-    + Triệu Quang Phục tiếp tục kháng chiến chống quân Lương và lên ngôi vua là Triệu Việt Vương.
-    + Từ 571 – 602, Lý Phật Tử, họ hàng với Lý Nam Đế tiêu diệt Triệu Việt vương và lên ngôi. 
-    + Thời kỳ này phong kiến phương Bắc là nhà Tùy sang xâm lược. Lý Phật Tử đầu hàng, Việt Nam bị nhà Tùy đô hộ.
+🔹 **Từ năm 548 – 571**
+> + Triệu Quang Phục tiếp tục kháng chiến chống quân Lương và lên ngôi vua là Triệu Việt Vương.
+> + Từ 571 – 602, Lý Phật Tử, họ hàng với Lý Nam Đế tiêu diệt Triệu Việt vương và lên ngôi. 
+> + Thời kỳ này phong kiến phương Bắc là nhà Tùy sang xâm lược. Lý Phật Tử đầu hàng, Việt Nam bị nhà Tùy đô hộ.
 
-- Năm 722, 
-    + khởi nghĩa Mai Thúc Loan. 
-    + Sau này, cuộc khởi nghĩa thất bại, nước ta chịu sự đô hộ của nhà Đường.
-    + Từ 791 – 802. Khởi nghĩa Phùng Hưng thắng lợi. 
-    + Năm 802, nhà Đường tấn công, Việt Nam lại chịu sự đô hộ của nhà Đường.
+🔹 **Năm 722**
+> + Khởi nghĩa Mai Thúc Loan. 
+> + Sau này, cuộc khởi nghĩa thất bại, nước ta chịu sự đô hộ của nhà Đường.
+> + Từ 791 – 802. Khởi nghĩa Phùng Hưng thắng lợi. 
+> + Năm 802, nhà Đường tấn công, Việt Nam lại chịu sự đô hộ của nhà Đường.
 
-- Từ 905 – 938, 
-    + thời kỳ xây nền tự chủ bắt đầu với chiến thắng của cuộc khởi nghĩa Khúc Thừa Dụ. 
-    + Sau đó tiếp nối là Khúc Thừa Hạo, Khúc Thừa Mỹ, Dương Đình Nghệ.
+🔹 **Từ 905 – 938**
+> + Thời kỳ xây nền tự chủ bắt đầu với chiến thắng của cuộc khởi nghĩa Khúc Thừa Dụ. 
+> + Sau đó tiếp nối là Khúc Thừa Hạo, Khúc Thừa Mỹ, Dương Đình Nghệ.
 
-- Từ 939 – 944, 
-    + Ngô Quyền thắng quân Nam Hán trên sông Bạch Đằng, lên ngôi vua và đóng đô ở Cổ Loa.
-    + Từ 944 – 950, Dương Tam Kha cướp ngôi và xưng vương.
-    + Từ 950 – 965, thời kỳ Hậu Ngô vương. Con của Ngô Quyền là Ngô Xương Văn lật đổ Dương Tam Kha, giành lại ngôi vua cho nhà Ngô.
+🔹 **Từ 939 – 944**
+> + Ngô Quyền thắng quân Nam Hán trên sông Bạch Đằng, lên ngôi vua và đóng đô ở Cổ Loa.
+> + Từ 944 – 950, Dương Tam Kha cướp ngôi và xưng vương.
+> + Từ 950 – 965, thời kỳ Hậu Ngô vương. Con của Ngô Quyền là Ngô Xương Văn lật đổ Dương Tam Kha, giành lại ngôi vua cho nhà Ngô.
 
-- Từ 966 – 968, loạn 12 sứ quân.
-    + Từ 968 – 980, Đinh Bộ Lĩnh dẹp loạn 12 sứ quân lên ngôi, hiệu Đinh Tiên Hoàng đặt tên nước là Đại Cồ Việt, lấy Hoa Lư làm kinh đô. 
-    + Năm 979, Đinh Tiên Hoàng bị Đỗ Thích giết, con là Đinh Toàn mới sáu tuổi được triều thần đưa lên ngôi.
-    + Từ 980 – 1005. Nhà Tống xâm lược Việt Nam, thái hậu Dương Vân Nga, mẹ của Đinh Toàn mời Lê Hoàn lên ngôi để chỉ huy nhân dân chống Tống. 
-    + Lê Đại Hành lên ngôi, đóng đô ở Hoa Lư năm 1005, Lê Đại Hành mất.
-    + Từ 1005 – 1009, thời đại của Lê Trung Tông và Lê Ngọa Triều.
-    + Từ 1010 – 1028. Lý Công Uẩn được triều thần tôn lên ngôi hoàng đế sau khi Lê Ngọa Triều mất. 
+🔹 **Từ 966 – 968, loạn 12 sứ quân**
+> + Từ 968 – 980, Đinh Bộ Lĩnh dẹp loạn 12 sứ quân lên ngôi, hiệu Đinh Tiên Hoàng đặt tên nước là Đại Cồ Việt, lấy Hoa Lư làm kinh đô. 
+> + Năm 979, Đinh Tiên Hoàng bị Đỗ Thích giết, con là Đinh Toàn mới sáu tuổi được triều thần đưa lên ngôi.
+> + Từ 980 – 1005. Nhà Tống xâm lược Việt Nam, thái hậu Dương Vân Nga, mẹ của Đinh Toàn mời Lê Hoàn lên ngôi để chỉ huy nhân dân chống Tống. 
+> + Lê Đại Hành lên ngôi, đóng đô ở Hoa Lư năm 1005, Lê Đại Hành mất.
+> + Từ 1005 – 1009, thời đại của Lê Trung Tông và Lê Ngọa Triều.
+> + Từ 1010 – 1028. Lý Công Uẩn được triều thần tôn lên ngôi hoàng đế sau khi Lê Ngọa Triều mất. 
 
-- Năm 1010, Lý Thái Tổ (Lý Công Uẩn) cho dời đô về Thăng Long (Hà Nội ngày nay), mở đầu cho thời kỳ phát triển văn hóa Thăng Long.
-    + Từ 1028 – 1054, triều đại của Lý Thái Tông.
-    + Từ 1054 – 1072, triều đại của Lý Thánh Tông.
-    + Từ 1072 – 1128, triều đại của Lý Nhân Tông. Thời kỳ này gắn với các chiến công của Lý Thường Kiệt đánh quân Tống và các thắng lợi trên mặt trận ngoại giao của Thái sư Lê Văn Thịnh.
-    + Từ 1128 – 1138, triều đại của Lý Thần Tông.
-    + Từ 1138 – 1175, triều đại của Lý Anh Tông. Thời kỳ này, triều chính rối loạn nhưng nhờ có các trung thần nên cơ đồ nhá Lý vẫn được giữ vững.
-    + Từ 1176 – 1210, triều đại của Lý Cao Tông. Thời kỳ này chính sự đổ nát, giặc giã, đói kém liên miên. Nhà Lý bắt đầu suy thoái.
-    + Từ 1211 – 1225, triều đại của Lý Huệ Tông và Chiêu Hoàng. Thời kỳ này triều chính rối ren, lòng người ly tán, nhà Lý không còn đảm đương được vai trò lịch sử nữa. Trần Thủ Độ cùng những người thân tín trong họ nhà Trần làm một cuộc đảo chính cung đình hợp pháp, thông qua các cuộc hôn nhân giữa công chúa Chiêu Thánh và Trần Cảnh, bắt ép công chúa nhường ngôi cho chồng.
+🔹 **Năm 1010, Lý Thái Tổ (Lý Công Uẩn) cho dời đô về Thăng Long (Hà Nội ngày nay), mở đầu cho thời kỳ phát triển văn hóa Thăng Long**
+> + Từ 1028 – 1054, triều đại của Lý Thái Tông.
+> + Từ 1054 – 1072, triều đại của Lý Thánh Tông.
+> + Từ 1072 – 1128, triều đại của Lý Nhân Tông. Thời kỳ này gắn với các chiến công của Lý Thường Kiệt đánh quân Tống và các thắng lợi trên mặt trận ngoại giao của Thái sư Lê Văn Thịnh.
+> + Từ 1128 – 1138, triều đại của Lý Thần Tông.
+> + Từ 1138 – 1175, triều đại của Lý Anh Tông. Thời kỳ này, triều chính rối loạn nhưng nhờ có các trung thần nên cơ đồ nhá Lý vẫn được giữ vững.
+> + Từ 1176 – 1210, triều đại của Lý Cao Tông. Thời kỳ này chính sự đổ nát, giặc giã, đói kém liên miên. Nhà Lý bắt đầu suy thoái.
+> + Từ 1211 – 1225, triều đại của Lý Huệ Tông và Chiêu Hoàng. Thời kỳ này triều chính rối ren, lòng người ly tán, nhà Lý không còn đảm đương được vai trò lịch sử nữa. Trần Thủ Độ cùng những người thân tín trong họ nhà Trần làm một cuộc đảo chính cung đình hợp pháp, thông qua các cuộc hôn nhân giữa công chúa Chiêu Thánh và Trần Cảnh, bắt ép công chúa nhường ngôi cho chồng.
 
-- Từ 1225 bắt đầu triều đại nhà Trần.
-    + Từ 1225 – 1258, triều đại của Trần Thái Tông. Năm 1258, kháng chiến chống quân Nguyên Mông lần thứ nhất. Dân ta đã dùng chiến tranh du kích, vườn không nhà trống để tiêu hao sinh lực địch, sau đó tổ chức phản công ở Đông Bộ Đầu. Quân Nguyên thua, phải rút chạy về nước.
-    + Từ 1258 – 1278, triều đại của Trần Thánh Tông. Thời kỳ này triều Trần khuyến khích khai khẩn đất hoang, mở mang các điền trang thái ấp, mở các khoa thi để lựa chọn nhân tài, thực hiện chính sách ngoại giao mềm dẻo với triều đình phong kiến phương Bắc.
-    + Từ 1279 – 1293, triều đại của Trần Nhân Tông. Năm 1285, kháng chiến chống quân Nguyên Mông lần thứ hai. Các vua Trần tổ chức hội nghị quân sự ở Bình Than, tập trận ở Đông Bộ Đầu đồng thời tổ chức hội nghị Diên Hồng, hỏi ý kiến các bô lão xem nên ""hòa"" hay nên ""đánh"". Sau các chiến thắng Chương Dương, Hàm Tử, Tây Kết, Vạn Kiếp, tháng 6-1285, giải phóng kinh đô Thăng Long. Năm 1288, kháng chiến chống quân Nguyên Mông lần thứ ba. Sau trận chiến trên sông Bạch Đằng, đất nước được giải phóng. Chiến thắng lịch sử gắn liền với cuộc đời và sự nghiệp của Hưng Đạo Vương Trần Quốc Tuấn.
-    + Từ 1293 – 1314, triều đại của Trần Anh Tông. Đây là một thời kỳ thái bình thịnh trị của vương triều Trần.
-    + Từ 1314 – 1329, triều đại của Trần Minh Tông.
-    + Từ 1329 – 1341, triều đại của Trần Hiến Tông.
-    + Từ 1341 – 1369, triều đại của Trần Dụ Tông. Chính sự bắt đầu đổ nát, gian thần rất nhiều.
-    + Từ 1370 – 1372, triều đại của Trần Nghệ Tông. Quân Chiêm Thành đánh vào kinh đô, nhà vua phải lánh nạn. Sau đó nhường ngôi cho em là Trần Duệ Tông.
-    + Từ 1372 – 1377, triều đại của Trần Duệ Tông. Vua đem quân đi đánh Chiêm Thành và chết trong chiến trận.
-    + Từ 1377 – 1388, triều đại của Trần Phế Đế. Hồ Quý Ly bắt đầu thao túng triều đình.
-    + Từ 1388 – 1398, triều đại của Trần Thuận Tông. Thời kỳ này quyền hành thực chất nằm trong tay Hồ Quý Ly.
-    + Từ 1398 – 1400, triều đại của Trần Thiếu Đế. Năm 1400, Hồ Quý Ly ép Thiếu Đế nhường ngôi. Triều đại nhà Trần chấm dứt.
+🔹 **Từ 1225 bắt đầu triều đại nhà Trần**
+> + Từ 1225 – 1258, triều đại của Trần Thái Tông. Năm 1258, kháng chiến chống quân Nguyên Mông lần thứ nhất. Dân ta đã dùng chiến tranh du kích, vườn không nhà trống để tiêu hao sinh lực địch, sau đó tổ chức phản công ở Đông Bộ Đầu. Quân Nguyên thua, phải rút chạy về nước.
+> + Từ 1258 – 1278, triều đại của Trần Thánh Tông. Thời kỳ này triều Trần khuyến khích khai khẩn đất hoang, mở mang các điền trang thái ấp, mở các khoa thi để lựa chọn nhân tài, thực hiện chính sách ngoại giao mềm dẻo với triều đình phong kiến phương Bắc.
+> + Từ 1279 – 1293, triều đại của Trần Nhân Tông. Năm 1285, kháng chiến chống quân Nguyên Mông lần thứ hai. Các vua Trần tổ chức hội nghị quân sự ở Bình Than, tập trận ở Đông Bộ Đầu đồng thời tổ chức hội nghị Diên Hồng, hỏi ý kiến các bô lão xem nên ""hòa"" hay nên ""đánh"". Sau các chiến thắng Chương Dương, Hàm Tử, Tây Kết, Vạn Kiếp, tháng 6-1285, giải phóng kinh đô Thăng Long. Năm 1288, kháng chiến chống quân Nguyên Mông lần thứ ba. Sau trận chiến trên sông Bạch Đằng, đất nước được giải phóng. Chiến thắng lịch sử gắn liền với cuộc đời và sự nghiệp của Hưng Đạo Vương Trần Quốc Tuấn.
+> + Từ 1293 – 1314, triều đại của Trần Anh Tông. Đây là một thời kỳ thái bình thịnh trị của vương triều Trần.
+> + Từ 1314 – 1329, triều đại của Trần Minh Tông.
+> + Từ 1329 – 1341, triều đại của Trần Hiến Tông.
+> + Từ 1341 – 1369, triều đại của Trần Dụ Tông. Chính sự bắt đầu đổ nát, gian thần rất nhiều.
+> + Từ 1370 – 1372, triều đại của Trần Nghệ Tông. Quân Chiêm Thành đánh vào kinh đô, nhà vua phải lánh nạn. Sau đó nhường ngôi cho em là Trần Duệ Tông.
+> + Từ 1372 – 1377, triều đại của Trần Duệ Tông. Vua đem quân đi đánh Chiêm Thành và chết trong chiến trận.
+> + Từ 1377 – 1388, triều đại của Trần Phế Đế. Hồ Quý Ly bắt đầu thao túng triều đình.
+> + Từ 1388 – 1398, triều đại của Trần Thuận Tông. Thời kỳ này quyền hành thực chất nằm trong tay Hồ Quý Ly.
+> + Từ 1398 – 1400, triều đại của Trần Thiếu Đế. Năm 1400, Hồ Quý Ly ép Thiếu Đế nhường ngôi. Triều đại nhà Trần chấm dứt.
 
-- Từ 1400 – 1401, triều đại Hồ Quý Ly. 
+🔹 **Từ 1400 – 1401, triều đại Hồ Quý Ly**
     + Nhiều cải cách táo bạo được thực thi như mở mang thi cử, phát hành tiền giấy tăng cường quân đội thường trực, định ra hình luật. 
     + Tuy nhiên các cải cách này không được sự ủng hộ của toàn dân.
     + Từ 1401 – 1407, triều đại Hồ Hán Thương nhưng thực chất Hồ Quý Ly vẫn cầm quyền. Quân Minh sang xâm lược.
