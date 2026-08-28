@@ -198,60 +198,94 @@ Nói nữa chi thêm nghẹn lời.
 
 ---
 
-## Tình anh bán chiếu
+<h3 align="center">Tình anh bán chiếu</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
 
-<details><summary>▶️</summary><blockquote>
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
 
-<p>"Hò ơ...<br/>
-Chiếu Cà Mau nhuộm màu tươi thắm.<br/>
-Công tôi cực lắm, mưa nắng dãi dầu.<br/>
-Chiếu này tôi chẳng bán đâu.<br/>
-Tìm em không gặp... Hò ơ...<br/>
-Tìm em không gặp tôi gối đầu mỗi đêm...</p>
+- "Hò ơ...
+- Chiếu Cà Mau nhuộm màu tươi thắm.
+- Công tôi cực lắm, mưa nắng dãi dầu.
+- Chiếu này tôi chẳng bán đâu.
+- Tìm em không gặp... Hò ơ...
+- Tìm em không gặp tôi gối đầu mỗi đêm...
+</div>
 
-⭐
-<p align="jusify">1/ Ghe chiếu Cà Mau đã cấm sào trên bờ kinh ngã bảy, sao người con gái năm xưa chẳng thấy ra chào... Cửa vườn cô đã khoá kín tự hôm nào, tôi vác đôi chiếu bông từ dưới ghe lên xóm rẫy, chiếc áo nhuộm bùn đã lấm tấm giọt mồ hôi. Nhà của cô sau trước vắng tanh gió lạnh chiều hôm bỗng có ai dạo lên tiếng nguyệt cầm như gieo vào lòng tôi một nỗi buồn thê thảm.<br/>
-2/ Cô đã đặt đôi chiếu bông bề dài hai thước có lẽ để điểm tô ở chốn loan phòng, hôm nay cô đã quên tôi để cất bước theo chồng. Cô ơi đôi chiếu này tự tay tôi dệt lấy, tôi đã lựa từng cọng lát sợi gai nhưng khi tôi đến nơi thì cô đã rời bỏ quê nhà sang qua xứ khác, tôi đứng trước cổng vườn xưa nỗi buồn man mác, còn đôi chiếu này tôi biết tặng cho ai?...<br/>
-3/ Nhớ năm ngoái khi ghe vừa tới vàm sông ngã Bảy, cô đã tươi cười dẫn tôi đến tận nhà cô; đưa tôi vào chốn phòng riêng để đo ni chiếc giường gõ đỏ và cô đặt tôi làm đôi chiếu, cô hỏi qua gía cả, tôi trả lời lấy giá rẻ làm quen .Năm hôm sau tôi sắp sửa lui ghe cô còn đứng trên bến dặn dò kỹ lưỡng, sau khi cô đà quay gót chiếc áo bông hường cũng khuất dạng sau mấy lùm tre, cô có biết đâu tôi đã lấy nón lá che ngang để dấu đôi giòng nước mắt vì không muốn bàng quan thiên hạ họ cười tôi là một kẻ si tình.</p>
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+  
+1. Ghe chiếu Cà Mau đã cấm sào trên bờ kinh ngã bảy, sao người con gái năm xưa chẳng thấy ra chào... Cửa vườn cô đã khoá kín tự hôm nào, tôi vác đôi chiếu bông từ dưới ghe lên xóm rẫy, chiếc áo nhuộm bùn đã lấm tấm giọt mồ hôi. Nhà của cô sau trước vắng tanh gió lạnh chiều hôm bỗng có ai dạo lên tiếng nguyệt cầm như gieo vào lòng tôi một nỗi buồn thê thảm.
+2. Cô đã đặt đôi chiếu bông bề dài hai thước có lẽ để điểm tô ở chốn loan phòng, hôm nay cô đã quên tôi để cất bước theo chồng. Cô ơi đôi chiếu này tự tay tôi dệt lấy, tôi đã lựa từng cọng lát sợi gai nhưng khi tôi đến nơi thì cô đã rời bỏ quê nhà sang qua xứ khác, tôi đứng trước cổng vườn xưa nỗi buồn man mác, còn đôi chiếu này tôi biết tặng cho ai?...
+3. Nhớ năm ngoái khi ghe vừa tới vàm sông ngã Bảy, cô đã tươi cười dẫn tôi đến tận nhà cô; đưa tôi vào chốn phòng riêng để đo ni chiếc giường gõ đỏ và cô đặt tôi làm đôi chiếu, cô hỏi qua gía cả, tôi trả lời lấy giá rẻ làm quen .Năm hôm sau tôi sắp sửa lui ghe cô còn đứng trên bến dặn dò kỹ lưỡng, sau khi cô đà quay gót chiếc áo bông hường cũng khuất dạng sau mấy lùm tre, cô có biết đâu tôi đã lấy nón lá che ngang để dấu đôi giòng nước mắt vì không muốn bàng quan thiên hạ họ cười tôi là một kẻ si tình.
+</div>
 
-<p>Khi hỏi lại xóm riềng tôi mới biết<br/>
-Cô theo chồng đã được bốn trăng qua.<br/>
-Mình dám đâu sai hẹn với người ta<br/>
-Mà họ đành đoạn bỏ nhà đi xứ khác</p>
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+  
+- Khi hỏi lại xóm riềng tôi mới biết
+- Cô theo chồng đã được bốn trăng qua.
+- Mình dám đâu sai hẹn với người ta
+- Mà họ đành đoạn bỏ nhà đi xứ khác
+</div>
 
-⭐
-<p align="jusify">4/ Tôi vác đôi chiếu bông mà cõi lòng tan nát, bước chân đi như thể xác không hồn... nước mắt tuôn rơi như lá rụng trên đường, gió Đông vụt vù thổi mạnh lạnh đất trời lạnh đến cả tâm can.<br/>
-Người ta đã có đôi rồi<br/>
-Chiếu chăn đâu ấm bằng người tình chung,<br/>
-Để mình vác cặp chiếu bông<br/>
-Chờ đợi chi nữa uổng công đợi chờ.</p>
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+  
+4. Tôi vác đôi chiếu bông mà cõi lòng tan nát, bước chân đi như thể xác không hồn... nước mắt tuôn rơi như lá rụng trên đường, gió Đông vụt vù thổi mạnh lạnh đất trời lạnh đến cả tâm can.
+- Người ta đã có đôi rồi
+- Chiếu chăn đâu ấm bằng người tình chung,
+- Để mình vác cặp chiếu bông
+- Chờ đợi chi nữa uổng công đợi chờ.
+</div>
 
-<p align="jusify">5/ Khuya đêm nay ngồi chờ nước lớn nỗi buồn đau cứ canh cánh bên lòng... tôi thấy đời tôi sao lạnh lẽo khôn cùng... còn chi buồn hơn nghề bán chiếu để tô điểm loan phòng cho những gái còn Xuân... đến khi họ cất bước sang ngang lại không một lời hỏi han từ giã đến đôi chiếu bông tôi đã bỏ công ngồi dệt mấy ngày đêm ròng rã mà nay vẫn còn nằm trơ ở dưới khoan thuyền.<br/>
-6/ Ngọn gió Đông ơi đừng thổi nữa lòng tôi lạnh lắm gió Đông ơi. Tôi nhổ sào cho ghé chiếu trôi xuôi lòng nặng trĩu một nỗi sầu tê tái, tôi ngồi yên sau lái đôi mắt vẫn hướng về nẻo cũ vườn xưa. Hỡi ơi con sông Phụng Hiệp chảy ra bảy ngã thì lệ của tôi sao nó cũng lai láng muôn giòng. Có ai biết được tấm lòng của tôi với cô gái mỹ miều trên kinh Ngã Bảy</p>
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+  
+5. Khuya đêm nay ngồi chờ nước lớn nỗi buồn đau cứ canh cánh bên lòng... tôi thấy đời tôi sao lạnh lẽo khôn cùng... còn chi buồn hơn nghề bán chiếu để tô điểm loan phòng cho những gái còn Xuân... đến khi họ cất bước sang ngang lại không một lời hỏi han từ giã đến đôi chiếu bông tôi đã bỏ công ngồi dệt mấy ngày đêm ròng rã mà nay vẫn còn nằm trơ ở dưới khoan thuyền.
+6. Ngọn gió Đông ơi đừng thổi nữa lòng tôi lạnh lắm gió Đông ơi. Tôi nhổ sào cho ghé chiếu trôi xuôi lòng nặng trĩu một nỗi sầu tê tái, tôi ngồi yên sau lái đôi mắt vẫn hướng về nẻo cũ vườn xưa. Hỡi ơi con sông Phụng Hiệp chảy ra bảy ngã thì lệ của tôi sao nó cũng lai láng muôn giòng. Có ai biết được tấm lòng của tôi với cô gái mỹ miều trên kinh Ngã Bảy
+</div>
 
-<p>"Sông sâu bên lở bên bồi<br/>
-Tình anh bán chiếu trọn đời không phai."</p>
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+  
+- "Sông sâu bên lở bên bồi
+- Tình anh bán chiếu trọn đời không phai."
+
+</div>
 </blockquote></details>
 
 ---
 
-## Lá trầu xanh
+<h3 align="center">Lá trầu xanh</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
 
-<details><summary>▶️</summary><blockquote>
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
 
-<p>Thương nhau cau bổ làm đôi mảnh<br/>
-Một lá trầu xanh thắm nợ duyên.<br/>
-Cứ mỗi chiều về tan buổi chợ,<br/>
-Em còn hoài vọng bóng người thương</p>
+- Thương nhau cau bổ làm đôi mảnh
+- Một lá trầu xanh thắm nợ duyên.
+- Cứ mỗi chiều về tan buổi chợ,
+- Em còn hoài vọng bóng người thương
+</div>
 
-⭐
-<p align="jusify">1/ Anh hứa với em khi mình nên duyên nên nợ thì một lá trầu xanh cũng nên vợ nên… chồng.(-)(-) Cau thắm trầu xanh sẽ thêm đượm thêm nồng. Mỗi sáng tinh sương gánh trầu ra chợ, trên con đê dài thoăn thoắt đôi chân. (SL) Em không sợ nắng vàng làm héo úa lá trầu xanh mà chỉ sợ người yêu chờ đợi buồn phiền. Dõi mắt kiếm tìm giữa buổi chợ tan, lỡ chuyến hẹn hò tình duyên đôi lứa./</p>
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+  
+1. Anh hứa với em khi mình nên duyên nên nợ thì một lá trầu xanh cũng nên vợ nên… chồng.(-)(-) Cau thắm trầu xanh sẽ thêm đượm thêm nồng. Mỗi sáng tinh sương gánh trầu ra chợ, trên con đê dài thoăn thoắt đôi chân. (SL) Em không sợ nắng vàng làm héo úa lá trầu xanh mà chỉ sợ người yêu chờ đợi buồn phiền. Dõi mắt kiếm tìm giữa buổi chợ tan, lỡ chuyến hẹn hò tình duyên đôi lứa./
 
 (Chầu 12 nhịp)
 
-<p align="jusify">2/ Nhưng rồi một hôm mưa buồn xóm chợ, bên thúng trầu xanh em chờ bạn chung tình. (-)(-) Mưa gió cách ngăn duyên kiếp đôi mình. Chợ vắng thưa người sao anh không đến, yêu nhau ngại gì lầy lội bước chân. (SL) Để em quay về trong thờ thẩn nhớ thương, trầu nặng gánh hay nặng tình thương nhớ. Anh phụ em rồi anh không tới nữa, để phiên chợ buồn héo úa lá trầu xanh./</p>
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+  
+2. Nhưng rồi một hôm mưa buồn xóm chợ, bên thúng trầu xanh em chờ bạn chung tình. (-)(-) Mưa gió cách ngăn duyên kiếp đôi mình. Chợ vắng thưa người sao anh không đến, yêu nhau ngại gì lầy lội bước chân. (SL) Để em quay về trong thờ thẩn nhớ thương, trầu nặng gánh hay nặng tình thương nhớ. Anh phụ em rồi anh không tới nữa, để phiên chợ buồn héo úa lá trầu xanh./
+</div>
 
-<div markdown="1">
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
 
 - Hoa thu rụng, 
 - Tơi bời bên bờ sông lạnh 
@@ -274,17 +308,28 @@ Em còn hoài vọng bóng người thương</p>
 
 </div>
 
-⭐
-<p align="jusify">5/ Trời ơi hai gánh trầu xanh còn nặng oằn trên đôi vai bé nhỏ nhưng gánh tình chung đã gãy đổ tự lâu… rồi.(-)(-) Tiếng pháo rền vang pha lẫn tiếng vui cười. Anh sắp sửa vui vầy duyên mới, em cũng bắt đầu làm một kẻ đơn côi. (SL) Muốn quay về để khỏi thấy cảnh gai mắt trái tai, nhưng sao chân muốn bước mà dạ còn mong ở lại. Trời ơi nỗi khổ đau của một người con gái, mười tám xuân xanh đã mang khối tuyệt tình./</p>
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+  
+5. Trời ơi hai gánh trầu xanh còn nặng oằn trên đôi vai bé nhỏ nhưng gánh tình chung đã gãy đổ tự lâu… rồi.(-)(-) Tiếng pháo rền vang pha lẫn tiếng vui cười. Anh sắp sửa vui vầy duyên mới, em cũng bắt đầu làm một kẻ đơn côi. (SL) Muốn quay về để khỏi thấy cảnh gai mắt trái tai, nhưng sao chân muốn bước mà dạ còn mong ở lại. Trời ơi nỗi khổ đau của một người con gái, mười tám xuân xanh đã mang khối tuyệt tình./
+</div>
 
 (Chầu 8 nhịp)
 
-<p align="jusify">6/ Trên đường về lệ trải bước chân quê, trên bến cũ con đò sao vắng bóng. Đò ơi sao không xót thương một người vô vọng, lại vội vàng tách bến sang ngang? </p>
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+  
+6. Trên đường về lệ trải bước chân quê, trên bến cũ con đò sao vắng bóng. Đò ơi sao không xót thương một người vô vọng, lại vội vàng tách bến sang ngang?
+</div>
 
-<p>Mưa hay lệ rơi hoài trên áo, gió quyện ngàn xác pháo bên sông.<br/>
-Thu về rụng lá trầu xanh,<br/>
-Trầu xanh rụng lá tình anh hết rồi. (SL)<br/>
-Một gánh trầu còn oằn nặng đôi vai, như gánh nặng u hoài muôn vạn kiếp. Mưa rơi lạnh buốt khung trời. Anh phụ em rồi em còn biết tin ai./.</p>
-</blockquote></details>
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+  
+- Mưa hay lệ rơi hoài trên áo, gió quyện ngàn xác pháo bên sông.
+- Thu về rụng lá trầu xanh,
+- Trầu xanh rụng lá tình anh hết rồi. (SL)
+- Một gánh trầu còn oằn nặng đôi vai, như gánh nặng u hoài muôn vạn kiếp. Mưa rơi lạnh buốt khung trời. Anh phụ em rồi em còn biết tin ai./.
+</div>
+</blockquote>
 
 ---
