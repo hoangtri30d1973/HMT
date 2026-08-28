@@ -292,27 +292,27 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 <table>
 <tr><td>
 <table>
-<tr><td>140 | 43-45</td></tr>
-<tr><td>142 | 43-46</td></tr>
-<tr><td>144 | 45-48</td></tr>
-<tr><td>146 | 46-49</td></tr>
-<tr><td>148 | 47-50</td></tr>
+<tr><td>140 </td><td> 43-45</td></tr>
+<tr><td>142 </td><td> 43-46</td></tr>
+<tr><td>144 </td><td> 45-48</td></tr>
+<tr><td>146 </td><td> 46-49</td></tr>
+<tr><td>148 </td><td> 47-50</td></tr>
 </table>
 </td><td>
 <table>
-<tr><td>150 | 48-52</td></tr>
-<tr><td>152 | 50-53</td></tr>
-<tr><td>154 | 51-55</td></tr>
-<tr><td>156 | 52-66</td></tr>
-<tr><td>158 | 54-57</td></tr>
+<tr><td>150 </td><td> 48-52</td></tr>
+<tr><td>152 </td><td> 50-53</td></tr>
+<tr><td>154 </td><td> 51-55</td></tr>
+<tr><td>156 </td><td> 52-66</td></tr>
+<tr><td>158 </td><td> 54-57</td></tr>
 </table>
 </td><td>
 <table>
-<tr><td>160 | 55-59</td></tr>
-<tr><td>162 | 56-60</td></tr>
-<tr><td>164 | 58-62</td></tr>
-<tr><td>166 | 59-63</td></tr>
-<tr><td>168 | 61-65</td></tr>
+<tr><td>160 </td><td> 55-59</td></tr>
+<tr><td>162 </td><td> 56-60</td></tr>
+<tr><td>164 </td><td> 58-62</td></tr>
+<tr><td>166 </td><td> 59-63</td></tr>
+<tr><td>168 </td><td> 61-65</td></tr>
 </table>
 </td><td>
 <table>
@@ -324,11 +324,11 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 </table>
 </td><td>
 <table>
-<tr><td>180 | 70-75</td></tr>
-<tr><td>182 | 71-76</td></tr>
-<tr><td>184 | 73-78</td></tr>
-<tr><td>186 | 74-80</td></tr>
-<tr><td>188 | 76-81</td></tr>
+<tr><td>180 </td><td> 70-75</td></tr>
+<tr><td>182 </td><td> 71-76</td></tr>
+<tr><td>184 </td><td> 73-78</td></tr>
+<tr><td>186 </td><td> 74-80</td></tr>
+<tr><td>188 </td><td> 76-81</td></tr>
 </table>
 </td></tr>
 </table>
@@ -338,43 +338,43 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 <table>
 <tr><td>
 <table>
-<tr><td>140 | 39-42</td></tr>
-<tr><td>142 | 40-43</td></tr>
-<tr><td>144 | 41-45</td></tr>
-<tr><td>146 | 43-46</td></tr>
-<tr><td>148 | 44-47</td></tr>
+<tr><td>140 </td><td> 39-42</td></tr>
+<tr><td>142 </td><td> 40-43</td></tr>
+<tr><td>144 </td><td> 41-45</td></tr>
+<tr><td>146 </td><td> 43-46</td></tr>
+<tr><td>148 </td><td> 44-47</td></tr>
 </table>
 </td><td>
 <table>
-<tr><td>150 | 45-48</td></tr>
-<tr><td>152 | 46-50</td></tr>
-<tr><td>154 | 47-51</td></tr>
-<tr><td>156 | 49-52</td></tr>
-<tr><td>158 | 50-54</td></tr>
+<tr><td>150 </td><td> 45-48</td></tr>
+<tr><td>152 </td><td> 46-50</td></tr>
+<tr><td>154 </td><td> 47-51</td></tr>
+<tr><td>156 </td><td> 49-52</td></tr>
+<tr><td>158 </td><td> 50-54</td></tr>
 </table>
 </td><td>
 <table>
-<tr><td>160 | 51-55</td></tr>
-<tr><td>162 | 52-56</td></tr>
-<tr><td>164 | 54-58</td></tr>
-<tr><td>166 | 55-59</td></tr>
-<tr><td>168 | 56-61</td></tr>
+<tr><td>160 </td><td> 51-55</td></tr>
+<tr><td>162 </td><td> 52-56</td></tr>
+<tr><td>164 </td><td> 54-58</td></tr>
+<tr><td>166 </td><td> 55-59</td></tr>
+<tr><td>168 </td><td> 56-61</td></tr>
 </table>
 </td><td>
 <table>
-<tr><td>170 | 58-62</td></tr>
-<tr><td>172 | 59-64</td></tr>
-<tr><td>174 | 61-65</td></tr>
-<tr><td>176 | 62-67</td></tr>
-<tr><td>178 | 63-68</td></tr>
+<tr><td>170 </td><td> 58-62</td></tr>
+<tr><td>172 </td><td> 59-64</td></tr>
+<tr><td>174 </td><td> 61-65</td></tr>
+<tr><td>176 </td><td> 62-67</td></tr>
+<tr><td>178 </td><td> 63-68</td></tr>
 </table>
 </td><td>
 <table>
-<tr><td>180 | 65-70</td></tr>
-<tr><td>182 | 66-71</td></tr>
-<tr><td>184 | 68-73</td></tr>
-<tr><td>186 | 69-74</td></tr>
-<tr><td>188 | 71-76</td></tr>
+<tr><td>180 </td><td> 65-70</td></tr>
+<tr><td>182 </td><td> 66-71</td></tr>
+<tr><td>184 </td><td> 68-73</td></tr>
+<tr><td>186 </td><td> 69-74</td></tr>
+<tr><td>188 </td><td> 71-76</td></tr>
 </table>
 </td></tr>
 </table>
@@ -396,31 +396,31 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 #### Nam
 
 <table>
-<tr><th>Tuổi | Chuẩn</th><th>Tốt </th><th>TB  </th><th>Xấu  </th></tr>
-<tr><td>20-24 |  10,1</td><td>14,9</td><td>19,0</td><td>>23,3</td></tr>
-<tr><td>25-29 |  12,8</td><td>16,5</td><td>20,3</td><td>>24,3</td></tr>
-<tr><td>30-34 |  14,5</td><td>18,0</td><td>21,5</td><td>>25,2</td></tr>
-<tr><td>35-39 |  16,1</td><td>19,3</td><td>22,6</td><td>>26,1</td></tr>
-<tr><td>40-44 |  17,5</td><td>20,5</td><td>23,6</td><td>>26,9</td></tr>
-<tr><td>45-49 |  18,6</td><td>21,5</td><td>24,5</td><td>>27,6</td></tr>
-<tr><td>50-54 |  19,2</td><td>22,1</td><td>25,1</td><td>>28,7</td></tr>
-<tr><td>55-59 |  19,8</td><td>22,7</td><td>25,6</td><td>>28,7</td></tr>
-<tr><td>60+   |  20,2</td><td>23,3</td><td>26,2</td><td>>29,3</td></tr>
+<tr><th>Tuổi </th><th> Chuẩn</th><th>Tốt </th><th>TB  </th><th>Xấu  </th></tr>
+<tr><td>20-24 </td><td>  10,1</td><td>14,9</td><td>19,0</td><td>>23,3</td></tr>
+<tr><td>25-29 </td><td>  12,8</td><td>16,5</td><td>20,3</td><td>>24,3</td></tr>
+<tr><td>30-34 </td><td>  14,5</td><td>18,0</td><td>21,5</td><td>>25,2</td></tr>
+<tr><td>35-39 </td><td>  16,1</td><td>19,3</td><td>22,6</td><td>>26,1</td></tr>
+<tr><td>40-44 </td><td>  17,5</td><td>20,5</td><td>23,6</td><td>>26,9</td></tr>
+<tr><td>45-49 </td><td>  18,6</td><td>21,5</td><td>24,5</td><td>>27,6</td></tr>
+<tr><td>50-54 </td><td>  19,2</td><td>22,1</td><td>25,1</td><td>>28,7</td></tr>
+<tr><td>55-59 </td><td>  19,8</td><td>22,7</td><td>25,6</td><td>>28,7</td></tr>
+<tr><td>60+   </td><td>  20,2</td><td>23,3</td><td>26,2</td><td>>29,3</td></tr>
 </table>
 
 #### Nữ
 
 <table>
-<tr><th>Tuổi | Chuẩn </th><th> Tốt  </th><th> TB   </th><th> Xấu   </th></tr>
-<tr><td>20-24 | 18,2 </td><td> 22,1 </td><td> 25,0 </td><td> >29,6 </td></tr>
-<tr><td>25-29 | 18,9 </td><td> 22,0 </td><td> 25,4 </td><td> >29,8 </td></tr>
-<tr><td>30-34 | 19,7 </td><td> 22,7 </td><td> 26,4 </td><td> >30,5 </td></tr>
-<tr><td>35-39 | 21,1 </td><td> 24,0 </td><td> 27,7 </td><td> >31,5 </td></tr>
-<tr><td>40-44 | 22,6 </td><td> 25,6 </td><td> 29,3 </td><td> >32,8 </td></tr>
-<tr><td>45-49 | 24,3 </td><td> 27,3 </td><td> 30,9 </td><td> >34,1 </td></tr>
-<tr><td>50-54 | 25,2 </td><td> 26,2 </td><td> 31,8 </td><td> >35,1 </td></tr>
-<tr><td>55-59 | 26,6 </td><td> 29,7 </td><td> 33,1 </td><td> >36,2 </td></tr>
-<tr><td>60+   | 27,4 </td><td> 30,7 </td><td> 34,0 </td><td> >37,3 </td></tr>
+<tr><th>Tuổi </th><th> Chuẩn </th><th> Tốt  </th><th> TB   </th><th> Xấu   </th></tr>
+<tr><td>20-24 </td><td> 18,2 </td><td> 22,1 </td><td> 25,0 </td><td> >29,6 </td></tr>
+<tr><td>25-29 </td><td> 18,9 </td><td> 22,0 </td><td> 25,4 </td><td> >29,8 </td></tr>
+<tr><td>30-34 </td><td> 19,7 </td><td> 22,7 </td><td> 26,4 </td><td> >30,5 </td></tr>
+<tr><td>35-39 </td><td> 21,1 </td><td> 24,0 </td><td> 27,7 </td><td> >31,5 </td></tr>
+<tr><td>40-44 </td><td> 22,6 </td><td> 25,6 </td><td> 29,3 </td><td> >32,8 </td></tr>
+<tr><td>45-49 </td><td> 24,3 </td><td> 27,3 </td><td> 30,9 </td><td> >34,1 </td></tr>
+<tr><td>50-54 </td><td> 25,2 </td><td> 26,2 </td><td> 31,8 </td><td> >35,1 </td></tr>
+<tr><td>55-59 </td><td> 26,6 </td><td> 29,7 </td><td> 33,1 </td><td> >36,2 </td></tr>
+<tr><td>60+   </td><td> 27,4 </td><td> 30,7 </td><td> 34,0 </td><td> >37,3 </td></tr>
 </table>
 
 ### Thời gian sinh học của cơ thể
@@ -489,7 +489,7 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 
 > _Mỗi cơ quan trong cơ thể đều có một khung giờ nhất định để làm việc hết công suất và một khung giờ để nghỉ ngơi. Những thói quen không điều độ và lệch quỹ đạo hoạt động của vòng năng lượng tuần hoàn sẽ dẫn đến những căn bệnh không mong muốn. Do đó, việc lập kế hoạch làm việc – ăn uống – nghỉ ngơi tương ứng với thời gian hoạt động của các cơ quan theo vòng năng lượng tuần hoàn rất cần thiết để có một cơ thể khỏe mạnh._
 
-                    
+
                     
                     <tr>
                         <th colspan="2" class="is-warning">Lưu ý các khoảng thời gian</th>
