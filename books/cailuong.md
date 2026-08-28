@@ -1,6 +1,10 @@
-# Trích đoạn cải lương
+<h1 align="center">Trích đoạn cải lương</h1>
 
 ---
+
+<div id="01"></div>
+
+🔹[Nữa đời hương phấn](#01)🔹[Võ Đông Sơ - Bạch Thu Hà](#02)🔹[Tình anh bán chiếu](#03)🔹[Lá trầu xanh](#04)🔹
 
 <h3 align="center">Nữa đời hương phấn</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
@@ -95,6 +99,10 @@ Nữa đời hương phấn vì đâu lỡ làng, vương vấn sầu trên cung
 </blockquote></details>
 
 ---
+
+<div id="02"></div>
+
+🔹[Nữa đời hương phấn](#01)🔹[Võ Đông Sơ - Bạch Thu Hà](#02)🔹[Tình anh bán chiếu](#03)🔹[Lá trầu xanh](#04)🔹
 
 <h3 align="center">Võ Đông Sơ - Bạch Thu Hà</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
@@ -198,6 +206,10 @@ Nói nữa chi thêm nghẹn lời.
 
 ---
 
+<div id="03"></div>
+
+🔹[Nữa đời hương phấn](#01)🔹[Võ Đông Sơ - Bạch Thu Hà](#02)🔹[Tình anh bán chiếu](#03)🔹[Lá trầu xanh](#04)🔹
+
 <h3 align="center">Tình anh bán chiếu</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
@@ -257,6 +269,10 @@ Nói nữa chi thêm nghẹn lời.
 </blockquote></details>
 
 ---
+
+<div id="04"></div>
+
+🔹[Nữa đời hương phấn](#01)🔹[Võ Đông Sơ - Bạch Thu Hà](#02)🔹[Tình anh bán chiếu](#03)🔹[Lá trầu xanh](#04)🔹
 
 <h3 align="center">Lá trầu xanh</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
