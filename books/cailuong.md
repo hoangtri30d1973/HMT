@@ -7,25 +7,35 @@
 <blockquote><div markdown="1" align="justify">
 
 <table>
-<tr><td>Nữa đời hương phấn nương nhờ của Phật<br/>
-Xa rời gian dối vui câu kệ kinh<br/>
-Thôi rồi một kiếp hồn nhan bạc phận<br/>
+<tr><td align="center"><div markdown="1">
+
+Nữa đời hương phấn nương nhờ của Phật
+
+Xa rời gian dối vui câu kệ kinh
+
+Thôi rồi một kiếp hồn nhan bạc phận
+
 Dang dở cầu duyên âm thầm, cho ai được tròn hạnh phúc
-</td>
-<td>Nữa đời hương phấn tay lần chuỗi hạt<br/>
-Xa rời mái tóc chưa nhạt mùi hương<br/>
+</div></td>
+<td align="center"><div markdown="1">
+
+Nữa đời hương phấn tay lần chuỗi hạt
+
+Xa rời mái tóc chưa nhạt mùi hương
+
 Nữa đời hương phấn vì đâu lỡ làng, vương vấn sầu trên cung đàn, thương ai cuộc tình trái ngang
-</td></tr>
+</div></td></tr>
 </table>
 
-⭐
+<div align="center">⭐</div>
 <div align="jusify" markdown="1">
+  
 - ♂️ Anh suy nghĩ kỹ rồi em à, việc cưới nhau đó đâu phải là một việc buôn bán, mà là một sự hòa hợp giữa hai cuộc đời ... của hai kẻ yêu nhau. Không rào trước đón sau, không cân phân đo lường, không biết chi điều hơn lẽ thiệt, mà chỉ có tấm lòng trọn vẹn, em ơi dẫu sau này cuộc sống ra sao, cũng quyết không thay lòng.
 - ♀️ Nếu anh đã vì sự say mê đắm đuối, thì chắc hản sau này, có ngày anh sẽ hối, rồi cảm thấy hôn nhân là một điều tội lỗi, làm hoen ố một đời trai, cũng trong sạch như ai. Vì một bên là cô gái phong sương, còn một bên là thanh niên trong lành, ắt hản ngày sum họp, sẽ lắm lời dị nghị, anh à... anh cũng thừa hiểu hôn nhân không giống như ái tình.
 - ♂️ Nước ở trong bình, khi mới nhìn thì trong suốt, ai chẳng hiểu rằng có một thời gian trước, cạn cáu nổi lên rồi nay nằm yên dưới đáy nước, thì cuộc đời của em đây, ví như nước ấy mà thôi.
 </div>
 
-⭐
+<div align="center">⭐</div>
 <div align="jusify" markdown="1">
   
 - ♂️ Tôi là người buôn bán ở Thủ Đức, nó buôn bán ở Sài Gòn, nó chính là thằng em ruột của tôi, tôi tên là Cang còn nó thiệt tên Tùng.
@@ -36,7 +46,7 @@ Nữa đời hương phấn vì đâu lỡ làng, vương vấn sầu trên cung
 - ♀️ Dạ phải, em cũng biết anh Tùng, không có chuyện gì mà ảnh nói dối với ai, thật ra giữa chốn phồn hoa náo nhiệt này, dễ gì kiếm một người như ảnh đâu.
 </div>
 
-⭐
+<div align="center">⭐</div>
 <div align="jusify" markdown="1">
   
 - ♀️ Hướng đi ấy em chưa định được, nhưng em chỉ biết rằng em phải đi vì lòng tự trọng, dẫu em là một cô gái giang ... hồ. Người ta từ chối không cho em làm dâu thảo vợ hiền. Em vừa mới ngoi khỏi vũng lầy tội lỗi, người ta đạp em xuống vũng bùn nhơ. Em muốn lau đi khuôn mặt nhuốc nhơ, người ta bưng thau nước ấy đổ đi. Em muốn bước ra ánh sáng trong lành, lại bị người ta xô em vào trong bóng tối.
@@ -45,27 +55,27 @@ Nữa đời hương phấn vì đâu lỡ làng, vương vấn sầu trên cung
 - ♀️ Thôi anh hai cứ an tâm về đi, về lo cưới vợ cho em anh đi, đi đi.
 </div>
 
-⭐
+<div align="center">⭐</div>
 <div align="jusify" markdown="1">
   
 - ♀️ Khổ em quá à, anh thông cảm cho em mà, tuy đem dạ yêu anh, nhưng phải tùy lệnh cha, bởi vì chuyện trăm năm, đâu phải là chuyện nhỏ nhen, xin anh hiểu giùm em, công sinh thành mấy năm dưỡng dục, người tái tạo cuộc đời, cao cả như trời.
 - ♂️ Anh là người của bốn phương, không mẹ không cha, và cũng không cửa không nhà, mà trót yêu em rồi, biết làm sao sum hiệp để hỏi buồn chia phôi.
 </div>
 
-⭐
+<div align="center">⭐</div>
 <div align="jusify" markdown="1">
 - ♂️ Ê ê đừng chửi chớ, chắc cô chưa quên, có lần trước đây, cô đã mắng tôi tiếng khốn nạn này, tôi nhất định làm cho cô sáng mắt, chửi người ta có lợi gì cho cô không.
 - ♀️ Ở trên đời này tại sao lại có thứ đàn ông, mặt chai mày đá cũng như ông, thói sở khanh không sợ người ta khinh, ông thản nhiên đi mua bán ái tình, ông gạt tôi rồi lại muôn gạt cả đến em tôi.
 </div>
 
-⭐
+<div align="center">⭐</div>
 <div align="jusify" markdown="1">
   
 - ♀️ Chị thương em không hết, có lý nào chị cướp giật tình em. Nhưng vì hoàn cảnh của chị không thể nào nói hết ra đây. Đã từ lâu, chị xa cách gia đình. Cuộc đời lắm phong ba, gặp bao điều xót xa. Xưa nay trong chốn tình trường, có mấy ai thật lòng với ta? Tuổi của em đương độ xuân thời, nên có lắm kẻ tới lui. Khi bướm hưởng được hoa rồi, hoa đâu còn ngày vui.
 - ♀️ Chị tưởng đâu anh trai nào cũng bội bạc, sao khong phân biệt từ người, người ta ở trong đời, có ai mà giống ai.
 </div>
 
-⭐
+<div align="center">⭐</div>
 <div align="jusify" markdown="1">
 
 - ♂️ Không có cha con gì hết, Người đang nói chuyện với tao tuy là xác con The nhưng tâm hồn con Hương, trước kia mày là đưa con gái đàng hoàng, nay mày lại đi làm bại hoại gia phong, lễ giáo của nhà tao, tao cũng tin mày đi làm ăn chân thật, chứ thật ra tao đâu dè, mày đem tiết trinh bán khắp phụ người ta để nuôi mẹ nuôi cha, trời ơi cái đồ quân mất dạy, đừng léo hánh về đây để làm nhục tổ tông.
@@ -74,7 +84,7 @@ Nữa đời hương phấn vì đâu lỡ làng, vương vấn sầu trên cung
 - ♀️ Xin ba nhìn nhận con là con The, cho con ở lại sớm hôm hầu cha mẹ.
 </div>
 
-⭐
+<div align="center">⭐</div>
 <div align="jusify" markdown="1">
 
 - ♂️ Tụi bây sao kỳ quá, thét rồi tao cũng không hiểu nỗi nữa à ... bởi vì khi cháu đi rồi, thì kế sáng bữa sau, thằng Tùng nó tới với tao, nó đấm ngực nó kêu trời, tao đưa thơ cho nó đọc, coi mòi nó bực dọc, trong suốt một tuần nó kiếm khắp nơi, cũng không ra được manh mối gì.
