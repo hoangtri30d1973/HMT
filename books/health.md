@@ -316,11 +316,11 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 </table>
 </td><td>
 <table>
-<tr><td>170 | 62-66</td></tr>
-<tr><td>172 | 64-68</td></tr>
-<tr><td>174 | 65-70</td></tr>
-<tr><td>176 | 67-71</td></tr>
-<tr><td>178 | 68-73</td></tr>
+<tr><td>170 </td><td> 62-66</td></tr>
+<tr><td>172 </td><td> 64-68</td></tr>
+<tr><td>174 </td><td> 65-70</td></tr>
+<tr><td>176 </td><td> 67-71</td></tr>
+<tr><td>178 </td><td> 68-73</td></tr>
 </table>
 </td><td>
 <table>
@@ -381,15 +381,15 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 
 ### Chỉ số cân đối (Phân loại vóc dáng)
 
-1 - Béo ẩn - Béo bụng nhỏ, vóc dáng bên ngoài bình thường, lượng mỡ cao và cơ thấp hơn bình thường.
-2 - Béo phì - Béo trung bình, mỡ cao, cơ trung bình.
-3 - Béo chắc - Quá béo, mỡ, cơ cao.
-4 - Dưới chuẩn - Ít cơ, mỡ bình thường.
-5 - Chuẩn - Cơ, % mỡ bình thường.
-6 - Cơ bắp - Nhiều cơ bắp, % mỡ bình thường.
-7 - Gầy - Thiếu cơ, thiếu mỡ.
-8 - Gầy và nhiều cơ - Vận động viên (Ít mỡ, nhiều cơ).
-9 - Cơ bắp - Vận động viên (Ít mỡ, rất nhiều cơ).</td>
+1. Béo ẩn - Béo bụng nhỏ, vóc dáng bên ngoài bình thường, lượng mỡ cao và cơ thấp hơn bình thường.
+2. Béo phì - Béo trung bình, mỡ cao, cơ trung bình.
+3. Béo chắc - Quá béo, mỡ, cơ cao.
+4. Dưới chuẩn - Ít cơ, mỡ bình thường.
+5. Chuẩn - Cơ, % mỡ bình thường.
+6. Cơ bắp - Nhiều cơ bắp, % mỡ bình thường.
+7. Gầy - Thiếu cơ, thiếu mỡ.
+8. Gầy và nhiều cơ - Vận động viên (Ít mỡ, nhiều cơ).
+9. Cơ bắp - Vận động viên (Ít mỡ, rất nhiều cơ).</td>
 
 ### Bảng tỷ lệ mỡ
 
@@ -489,57 +489,20 @@ Các nhà nghiên cứu quan sát thói quen uống rượu của hơn 600.000 n
 
 > _Mỗi cơ quan trong cơ thể đều có một khung giờ nhất định để làm việc hết công suất và một khung giờ để nghỉ ngơi. Những thói quen không điều độ và lệch quỹ đạo hoạt động của vòng năng lượng tuần hoàn sẽ dẫn đến những căn bệnh không mong muốn. Do đó, việc lập kế hoạch làm việc – ăn uống – nghỉ ngơi tương ứng với thời gian hoạt động của các cơ quan theo vòng năng lượng tuần hoàn rất cần thiết để có một cơ thể khỏe mạnh._
 
+### Lưu ý các khoảng thời gian
 
-                    
-                    <tr>
-                        <th colspan="2" class="is-warning">Lưu ý các khoảng thời gian</th>
-                    </tr>
-                    <tr>
-                        <th>Thời gian ngủ nông</th>
-                        <td>Nửa đêm 12:00-1:00, nhạy cảm hay mơ, cơ thể không khỏe dễ bị thức giấc vào giờ này.</td>
-                    </tr>
-                    <tr>
-                        <th>Thời gian thải độc</th>
-                        <td>Rạng sáng lúc 1:00-2:00. Vào thời điểm này, gan hoạt động mạnh mẽ để thải độc, cơ thể cần ở trong trạng thái ngủ sâu, cho phép gan hoàn thành quá trình chuyển hóa chất thải.</td>
-                    </tr>
-                    <tr>
-                        <th>Thời gian ngủ sâu</th>
-                        <td>Rạng sáng 3:00-4:00, thời điểm dễ phát bệnh nhất đối với những bệnh nhân đang mang bệnh nặng, thường xuyên có người bệnh tử vong vào thời gian này. Tốt nhất không nên thức khuya đến khoảng thời gian đó.</td>
-                    </tr>
-                    <tr>
-                        <th>Thời gian tinh hoa</th>
-                        <td>Buổi sáng 9:00-11:00, thời điểm này khả năng tập trung và trí nhớ là tốt nhất, học tập và làm việc đạt hiệu quả cao nhất.</td>
-                    </tr>
-                    <tr>
-                        <th>Thời gian nghỉ trưa</th>
-                        <td>Giữa trưa 12:00-1:00, tốt nhất nên ngồi yên tĩnh hoặc chợp mắt nghỉ ngơi một lát sau đó mới ăn trưa, không nên uống bia rượu, rất dễ say hơn nữa còn gây tổn thương cho gan!</td>
-                    </tr>
-                    <tr>
-                        <th>Thời gian cao điểm</th>
-                        <td>Buổi chiều 2:00-3:00, thời gian mà khả năng tập trung và óc sáng tạo được phát huy tối đa.</td>
-                    </tr>
-                    <tr>
-                        <th>Thời gian thoái trào</th>
-                        <td>Buổi chiều 4:00-5:00, giai đoạn thể lực giảm sút, tốt nhất nên bổ sung hoa quả để không bị đói, tránh để bụng quá đói mà ăn nhiều dẫn đến béo phì.</td>
-                    </tr>
-                    <tr>
-                        <th>Thời gian phân tán</th>
-                        <td>Buổi chiều 5:00-6:00, lượng đường trong máu tăng nhẹ, khứu giác và vị giác nhạy cảm nhất chính là vào thời điểm này. Đừng chần chừ mà chuẩn bị bữa ăn cho buổi tối để tinh thần thêm phấn chấn.</td>
-                    </tr>
-                    <tr>
-                        <th>Thời gian tạm nghỉ</th>
-                        <td>Buổi tối 7:00-8:00, 30 phút sau khi ăn tối tốt nhất nên đi bộ hoặc tắm rửa, thả lỏng cơ thể, giải tỏa mệt mỏi sau cả một ngày dài.</td>
-                    </tr>
-                    <tr>
-                        <th>Thời gian tu dưỡng</th>
-                        <td>Buổi tối 8:00-10:00, là thời gian cao điểm của các hoạt động buổi tối, bạn nên tận dụng khoảng thời gian này để thảo luận, nghiên cứu,… chung quy là những hoạt động cần sự suy nghĩ tỉ mỉ, cẩn trọng.</td>
-                    </tr>
-                    <tr>
-                        <th>Thời gian ngủ đêm</th>
-                        <td>Buổi đêm 11:00-12:00, sau một ngày bận rộn, lúc này là thời điểm thả lòng tâm trạng và chìm vào giấc ngủ, không nên bắt cơ thể làm việc quá sức!</td>
-                    </tr>
-                </table>
-            </div>
-        </details>
-    </div>
-    </section>
+<table>
+<tr><th>Thời gian ngủ nông</th><td>Nửa đêm 12:00-1:00, nhạy cảm hay mơ, cơ thể không khỏe dễ bị thức giấc vào giờ này.</td></tr>
+<tr><th>Thời gian thải độc</th><td>Rạng sáng lúc 1:00-2:00. Vào thời điểm này, gan hoạt động mạnh mẽ để thải độc, cơ thể cần ở trong trạng thái ngủ sâu, cho phép gan hoàn thành quá trình chuyển hóa chất thải.</td></tr>
+<tr><th>Thời gian ngủ sâu</th><td>Rạng sáng 3:00-4:00, thời điểm dễ phát bệnh nhất đối với những bệnh nhân đang mang bệnh nặng, thường xuyên có người bệnh tử vong vào thời gian này. Tốt nhất không nên thức khuya đến khoảng thời gian đó.</td></tr>
+<tr><th>Thời gian tinh hoa</th><td>Buổi sáng 9:00-11:00, thời điểm này khả năng tập trung và trí nhớ là tốt nhất, học tập và làm việc đạt hiệu quả cao nhất.</td></tr>
+<tr><th>Thời gian nghỉ trưa</th><td>Giữa trưa 12:00-1:00, tốt nhất nên ngồi yên tĩnh hoặc chợp mắt nghỉ ngơi một lát sau đó mới ăn trưa, không nên uống bia rượu, rất dễ say hơn nữa còn gây tổn thương cho gan!</td></tr>
+<tr><th>Thời gian cao điểm</th><td>Buổi chiều 2:00-3:00, thời gian mà khả năng tập trung và óc sáng tạo được phát huy tối đa.</td></tr>
+<tr><th>Thời gian thoái trào</th><td>Buổi chiều 4:00-5:00, giai đoạn thể lực giảm sút, tốt nhất nên bổ sung hoa quả để không bị đói, tránh để bụng quá đói mà ăn nhiều dẫn đến béo phì.</td></tr>
+<tr><th>Thời gian phân tán</th><td>Buổi chiều 5:00-6:00, lượng đường trong máu tăng nhẹ, khứu giác và vị giác nhạy cảm nhất chính là vào thời điểm này. Đừng chần chừ mà chuẩn bị bữa ăn cho buổi tối để tinh thần thêm phấn chấn.</td></tr>
+<tr><th>Thời gian tạm nghỉ</th><td>Buổi tối 7:00-8:00, 30 phút sau khi ăn tối tốt nhất nên đi bộ hoặc tắm rửa, thả lỏng cơ thể, giải tỏa mệt mỏi sau cả một ngày dài.</td></tr>
+<tr><th>Thời gian tu dưỡng</th><td>Buổi tối 8:00-10:00, là thời gian cao điểm của các hoạt động buổi tối, bạn nên tận dụng khoảng thời gian này để thảo luận, nghiên cứu,… chung quy là những hoạt động cần sự suy nghĩ tỉ mỉ, cẩn trọng.</td></tr>
+<tr><th>Thời gian ngủ đêm</th><td>Buổi đêm 11:00-12:00, sau một ngày bận rộn, lúc này là thời điểm thả lòng tâm trạng và chìm vào giấc ngủ, không nên bắt cơ thể làm việc quá sức!</td></tr>
+</table>
+
+---
