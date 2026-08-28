@@ -97,12 +97,19 @@ _Sưu tầm_
 > + Năm 1428 Nguyễn Trãi thay mặt vua viết ""Bình Ngô đại cáo"", một bản tuyên ngôn độc lập của nước ta, khẳng định chủ quyền, cương vực, đánh dấu một sự phát triển mới trong lịch sử dựng và giữ nước.
 
 🔹 Từ 1433 – 1442, triều đại của Lê Thái Tông. Thời kỳ này có một vụ án lịch sử lớn: ""Tru di Tam tộc"" Nguyễn Trãi.
+
 🔹 Từ 1442 – 1459, triều đại của Lê Nhân Tông. Thời kỳ có loạn Lê Nghi Dân, nhà vua bị giết năm 19 tuổi.
+
 🔹 Từ 1460 – 1497, triều đại của Lê Thánh Tông. Đây là thời kỳ thịnh trị của triều Lê với sự ra đời của bộ luật Hồng Đức – một bộ luật hoàn chỉnh, có nhiều điểm tiến bộ.
+
 🔹 Từ 1498 – 1504, triều đại của Lê Hiến Tông.
+
 🔹 Từ 1504 – 1509, triều đại của Lê Túc Tông, sau đó là Lê Uy Mục.
+
 🔹 Từ 1509 – 1516, triều đại của Lê Tương Dực. Nhà Lê suy thoái.
+
 🔹 Từ 1516 – 1522, triều đại của Lê Chiêu Tông. Đại thần Mạc Đăng Dung phế Lê Chiêu Tông, dựng Lê Cung Hoàng lên ngôi.
+
 🔹 Từ 1522 – 1527, triều đại Lê Cung Hoàng nhưng quyền hành thực chất nằm trong tay họ Mạc.
 
 🔹 **Từ 1527 – 1529, Mạc Đăng Dung lập nên triều Mạc**
@@ -116,10 +123,15 @@ _Sưu tầm_
 > + Lê Chiêu Thống vì quyền lợi cá nhân sang cầu viện nhà Mãn Thanh. Quân Thanh kéo quân vào xâm lược Việt Nam.
 
 🔹 Năm 1789, trận Đống Đa. Quân Tây Sơn dưới sự chỉ huy của Nguyễn Huệ đã chiến thắng quân Thanh, giành độc lập cho Tổ quốc
+
 🔹 Từ 1545 – 1788, triều đại của nhà Trịnh nắm thực quyền bên cạnh sự tồn tại của vua Lê và Chúa Nguyễn Đàng trong (bắt đầu từ chúa Nguyễn Hoàng – 1558)
+
 🔹 Năm 1548 Trịnh Kiểm bắt đầu nắm quyền binh. Triều đại của Trịnh Kiểm bắt đầu từ 1545 – 1570. Tiếp đó là các chúa Trịnh Tráng, Trịnh Tạc, Trịnh Can, Trịnh Cương, Trịnh Giang, Trịnh Doanh, Trịnh Sâm, Trịnh Cán, Trịnh Khải và Trịnh Bồng
+
 🔹 Từ 1672 có sự phân chia Đàng trong (chúa Nguyễn) và Đàng ngoài (chúa Trịnh + Vua Lê) lấy sông Gianh làm giới tuyến
+
 🔹 1782 loạn kiêu binh. Sự kiện này được miêu tả rất rõ trong tiểu thuyết lịch sử – ""Hoàng Lê nhất thống chí""
+
 🔹 1558, Nguyễn Hoàng vào trấn thủ Thuận Hóa, Quảng Nam. Bắt đầu từ đây, nhà Nguyễn khởi nghiệp với 9 đời chúa là Nguyễn Hoàng, Nguyễn Phúc Nguyên, Nguyễn Phúc Lan, Nguyễn Phúc Tần, Nguyễn Phúc Thái, Nguyễn Phúc Chu, Nguyễn Phúc Thụ, Nguyễn Phúc Khoát, Nguyễn Phúc Thuần. Tới năm 1174, quân Trịnh chiếm được Phú Xuân đặt quan cai trị Thuận Hóa. Nguyễn Phúc Thuần chết, kết thúc giai đoạn lịch sử 9 chúa Nguyễn Đàng trong
 
 🔹 **Từ 1778 – 1802, triều đại Tây Sơn**
@@ -160,14 +172,23 @@ _Sưu tầm_
 > + 1926 – 1945 triều Bảo Đại. Năm 1945, Bảo Đại thoái vị, chấm dứt chế độ phong kiến tồn tại hàng ngàn năm ở Việt Nam.
 
 🔹 1859 – 1864, khởi nghĩa Trương Định.
+
 🔹 1861 – 1868 khởi nghĩa Nguyễn Trung Trực.
+
 🔹 1886 – 1887, khởi nghĩa Ba Đình.
+
 🔹 1885 – 1887, khởi nghĩa Bãi Sậy.
+
 🔹 1886 – 1892, khởi nghĩa Hùng Lĩnh.
+
 🔹 1885 – 1896, khởi nghĩa Hương Khê.
+
 🔹 1887 – 1913, khởi nghĩa Yên Thế.
+
 🔹 1917 – 1918, khởi nghĩa Thái Nguyên.
+
 🔹 1921, bạo động ở Lạng Sơn.
+
 🔹 1930, bạo động ở Yên Bái.
 
 🔹 **3.2.1930, Đảng Cộng sản Đông Dương ra đời**
