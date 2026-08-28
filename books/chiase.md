@@ -4,7 +4,7 @@
 
 <div id="01"></div>
 
-🔹[CHRO](#01)🔹[45 giây tạo nên thay đổi](#02)🔹[BMG](#03)🔹
+<div align="center">🔹<a href="#01" title="Quản lý nhân sự">CHRO</a>🔹<a href="#02" title="Sách tìm hiểu về phương thức bán hàng đa cấp">45 giây tạo nên thay đổi</a>🔹<a href="#03" title="Business Model Generation">BMG</a>🔹</div>
 
 <h3 align="center">CHRO</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
@@ -143,7 +143,7 @@
 
 <div id="02"></div>
 
-🔹[CHRO](#01)🔹[45 giây tạo nên thay đổi](#02)🔹[BMG](#03)🔹
+<div align="center">🔹<a href="#01" title="Quản lý nhân sự">CHRO</a>🔹<a href="#02" title="Sách tìm hiểu về phương thức bán hàng đa cấp">45 giây tạo nên thay đổi</a>🔹<a href="#03" title="Business Model Generation">BMG</a>🔹</div>
 
 <h3 align="center">45 giây tạo nên thay đổi</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
@@ -217,7 +217,7 @@
 
 <div id="03"></div>
 
-🔹[CHRO](#01)🔹[45 giây tạo nên thay đổi](#02)🔹[BMG](#03)🔹
+<div align="center">🔹<a href="#01" title="Quản lý nhân sự">CHRO</a>🔹<a href="#02" title="Sách tìm hiểu về phương thức bán hàng đa cấp">45 giây tạo nên thay đổi</a>🔹<a href="#03" title="Business Model Generation">BMG</a>🔹</div>
 
 <h3 align="center">BMG</h3>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
