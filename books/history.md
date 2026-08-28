@@ -91,99 +91,99 @@ _Sưu tầm_
 > + Từ 1401 – 1407, triều đại Hồ Hán Thương nhưng thực chất Hồ Quý Ly vẫn cầm quyền. Quân Minh sang xâm lược.
 > + Từ 1407 – 1414, thời kỳ hậu Trần gồm các triều đại của Giản Định Đế và Trùng Quang Đế chống quân Minh nhưng không thành công.
 
-- Từ 1428 – 1433, thời kỳ mở đầu triều đại Lê Sơ bắt đầu từ triều đại của Lê Thái Tổ (Lê Lợi). 
-    + Năm 1418, Lê Lợi khởi binh. 
-    + Năm 1427 quân Minh thua phải rút quân. 
-    + Năm 1428 Nguyễn Trãi thay mặt vua viết ""Bình Ngô đại cáo"", một bản tuyên ngôn độc lập của nước ta, khẳng định chủ quyền, cương vực, đánh dấu một sự phát triển mới trong lịch sử dựng và giữ nước.
+🔹 **Từ 1428 – 1433, thời kỳ mở đầu triều đại Lê Sơ bắt đầu từ triều đại của Lê Thái Tổ (Lê Lợi)**
+> + Năm 1418, Lê Lợi khởi binh. 
+> + Năm 1427 quân Minh thua phải rút quân. 
+> + Năm 1428 Nguyễn Trãi thay mặt vua viết ""Bình Ngô đại cáo"", một bản tuyên ngôn độc lập của nước ta, khẳng định chủ quyền, cương vực, đánh dấu một sự phát triển mới trong lịch sử dựng và giữ nước.
 
-- Từ 1433 – 1442, triều đại của Lê Thái Tông. Thời kỳ này có một vụ án lịch sử lớn: ""Tru di Tam tộc"" Nguyễn Trãi.
-- Từ 1442 – 1459, triều đại của Lê Nhân Tông. Thời kỳ có loạn Lê Nghi Dân, nhà vua bị giết năm 19 tuổi.
-- Từ 1460 – 1497, triều đại của Lê Thánh Tông. Đây là thời kỳ thịnh trị của triều Lê với sự ra đời của bộ luật Hồng Đức – một bộ luật hoàn chỉnh, có nhiều điểm tiến bộ.
-- Từ 1498 – 1504, triều đại của Lê Hiến Tông.
-- Từ 1504 – 1509, triều đại của Lê Túc Tông, sau đó là Lê Uy Mục.
-- Từ 1509 – 1516, triều đại của Lê Tương Dực. Nhà Lê suy thoái.
-- Từ 1516 – 1522, triều đại của Lê Chiêu Tông. Đại thần Mạc Đăng Dung phế Lê Chiêu Tông, dựng Lê Cung Hoàng lên ngôi.
-- Từ 1522 – 1527, triều đại Lê Cung Hoàng nhưng quyền hành thực chất nằm trong tay họ Mạc.
+🔹 Từ 1433 – 1442, triều đại của Lê Thái Tông. Thời kỳ này có một vụ án lịch sử lớn: ""Tru di Tam tộc"" Nguyễn Trãi.
+🔹 Từ 1442 – 1459, triều đại của Lê Nhân Tông. Thời kỳ có loạn Lê Nghi Dân, nhà vua bị giết năm 19 tuổi.
+🔹 Từ 1460 – 1497, triều đại của Lê Thánh Tông. Đây là thời kỳ thịnh trị của triều Lê với sự ra đời của bộ luật Hồng Đức – một bộ luật hoàn chỉnh, có nhiều điểm tiến bộ.
+🔹 Từ 1498 – 1504, triều đại của Lê Hiến Tông.
+🔹 Từ 1504 – 1509, triều đại của Lê Túc Tông, sau đó là Lê Uy Mục.
+🔹 Từ 1509 – 1516, triều đại của Lê Tương Dực. Nhà Lê suy thoái.
+🔹 Từ 1516 – 1522, triều đại của Lê Chiêu Tông. Đại thần Mạc Đăng Dung phế Lê Chiêu Tông, dựng Lê Cung Hoàng lên ngôi.
+🔹 Từ 1522 – 1527, triều đại Lê Cung Hoàng nhưng quyền hành thực chất nằm trong tay họ Mạc.
 
-- Từ 1527 – 1529, Mạc Đăng Dung lập nên triều Mạc.
-    + Từ 1530 – 1592, các triều đại Mạc Đăng Doanh, Mạc Phúc Hải, Mạc Phúc Nguyên, Mạc Mậu Hợp.
+🔹 **Từ 1527 – 1529, Mạc Đăng Dung lập nên triều Mạc**
+> + Từ 1530 – 1592, các triều đại Mạc Đăng Doanh, Mạc Phúc Hải, Mạc Phúc Nguyên, Mạc Mậu Hợp.
 
-- Từ 1533 – 1578, thời kỳ nhà Lê Trung Hưng bắt đầu từ Lê Trung Tông, Lê Anh Tông, Lê Kính Tông, Lê Thần Tông, Lê Chân Tông, Lê Huyền Tông, Lê Gia Tông, Lê Hy Tông, Lê Dụ Tông, Lê Du Phường, Lê Thuần Tông, Lê Yý Tông, Lê Hiển Tông, Lê Chiêu Thống. 
-    + Sau 50 nội chiến Lê – Mạc, nhờ Trịnh Tùng Mạc Mậu Hợp bị bắt. Nhà Mạc chấm dứt. 
-    + Vai trò của nhà Trịnh nổi lên và bắt đầu thời kỳ vua Lê, Chúa Trịnh. 
-    + Thời kỳ cuối cùng của nhà Lê Trung Hưng, triều chính nát bét. 
-    + Nguyễn Huệ kéo quân ra Bắc dẹp Trịnh, đưa Lê Duy Cận lên làm giám quốc. 
-    + Lê Chiêu Thống vì quyền lợi cá nhân sang cầu viện nhà Mãn Thanh. Quân Thanh kéo quân vào xâm lược Việt Nam.
+🔹 **Từ 1533 – 1578, thời kỳ nhà Lê Trung Hưng bắt đầu từ Lê Trung Tông, Lê Anh Tông, Lê Kính Tông, Lê Thần Tông, Lê Chân Tông, Lê Huyền Tông, Lê Gia Tông, Lê Hy Tông, Lê Dụ Tông, Lê Du Phường, Lê Thuần Tông, Lê Yý Tông, Lê Hiển Tông, Lê Chiêu Thống**
+> + Sau 50 nội chiến Lê – Mạc, nhờ Trịnh Tùng Mạc Mậu Hợp bị bắt. Nhà Mạc chấm dứt. 
+> + Vai trò của nhà Trịnh nổi lên và bắt đầu thời kỳ vua Lê, Chúa Trịnh. 
+> + Thời kỳ cuối cùng của nhà Lê Trung Hưng, triều chính nát bét. 
+> + Nguyễn Huệ kéo quân ra Bắc dẹp Trịnh, đưa Lê Duy Cận lên làm giám quốc. 
+> + Lê Chiêu Thống vì quyền lợi cá nhân sang cầu viện nhà Mãn Thanh. Quân Thanh kéo quân vào xâm lược Việt Nam.
 
-- Năm 1789, trận Đống Đa. Quân Tây Sơn dưới sự chỉ huy của Nguyễn Huệ đã chiến thắng quân Thanh, giành độc lập cho Tổ quốc.
-- Từ 1545 – 1788, triều đại của nhà Trịnh nắm thực quyền bên cạnh sự tồn tại của vua Lê và Chúa Nguyễn Đàng trong (bắt đầu từ chúa Nguyễn Hoàng – 1558).
-- Năm 1548 Trịnh Kiểm bắt đầu nắm quyền binh. Triều đại của Trịnh Kiểm bắt đầu từ 1545 – 1570. Tiếp đó là các chúa Trịnh Tráng, Trịnh Tạc, Trịnh Can, Trịnh Cương, Trịnh Giang, Trịnh Doanh, Trịnh Sâm, Trịnh Cán, Trịnh Khải và Trịnh Bồng.
-- Từ 1672 có sự phân chia Đàng trong (chúa Nguyễn) và Đàng ngoài (chúa Trịnh + Vua Lê) lấy sông Gianh làm giới tuyến.
-- 1782 loạn kiêu binh. Sự kiện này được miêu tả rất rõ trong tiểu thuyết lịch sử – ""Hoàng Lê nhất thống chí"".
-- 1558, Nguyễn Hoàng vào trấn thủ Thuận Hóa, Quảng Nam. Bắt đầu từ đây, nhà Nguyễn khởi nghiệp với 9 đời chúa là Nguyễn Hoàng, Nguyễn Phúc Nguyên, Nguyễn Phúc Lan, Nguyễn Phúc Tần, Nguyễn Phúc Thái, Nguyễn Phúc Chu, Nguyễn Phúc Thụ, Nguyễn Phúc Khoát, Nguyễn Phúc Thuần. Tới năm 1174, quân Trịnh chiếm được Phú Xuân đặt quan cai trị Thuận Hóa. Nguyễn Phúc Thuần chết, kết thúc giai đoạn lịch sử 9 chúa Nguyễn Đàng trong.
+🔹 Năm 1789, trận Đống Đa. Quân Tây Sơn dưới sự chỉ huy của Nguyễn Huệ đã chiến thắng quân Thanh, giành độc lập cho Tổ quốc
+🔹 Từ 1545 – 1788, triều đại của nhà Trịnh nắm thực quyền bên cạnh sự tồn tại của vua Lê và Chúa Nguyễn Đàng trong (bắt đầu từ chúa Nguyễn Hoàng – 1558)
+🔹 Năm 1548 Trịnh Kiểm bắt đầu nắm quyền binh. Triều đại của Trịnh Kiểm bắt đầu từ 1545 – 1570. Tiếp đó là các chúa Trịnh Tráng, Trịnh Tạc, Trịnh Can, Trịnh Cương, Trịnh Giang, Trịnh Doanh, Trịnh Sâm, Trịnh Cán, Trịnh Khải và Trịnh Bồng
+🔹 Từ 1672 có sự phân chia Đàng trong (chúa Nguyễn) và Đàng ngoài (chúa Trịnh + Vua Lê) lấy sông Gianh làm giới tuyến
+🔹 1782 loạn kiêu binh. Sự kiện này được miêu tả rất rõ trong tiểu thuyết lịch sử – ""Hoàng Lê nhất thống chí""
+🔹 1558, Nguyễn Hoàng vào trấn thủ Thuận Hóa, Quảng Nam. Bắt đầu từ đây, nhà Nguyễn khởi nghiệp với 9 đời chúa là Nguyễn Hoàng, Nguyễn Phúc Nguyên, Nguyễn Phúc Lan, Nguyễn Phúc Tần, Nguyễn Phúc Thái, Nguyễn Phúc Chu, Nguyễn Phúc Thụ, Nguyễn Phúc Khoát, Nguyễn Phúc Thuần. Tới năm 1174, quân Trịnh chiếm được Phú Xuân đặt quan cai trị Thuận Hóa. Nguyễn Phúc Thuần chết, kết thúc giai đoạn lịch sử 9 chúa Nguyễn Đàng trong
 
-- Từ 1778 – 1802, triều đại Tây Sơn.
-    + Năm 1771, anh em Tây Sơn (Nguyễn Nhạc, Nguyễn Lữ, Nguyễn Huệ) phất cờ khởi nghĩa. Nhà Tây Sơn hòa hoãn với chúa Trịnh để đánh chúa Nguyễn.
-    + 1778 Nguyễn Nhạc lên ngôi hoàng đế, lập nên triều đại Tây Sơn.
-    + 1784 Nguyễn Ánh sang cầu viện Xiêm. Nguyễn Huệ đánh tan quân Xiêm ở trận Rạch Giầm – Xoài Mút.
-    + 1786, Nguyễn Huệ ra Thăng Long diệt Trịnh phù Lê.
-    + 1788, Lê Chiêu Thống dẫn đường quân Thanh vào xâm lược nước ta.
-    + 1789, Nguyễn Huệ chỉ huy quân đại quân đánh tan quân Thanh ở Ngọc Hồi, Đống Đa.
-    + 1792 vua Quang Trung (Nguyễn Huệ) từ trần. Từ đây triều đại Tây Sơn bắt đầu suy thoái.
+🔹 **Từ 1778 – 1802, triều đại Tây Sơn**
+> + Năm 1771, anh em Tây Sơn (Nguyễn Nhạc, Nguyễn Lữ, Nguyễn Huệ) phất cờ khởi nghĩa. Nhà Tây Sơn hòa hoãn với chúa Trịnh để đánh chúa Nguyễn.
+> + 1778 Nguyễn Nhạc lên ngôi hoàng đế, lập nên triều đại Tây Sơn.
+> + 1784 Nguyễn Ánh sang cầu viện Xiêm. Nguyễn Huệ đánh tan quân Xiêm ở trận Rạch Giầm – Xoài Mút.
+> + 1786, Nguyễn Huệ ra Thăng Long diệt Trịnh phù Lê.
+> + 1788, Lê Chiêu Thống dẫn đường quân Thanh vào xâm lược nước ta.
+> + 1789, Nguyễn Huệ chỉ huy quân đại quân đánh tan quân Thanh ở Ngọc Hồi, Đống Đa.
+> + 1792 vua Quang Trung (Nguyễn Huệ) từ trần. Từ đây triều đại Tây Sơn bắt đầu suy thoái.
 
-- Từ 1793 – 1802, triều đại của Cảnh Thịnh (con vua Quang Trung). Chính sự rối loạn do nhà vua tin lời gian thần.
-    + 1800 Nguyễn Ánh đánh Quy Nhơn.
-    + 1801 Nguyễn Ánh đánh Phú Xuân.
-    + 1802 Nguyễn Ánh đánh kinh thành Thăng Long. Triều Tây Sơn chấm dứt.
-    + Từ 1802 – 1945, triều đại của nhà Nguyễn, bắt đầu từ Nguyễn Ánh (Gia Long). Nếu tính cả các chúa Nguyễn, bắt đầu từ Nguyễn Hoàng (1558) nhà Nguyễn tồn tại ở miền Nam 367 năm.
-    + 1802, sau khi diệt xong nhà Tây Sơn, Nguyễn Ánh lên ngôi lấy niên hiệu là Gia Long, đóng đô ở Phú Xuân (Huế).
-    + 1815 bộ ""Quốc triều hình luật"" được ban hành.
+🔹 **Từ 1793 – 1802, triều đại của Cảnh Thịnh (con vua Quang Trung). Chính sự rối loạn do nhà vua tin lời gian thần**
+> + 1800 Nguyễn Ánh đánh Quy Nhơn.
+> + 1801 Nguyễn Ánh đánh Phú Xuân.
+> + 1802 Nguyễn Ánh đánh kinh thành Thăng Long. Triều Tây Sơn chấm dứt.
+> + Từ 1802 – 1945, triều đại của nhà Nguyễn, bắt đầu từ Nguyễn Ánh (Gia Long). Nếu tính cả các chúa Nguyễn, bắt đầu từ Nguyễn Hoàng (1558) nhà Nguyễn tồn tại ở miền Nam 367 năm.
+> + 1802, sau khi diệt xong nhà Tây Sơn, Nguyễn Ánh lên ngôi lấy niên hiệu là Gia Long, đóng đô ở Phú Xuân (Huế).
+> + 1815 bộ ""Quốc triều hình luật"" được ban hành.
 
-- Từ 1820 – 1840, triều đại của Minh Mạng.
-    + Năm 1821, dựng lại Quốc Tử Giám, mở thi hội và thi đình. Thực thi các chính sách khuyến nông, tìm hiểu kỹ thuật đóng tàu của châu Âu. Về ngoại giao: thần phục nhà Thanh, nhưng nghi kỵ Pháp nên có hàng loạt chính sách cấm đạo.
+🔹 **Từ 1820 – 1840, triều đại của Minh Mạng**
+> + Năm 1821, dựng lại Quốc Tử Giám, mở thi hội và thi đình. Thực thi các chính sách khuyến nông, tìm hiểu kỹ thuật đóng tàu của châu Âu. Về ngoại giao: thần phục nhà Thanh, nhưng nghi kỵ Pháp nên có hàng loạt chính sách cấm đạo.
 
-- Từ 1841 – 1847, triều đại của Thiệu Trị.
-- Từ 1847 – 1883, triều đại của Tự Đức.
+🔹 Từ 1841 – 1847, triều đại của Thiệu Trị
+🔹 Từ 1847 – 1883, triều đại của Tự Đức
 
-- 1858 Pháp nổ súng xâm lược Nam Kỳ.
-    + 1883 hòa ước Quý Mùi.
-    + 1885 hòa ước Patơnốt, Việt Nam bị chia làm ba miền: Bắc, Trung, Nam, chịu sự bảo hộ của Pháp.
-    + 1883, triều Dục Đức, chỉ tồn tại trong ba ngày.
-    + 1883 (tháng 6 – tháng 11) triều đại Hiệp Hòa, tồn tại trong sáu tháng.
-    + 1883 – 1884, Triều Kiến Phúc, tồn tại trong tám tháng.
-    + 1884 – 1885, triều đại của Hàm Nghi nhà vua ra chiếu Cần Vương, kêu gọi nhân dân chống Pháp.
-    + 1885 – 1888 triều đại Đồng Khánh.
-    + 1889 – 1907 triều đại của Thành Thái. Nhà vua có ý thức tự cường nên không được thực dân Pháp chấp nhận.
-    + 1907, nhà vua bị ép phải thoái vị.
-    + 1907 – 1916, triều Duy Tân, nhà vua chống Pháp quyết liệt, định tổ chức khởi nghĩa thì bị lộ. Nhà vua bị Pháp đầy sang đảo Rênyông.
-    + 1916 – 1925, triều Khải Định, một triều vua bù nhìn mạt hạng nhất.
-    + 1926 – 1945 triều Bảo Đại. Năm 1945, Bảo Đại thoái vị, chấm dứt chế độ phong kiến tồn tại hàng ngàn năm ở Việt Nam.
+🔹 **1858 Pháp nổ súng xâm lược Nam Kỳ**
+> + 1883 hòa ước Quý Mùi.
+> + 1885 hòa ước Patơnốt, Việt Nam bị chia làm ba miền: Bắc, Trung, Nam, chịu sự bảo hộ của Pháp.
+> + 1883, triều Dục Đức, chỉ tồn tại trong ba ngày.
+> + 1883 (tháng 6 – tháng 11) triều đại Hiệp Hòa, tồn tại trong sáu tháng.
+> + 1883 – 1884, Triều Kiến Phúc, tồn tại trong tám tháng.
+> + 1884 – 1885, triều đại của Hàm Nghi nhà vua ra chiếu Cần Vương, kêu gọi nhân dân chống Pháp.
+> + 1885 – 1888 triều đại Đồng Khánh.
+> + 1889 – 1907 triều đại của Thành Thái. Nhà vua có ý thức tự cường nên không được thực dân Pháp chấp nhận.
+> + 1907, nhà vua bị ép phải thoái vị.
+> + 1907 – 1916, triều Duy Tân, nhà vua chống Pháp quyết liệt, định tổ chức khởi nghĩa thì bị lộ. Nhà vua bị Pháp đầy sang đảo Rênyông.
+> + 1916 – 1925, triều Khải Định, một triều vua bù nhìn mạt hạng nhất.
+> + 1926 – 1945 triều Bảo Đại. Năm 1945, Bảo Đại thoái vị, chấm dứt chế độ phong kiến tồn tại hàng ngàn năm ở Việt Nam.
 
-- 1859 – 1864, khởi nghĩa Trương Định.
-- 1861 – 1868 khởi nghĩa Nguyễn Trung Trực.
-- 1886 – 1887, khởi nghĩa Ba Đình.
-- 1885 – 1887, khởi nghĩa Bãi Sậy.
-- 1886 – 1892, khởi nghĩa Hùng Lĩnh.
-- 1885 – 1896, khởi nghĩa Hương Khê.
-- 1887 – 1913, khởi nghĩa Yên Thế.
-- 1917 – 1918, khởi nghĩa Thái Nguyên.
-- 1921, bạo động ở Lạng Sơn.
-- 1930, bạo động ở Yên Bái.
+🔹 1859 – 1864, khởi nghĩa Trương Định.
+🔹 1861 – 1868 khởi nghĩa Nguyễn Trung Trực.
+🔹 1886 – 1887, khởi nghĩa Ba Đình.
+🔹 1885 – 1887, khởi nghĩa Bãi Sậy.
+🔹 1886 – 1892, khởi nghĩa Hùng Lĩnh.
+🔹 1885 – 1896, khởi nghĩa Hương Khê.
+🔹 1887 – 1913, khởi nghĩa Yên Thế.
+🔹 1917 – 1918, khởi nghĩa Thái Nguyên.
+🔹 1921, bạo động ở Lạng Sơn.
+🔹 1930, bạo động ở Yên Bái.
 
-- 3.2.1930, Đảng Cộng sản Đông Dương ra đời.
-    + 1931, phong trào Xô Viết Nghệ Tĩnh.
-    + 1936 – 1939, phong trào đấu tranh đòi dân chủ công khai.
+🔹 **3.2.1930, Đảng Cộng sản Đông Dương ra đời**
+> + 1931, phong trào Xô Viết Nghệ Tĩnh.
+> + 1936 – 1939, phong trào đấu tranh đòi dân chủ công khai.
 
-- 2.9.1945 Nước Việt Nam Dân chủ Cộng hòa ra đời.
-    + 1946 toàn quốc kháng chiến.
-    + 1954 chiến thắng Điện Biên Phủ, Pháp phải ký hiệp nghị Giơnevơ lập lại hòa bình ở Đông Dương.
-    + 1960 Đồng Khởi. Mặt trận dân tộc giải phóng miền Nam ra đời.
-    + 1968, tổng tiến công tết Mậu Thân. Mỹ tăng cường chiến tranh phá hoại miền Bắc.
-    + 1972 chiến thắng B52, Mỹ phải họp hội nghị ở Paris.
-    + Ngày 27-1-1973, ký hiệp định Hòa bình và chấm dứt chiến tranh ở Việt Nam. Mỹ rút quân.
+🔹 **2.9.1945 Nước Việt Nam Dân chủ Cộng hòa ra đời**
+> + 1946 toàn quốc kháng chiến.
+> + 1954 chiến thắng Điện Biên Phủ, Pháp phải ký hiệp nghị Giơnevơ lập lại hòa bình ở Đông Dương.
+> + 1960 Đồng Khởi. Mặt trận dân tộc giải phóng miền Nam ra đời.
+> + 1968, tổng tiến công tết Mậu Thân. Mỹ tăng cường chiến tranh phá hoại miền Bắc.
+> + 1972 chiến thắng B52, Mỹ phải họp hội nghị ở Paris.
+> + Ngày 27-1-1973, ký hiệp định Hòa bình và chấm dứt chiến tranh ở Việt Nam. Mỹ rút quân.
 
-- 30.4.1975, chiến dịch Hồ Chí Minh toàn thắng, miền Nam hoàn toàn được giải phóng.
-    + Ngày 2-7-1976, Quốc hội khóa VI, kỳ họp thứ nhất quyết định đổi tên nước ta thành Cộng hòa Xã hội Chủ nghĩa Việt Nam.
+🔹 **30.4.1975, chiến dịch Hồ Chí Minh toàn thắng, miền Nam hoàn toàn được giải phóng**
+> + Ngày 2-7-1976, Quốc hội khóa VI, kỳ họp thứ nhất quyết định đổi tên nước ta thành Cộng hòa Xã hội Chủ nghĩa Việt Nam.
 
 </div>
 
