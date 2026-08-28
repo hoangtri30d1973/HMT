@@ -86,10 +86,10 @@ _Sưu tầm_
 > + Từ 1398 – 1400, triều đại của Trần Thiếu Đế. Năm 1400, Hồ Quý Ly ép Thiếu Đế nhường ngôi. Triều đại nhà Trần chấm dứt.
 
 🔹 **Từ 1400 – 1401, triều đại Hồ Quý Ly**
-    + Nhiều cải cách táo bạo được thực thi như mở mang thi cử, phát hành tiền giấy tăng cường quân đội thường trực, định ra hình luật. 
-    + Tuy nhiên các cải cách này không được sự ủng hộ của toàn dân.
-    + Từ 1401 – 1407, triều đại Hồ Hán Thương nhưng thực chất Hồ Quý Ly vẫn cầm quyền. Quân Minh sang xâm lược.
-    + Từ 1407 – 1414, thời kỳ hậu Trần gồm các triều đại của Giản Định Đế và Trùng Quang Đế chống quân Minh nhưng không thành công.
+> + Nhiều cải cách táo bạo được thực thi như mở mang thi cử, phát hành tiền giấy tăng cường quân đội thường trực, định ra hình luật. 
+> + Tuy nhiên các cải cách này không được sự ủng hộ của toàn dân.
+> + Từ 1401 – 1407, triều đại Hồ Hán Thương nhưng thực chất Hồ Quý Ly vẫn cầm quyền. Quân Minh sang xâm lược.
+> + Từ 1407 – 1414, thời kỳ hậu Trần gồm các triều đại của Giản Định Đế và Trùng Quang Đế chống quân Minh nhưng không thành công.
 
 - Từ 1428 – 1433, thời kỳ mở đầu triều đại Lê Sơ bắt đầu từ triều đại của Lê Thái Tổ (Lê Lợi). 
     + Năm 1418, Lê Lợi khởi binh. 
