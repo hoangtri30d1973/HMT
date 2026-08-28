@@ -6,8 +6,7 @@
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
 
-<table>
-<tr><td align="center"><div markdown="1">
+<table><tr><td align="center"><div markdown="1">
 
 Nữa đời hương phấn nương nhờ của Phật
 
@@ -16,16 +15,16 @@ Xa rời gian dối vui câu kệ kinh
 Thôi rồi một kiếp hồn nhan bạc phận
 
 Dang dở cầu duyên âm thầm, cho ai được tròn hạnh phúc
-</div></td>
-<td align="center"><div markdown="1">
+
+</div></td><td align="center"><div markdown="1">
 
 Nữa đời hương phấn tay lần chuỗi hạt
 
 Xa rời mái tóc chưa nhạt mùi hương
 
 Nữa đời hương phấn vì đâu lỡ làng, vương vấn sầu trên cung đàn, thương ai cuộc tình trái ngang
-</div></td></tr>
-</table>
+
+</div></td></tr></table>
 
 <div align="center">⭐</div>
 <div align="jusify" markdown="1">
@@ -64,6 +63,7 @@ Nữa đời hương phấn vì đâu lỡ làng, vương vấn sầu trên cung
 
 <div align="center">⭐</div>
 <div align="jusify" markdown="1">
+  
 - ♂️ Ê ê đừng chửi chớ, chắc cô chưa quên, có lần trước đây, cô đã mắng tôi tiếng khốn nạn này, tôi nhất định làm cho cô sáng mắt, chửi người ta có lợi gì cho cô không.
 - ♀️ Ở trên đời này tại sao lại có thứ đàn ông, mặt chai mày đá cũng như ông, thói sở khanh không sợ người ta khinh, ông thản nhiên đi mua bán ái tình, ông gạt tôi rồi lại muôn gạt cả đến em tôi.
 </div>
@@ -96,63 +96,105 @@ Nữa đời hương phấn vì đâu lỡ làng, vương vấn sầu trên cung
 
 ---
 
-## Võ Đông Sơ - Bạch Thu Hà
+<h3 align="center">Võ Đông Sơ - Bạch Thu Hà</h3>
+<div align="center">🔹🔹🔹🔹🔹</div><br/>
+<blockquote><div markdown="1" align="justify">
 
-<details><summary>▶️</summary><blockquote>
+<table><tr><td align="center"><div markdown="1">
 
-<p>Biên cương lá rơi Thu Hà em ơi,<br/>
-đường dài mịt mùng em không đến nơi.<br/>
-Mây nước buồn cơn lửa binh,<br/>
-há cay chuyện chung tình,<br/>
-khóc than riêng em một mình.</p>
+Biên cương lá rơi Thu Hà em ơi,
 
-<p>Cây tuôn lá xanh xây mồ cho anh,<br/>
-tình đầu bẽ bàng trong cơn chiến chinh.<br/>
-Đưa tiễn nào hay rẽ chia,<br/>
-cách trở hận muôn đời.<br/>
-Nói nữa chi thêm nghẹn lời.</p>
+đường dài mịt mùng em không đến nơi.
 
-⭐
-<p align="jusify">Trời ơi! Bởi sa cơ giữa chiến truờng thọ tiễn nên Võ Đông Sơ đành chia tay vĩnh viễn Bạch Thu Hà.<br/>
-Bạn tình ơi! Đừng hoài công mòn mỏi đợi chờ.<br/>
-Hãy gọi tên anh trong những chiều xuân lạnh khi cánh nhạn bay về cuối nẻo trời xa.<br/>
-Hay những lúc canh khuya tựa rèm châu ngắm áng trăng tà,<br/>
-nàng hãy nhớ đến tháng năm này, có một người yêu đã vùi thây giữa vùng cát trắng.</p>
+Mây nước buồn cơn lửa binh,
 
-<p align="jusify">Ta cảm thấy một vùng trời đất hình như đảo lộn, máu đào tuôn ướt đẫm nhung bào<br/>
-Ta gọi tên em trong tiếng nấc nghẹn ngào.<br/>
-Đây mới thật là lần chia ly vĩnh viễn, hết mong gì gặp gỡ cùng nhau.<br/>
-Rượu ly bôi ngày ấy tiễn anh đi, hoa lá bay theo vó ngựa phi,<br/>
-có biết đâu buổi tiễn đưa hôm ấy là buổi chia ly nàng chờ đợi mà chi.</p>
+há cay chuyện chung tình,
 
-<p align="jusify">Ta cảm thấy máu ngừng trong nhịp thở, rút gươm thiêng mà dòng lệ tuôn sa.<br/>
-Khắc vào cây ba chữ Bạch Thu Hà để kỷ niệm ngày ta không gặp nữa.<br/>
-Tuấn mã ơi! Hãy phi mau về báo hung tin cho quân ta được rõ rằng Võ Đông Sơ đã vùi thây trong gió bụi quan hà.<br/>
-Tiếng kẻng thu quân tắt liệm tự bao giờ.<br/>
-Hoàng hôn phủ trùm lên bãi chiến một vẻ u buồn lạnh lẽo tiêu sơ.</p>
+khóc than riêng em một mình.
 
-<p align="jusify">Lá rừng rơi rụng như mưa, phải chăng xây hộ nấm mồ cho ta.<br/>
-Máu hồng theo lệ tuôn sa, nhắc câu chung thủy lòng ta nghẹn ngào.</p>
+</div></td><td align="center"><div markdown="1">
 
-<p align="jusify">Máu đào tuôn đẫm ướt nhung bào, chí anh hùng vùi trong kiếm đao.<br/>
-Tóc chiều rơi cuối nẻo biên thùy, ta thấy miền xa rủi cánh quân đi.</p>
+Cây tuôn lá xanh xây mồ cho anh,
 
-<p align="jusify">Ta muốn kêu lên ba tiếng Bạch Thu Hà.<br/>
-Bạch Thu Hà ơi! Tim ta như ngừng đập, máu tuần hoàn ngưng chảy khắp châu thân.<br/>
-Thôi thôi, lỡ làng tiếng hẹn trăm năm, từ đây nàng có nhớ đến ta,<br/>
-hãy ngâm câu "túy ngọa sa trường quân mạc tiễu, cổ lai kinh chiến kỷ nhân hờn"</p>
+tình đầu bẽ bàng trong cơn chiến chinh.
 
-<p align="jusify">Bạch Thu Hà, Bạch Thu Hà ơi!<br/>
-Nàng đã bao phen vượt suối trèo non để giữ vẹn tiết trinh, ta mấy bận lao mình trong nắng gió.<br/>
-Chuyện hàn huyên chưa cùng nhau cạn tỏ thì giọt máu chung tình đã nhuộm thắm chinh y.<br/>
-Từ đây hết nợ hết duyên, hết ân hết ái, lưỡi gươm thiêng ta xin gởi lại cho người yêu lý tưởng Bạch Thu Hà.</p>
+Đưa tiễn nào hay rẽ chia,
 
-<p>Hỡi tình chung ơi!<br/>
-Đường dài mịt mùng em không đến nơi.<br/>
-Mây nước buồn cơn lửa binh,<br/>
-há cay chuyện chung tình,<br/>
-khóc than riêng em một mình</p>
-</blockquote></details>
+cách trở hận muôn đời.
+
+Nói nữa chi thêm nghẹn lời.
+
+</div></td></tr></table>
+
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+
+- Trời ơi! Bởi sa cơ giữa chiến truờng thọ tiễn nên Võ Đông Sơ đành chia tay vĩnh viễn Bạch Thu Hà.
+- Bạn tình ơi! Đừng hoài công mòn mỏi đợi chờ.
+- Hãy gọi tên anh trong những chiều xuân lạnh khi cánh nhạn bay về cuối nẻo trời xa.
+- Hay những lúc canh khuya tựa rèm châu ngắm áng trăng tà, nàng hãy nhớ đến tháng năm này, có một người yêu đã vùi thây giữa vùng cát trắng.
+</div>
+
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+  
+- Ta cảm thấy một vùng trời đất hình như đảo lộn, máu đào tuôn ướt đẫm nhung bào
+- Ta gọi tên em trong tiếng nấc nghẹn ngào.
+- Đây mới thật là lần chia ly vĩnh viễn, hết mong gì gặp gỡ cùng nhau.
+- Rượu ly bôi ngày ấy tiễn anh đi, hoa lá bay theo vó ngựa phi, có biết đâu buổi tiễn đưa hôm ấy là buổi chia ly nàng chờ đợi mà chi.
+</div>
+
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+  
+- Ta cảm thấy máu ngừng trong nhịp thở, rút gươm thiêng mà dòng lệ tuôn sa.
+- Khắc vào cây ba chữ Bạch Thu Hà để kỷ niệm ngày ta không gặp nữa.
+- Tuấn mã ơi! Hãy phi mau về báo hung tin cho quân ta được rõ rằng Võ Đông Sơ đã vùi thây trong gió bụi quan hà.
+- Tiếng kẻng thu quân tắt liệm tự bao giờ.
+- Hoàng hôn phủ trùm lên bãi chiến một vẻ u buồn lạnh lẽo tiêu sơ.
+</div>
+
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+  
+- Lá rừng rơi rụng như mưa, phải chăng xây hộ nấm mồ cho ta.
+- Máu hồng theo lệ tuôn sa, nhắc câu chung thủy lòng ta nghẹn ngào.
+</div>
+
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+  
+- Máu đào tuôn đẫm ướt nhung bào, chí anh hùng vùi trong kiếm đao.
+- Tóc chiều rơi cuối nẻo biên thùy, ta thấy miền xa rủi cánh quân đi.
+</div>
+
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+  
+- Ta muốn kêu lên ba tiếng Bạch Thu Hà.
+- Bạch Thu Hà ơi! Tim ta như ngừng đập, máu tuần hoàn ngưng chảy khắp châu thân.
+- Thôi thôi, lỡ làng tiếng hẹn trăm năm, từ đây nàng có nhớ đến ta, hãy ngâm câu "túy ngọa sa trường quân mạc tiễu, cổ lai kinh chiến kỷ nhân hờn"
+</div>
+
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+  
+- Bạch Thu Hà, Bạch Thu Hà ơi!
+- Nàng đã bao phen vượt suối trèo non để giữ vẹn tiết trinh, ta mấy bận lao mình trong nắng gió.
+- Chuyện hàn huyên chưa cùng nhau cạn tỏ thì giọt máu chung tình đã nhuộm thắm chinh y.
+- Từ đây hết nợ hết duyên, hết ân hết ái, lưỡi gươm thiêng ta xin gởi lại cho người yêu lý tưởng Bạch Thu Hà.
+</div>
+
+<div align="center">⭐</div>
+<div align="jusify" markdown="1">
+
+- Hỡi tình chung ơi!
+- Đường dài mịt mùng em không đến nơi.
+- Mây nước buồn cơn lửa binh,
+- há cay chuyện chung tình,
+- khóc than riêng em một mình
+</div>
+</blockquote>
 
 ---
 
