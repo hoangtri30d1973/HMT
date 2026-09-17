@@ -13,3 +13,16 @@
 <tr><td align="center"><sup><ins>TUE_15/9/2026</ins><br/>🔹09g00🔹</sup></td><td><strong>Hội nghị triển khai định hướng và chiến lược phát triển Tổng Công ty giai đoạn 2026 –2030, tầm nhìn năm 2035</strong><sup>🔸PH. 11.1 CNS🔸</sup></td></tr>
 </table>
 </details>
+
+---
+
+<div align="center"><h3>TEMPLATE</h3></div>
+<div align="center">── ⋆⋅ 𖤓 ⋅⋆ ──</div><br/>
+<blockquote>
+<details><summary><ins><sup>🔹</sup></ins>🔹<strong></strong>🔹<sup><mark></mark></sup>🔹</summary><blockquote><div markdown="1">
+<div align="center"><sub>⫘⫘⫘⫘</sub><sup><ins>❮❮❮ ✦ ❯❯❯</ins></sup><sub>⫘⫘⫘⫘</sub></div>
+</div></blockquote></details>
+<!--------->
+</blockquote>
+
+---
