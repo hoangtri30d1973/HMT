@@ -52,6 +52,7 @@
 ### Bên sếp:
 - Ba sếp Thọ - 25/11 AL
 - Mẹ sếp Thọ - 1/8 AL
+- Sếp Thọ - 19/6 AL
 <div align="center"><sub>⫘⫘⫘⫘</sub><sup><ins>❮❮❮ ✦ ❯❯❯</ins></sup><sub>⫘⫘⫘⫘</sub></div>
 </div></blockquote></details>
 <!--------->
