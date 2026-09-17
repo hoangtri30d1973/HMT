@@ -11,7 +11,7 @@
 <tr><td align="center"><sup><ins>FRI_19/03/2027</ins><br/>🔹12/02/1966 AL🔹</sup></td><td><strong>Đám giỗ ông nội [Hoàng Trí Dũng]</strong><sup>🔸Cúng tại nhà🔸</sup></td></tr>
 <tr><td align="center"><sup><ins>SAT_08/05/2027</ins><br/>🔹03/04/1992 AL🔹</sup></td><td><strong>Đám giỗ bà ngoại lớn [Lê Thị Gấm]</strong><sup>🔸Cúng tại nhà🔸</sup></td></tr>
 <tr><td align="center"><sup><ins>THU_03/06/2027</ins><br/>🔹29/04 AL🔹</sup></td><td><strong>Đám giỗ dì Sáu [Đồng Thị Kim Thu]</strong><sup>🔸Tổ chức tại nhà Hùng🔸</sup></td></tr>
-<tr><td align="center"><sup><ins>TUE_22/06/2027</ins><br/>🔹18/05 AL🔹</sup></td><td><strong>Đám giỗ bà ngoại [Hồ Thị Thuận]</strong><sup>🔸Cúng tại nhà🔸</sup></td></tr>
+<tr><td align="center"><sup><ins>TUE_22/06/2027</ins><br/>🔹18/05 AL🔹</sup></td><td><strong>Đám giỗ bà ngoại [Hồ Thị Thuận]</strong><sup>🔸Tổ chức tại nhà cậu Bảy🔸</sup></td></tr>
 <tr><td align="center"><sup><ins>TUE_03/08/2027</ins><br/>🔹02/07/1991 AL🔹</sup></td><td><strong>Đám giỗ ông ngoại [Đồng Văn Cống]</strong><sup>🔸Tổ chức tại nhà cậu Ba🔸</sup></td></tr>
 <tr><td align="center"><sup><ins>FRI_06/08/2027</ins><br/>🔹05/07/1991 AL🔹</sup></td><td><strong>Đám giỗ bà nội [Nguyễn Thị Trắc]</strong><sup>🔸Cúng tại nhà🔸</sup></td></tr>
 </table>
