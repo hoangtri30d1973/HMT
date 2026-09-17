@@ -16,6 +16,64 @@
 
 ---
 
+<div align="center"><h3>ĐÁM GIỖ</h3></div>
+<div align="center">── ⋆⋅ 𖤓 ⋅⋆ ──</div><br/>
+<blockquote>
+<details><summary><ins><sup>🔹Âm lịch</sup></ins>🔹<strong>Bên cha</strong>🔹<sup><mark>Hoàng Trí Dũng</mark></sup>🔹</summary><blockquote><div markdown="1">
+
+### Bên cha:
+- Ông nội Hoàng Trí Dũng - 12/2/1966 AL
+- Bà nội Nguyễn Thị Trắc - 5/7/1991 AL
+- Bác Hai Hoàng Thanh Tùng - 23/11/1978 AL
+- Ba Hoàng Trí Dũng - 12/11/2006 AL
+<div align="center"><sub>⫘⫘⫘⫘</sub><sup><ins>❮❮❮ ✦ ❯❯❯</ins></sup><sub>⫘⫘⫘⫘</sub></div>
+</div></blockquote></details>
+<!--------->
+<details><summary><ins><sup>🔹Âm lịch</sup></ins>🔹<strong>Bên mẹ</strong>🔹<sup><mark>Đồng Thị Tư</mark></sup>🔹</summary><blockquote><div markdown="1">
+
+### Bên mẹ:
+- Ông ngoại Đồng Văn Cống (Chín Hồng) - 2/7 AL - Ất Dậu
+- Bà ngoại lớn Lê Thị Gấm - 3/4/1992 AL - Nhâm Thân
+- Bà ngoại Nguyễn Thị Năm (Hồ Thị Thuận) - 18/5 AL - Mậu Tý
+- Cậu hai Đồng Văn Đe - 6/1/1967 AL
+- Dì Sáu Đồng Thị Kim Thu - 29/4 AL - Ất Mùi
+<div align="center"><sub>⫘⫘⫘⫘</sub><sup><ins>❮❮❮ ✦ ❯❯❯</ins></sup><sub>⫘⫘⫘⫘</sub></div>
+</div></blockquote></details>
+<!--------->
+<details><summary><ins><sup>🔹Âm lịch</sup></ins>🔹<strong>Bên mẹ</strong>🔹<sup><mark>Nguyễn Thị Kim Ngân</mark></sup>🔹</summary><blockquote><div markdown="1">
+
+### Bên vợ:
+- Ba vợ Nguyễn Tấn Mãi - 16/12 AL
+<div align="center"><sub>⫘⫘⫘⫘</sub><sup><ins>❮❮❮ ✦ ❯❯❯</ins></sup><sub>⫘⫘⫘⫘</sub></div>
+</div></blockquote></details>
+<!--------->
+<details><summary><ins><sup>🔹Âm lịch</sup></ins>🔹<strong>Bên sếp</strong>🔹<sup><mark>Nguyễn Văn Thọ</mark></sup>🔹</summary><blockquote><div markdown="1">
+
+### Bên sếp:
+- Ba sếp Thọ - 25/11 AL
+- Mẹ sếp Thọ - 1/8 AL
+<div align="center"><sub>⫘⫘⫘⫘</sub><sup><ins>❮❮❮ ✦ ❯❯❯</ins></sup><sub>⫘⫘⫘⫘</sub></div>
+</div></blockquote></details>
+<!--------->
+</blockquote>
+
+
+---
+
+<div align="center"><h3>TEMPLATE</h3></div>
+<div align="center">── ⋆⋅ 𖤓 ⋅⋆ ──</div><br/>
+<blockquote>
+<details><summary><ins><sup>🔹</sup></ins>🔹<strong></strong>🔹<sup><mark></mark></sup>🔹</summary><blockquote><div markdown="1">
+<div align="center"><sub>⫘⫘⫘⫘</sub><sup><ins>❮❮❮ ✦ ❯❯❯</ins></sup><sub>⫘⫘⫘⫘</sub></div>
+</div></blockquote></details>
+<!--------->
+</blockquote>
+
+---
+
+
+
+
 <details><summary>GPS</summary>
 <pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
 home
@@ -69,33 +127,7 @@ Thuốc Nam - gần Tịnh xá Ngọc Chơn
 - Tây Ninh - Gần biên giới Campuchia: 11.076235, 106.190121
 </pre></details><br/> 
 
-<details><summary>Đám giỗ</summary>
-<pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
-Bên cha:
-=====
-- Ông nội Hoàng Trí Dũng - 12/2/1966 AL
-- Bà nội Nguyễn Thị Trắc - 5/7/1991 AL
-- Bác Hai Hoàng Thanh Tùng - 23/11/1978 AL
-- Ba Hoàng Trí Dũng - 12/11/2006 AL
-
-Bên mẹ:
-=====
-- Ông ngoại Đồng Văn Cống (Chín Hồng) - 2/7 AL - Ất Dậu
-- Bà ngoại lớn Lê Thị Gấm - 3/4/1992 AL - Nhâm Thân
-- Bà ngoại Nguyễn Thị Năm (Hồ Thị Thuận) - 18/5 AL - Mậu Tý
-- Cậu hai Đồng Văn Đe - 6/1/1967 AL
-- Dì Sáu Đồng Thị Kim Thu - 29/4 AL - Ất Mùi
-
-Bên vợ:
-=====
-- Ba vợ Nguyễn Tấn Mãi - 16/12 AL
-
-Bên sếp:
-=====
-- Ba sếp Thọ - 25/11 AL
-- Mẹ sếp Thọ - 1/8 AL
-</pre></details><br/>
-
+---
 
 <div align="center"><h3>TEMPLATE</h3></div>
 <div align="center">── ⋆⋅ 𖤓 ⋅⋆ ──</div><br/>
