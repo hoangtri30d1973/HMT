@@ -58,36 +58,26 @@
 <!--------->
 </blockquote>
 
-
 ---
 
-<div align="center"><h3>TEMPLATE</h3></div>
+<div align="center"><h3>GPS location</h3></div>
 <div align="center">── ⋆⋅ 𖤓 ⋅⋆ ──</div><br/>
 <blockquote>
-<details><summary><ins><sup>🔹</sup></ins>🔹<strong></strong>🔹<sup><mark></mark></sup>🔹</summary><blockquote><div markdown="1">
-<div align="center"><sub>⫘⫘⫘⫘</sub><sup><ins>❮❮❮ ✦ ❯❯❯</ins></sup><sub>⫘⫘⫘⫘</sub></div>
-</div></blockquote></details>
-<!--------->
-</blockquote>
+<details><summary><ins><sup>🔹Địa điểm</sup></ins>🔹<strong>Nhà</strong>🔹<sup><mark>GPS-home</mark></sup>🔹</summary><blockquote><div markdown="1">
 
----
-
-
-
-
-<details><summary>GPS</summary>
-<pre style="white-space: pre-wrap; background-color: transparent; font-family: Arial, Helvetica, sans-serif;">
-home
-=====
+### home
 - Home - 600 PVT: 10.8308342, 106.6790576
 - Nhà vợ - Quảng Ngãi: 14.956257 , 108.887583
 - Đất Long An: 10.715399 , 106.321077 (lô chị Liễu, kế cây xăng)
 - Đất Long An: 10.729557 , 106.308790
 - Đất Long An (Khổ 8,4m): 10.826287, 106.244664
 - Lô đất Thới Tam Thôn - Hóc Môn: 10.877577, 106.612539
+<div align="center"><sub>⫘⫘⫘⫘</sub><sup><ins>❮❮❮ ✦ ❯❯❯</ins></sup><sub>⫘⫘⫘⫘</sub></div>
+</div></blockquote></details>
+<!--------->
+<details><summary><ins><sup>🔹Địa điểm</sup></ins>🔹<strong>Bà con bên vợ</strong>🔹<sup><mark>GPS-wife</mark></sup>🔹</summary><blockquote><div markdown="1">
 
-nhà bà con bên vợ
-=====
+### nhà bà con bên vợ
 - Nhà Hồng Lịnh: 10.78785 , 106.5867
 - Nhà Gù Anh - Hóc Môn: 10.87661 , 106.6145
 - Nhà cậu hai - Hóc Môn: 10.901552, 106.604412
@@ -96,8 +86,18 @@ nhà bà con bên vợ
 - Nhà Hiếu con cậu sáu (vợ): 10.9545382, 107.0026319
 - Nhà anh Hưng - con cậu 3: 10.860001, 106.602462
 
-nhà gia đình
-=====
+### Quê vợ - Quảng Ngãi
+- Mộ Đức: 14.956257 , 108.887583
+- Đường Quốc Lộ 1, Mộ Đức, nhà vợ: N 14.94618° E 108.89097°
+
+### Thuốc Nam - gần Tịnh xá Ngọc Chơn
+- Tây Ninh - Gần biên giới Campuchia: 11.076235, 106.190121
+<div align="center"><sub>⫘⫘⫘⫘</sub><sup><ins>❮❮❮ ✦ ❯❯❯</ins></sup><sub>⫘⫘⫘⫘</sub></div>
+</div></blockquote></details>
+<!--------->
+<details><summary><ins><sup>🔹Địa điểm</sup></ins>🔹<strong>Nhà gia đình</strong>🔹<sup><mark>GPS-relation</mark></sup>🔹</summary><blockquote><div markdown="1">
+
+### nhà gia đình
 - Nhà Cậu ba: 10.817323, 106.787751
 - Nhà bác Hai gái - Mỹ Tho: 10.37190 , 106.34505
 - Nhà cô Tư - Đồng Tháp: 10.394430 , 105.79140 — 10.394148,105.791437
@@ -105,28 +105,29 @@ nhà gia đình
 - Đền ông ngoại (Đồng Tháp): 10.1335068 , 106.4645635
 - Đồng gia mộ chí: 10.128145, 106.470396
 
-nhà bạn má
-=====
+<div align="center"><sub>⫘⫘⫘⫘</sub><sup><ins>❮❮❮ ✦ ❯❯❯</ins></sup><sub>⫘⫘⫘⫘</sub></div>
+</div></blockquote></details>
+<!--------->
+<details><summary><ins><sup>🔹Địa điểm</sup></ins>🔹<strong>Nhà bạn má</strong>🔹<sup><mark>GPS-friend_of_mother</mark></sup>🔹</summary><blockquote><div markdown="1">
+
+### nhà bạn má
 - Nhà cô Minh Vân - TP. HCM: 10.92166 , 106.771764
 - Nhà cô Minh Vân - Bùi Hữu Nghĩa Bình Dương-: 10.9217950, 106.7174826
 - Nhà cô Minh Vân - Quận 7: 10.729900, 106.712605
 - Nhà chú Hải - Quận 7: 10.751235, 106.696095
+<div align="center"><sub>⫘⫘⫘⫘</sub><sup><ins>❮❮❮ ✦ ❯❯❯</ins></sup><sub>⫘⫘⫘⫘</sub></div>
+</div></blockquote></details>
+<!--------->
+<details><summary><ins><sup>🔹Địa điểm</sup></ins>🔹<strong>Nhà sếp Thọ</strong>🔹<sup><mark>GPS-boss</mark></sup>🔹</summary><blockquote><div markdown="1">
 
-nhà sếp Thọ
-=====
+### nhà sếp Thọ
 - Nhà sếp Thọ - đơn Dương: 11.84655 , 108.59138
 - Ks Memories - Bảo Lộc: 11.53437 , 107.82408
 - Mộ sếp Thọ (Công Viên Vĩnh Hằng Long Thành Đồng Nai): 10.698996, 107.034061
-
-Quê vợ - Quảng Ngãi
-=====
-- Mộ Đức: 14.956257 , 108.887583
-- Đường Quốc Lộ 1, Mộ Đức, nhà vợ: N 14.94618° E 108.89097°
-
-Thuốc Nam - gần Tịnh xá Ngọc Chơn
-=====
-- Tây Ninh - Gần biên giới Campuchia: 11.076235, 106.190121
-</pre></details><br/> 
+<div align="center"><sub>⫘⫘⫘⫘</sub><sup><ins>❮❮❮ ✦ ❯❯❯</ins></sup><sub>⫘⫘⫘⫘</sub></div>
+</div></blockquote></details>
+<!--------->
+</blockquote>
 
 ---
 
