@@ -2,7 +2,7 @@
 layout: default
 title: "HOME"
 published: true
-note: ["Home page", "Index"]
+note: ["Index", "Readme"]
 ---
 
 # My space
