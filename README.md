@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: default
 title: "HOME"
+published: true
+note: ["Home page", "Index"]
 ---
 
 # My space
@@ -18,15 +20,33 @@ title: "HOME"
 
 </div>
 
----
+----
 
 ### Suy ngẫm
 
 1. _[Con người và các thể](books/human.md)_
 2. _[Cuộc sống muôn màu](books/cuocsongmuonmau.md)_
 
----
+----
 
 <p align="center">
   <img src="svg/my-footer.svg" alt="Project banner" width="100%" />
 </p>
+
+----
+
+<details><summary>Front Matter for Jekyll</summary><div markdown="1">
+
+- layout: Xác định trang này sẽ sử dụng bộ khung (template) nào (ví dụ: post, page, default).
+- title: Tiêu đề của bài viết hoặc trang. Tiêu đề này sẽ hiển thị trên thanh tiêu đề trình duyệt <title> hoặc đầu bài viết.
+- date: Ngày giờ xuất bản bài viết (thường dùng cho các file trong thư mục _posts). Định dạng chuẩn là YYYY-MM-DD HH:MM:SS +/-TTTT (ví dụ: 2026-09-24 15:30:00 +0700).
+- permalink: Định nghĩa lại đường dẫn URL cố định cho trang, thay thế cho cấu trúc thư mục mặc định (ví dụ: /blog/bai-viet-dau-tien/).
+- categories hoặc category: Phân loại bài viết vào các danh mục cụ thể (ví dụ: [Tech, Tutorial]). Jekyll sẽ dựa vào đây để gom nhóm bài viết.
+- tags: Các từ khóa (thẻ) đi kèm bài viết (ví dụ: [markdown, jekyll, docker]).
+- published: Nhận giá trị true hoặc false. Nếu để false, Jekyll sẽ ẩn bài viết này đi, không biên dịch ra website (phù hợp khi đang viết nháp).
+- description: Đoạn mô tả ngắn gọn về nội dung bài viết. Đoạn này sẽ xuất hiện ở thẻ <meta name="description"> giúp Google hiển thị kết quả tìm kiếm tốt hơn.
+- author: Tên tác giả của bài viết (ví dụ: author: "Nguyen Van A").
+- image: Đường dẫn đến ảnh đại diện (thumbnail) của bài viết khi chia sẻ lên Facebook, X/Twitter (ví dụ: /assets/images/cover.jpg).
+</div></details>
+
+----
