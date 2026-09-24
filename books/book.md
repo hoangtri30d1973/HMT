@@ -1,4 +1,9 @@
-<h1 align="center">Các đoạn văn yêu thích được trích từ sách</h1>
+---
+layout: post
+title: "Favourite_books"
+---
+
+<div align="center"><h1>Các đoạn văn yêu thích được trích từ sách</h1></div>
 
 ---
 
@@ -39,7 +44,7 @@
 <sub>🔹</sub>
 </div>
 
-<h3 align="center">Hành trình một linh hồn</h3>
+<div align="center"><h3>Hành trình một linh hồn</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
   
@@ -88,7 +93,7 @@
 <sub>🔹</sub>
 </div>
 
-<h3 align="center">Cửu đỉnh ký</h3>
+<div align="center"><h3>Cửu đỉnh ký</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
                     
@@ -136,7 +141,7 @@ Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét b�
 <sub>🔹</sub>
 </div>
 
-<h3 align="center">Hoa sơn tiên môn</h3>
+<div align="center"><h3>Hoa sơn tiên môn</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
   
@@ -185,7 +190,7 @@ Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét b�
 <sub>🔹</sub>
 </div>
 
-<h3 align="center">Thần điển</h3>
+<div align="center"><h3>Thần điển</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
 
@@ -237,7 +242,7 @@ Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét b�
 <sub>🔹</sub>
 </div>
 
-<h3 align="center">La phù</h3>
+<div align="center"><h3>La phù</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
 
@@ -288,7 +293,7 @@ Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét b�
 <sub>🔹</sub>
 </div>
 
-<h3 align="center">Đạo quân</h3>
+<div align="center"><h3>Đạo quân</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
 
@@ -338,7 +343,7 @@ Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét b�
 <sub>🔹</sub>
 </div>
 
-<h3 align="center">Đại đường song long</h3>
+<div align="center"><h3>Đại đường song long</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
 
@@ -396,7 +401,7 @@ Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét b�
 <sub>🔹</sub>
 </div>
 
-<h3 align="center">Nhân đạo đại thánh</h3>
+<div align="center"><h3>Nhân đạo đại thánh</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
 
@@ -453,7 +458,7 @@ Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét b�
 <sub>🔹</sub>
 </div>
 
-<h3 align="center">Vô thượng sát thần</h3>
+<div align="center"><h3>Vô thượng sát thần</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
 
@@ -509,7 +514,7 @@ Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét b�
 <sub>🔹</sub>
 </div>
 
-<h3 align="center">Bụt là hình hài, Bụt là tâm thức</h3>
+<div align="center"><h3>Bụt là hình hài, Bụt là tâm thức</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
 
@@ -560,7 +565,7 @@ Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét b�
 <sub>🔹</sub>
 </div>
 
-<h3 align="center">Thông thiên đại thánh</h3>
+<div align="center"><h3>Thông thiên đại thánh</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
 
@@ -617,7 +622,7 @@ Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét b�
 <sub>🔹</sub>
 </div>
 
-<h3 align="center">Tạp đồ</h3>
+<div align="center"><h3>Tạp đồ</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
 
@@ -684,7 +689,7 @@ Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét b�
 <sub>🔹</sub>
 </div>
 
-<h3 align="center">Phi thiên</h3>
+<div align="center"><h3>Phi thiên</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
 
@@ -746,7 +751,7 @@ Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét b�
 <sub>🔹</sub>
 </div>
 
-<h3 align="center">Ngũ hành thiên</h3>
+<div align="center"><h3>Ngũ hành thiên</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
 
@@ -814,7 +819,7 @@ Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét b�
 <sub>🔹</sub>
 </div>
 
-<h3 align="center">Hành trình về phương Đông</h3>
+<div align="center"><h3>Hành trình về phương Đông</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
 
@@ -877,7 +882,7 @@ Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét b�
 <sub>🔹</sub>
 </div>
 
-<h3 align="center">Vô hạn khủng bố</h3>
+<div align="center"><h3>Vô hạn khủng bố</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
 <blockquote><div markdown="1" align="justify">
 
