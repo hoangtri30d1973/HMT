@@ -1,3 +1,8 @@
+---
+layout: post
+title: "HOME"
+---
+
 # My space
 
 <div markdown="1" align="justify">
