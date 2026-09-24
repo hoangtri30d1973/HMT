@@ -3,6 +3,7 @@ layout: default
 title: "HOME"
 published: true
 note: ["Index", "Readme"]
+description: "Thông tin chào mừng, khởi đầu của trang web"
 ---
 
 # My space
