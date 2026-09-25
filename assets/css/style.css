@@ -38,6 +38,8 @@ table {
       border-collapse: collapse; /* Gộp viền để tạo đường kẻ mảnh */
       margin-bottom: 20px;
       text-align: left;
+      overflow-x: auto;           /* Bật thanh cuộn ngang khi bảng quá dài trên điện thoại */
+      -webkit-overflow-scrolling: touch; /* Giúp cuộn mượt mà trên iPhone/Safari */
     }
 
 th, td {
