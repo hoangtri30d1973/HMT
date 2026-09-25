@@ -12,39 +12,7 @@
 - Nguyên do của dục vọng không phải là cái 'khát nước', mà là sự thèm muốn một khoái cảm có được khi 'uống nước'
 </div></blockquote></td></tr>
 <tr><td align="justify">
-<sub>🔹</sub>
-<a href="#01"><i>Hành trình một linh hồn</i></a>
-<sub>🔹</sub>
-<a href="#02"><i>Cửu đỉnh ký</i></a>
-<sub>🔹</sub>
-<a href="#03"><i>Hoa sơn tiên môn</i></a>
-<sub>🔹</sub>
-<a href="#04"><i>Thần điển</i></a>
-<sub>🔹</sub>
-<a href="#05"><i>La phù</i></a>
-<sub>🔹</sub>
-<a href="#06"><i>Đạo quân</i></a>
-<sub>🔹</sub>
-<a href="#07"><i>Đại đường song long</i></a>
-<sub>🔹</sub>
-<a href="#08"><i>Nhân đạo đại thánh</i></a>
-<sub>🔹</sub>
-<a href="#09"><i>Vô thượng sát thần</i></a>
-<sub>🔹</sub>
-<a href="#10"><i>Bụt là hình hài, Bụt là tâm thức</i></a>
-<sub>🔹</sub>
-<a href="#11"><i>Thông thiên đại thánh</i></a>
-<sub>🔹</sub>
-<a href="#12"><i>Tạp đồ</i></a>
-<sub>🔹</sub>
-<a href="#13"><i>Phi thiên</i></a>
-<sub>🔹</sub>
-<a href="#14"><i>Ngũ hành thiên</i></a>
-<sub>🔹</sub>
-<a href="#15"><i>Hành trình về phương Đông</i></a>
-<sub>🔹</sub>
-<a href="#16"><i>Vô hạn khủng bố</i></a>
-<sub>🔹</sub>
+<sub>🔹<a href="#01"><i>Hành trình một linh hồn</i></a>🔹<a href="#02"><i>Cửu đỉnh ký</i></a>🔹<a href="#03"><i>Hoa sơn tiên môn</i></a>🔹<a href="#04"><i>Thần điển</i></a>🔹<a href="#05"><i>La phù</i></a>🔹<a href="#06"><i>Đạo quân</i></a>🔹<a href="#07"><i>Đại đường song long</i></a>🔹<a href="#08"><i>Nhân đạo đại thánh</i></a>🔹<a href="#09"><i>Vô thượng sát thần</i></a>🔹<a href="#10"><i>Bụt là hình hài, Bụt là tâm thức</i></a>🔹<a href="#11"><i>Thông thiên đại thánh</i></a>🔹<a href="#12"><i>Tạp đồ</i></a>🔹<a href="#13"><i>Phi thiên</i></a>🔹<a href="#14"><i>Ngũ hành thiên</i></a>🔹<a href="#15"><i>Hành trình về phương Đông</i></a>🔹<a href="#16"><i>Vô hạn khủng bố</i></a>🔹</sub>
 </td></tr>
 <tr><td align="center">🔸<a href="#top"> ── ⋆⋅ 𖤓 ⋅⋆ ── </a>🔸</td></tr>
 </table>
