@@ -1,25 +1,79 @@
-/* Khôi phục lại hiển thị chuẩn cho thẻ details */
+body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f8f9fa;
+      color: #333;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+      padding: 20px;
+      box-sizing: border-box;
+      border: 1px solid #e0e0e0; /* Viền */
+      border-radius: 12px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05); /* Đổ bóng nhẹ */  
+    }
+
+/* TABLE: Chỉ có đường kẻ ngang */
+table {
+      width: 100%;
+      border-collapse: collapse; /* Gộp viền để tạo đường kẻ mảnh */
+      margin-bottom: 20px;
+      text-align: left;
+    }
+
+th, td {
+      padding: 12px 15px;
+      /* Chỉ sử dụng border-bottom để tạo đường kẻ ngang */
+      border-bottom: 1px solid #e0e0e0; 
+    }
+
+th {
+      background-color: #fafafa;
+      font-weight: 600;
+      color: #111;
+    }
+
+table tr:last-child td {
+      border-bottom: 2px solid #ccc; /* Đường kẻ đậm hơn một chút ở hàng cuối cùng */
+    }
+
 details {
   display: block;
   padding: 10px;
   background: #F5FFFA;
   margin: 10px 0;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  margin-bottom: 12px;
+  overflow: hidden;
+  transition: background-color 0.2s ease, box-shadow 0.2s ease;
 }
 
-/* Ẩn mũi tên mặc định */
-summary { list-style: none; }
-summary::-webkit-details-marker { display: none; }
+details summary {
+      list-style: none;
+      cursor: pointer;
+      padding: 14px 20px;
+      font-weight: 500;
+      outline: none;
+      user-select: none;
+    }
+details summary::-webkit-details-marker {
+      display: none;
+    }
 
 /* Thêm icon tùy chỉnh khi đóng */
 summary::before {
   content: "🔻";
-  color: #007bff;
 }
 
 /* Thay đổi icon khi thẻ <details> được mở ([open]) */
 details[open] summary::before {
   content: "🔺";
-  background: #F0F8FF;
+  background-color: #f4f7fa; /* Màu nền tối/khác hơn một chút */
+  box-shadow: inset 0 0 4px rgba(0,0,0,0.02); /* Thêm hiệu ứng chìm nhẹ (tùy chọn) */  
 }
+
+details[open] summary {
+      color: #007bff; /* Đổi màu chữ tiêu đề khi mở để tạo điểm nhấn */
+    }
