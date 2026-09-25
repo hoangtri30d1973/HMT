@@ -119,7 +119,7 @@ img {
 }
 
 blockquote {
-  font-size: 0.70rem;       /* Chữ nhỏ hơn một chút so với văn bản chính (16px) */
+  font-size: 0.80rem;       /* Chữ nhỏ hơn một chút so với văn bản chính (16px) */
   text-align: justify;      /* Căn đều hai bên cho khối văn bản đẹp mắt */
   
   /* Lệch vô trong: margin-left đẩy cả khối vào, padding tạo khoảng cách với đường viền */
@@ -130,7 +130,6 @@ blockquote {
   border-left: 3px solid #1fa67a; 
   
   color: #4a5568;           /* Màu chữ xám nhẹ hơn để phân biệt với nội dung thường */
-  font-style: italic;       /* Chuyển chữ sang dạng in nghiêng (tùy chọn, giúp nhận diện trích dẫn tốt hơn) */
   line-height: 1.6;
 }
 
@@ -152,7 +151,6 @@ blockquote {
   }
    img {
     width: 80% !important; /* Ghi đè tỷ lệ % trên PC, ép rộng 100% trên mobile */
-    padding: 10px;
   }
   blockquote {
     margin-left: 15px;      /* Trên mobile, giảm độ lệch vô trong xuống còn 15px để tiết kiệm không gian */
