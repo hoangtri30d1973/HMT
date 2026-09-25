@@ -3,7 +3,15 @@
 ---
 
 <div id="01"></div>
-<table><tr><td align="justify">
+<table>
+<tr><th align="center">Hành trình một linh hồn</th></tr>
+<tr><td align="justify">
+<blockquote><div markdown="1">
+  
+- Đừng bao giờ gạt bỏ một tư tưởng chỉ vì nó xa lạ với anh, mà nên lắng nghe mọi mặt của câu hỏi và tự có kết luận riêng của mình.
+- Nguyên do của dục vọng không phải là cái 'khát nước', mà là sự thèm muốn một khoái cảm có được khi 'uống nước'
+</div></blockquote></td></tr>
+<tr><td align="justify">
 <sub>🔹</sub>
 <a href="#01"><i>Hành trình một linh hồn</i></a>
 <sub>🔹</sub>
