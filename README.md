@@ -1,8 +1,3 @@
----
-layout: post
-title: "│─────│ome"
----
-
 # My space
 
 <div markdown="1" align="justify">
