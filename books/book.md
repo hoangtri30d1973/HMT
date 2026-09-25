@@ -46,10 +46,8 @@
 <a href="#16"><i>Vô hạn khủng bố</i></a>
 <sub>🔹</sub>
 </td></tr>
-<tr><td align="center">🔸<a href="#top">🔝</a>🔸</td></tr>
+<tr><td align="center">🔸<a href="#top"> ── ⋆⋅ 𖤓 ⋅⋆ ── </a>🔸</td></tr>
 </table>
-
-<div align="center">── ⋆⋅ 𖤓 ⋅⋆ ──</div>
 
 <div id="02"></div>
 <table>
