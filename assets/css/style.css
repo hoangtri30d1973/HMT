@@ -10,6 +10,7 @@ body {
   width: 95%;
   max-width: 1200px; /* Giới hạn độ rộng tối đa trên màn hình lớn để chữ không bị kéo quá dài */
   margin: 40px auto; /* Căn giữa trang web và tạo khoảng cách trên dưới */
+  min-width: 0;
   
   line-height: 1.7; /* Khoảng cách dòng thoáng, tối ưu cho trang nhiều chữ */
   font-size: 16px;
@@ -65,6 +66,7 @@ details {
   margin: 5px 0;
   border: 1px solid #e0e0e0;
   border-radius: 12px;
+  overflow-wrap: break-word; /* Tự động xuống dòng khi từ quá dài */
   margin-bottom: 5px;
   overflow-x: auto;           /* Bật thanh cuộn ngang khi bảng quá dài trên điện thoại */
   transition: background-color 0.2s ease, box-shadow 0.2s ease;
