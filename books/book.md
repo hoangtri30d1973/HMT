@@ -49,12 +49,13 @@
 <tr><td align="center">🔸<a href="#top">🔝</a>🔸</td></tr>
 </table>
 
-
-
---------------------------------------------------------
+<div align="center">── ⋆⋅ 𖤓 ⋅⋆ ──</div>
 
 <div id="02"></div>
-<div align="center">
+<table>
+<tr><th align="center">Cửu đỉnh ký <br/>🔹🔹🔹🔹🔹</th></tr>
+<tr><td align="justify"><blockquote>Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét bút hỏng nào xảy ra.</blockquote></td></tr>
+<tr><td align="justify">
 <sub>🔹</sub>
 <a href="#01"><i>Hành trình một linh hồn</i></a>
 <sub>🔹</sub>
@@ -88,18 +89,12 @@
 <sub>🔹</sub>
 <a href="#16"><i>Vô hạn khủng bố</i></a>
 <sub>🔹</sub>
-</div>
+</td></tr>
+<tr><td align="center">🔸<a href="#top">🔝</a>🔸</td></tr>
+</table>
 
-<div align="center"><h3>Cửu đỉnh ký</h3></div>
-<div align="center">🔹🔹🔹🔹🔹</div><br/>
-<blockquote><div markdown="1" align="justify">
-                    
-Vẽ một bức tranh đẹp, thì không được để có bất kỳ nét bút hỏng nào xảy ra.
+<div align="center">── ⋆⋅ 𖤓 ⋅⋆ ──</div>
 
-<div align="right">🔸<a href="#top">🔝</a>🔸</div>
-</div></blockquote>
-
---------------------------------------------------------
 
 <div id="03"></div>
 <div align="center">
