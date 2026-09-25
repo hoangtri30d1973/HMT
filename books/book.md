@@ -1,8 +1,3 @@
----
-layout: post
-title: "Favourite_books"
----
-
 <div align="center"><h1>Các đoạn văn yêu thích được trích từ sách</h1></div>
 
 ---
