@@ -42,6 +42,58 @@ _Sưu tầm_
 </div></blockquote></td>
 </tr>
 <tr>
+<td align="center">Từ năm 43 – 543</td>
+<td><blockquote><div markdown="1" align="justify">
+
+- Việt Nam sống dưới ách đô hộ của phong kiến phương Bắc. 
+- Thời gian này có cuộc khởi nghĩa của Bà Triệu chống quân Đông Ngô. 
+- Bà Triệu tự xưng là Đại Hải Bà Vương, đánh nhau với tướng Đông Ngô là Lục Dân nhưng thất bại.
+</div></blockquote></td>
+</tr>
+<tr>
+<td align="center">Từ năm 544 – 548, Khởi nghĩa của Lý Bí</td>
+<td><blockquote><div markdown="1" align="justify">
+
+- Năm 544, Lý Nam Đế xưng vương, đặt tên nước là Vạn Xuân.
+</div></blockquote></td>
+</tr>
+<tr>
+<td align="center">Từ năm 548 – 571</td>
+<td><blockquote><div markdown="1" align="justify">
+
+- Triệu Quang Phục tiếp tục kháng chiến chống quân Lương và lên ngôi vua là Triệu Việt Vương.
+</div></blockquote></td>
+</tr>
+<tr>
+<td align="center">Từ 571 – 602, Lý Phật Tử, họ hàng với Lý Nam Đế tiêu diệt Triệu Việt vương và lên ngôi.</td>
+<td><blockquote><div markdown="1" align="justify">
+
+- Thời kỳ này phong kiến phương Bắc là nhà Tùy sang xâm lược. Lý Phật Tử đầu hàng, Việt Nam bị nhà Tùy đô hộ.
+</div></blockquote></td>
+</tr>
+<tr>
+<td align="center">Năm 722, Khởi nghĩa Mai Thúc Loan.</td>
+<td><blockquote><div markdown="1" align="justify">
+
+- Sau này, cuộc khởi nghĩa thất bại, nước ta chịu sự đô hộ của nhà Đường.
+</div></blockquote></td>
+</tr>
+<tr>
+<td align="center">Từ 791 – 802. Khởi nghĩa Phùng Hưng thắng lợi.</td>
+<td><blockquote><div markdown="1" align="justify">
+
+- Năm 802, nhà Đường tấn công, Việt Nam lại chịu sự đô hộ của nhà Đường.
+</div></blockquote></td>
+</tr>
+<tr>
+<td align="center">Từ 905 – 938</td>
+<td><blockquote><div markdown="1" align="justify">
+
+- Thời kỳ xây nền tự chủ bắt đầu với chiến thắng của cuộc khởi nghĩa Khúc Thừa Dụ. 
+- Sau đó tiếp nối là Khúc Thừa Hạo, Khúc Thừa Mỹ, Dương Đình Nghệ.
+</div></blockquote></td>
+</tr>
+<tr>
 <td align="center"></td>
 <td><blockquote><div markdown="1" align="justify">
 </div></blockquote></td>
@@ -51,32 +103,6 @@ _Sưu tầm_
 ----
 
 <div markdown="1" align="justify">
-
-
-
-
-🔹 **Từ năm 43 – 543**
-> + Việt Nam sống dưới ách đô hộ của phong kiến phương Bắc. 
-> + Thời gian này có cuộc khởi nghĩa của Bà Triệu chống quân Đông Ngô. 
-> + Bà Triệu tự xưng là Đại Hải Bà Vương, đánh nhau với tướng Đông Ngô là Lục Dân nhưng thất bại.
-
-🔹 **Từ năm 544 – 548**
-> + Khởi nghĩa của Lý Bí 544, Lý Nam Đế xưng vương, đặt tên nước là Vạn Xuân.
-
-🔹 **Từ năm 548 – 571**
-> + Triệu Quang Phục tiếp tục kháng chiến chống quân Lương và lên ngôi vua là Triệu Việt Vương.
-> + Từ 571 – 602, Lý Phật Tử, họ hàng với Lý Nam Đế tiêu diệt Triệu Việt vương và lên ngôi. 
-> + Thời kỳ này phong kiến phương Bắc là nhà Tùy sang xâm lược. Lý Phật Tử đầu hàng, Việt Nam bị nhà Tùy đô hộ.
-
-🔹 **Năm 722**
-> + Khởi nghĩa Mai Thúc Loan. 
-> + Sau này, cuộc khởi nghĩa thất bại, nước ta chịu sự đô hộ của nhà Đường.
-> + Từ 791 – 802. Khởi nghĩa Phùng Hưng thắng lợi. 
-> + Năm 802, nhà Đường tấn công, Việt Nam lại chịu sự đô hộ của nhà Đường.
-
-🔹 **Từ 905 – 938**
-> + Thời kỳ xây nền tự chủ bắt đầu với chiến thắng của cuộc khởi nghĩa Khúc Thừa Dụ. 
-> + Sau đó tiếp nối là Khúc Thừa Hạo, Khúc Thừa Mỹ, Dương Đình Nghệ.
 
 🔹 **Từ 939 – 944**
 > + Ngô Quyền thắng quân Nam Hán trên sông Bạch Đằng, lên ngôi vua và đóng đô ở Cổ Loa.
