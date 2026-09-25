@@ -2,17 +2,43 @@
 
 _Sưu tầm_
 
----
+----
+
+<table>
+<tr>
+<td align="center">Trước năm 218 TCN</td>
+<td><div markdown="1" align="justify"><blockquote>
+
+- Việt Nam chưa có chính sử, lúc này truyền thuyết và lịch sử còn hòa quyện vào nhau. 
+- Người ta thường hay nhắc tới các truyền thuyết về Kinh Dương Vương, Lạc Long Quân, Phù Đổng Thiên Vương, Sơn Tinh - Thủy Tinh nhằm giải thích nguồn gốc và sự đấu tranh để tồn tại của dân tộc.
+</blockquote></div></td>
+</tr>
+<tr>
+<td align="center">Từ năm 257 - 208 TCN</td>
+<td><div markdown="1" align="justify"><blockquote>
+
+- Thục Phán, thủ lĩnh người Âu Việt hợp nhất với nước Văn Lang của Lạc Việt, đặt quốc hiệu nước là Âu Lạc, tự xưng là An Dương Vương. 
+- Thời kỳ này lịch sử được tái hiện thông qua lăng kính truyền thuyết với việc An Dương xây thành Cổ Loa.
+</blockquote></div></td>
+</tr>
+<tr>
+<td><div markdown="1" align="justify"><blockquote>
+<td><div markdown="1" align="justify">
+</blockquote></div></td>
+</tr>
+<tr>
+<td><div markdown="1" align="justify"><blockquote>
+<td><div markdown="1" align="justify">
+</blockquote></div></td>
+</tr>
+</table>
+
+----
 
 <div markdown="1" align="justify">
 
-🔹 **Trước năm 218 TCN**
-> + Việt Nam chưa có chính sử, lúc này truyền thuyết và lịch sử còn hòa quyện vào nhau. 
-> + Người ta thường hay nhắc tới các truyền thuyết về Kinh Dương Vương, Lạc Long Quân, Phù Đổng Thiên Vương, Sơn Tinh - Thủy Tinh nhằm giải thích nguồn gốc và sự đấu tranh để tồn tại của dân tộc.
 
-🔹 **Từ năm 257 - 208 TCN**
-> + Thục Phán, thủ lĩnh người Âu Việt hợp nhất với nước Văn Lang của Lạc Việt, đặt quốc hiệu nước là Âu Lạc, tự xưng là An Dương Vương. 
-> + Thời kỳ này lịch sử được tái hiện thông qua lăng kính truyền thuyết với việc An Dương xây thành Cổ Loa.
+
 
 🔹 **Từ năm 217 – 111 TCN**
 > + Triệu Đà, gốc người Hán, thôn tính Âu Lạc. 
