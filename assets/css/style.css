@@ -42,10 +42,10 @@ details {
   display: block;
   padding: 10px;
   background: #F5FFFA;
-  margin: 10px 0;
+  margin: 5px 0;
   border: 1px solid #e0e0e0;
-  border-radius: 6px;
-  margin-bottom: 12px;
+  border-radius: 12px;
+  margin-bottom: 5px;
   overflow: hidden;
   transition: background-color 0.2s ease, box-shadow 0.2s ease;
 }
