@@ -46,6 +46,7 @@
 <a href="#16"><i>Vô hạn khủng bố</i></a>
 <sub>🔹</sub>
 </td></tr>
+<tr><td align="center">🔸<a href="#top">🔝</a>🔸</td></tr>
 </table>
 
 <div align="center"><h3>Hành trình một linh hồn</h3></div>
