@@ -151,7 +151,7 @@ blockquote {
     box-shadow: none;   /* Bỏ đổ bóng để tăng hiệu năng mượt mà khi cuộn trên điện thoại */
   }
    img {
-    width: 100% !important; /* Ghi đè tỷ lệ % trên PC, ép rộng 100% trên mobile */
+    width: 80% !important; /* Ghi đè tỷ lệ % trên PC, ép rộng 100% trên mobile */
     padding: 10px;
   }
   blockquote {
