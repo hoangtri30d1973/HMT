@@ -79,8 +79,7 @@ details[open] summary {
     }
 
 ins {
-  text-decoration-style: dotted;   /* Đổi thành dạng chấm chấm */
-  text-decoration-thickness: 1px;  /* Độ dày mỏng (1px) */
-  text-decoration-color: #999;     /* Màu xám nhẹ thay vì màu đen đậm */
-  text-underline-offset: 3px;      /* (Tùy chọn) Đẩy đường chấm xuống một chút cho thoáng chữ */
+  text-decoration: none;           /* Tắt gạch chân mặc định */
+  border-bottom: 1px dotted #aaa;  /* Tạo đường chấm mỏng, nhẹ bằng viền */
+  padding-bottom: 1px;             /* Khoảng cách từ chữ đến đường chấm */
 }
