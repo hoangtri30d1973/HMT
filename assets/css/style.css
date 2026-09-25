@@ -112,10 +112,26 @@ mark {
   font-weight: 500;
 }
 
-svg {
+img {
   width: 75%;
   height: auto;
   display: block;
+}
+
+blockquote {
+  font-size: 0.92rem;       /* Chữ nhỏ hơn một chút so với văn bản chính (16px) */
+  text-align: justify;      /* Căn đều hai bên cho khối văn bản đẹp mắt */
+  
+  /* Lệch vô trong: margin-left đẩy cả khối vào, padding tạo khoảng cách với đường viền */
+  margin: 20px 0 20px 30px; /* Trên/dưới 20px, phải 0px, trái lệch vô trong 30px */
+  padding: 5px 0 5px 15px;  /* Khoảng cách từ đường viền trái đến chữ */
+  
+  /* Đường kẻ dọc bên trái sử dụng màu xanh lá cây rừng làm điểm nhấn */
+  border-left: 3px solid #1fa67a; 
+  
+  color: #4a5568;           /* Màu chữ xám nhẹ hơn để phân biệt với nội dung thường */
+  font-style: italic;       /* Chuyển chữ sang dạng in nghiêng (tùy chọn, giúp nhận diện trích dẫn tốt hơn) */
+  line-height: 1.6;
 }
 
 @media screen and (max-width: 768px) {
@@ -134,8 +150,12 @@ svg {
     border: none;       /* Bỏ viền trên mobile để giao diện tràn viền sạch sẽ hơn */
     box-shadow: none;   /* Bỏ đổ bóng để tăng hiệu năng mượt mà khi cuộn trên điện thoại */
   }
-   svg {
+   img {
     width: 100% !important; /* Ghi đè tỷ lệ % trên PC, ép rộng 100% trên mobile */
     padding: 10px;
+  }
+  blockquote {
+    margin-left: 15px;      /* Trên mobile, giảm độ lệch vô trong xuống còn 15px để tiết kiệm không gian */
+    padding-left: 10px;     /* Giảm nhẹ padding */
   }
 }
