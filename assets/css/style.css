@@ -150,12 +150,13 @@ blockquote {
     padding: 20px 15px; /* Giảm padding bên trong khung chính để chữ không bị bóp nghẹt */
     border: none;       /* Bỏ viền trên mobile để giao diện tràn viền sạch sẽ hơn */
     box-shadow: none;   /* Bỏ đổ bóng để tăng hiệu năng mượt mà khi cuộn trên điện thoại */
+    overflow-x: auto;           /* Bật thanh cuộn ngang khi bảng quá dài trên điện thoại */
   }
    img {
     width: 80% !important; /* Ghi đè tỷ lệ % trên PC, ép rộng 100% trên mobile */
   }
   blockquote {
-    margin-left: 15px;      /* Trên mobile, giảm độ lệch vô trong xuống còn 15px để tiết kiệm không gian */
-    padding-left: 10px;     /* Giảm nhẹ padding */
+    margin-left: 7px;      /* Trên mobile, giảm độ lệch vô trong xuống còn 15px để tiết kiệm không gian */
+    padding-left: 5px;     /* Giảm nhẹ padding */
   }
 }
