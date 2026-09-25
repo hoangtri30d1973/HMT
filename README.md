@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "HOME"
-description: "Thông tin chào mừng, khởi đầu của trang web"
 ---
 
 # My space
