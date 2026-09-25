@@ -3,7 +3,7 @@
 ---
 
 <div id="01"></div>
-<table><tr><td align="center">
+<table><tr><td align="justify">
 <sub>🔹</sub>
 <a href="#01"><i>Hành trình một linh hồn</i></a>
 <sub>🔹</sub>
