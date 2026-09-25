@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HOME"
+title: "│─────│ome"
 ---
 
 # My space
