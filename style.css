@@ -2,12 +2,11 @@
 details {
   display: block;
   background: #f9f9f9;
-  padding: 10px;
-  margin: 10px 0;
+  padding: 5px;
+  margin: 2px 0;
   border-radius: 4px;
 }
 
 summary {
-  cursor: pointer;
-  font-weight: bold;
+  cursor: none;
 }
