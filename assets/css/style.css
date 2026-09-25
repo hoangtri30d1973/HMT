@@ -64,12 +64,12 @@ details summary::-webkit-details-marker {
 
 /* Thêm icon tùy chỉnh khi đóng */
 summary::before {
-  content: "🔻";
+  content: "▶️ ";
 }
 
 /* Thay đổi icon khi thẻ <details> được mở ([open]) */
 details[open] summary::before {
-  content: "🔺";
+  content: "🔽 ";
   background-color: #f4f7fa; /* Màu nền tối/khác hơn một chút */
   box-shadow: inset 0 0 4px rgba(0,0,0,0.02); /* Thêm hiệu ứng chìm nhẹ (tùy chọn) */  
 }
@@ -77,3 +77,10 @@ details[open] summary::before {
 details[open] summary {
       color: #007bff; /* Đổi màu chữ tiêu đề khi mở để tạo điểm nhấn */
     }
+
+ins {
+  text-decoration-style: dotted;   /* Đổi thành dạng chấm chấm */
+  text-decoration-thickness: 1px;  /* Độ dày mỏng (1px) */
+  text-decoration-color: #999;     /* Màu xám nhẹ thay vì màu đen đậm */
+  text-underline-offset: 3px;      /* (Tùy chọn) Đẩy đường chấm xuống một chút cho thoáng chữ */
+}
