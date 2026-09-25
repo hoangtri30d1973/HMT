@@ -22,9 +22,9 @@
 
 ----
 
-<p align="center">
+<div align="center">
   <img src="svg/my-footer.svg" alt="Project banner" width="100%" />
-</p>
+</div>
 
 ----
 
