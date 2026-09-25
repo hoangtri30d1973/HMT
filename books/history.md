@@ -7,19 +7,19 @@ _Sưu tầm_
 <table>
 <tr>
 <td align="center">Trước năm 218 TCN</td>
-<td><div markdown="1" align="justify"><blockquote>
+<td><blockquote><div markdown="1" align="justify">
 
 - Việt Nam chưa có chính sử, lúc này truyền thuyết và lịch sử còn hòa quyện vào nhau. 
 - Người ta thường hay nhắc tới các truyền thuyết về Kinh Dương Vương, Lạc Long Quân, Phù Đổng Thiên Vương, Sơn Tinh - Thủy Tinh nhằm giải thích nguồn gốc và sự đấu tranh để tồn tại của dân tộc.
-</blockquote></div></td>
+</div></blockquote></td>
 </tr>
 <tr>
 <td align="center">Từ năm 257 - 208 TCN</td>
-<td><div markdown="1" align="justify"><blockquote>
+<td><blockquote><div markdown="1" align="justify">
 
 - Thục Phán, thủ lĩnh người Âu Việt hợp nhất với nước Văn Lang của Lạc Việt, đặt quốc hiệu nước là Âu Lạc, tự xưng là An Dương Vương. 
 - Thời kỳ này lịch sử được tái hiện thông qua lăng kính truyền thuyết với việc An Dương xây thành Cổ Loa.
-</blockquote></div></td>
+</div></blockquote></td>
 </tr>
 <tr>
 <td align="center">Từ năm 217 – 111 TCN</td>
@@ -33,9 +33,18 @@ _Sưu tầm_
 </div></blockquote></td>
 </tr>
 <tr>
+<td align="center">Từ 40 – 43, khởi nghĩa Hai Bà Trưng</td>
+<td><blockquote><div markdown="1" align="justify">
+
+- Sau thắng lợi, Trưng Trắc lên ngôi vua, đóng đô ở Mê Linh.
+- Năm 41, Mã Viện mang 20 vạn quân sang xâm lược nước ta. 
+- Năm 43, Hai Bà Trưng thất bại, phải nhảy xuống sông Hát Giang tuẫn tiết.
+</div></blockquote></td>
+</tr>
+<tr>
 <td align="center"></td>
-<td><div markdown="1" align="justify"><blockquote>
-</blockquote></div></td>
+<td><blockquote><div markdown="1" align="justify">
+</div></blockquote></td>
 </tr>
 </table>
 
@@ -45,14 +54,6 @@ _Sưu tầm_
 
 
 
-
-
-
-
-🔹 **Từ 40 – 43, khởi nghĩa Hai Bà Trưng**
-> + Sau thắng lợi, Trưng Trắc lên ngôi vua, đóng đô ở Mê Linh.
-> + Năm 41, Mã Viện mang 20 vạn quân sang xâm lược nước ta. 
-> + Năm 43, Hai Bà Trưng thất bại, phải nhảy xuống sông Hát Giang tuẫn tiết.
 
 🔹 **Từ năm 43 – 543**
 > + Việt Nam sống dưới ách đô hộ của phong kiến phương Bắc. 
