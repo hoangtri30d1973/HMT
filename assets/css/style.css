@@ -119,7 +119,7 @@ img {
 }
 
 blockquote {
-  font-size: 0.85rem;       /* Chữ nhỏ hơn một chút so với văn bản chính (16px) */
+  font-size: 0.70rem;       /* Chữ nhỏ hơn một chút so với văn bản chính (16px) */
   text-align: justify;      /* Căn đều hai bên cho khối văn bản đẹp mắt */
   
   /* Lệch vô trong: margin-left đẩy cả khối vào, padding tạo khoảng cách với đường viền */
