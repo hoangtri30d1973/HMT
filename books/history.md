@@ -22,13 +22,19 @@ _Sưu tầm_
 </blockquote></div></td>
 </tr>
 <tr>
-<td><div markdown="1" align="justify"><blockquote>
-<td><div markdown="1" align="justify">
-</blockquote></div></td>
+<td align="center">Từ năm 217 – 111 TCN</td>
+<td><blockquote><div markdown="1" align="justify">
+
+- Triệu Đà, gốc người Hán, thôn tính Âu Lạc. 
+- Sự kiện này cũng được thể hiện qua truyền thuyết về mối tình Trọng Thủy, Mỵ Châu. Sau khi chiếm được Âu Lạc, Triệu Đà lập nước Nam Việt. 
+- Nhà Triệu kéo dài 97 năm với năm đời vua: Triệu Đà, Triệu Hồ, Triệu An Tề, Triệu Hưng, Triệu Kiến Đức.
+- Năm 113, nội tình nhà Triệu rối ren, nhà Hán thừa cơ đưa quân sang đánh Nam Việt rồi đổi tên Nam Việt thành Giao Chỉ.
+- Từ năm 207 TCN – 39 SCN, Việt Nam sống dưới ách đô hộ của nhà Hán.
+</div></blockquote></td>
 </tr>
 <tr>
+<td align="center"></td>
 <td><div markdown="1" align="justify"><blockquote>
-<td><div markdown="1" align="justify">
 </blockquote></div></td>
 </tr>
 </table>
@@ -40,12 +46,8 @@ _Sưu tầm_
 
 
 
-🔹 **Từ năm 217 – 111 TCN**
-> + Triệu Đà, gốc người Hán, thôn tính Âu Lạc. 
-> + Sự kiện này cũng được thể hiện qua truyền thuyết về mối tình Trọng Thủy, Mỵ Châu. Sau khi chiếm được Âu Lạc, Triệu Đà lập nước Nam Việt. 
-> + Nhà Triệu kéo dài 97 năm với năm đời vua: Triệu Đà, Triệu Hồ, Triệu An Tề, Triệu Hưng, Triệu Kiến Đức.
-> + Năm 113, nội tình nhà Triệu rối ren, nhà Hán thừa cơ đưa quân sang đánh Nam Việt rồi đổi tên Nam Việt thành Giao Chỉ.
-> + Từ năm 207 TCN – 39 SCN, Việt Nam sống dưới ách đô hộ của nhà Hán.
+
+
 
 🔹 **Từ 40 – 43, khởi nghĩa Hai Bà Trưng**
 > + Sau thắng lợi, Trưng Trắc lên ngôi vua, đóng đô ở Mê Linh.
