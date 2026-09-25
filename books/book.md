@@ -3,7 +3,7 @@
 ---
 
 <div id="01"></div>
-<div align="center">
+<table><tr><td align="center">
 <sub>🔹</sub>
 <a href="#01"><i>Hành trình một linh hồn</i></a>
 <sub>🔹</sub>
@@ -37,7 +37,8 @@
 <sub>🔹</sub>
 <a href="#16"><i>Vô hạn khủng bố</i></a>
 <sub>🔹</sub>
-</div>
+</td></tr>
+</table>
 
 <div align="center"><h3>Hành trình một linh hồn</h3></div>
 <div align="center">🔹🔹🔹🔹🔹</div><br/>
