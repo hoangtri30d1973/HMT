@@ -115,3 +115,25 @@ svg {
   height: auto;
   display: block;
 }
+
+@media screen and (max-width: 768px) {
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* Trên mobile nên chuyển hẳn sang nền trắng cho thoáng mắt */
+  }
+  /* Điều chỉnh kích thước chữ tiêu đề cho vừa màn hình nhỏ */
+  h1 { font-size: 1.8rem; }
+  h2 { font-size: 1.4rem; }
+  div {
+    width: 95%;       /* Trên mobile, mở rộng ra 95% để có nhiều không gian đọc chữ */
+    margin: 15px auto; /* Giảm khoảng cách trên dưới */
+    padding: 20px 15px; /* Giảm padding bên trong khung chính để chữ không bị bóp nghẹt */
+    border: none;       /* Bỏ viền trên mobile để giao diện tràn viền sạch sẽ hơn */
+    box-shadow: none;   /* Bỏ đổ bóng để tăng hiệu năng mượt mà khi cuộn trên điện thoại */
+  }
+   svg {
+    width: 100% !important; /* Ghi đè tỷ lệ % trên PC, ép rộng 100% trên mobile */
+    padding: 10px;
+  }
+}
