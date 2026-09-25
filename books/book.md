@@ -49,15 +49,7 @@
 <tr><td align="center">🔸<a href="#top">🔝</a>🔸</td></tr>
 </table>
 
-<div align="center"><h3>Hành trình một linh hồn</h3></div>
-<div align="center">🔹🔹🔹🔹🔹</div><br/>
-<blockquote><div markdown="1" align="justify">
-  
-- Đừng bao giờ gạt bỏ một tư tưởng chỉ vì nó xa lạ với anh, mà nên lắng nghe mọi mặt của câu hỏi và tự có kết luận riêng của mình.
-- Nguyên do của dục vọng không phải là cái 'khát nước', mà là sự thèm muốn một khoái cảm có được khi 'uống nước'
 
-<div align="right">🔸<a href="#top">🔝</a>🔸</div>
-</div></blockquote>
 
 --------------------------------------------------------
 
