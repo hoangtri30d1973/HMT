@@ -135,28 +135,47 @@ blockquote {
   line-height: 1.6;
 }
 
-@media screen and (max-width: 768px) {
-  body {
-    margin: 0;
-    padding: 0;
+@media screen and (max-width: 768px) { 
+  body { 
+    margin: 0; 
+    padding: 0; 
     background-color: #ffffff; /* Trên mobile nên chuyển hẳn sang nền trắng cho thoáng mắt */
-  }
-  /* Điều chỉnh kích thước chữ tiêu đề cho vừa màn hình nhỏ */
-  h1 { font-size: 1.8rem; }
-  h2 { font-size: 1.4rem; }
-  div {
-    width: 100%;       /* Trên mobile, mở rộng ra 95% để có nhiều không gian đọc chữ */
-    margin: 15px auto; /* Giảm khoảng cách trên dưới */
-    padding: 20px 15px; /* Giảm padding bên trong khung chính để chữ không bị bóp nghẹt */
-    border: none;       /* Bỏ viền trên mobile để giao diện tràn viền sạch sẽ hơn */
-    box-shadow: none;   /* Bỏ đổ bóng để tăng hiệu năng mượt mà khi cuộn trên điện thoại */
-    overflow-x: auto;           /* Bật thanh cuộn ngang khi bảng quá dài trên điện thoại */
-  }
-   img {
-    width: 80% !important; /* Ghi đè tỷ lệ % trên PC, ép rộng 100% trên mobile */
-  }
-  blockquote {
-    margin-left: 12px;      /* Trên mobile, giảm độ lệch vô trong xuống còn 15px để tiết kiệm không gian */
-    padding-left: 7px;     /* Giảm nhẹ padding */
-  }
+    
+    /* ĐẢM BẢO KHÔNG TRÀN MÀN HÌNH CHÍNH */
+    overflow-x: hidden; 
+  } 
+
+  /* Điều chỉnh kích thước chữ tiêu đề cho vừa màn hình nhỏ */ 
+  h1 { font-size: 1.8rem; } 
+  h2 { font-size: 1.4rem; } 
+
+  div { 
+    /* SỬA LỖI TRÀN: Sử dụng 100% kết hợp border-box để padding không đẩy khung ra ngoài */
+    box-sizing: border-box;
+    width: 100%; 
+    
+    margin: 15px auto; /* Giảm khoảng cách trên dưới */ 
+    padding: 20px 15px; /* Giảm padding bên trong khung chính để chữ không bị bóp nghẹt */ 
+    border: none; /* Bỏ viền trên mobile để giao diện tràn viền sạch sẽ hơn */ 
+    box-shadow: none; /* Bỏ đổ bóng để tăng hiệu năng mượt mà khi cuộn trên điện thoại */ 
+    
+    /* Chỉ nên bật thuộc tính này cho thẻ chứa bảng (table) hoặc code, 
+       áp dụng đại trà cho mọi DIV có thể gây lỗi cuộn không mong muốn */
+    overflow-x: auto; 
+  } 
+
+  img { 
+    /* SỬA LỖI TRÀN: max-width giúp ảnh không bao giờ vượt quá chiều rộng màn hình, 
+       height: auto giữ nguyên tỷ lệ ảnh không bị móp */
+    max-width: 100% !important; 
+    width: auto !important;
+    height: auto !important;
+    display: block;
+    margin: 0 auto; /* Căn giữa ảnh */
+  } 
+
+  blockquote { 
+    margin-left: 12px; /* Trên mobile, giảm độ lệch vô trong xuống còn 15px để tiết kiệm không gian */ 
+    padding-left: 7px; /* Giảm nhẹ padding */ 
+  } 
 }
